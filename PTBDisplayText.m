@@ -42,15 +42,22 @@ if ~ischar(text)
 end
 
 % Check for special positions
-if ischar(position)
-	if strcmpi(position,'center')
+if iscell(position)
+	if strcmpi(position{1},'center')
 		
 		% Get the bounds of the text
 		bounds = Screen('TextBounds', PTBTheWindowPtr, text);
 		
 		% Set the centered position
-		position = [PTBScreenRes.width/2 - bounds(3)/2 PTBScreenRes.height/2 - bounds(4)/2];
+		p = [PTBScreenRes.width/2 - bounds(3)/2 PTBScreenRes.height/2 - bounds(4)/2];
 		
+		% Might want to offset
+		% TODO: Add error checking...
+		if length(position) == 2
+			position = p + position{2}; 
+		else
+			position = p;
+		end
 	else
 		error(['Unknown position: ' position]);
 	end
