@@ -1,0 +1,167 @@
+
+----------------------------------------------------------------------------
+Started at: 28-Aug-2009 21:36:39
+
+START	8846.7731		0
+STIM	Text	Press any key to begin the practice.	0.18008
+STIM	Paragraph	Please lie as still as possible.	1.1846
+STIM	Text	The next run is about to begin.	1.5697
+STIM	Text	+	2.6579
+STIM	Picture	s3.jpg	3.6624	mod	2	Match
+STIM	Blank		3.947	mod	2	Match
+STIM	Picture	Red.jpg	4.2483	mod	2	Match
+STIM	Blank		4.5497	mod	2	Match
+STIM	Picture	Heart.jpg	4.8343	mod	2	Match
+STIM	Blank		5.1356	mod	2	Match
+STIM	Picture	RedHeart_1.jpg	5.437	mod	2	Match
+STIM	Blank		5.7551	mod	2	Match
+STIM	Text	Correct!	6.0564	mod	2	Match
+STIM	Text	+	7.0442	mod	2	Match
+STIM	Picture	s2.jpg	7.5464	non	1	Match
+STIM	Blank		7.831	non	1	Match
+STIM	Picture	nw5.jpg	8.1324	non	1	Match
+STIM	Blank		8.4337	non	1	Match
+STIM	Picture	Car.jpg	8.7351	non	1	Match
+STIM	Blank		9.0364	non	1	Match
+STIM	Picture	GreenCar_3.jpg	9.3378	non	1	Match
+STIM	Cleanup		9.9237	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 28-Aug-2009 21:37:16
+
+START	8884.1052		0
+STIM	Text	Press any key to begin the practice.	0.16492
+STIM	Paragraph	Please lie as still as possible.	1.2867
+STIM	Text	The next run is about to begin.	1.6885
+STIM	Text	+	2.9775
+STIM	Picture	s3.jpg	3.9654	mod	2	Match
+STIM	Blank		4.2668	mod	2	Match
+STIM	Picture	Red.jpg	4.568	mod	2	Match
+STIM	Blank		4.8694	mod	2	Match
+STIM	Picture	Heart.jpg	5.1707	mod	2	Match
+STIM	Blank		5.4722	mod	2	Match
+STIM	Picture	RedHeart_1.jpg	5.7735	mod	2	Match
+STIM	Blank		6.1753	mod	2	Match
+STIM	Text	Correct!	6.4598	mod	2	Match
+STIM	Text	+	7.4643	mod	2	Match
+STIM	Picture	s2.jpg	7.9499	non	1	Match
+STIM	Blank		8.2514	non	1	Match
+STIM	Picture	nw5.jpg	8.5525	non	1	Match
+STIM	Blank		8.8539	non	1	Match
+STIM	Picture	Car.jpg	9.1552	non	1	Match
+STIM	Blank		9.4566	non	1	Match
+STIM	Picture	GreenCar_3.jpg	9.758	non	1	Match
+STIM	Blank		10.4108	non	1	Match
+STIM	Text	Incorrect.	10.6955	non	1	Match
+STIM	Text	+	11.6832	non	1	Match
+STIM	Picture	s5.jpg	12.1855	non	3	Match
+STIM	Blank		12.4868	non	3	Match
+STIM	Picture	nw1.jpg	12.7882	non	3	Match
+STIM	Blank		13.0895	non	3	Match
+STIM	Picture	Shoe.jpg	13.3909	non	3	Match
+STIM	Blank		13.6922	non	3	Match
+STIM	Picture	RedShoe_3.jpg	13.9936	non	3	Match
+STIM	Blank		15.6845	non	3	Match
+STIM	Text	Please respond faster.	15.9691	non	3	Match
+STIM	Text	+	19.1835	non	3	Match
+STIM	Picture	s1.jpg	19.6858	fix	1	NoMatch
+STIM	Blank		19.9703	fix	1	NoMatch
+STIM	Picture	s6.jpg	20.2717	fix	1	NoMatch
+STIM	Blank		20.573	fix	1	NoMatch
+STIM	Picture	Fork.jpg	20.8745	fix	1	NoMatch
+STIM	Blank		21.1758	fix	1	NoMatch
+STIM	Picture	BrownCup_1.jpg	21.4772	fix	1	NoMatch
+STIM	Cleanup		21.8622	fix	1	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 28-Aug-2009 21:37:51
+
+START	8918.827		0
+STIM	Text	Press any key to begin the practice.	0.16532
+STIM	Paragraph	Please lie as still as possible.	1.0527
+STIM	Text	The next run is about to begin.	2.2916
+STIM	Text	+	3.5472
+STIM	Picture	s2.jpg	11.5332	mod	115	NoMatch
+STIM	Blank		11.8176	mod	115	NoMatch
+STIM	Picture	Brown.jpg	12.119	mod	115	NoMatch
+STIM	Blank		12.4203	mod	115	NoMatch
+STIM	Picture	Cane.jpg	12.7216	mod	115	NoMatch
+STIM	Blank		13.023	mod	115	NoMatch
+STIM	Picture	BrownKey_3.jpg	13.3244	mod	115	NoMatch
+STIM	Text	+	13.9438	mod	115	NoMatch
+STIM	Picture	s6.jpg	15.5177	non	115	NoMatch
+STIM	Blank		15.8189	non	115	NoMatch
+STIM	Picture	nw2.jpg	16.1202	non	115	NoMatch
+STIM	Blank		16.4216	non	115	NoMatch
+STIM	Picture	Leaf.jpg	16.7229	non	115	NoMatch
+STIM	Blank		17.0243	non	115	NoMatch
+STIM	Picture	BlueTree_1.jpg	17.3257	non	115	NoMatch
+STIM	Text	+	17.9283	non	115	NoMatch
+STIM	Picture	s6.jpg	19.5188	non	116	Match
+STIM	Blank		19.8202	non	116	Match
+STIM	Picture	nw4.jpg	20.1214	non	116	Match
+STIM	Blank		20.4228	non	116	Match
+STIM	Picture	Heart.jpg	20.7242	non	116	Match
+STIM	Blank		21.0255	non	116	Match
+STIM	Picture	BlackHeart_1.jpg	21.327	non	116	Match
+STIM	Text	+	21.7454	non	116	Match
+STIM	Picture	s6.jpg	27.5215	mod	116	NoMatch
+STIM	Blank		27.8226	mod	116	NoMatch
+STIM	Picture	Green.jpg	28.124	mod	116	NoMatch
+STIM	Blank		28.4253	mod	116	NoMatch
+STIM	Picture	Flag.jpg	28.7267	mod	116	NoMatch
+STIM	Blank		29.028	mod	116	NoMatch
+STIM	Picture	BrownFlag_1.jpg	29.3294	mod	116	NoMatch
+STIM	Text	+	29.7814	mod	116	NoMatch
+STIM	Picture	s2.jpg	31.5225	mod	117	NoMatch
+STIM	Blank		31.8239	mod	117	NoMatch
+STIM	Picture	Green.jpg	32.1253	mod	117	NoMatch
+STIM	Blank		32.4266	mod	117	NoMatch
+STIM	Picture	Cup.jpg	32.7279	mod	117	NoMatch
+STIM	Blank		33.0293	mod	117	NoMatch
+STIM	Picture	GreenCane_2.jpg	33.3307	mod	117	NoMatch
+STIM	Cleanup		34.017	mod	117	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 28-Aug-2009 21:38:50
+
+START	8977.7747		0
+STIM	Text	WARNING: Not reading from the scanner	0.16511
+STIM	Paragraph	Please lie as still as possible.	1.6049
+STIM	Paragraph	Please lie as still as possible.	2.9274
+STIM	Text	The next run is about to begin.	3.9655
+STIM	Text	+	5.9913
+STIM	Picture	s5.jpg	13.9772	mod	1	Match
+STIM	Blank		14.2616	mod	1	Match
+STIM	Picture	Pink.jpg	14.563	mod	1	Match
+STIM	Blank		14.8643	mod	1	Match
+STIM	Picture	Shoe.jpg	15.1656	mod	1	Match
+STIM	Blank		15.4671	mod	1	Match
+STIM	Picture	PinkShoe_1.jpg	15.7683	mod	1	Match
+STIM	Text	+	16.2371	mod	1	Match
+STIM	Picture	s6.jpg	17.9616	non	1	NoMatch
+STIM	Blank		18.2628	non	1	NoMatch
+STIM	Picture	nw3.jpg	18.5642	non	1	NoMatch
+STIM	Blank		18.8656	non	1	NoMatch
+STIM	Picture	Shoe.jpg	19.1669	non	1	NoMatch
+STIM	Blank		19.4685	non	1	NoMatch
+STIM	Picture	BlackPlane_1.jpg	19.7697	non	1	NoMatch
+STIM	Cleanup		20.2217	non	1	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 28-Aug-2009 21:52:57
+
+START	9824.6348		0
+STIM	Text	WARNING: Not reading from the scanner	0.16549
+STIM	Paragraph	Please lie as still as possible.	0.81844
+STIM	Paragraph	Please lie as still as possible.	1.2872
+STIM	Text	The next run is about to begin.	1.7225
+STIM	Text	+	2.4759
+STIM	Picture	s4.jpg	10.4619	non	1	Match
+STIM	Blank		10.763	non	1	Match
+STIM	Picture	nw2.jpg	11.0645	non	1	Match
+STIM	Blank		11.3657	non	1	Match
+STIM	Picture	Cup.jpg	11.6503	non	1	Match
+STIM	Blank		11.9517	non	1	Match
+STIM	Picture	BlueCup_3.jpg	12.253	non	1	Match
+STIM	Cleanup		13.0399	non	1	Match

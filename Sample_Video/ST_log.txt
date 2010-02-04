@@ -1,0 +1,26 @@
+
+----------------------------------------------------------------------------
+Started at: 13-Aug-2009 18:40:29
+
+START	13559.1723		0
+STIM	Text	WARNING: Not reading from the scanner	0.36728
+STIM	Paragraph	Please lie as still as possible.	4.1676
+STIM	Paragraph	Please lie as still as possible.	6.4445
+STIM	Text	The next run is about to begin.	7.7169
+STIM	Text	+	9.2739
+STIM	Picture	s5.jpg	17.2763	fix	1	Match
+STIM	Blank		17.5609	fix	1	Match
+STIM	Picture	s1.jpg	17.8623	fix	1	Match
+STIM	Blank		18.1636	fix	1	Match
+STIM	Picture	Note.jpg	18.465	fix	1	Match
+STIM	Blank		18.7663	fix	1	Match
+STIM	Picture	RedNote_1.jpg	19.051	fix	1	Match
+STIM	Text	+	19.503	fix	1	Match
+STIM	Picture	s6.jpg	21.2608	mod	1	NoMatch
+STIM	Blank		21.5622	mod	1	NoMatch
+STIM	Picture	Blue.jpg	21.8635	mod	1	NoMatch
+STIM	Blank		22.1649	mod	1	NoMatch
+STIM	Picture	Boat.jpg	22.4662	mod	1	NoMatch
+STIM	Blank		22.7508	mod	1	NoMatch
+STIM	Picture	BlueFork_3.jpg	23.0522	mod	1	NoMatch
+STIM	Cleanup		23.5544	mod	1	NoMatch

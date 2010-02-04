@@ -1,0 +1,65 @@
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 04-Jul-0424 08:31:04
+
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 15-Aug-0424 08:14:08
+
+a	NaN	NaN	NaN	0	0	0	0	NaN	155091.953	0.60983
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 22-Sep-0424 11:58:38
+
+ 	NaN	NaN	NaN	0	0	0	0	NaN	155130.0948	0.59577
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 02-Dec-0424 23:42:18
+
+ 	NaN	NaN	NaN	0	0	0	0	NaN	155200.7194	-0.26832
+a	NaN	NaN	NaN	0	0	0	0	NaN	155201.7424	0.75468
+s	NaN	NaN	NaN	0	0	0	0	NaN	155203.0314	2.0437
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 04-Jan-0425 01:06:23
+
+ 	NaN	NaN	NaN	0	0	0	0	NaN	155234.9907	1.9446
+a	NaN	NaN	NaN	0	0	0	0	NaN	155236.8227	3.7766
+s	NaN	NaN	NaN	0	0	0	0	NaN	155237.6397	4.5936
+d	NaN	NaN	NaN	0	0	0	0	NaN	155237.9607	4.9146
+f	NaN	NaN	NaN	0	0	0	0	NaN	155238.2717	5.2256
+g	NaN	NaN	NaN	0	0	0	0	NaN	155238.5677	5.5216
+h	NaN	NaN	NaN	0	0	0	0	NaN	155238.9117	5.8656
+j	NaN	NaN	NaN	0	0	0	0	NaN	155239.4787	6.4326
+k	NaN	NaN	NaN	0	0	0	0	NaN	155239.7827	6.7366
+a	NaN	NaN	NaN	0	0	0	0	NaN	155240.2787	7.2326
+l	NaN	NaN	NaN	0	0	0	0	NaN	155242.2717	9.2256
+q	NaN	NaN	NaN	0	0	0	0	NaN	155242.6947	9.6486
+w	NaN	NaN	NaN	0	0	0	0	NaN	155243.0947	10.0486
+e	NaN	NaN	NaN	0	0	0	0	NaN	155243.5107	10.4646
+y	NaN	NaN	NaN	0	0	0	0	NaN	155243.8227	10.7766
+s	NaN	NaN	NaN	0	0	0	0	NaN	155244.1667	11.1206
+`	NaN	NaN	NaN	0	0	0	0	NaN	155245.1757	12.1296
+`	NaN	NaN	NaN	0	0	0	0	NaN	155248.7757	15.7296
+i	NaN	NaN	NaN	0	0	0	0	NaN	155249.3997	16.3536
+j	NaN	NaN	NaN	0	0	0	0	NaN	155249.7197	16.6736
+a	NaN	NaN	NaN	0	0	0	0	NaN	155250.0877	17.0416
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 155324.9603(05-Apr-0425 23:02:50)
+
+ 	NaN	NaN	NaN	0	0	0	0	NaN	155324.8806	-0.079679
+a	NaN	NaN	NaN	0	0	0	0	NaN	155325.5346	0.57432
+s	NaN	NaN	NaN	0	0	0	0	NaN	155326.6556	1.6953

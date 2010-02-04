@@ -1,0 +1,8 @@
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 13:16:11
+
+START	1216345.9982		0
+STIM	Text	Press any key to begin the practice.	0.16189
+STIM	Text	The practice is now over.	0.71394
+STIM	Cleanup		0.7306

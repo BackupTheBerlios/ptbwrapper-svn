@@ -1,0 +1,98 @@
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 18:14:59
+
+START	7756.9143		0
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 18:17:03
+
+START	7881.0309		0
+KEY	a	0.52163	0.71049
+KEY	a	0.34794	1.0705
+KEY	`~	1.2772	2.3665
+KEY	[{	1.4088	6.5665	mod	2	Match
+TIMEOUT			11.8498	non	1	Match
+KEY	[{	1.0664	18.7125	non	3	Match
+KEY	]}	0.95844	23.2565	fix	1	NoMatch
+KEY	]}	0.64656	27.4966	mod	1	NoMatch
+KEY	[{	1.6674	32.7525	non	4	Match
+KEY	]}	0.92727	37.2645	non	9	NoMatch
+KEY	]}	1.0167	41.8726	fix	9	NoMatch
+KEY	[{	0.49478	45.9526	mod	9	Match
+KEY	[{	1.2176	50.7605	fix	2	Match
+KEY	]}	0.5109	54.8726	fix	3	NoMatch
+KEY	]}	0.55329	59.0166	non	5	NoMatch
+KEY	[{	1.6496	64.2646	mod	3	NoMatch
+KEY	[{	0.60607	68.4566	mod	4	Match
+KEY	a	32.0042	103.2562	mod	4	Match
+KEY	a	0.47853	104.7442	mod	4	Match
+KEY	`~	1.2589	106.0082	mod	4	Match
+KEY	[{	0.72118	109.6722	non	81	Match
+KEY	]}	0.75398	116.0242	fix	77	NoMatch
+KEY	]}	0.50612	120.1282	mod	77	NoMatch
+KEY	[{	0.5484	124.2722	non	77	Match
+KEY	[{	1.1505	129.1762	non	78	Match
+KEY	[{	0.87048	135.6322	fix	78	Match
+KEY	[{	0.76912	142.0002	non	80	Match
+KEY	[{	0.56066	146.1602	fix	79	Match
+KEY	]}	0.47129	154.2242	non	82	NoMatch
+KEY	[{	0.58885	158.5602	fix	80	Match
+KEY	a	1.4521	162.8082	fix	80	Match
+TIMEOUT			163.8415	fix	80	Match
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 18:20:05
+
+START	8063.4732		0
+KEY	a	0.32925	0.50195
+KEY	a	0.13898	0.66193
+KEY	`~	1.069	1.7419
+KEY	]}	0.73612	12.2636	mod	115	NoMatch
+KEY	]}	0.58246	16.1116	non	115	NoMatch
+KEY	[{	0.8208	20.3516	non	116	Match
+KEY	]}	1.5774	29.1116	mod	116	NoMatch
+KEY	]}	0.93578	32.4716	mod	117	NoMatch
+KEY	]}	0.9821	36.5196	mod	118	NoMatch
+KEY	]}	1.1885	40.7276	non	117	NoMatch
+KEY	[{	0.99586	46.6876	non	118	Match
+KEY	]}	1.6489	51.1756	fix	115	NoMatch
+KEY	]}	1.0953	54.6236	non	119	NoMatch
+KEY	[{	0.73355	58.2636	mod	119	Match
+KEY	`~	67.4784	128.2096	mod	119	Match
+TIMEOUT			129.2422	mod	119	Match
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 18:22:22
+
+START	8200.6136		0
+KEY	a	0.46445	0.63723
+KEY	a	0.37295	1.0292
+KEY	`~	1.3334	2.3732
+KEY	[{	0.535	5.6932	mod	2	Match
+KEY	[{	0.91187	10.2052	non	1	Match
+KEY	[{	0.45803	14.2532	non	3	Match
+KEY	]}	0.74238	18.5892	fix	1	NoMatch
+KEY	]}	1.0392	23.2212	mod	1	NoMatch
+KEY	[{	0.4359	27.2532	non	4	Match
+KEY	]}	0.50499	31.3572	non	9	NoMatch
+KEY	]}	0.32315	35.2773	fix	9	NoMatch
+KEY	[{	0.38088	39.2533	mod	9	Match
+KEY	[{	0.69268	43.5333	fix	2	Match
+KEY	]}	0.35149	47.4773	fix	3	NoMatch
+KEY	]}	0.63987	51.7173	non	5	NoMatch
+KEY	]}	1.1008	56.4132	mod	3	NoMatch
+KEY	[{	0.44686	60.4612	mod	4	Match
+KEY	a	7.4201	70.6692	mod	4	Match
+KEY	`~	1.7433	73.4292	mod	4	Match
+KEY	`~	0.48049	73.9173	mod	4	Match
+TIMEOUT			78.4006	non	81	Match
+KEY	ESCAPE	0.1812	86.3732	fix	77	NoMatch
+TIMEOUT			86.3815	fix	77	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 18:24:11
+
+START	8309.3089		0
+KEY	ESCAPE	705.3531	705.5926
+TIMEOUT			705.6032

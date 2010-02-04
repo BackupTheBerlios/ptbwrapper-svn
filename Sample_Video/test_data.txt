@@ -1,0 +1,2538 @@
+
+----------------------------------------------------------------------------
+Started at: 07-Jul-2009 19:29:03
+
+START	168046.0558		0
+KEY	space	1.0185	1.0577
+KEY	space	0.90056	1.9777
+KEY	s	0.36336	4.5377	mod_full	match
+KEY	a	0.5621	8.7377	non_full	nomatch
+KEY	ESCAPE	1.1058	25.2864	mod_full	match
+TIMEOUT			25.2964	mod_full	match
+
+----------------------------------------------------------------------------
+Started at: 07-Jul-2009 20:14:05
+
+START	170748.3409		0
+KEY	space	7.0412	7.0847
+KEY	space	0.68904	7.7807
+TIMEOUT			11.7641	mod_full	match
+TIMEOUT			15.764	non_full	nomatch
+TIMEOUT			31.7641	mod_full	match
+TIMEOUT			47.764	non_full	match
+TIMEOUT			51.764	mod_full	nomatch
+TIMEOUT			55.764	non_full	match
+TIMEOUT			67.764	mod_full	match
+TIMEOUT			75.764	mod_full	match
+TIMEOUT			87.7641	non_full	match
+TIMEOUT			91.764	non_full	match
+TIMEOUT			95.764	mod_full	nomatch
+TIMEOUT			103.764	mod_full	nomatch
+TIMEOUT			115.764	mod_full	match
+TIMEOUT			131.764	non_full	nomatch
+TIMEOUT			135.764	mod_full	nomatch
+TIMEOUT			139.764	non_full	nomatch
+TIMEOUT			143.764	mod_full	match
+TIMEOUT			151.7641	non_full	nomatch
+TIMEOUT			163.764	non_full	nomatch
+TIMEOUT			167.764	non_full	nomatch
+TIMEOUT			171.764	mod_full	nomatch
+TIMEOUT			183.764	non_full	nomatch
+TIMEOUT			199.764	mod_full	nomatch
+TIMEOUT			207.7641	non_full	match
+TIMEOUT			211.764	mod_full	nomatch
+TIMEOUT			219.7641	non_full	nomatch
+TIMEOUT			223.7641	mod_full	match
+TIMEOUT			239.764	mod_full	nomatch
+TIMEOUT			243.7641	mod_full	match
+TIMEOUT			247.764	mod_full	match
+TIMEOUT			251.7641	mod_full	nomatch
+TIMEOUT			267.764	non_full	match
+TIMEOUT			279.764	mod_full	nomatch
+TIMEOUT			283.7641	non_full	match
+TIMEOUT			291.7641	mod_full	match
+TIMEOUT			295.764	non_full	match
+TIMEOUT			299.764	non_full	nomatch
+TIMEOUT			303.7641	non_full	nomatch
+TIMEOUT			307.764	non_full	match
+TIMEOUT			323.764	non_full	match
+TIMEOUT			331.764	mod_full	match
+TIMEOUT			335.764	non_full	nomatch
+TIMEOUT			351.7641	mod_full	match
+TIMEOUT			367.764	non_full	match
+TIMEOUT			371.764	mod_full	nomatch
+TIMEOUT			375.7641	non_full	match
+TIMEOUT			387.764	mod_full	match
+TIMEOUT			395.764	mod_full	match
+TIMEOUT			407.764	non_full	match
+TIMEOUT			411.764	non_full	match
+TIMEOUT			415.7641	mod_full	nomatch
+TIMEOUT			423.7641	mod_full	nomatch
+TIMEOUT			435.764	mod_full	match
+TIMEOUT			451.764	non_full	nomatch
+TIMEOUT			455.764	mod_full	nomatch
+TIMEOUT			459.764	non_full	nomatch
+TIMEOUT			463.764	mod_full	match
+TIMEOUT			471.7641	non_full	nomatch
+TIMEOUT			483.764	non_full	nomatch
+TIMEOUT			487.7641	non_full	nomatch
+TIMEOUT			491.764	mod_full	nomatch
+TIMEOUT			503.764	non_full	nomatch
+TIMEOUT			519.764	mod_full	nomatch
+TIMEOUT			527.764	non_full	match
+TIMEOUT			531.7641	mod_full	nomatch
+TIMEOUT			539.764	non_full	nomatch
+TIMEOUT			543.764	mod_full	match
+TIMEOUT			559.7641	mod_full	nomatch
+TIMEOUT			563.764	mod_full	match
+TIMEOUT			567.764	mod_full	match
+TIMEOUT			571.7641	mod_full	nomatch
+TIMEOUT			587.764	non_full	match
+TIMEOUT			599.764	mod_full	nomatch
+TIMEOUT			603.7641	non_full	match
+TIMEOUT			611.7641	mod_full	match
+TIMEOUT			615.764	non_full	match
+TIMEOUT			619.7641	non_full	nomatch
+TIMEOUT			623.7641	non_full	nomatch
+TIMEOUT			627.7641	non_full	match
+TIMEOUT			643.764	non_full	match
+TIMEOUT			651.764	mod_full	match
+TIMEOUT			655.764	non_full	nomatch
+TIMEOUT			671.764	mod_full	match
+TIMEOUT			687.764	non_full	match
+TIMEOUT			691.764	mod_full	nomatch
+TIMEOUT			695.764	non_full	match
+TIMEOUT			707.764	mod_full	match
+TIMEOUT			715.7641	mod_full	match
+TIMEOUT			727.764	non_full	match
+TIMEOUT			731.764	non_full	match
+TIMEOUT			735.764	mod_full	nomatch
+TIMEOUT			743.7641	mod_full	nomatch
+TIMEOUT			755.7641	mod_full	match
+TIMEOUT			771.7641	non_full	nomatch
+TIMEOUT			775.764	mod_full	nomatch
+TIMEOUT			779.764	non_full	nomatch
+TIMEOUT			783.764	mod_full	match
+TIMEOUT			791.764	non_full	nomatch
+TIMEOUT			803.764	non_full	nomatch
+TIMEOUT			807.764	non_full	nomatch
+TIMEOUT			811.7641	mod_full	nomatch
+TIMEOUT			823.7641	non_full	nomatch
+TIMEOUT			839.764	mod_full	nomatch
+TIMEOUT			847.764	non_full	match
+TIMEOUT			851.764	mod_full	nomatch
+TIMEOUT			859.764	non_full	nomatch
+TIMEOUT			863.764	mod_full	match
+TIMEOUT			879.764	mod_full	nomatch
+TIMEOUT			883.764	mod_full	match
+TIMEOUT			887.764	mod_full	match
+TIMEOUT			891.7641	mod_full	nomatch
+TIMEOUT			907.764	non_full	match
+TIMEOUT			919.764	mod_full	nomatch
+TIMEOUT			923.764	non_full	match
+TIMEOUT			931.764	mod_full	match
+TIMEOUT			935.764	non_full	match
+TIMEOUT			939.7641	non_full	nomatch
+TIMEOUT			943.764	non_full	nomatch
+TIMEOUT			947.764	non_full	match
+TIMEOUT			963.764	non_full	match
+TIMEOUT			971.7641	mod_full	match
+TIMEOUT			975.764	non_full	nomatch
+TIMEOUT			991.764	mod_full	match
+TIMEOUT			1007.764	non_full	match
+TIMEOUT			1011.7641	mod_full	nomatch
+TIMEOUT			1015.764	non_full	match
+TIMEOUT			1027.764	mod_full	match
+TIMEOUT			1035.764	mod_full	match
+TIMEOUT			1047.7641	non_full	match
+TIMEOUT			1051.764	non_full	match
+TIMEOUT			1055.764	mod_full	nomatch
+TIMEOUT			1063.764	mod_full	nomatch
+TIMEOUT			1075.764	mod_full	match
+TIMEOUT			1091.7641	non_full	nomatch
+TIMEOUT			1095.764	mod_full	nomatch
+TIMEOUT			1099.764	non_full	nomatch
+TIMEOUT			1103.764	mod_full	match
+TIMEOUT			1111.7641	non_full	nomatch
+TIMEOUT			1123.7641	non_full	nomatch
+TIMEOUT			1127.764	non_full	nomatch
+TIMEOUT			1131.764	mod_full	nomatch
+TIMEOUT			1143.7641	non_full	nomatch
+TIMEOUT			1159.7641	mod_full	nomatch
+TIMEOUT			1167.764	non_full	match
+TIMEOUT			1171.764	mod_full	nomatch
+TIMEOUT			1179.764	non_full	nomatch
+TIMEOUT			1183.764	mod_full	match
+TIMEOUT			1199.764	mod_full	nomatch
+TIMEOUT			1203.764	mod_full	match
+TIMEOUT			1207.7641	mod_full	match
+TIMEOUT			1211.7641	mod_full	nomatch
+TIMEOUT			1227.7641	non_full	match
+TIMEOUT			1239.764	mod_full	nomatch
+TIMEOUT			1243.764	non_full	match
+TIMEOUT			1251.764	mod_full	match
+TIMEOUT			1255.7641	non_full	match
+TIMEOUT			1259.764	non_full	nomatch
+TIMEOUT			1263.764	non_full	nomatch
+TIMEOUT			1267.764	non_full	match
+TIMEOUT			1283.7641	non_full	match
+TIMEOUT			1291.7641	mod_full	match
+TIMEOUT			1295.764	non_full	nomatch
+TIMEOUT			1311.764	mod_full	match
+TIMEOUT			1327.764	non_full	match
+TIMEOUT			1331.764	mod_full	nomatch
+TIMEOUT			1335.7641	non_full	match
+TIMEOUT			1347.7641	mod_full	match
+TIMEOUT			1355.764	mod_full	match
+TIMEOUT			1367.764	non_full	match
+TIMEOUT			1371.764	non_full	match
+TIMEOUT			1375.764	mod_full	nomatch
+TIMEOUT			1383.764	mod_full	nomatch
+TIMEOUT			1395.7641	mod_full	match
+TIMEOUT			1411.764	non_full	nomatch
+TIMEOUT			1415.7641	mod_full	nomatch
+TIMEOUT			1419.764	non_full	nomatch
+TIMEOUT			1423.764	mod_full	match
+TIMEOUT			1431.7641	non_full	nomatch
+TIMEOUT			1443.7641	non_full	nomatch
+TIMEOUT			1447.764	non_full	nomatch
+TIMEOUT			1451.764	mod_full	nomatch
+TIMEOUT			1463.764	non_full	nomatch
+TIMEOUT			1479.7641	mod_full	nomatch
+TIMEOUT			1487.764	non_full	match
+TIMEOUT			1491.764	mod_full	nomatch
+TIMEOUT			1499.7641	non_full	nomatch
+TIMEOUT			1503.764	mod_full	match
+TIMEOUT			1519.7641	mod_full	nomatch
+TIMEOUT			1523.7641	mod_full	match
+TIMEOUT			1527.764	mod_full	match
+TIMEOUT			1531.764	mod_full	nomatch
+TIMEOUT			1547.764	non_full	match
+TIMEOUT			1559.764	mod_full	nomatch
+TIMEOUT			1563.7641	non_full	match
+TIMEOUT			1571.7641	mod_full	match
+TIMEOUT			1575.764	non_full	match
+TIMEOUT			1579.7641	non_full	nomatch
+TIMEOUT			1583.764	non_full	nomatch
+TIMEOUT			1587.7641	non_full	match
+TIMEOUT			1603.764	non_full	match
+TIMEOUT			1611.764	mod_full	match
+TIMEOUT			1615.7641	non_full	nomatch
+TIMEOUT			1631.764	mod_full	match
+TIMEOUT			1647.764	non_full	match
+TIMEOUT			1651.764	mod_full	nomatch
+TIMEOUT			1655.7641	non_full	match
+TIMEOUT			1667.7641	mod_full	match
+TIMEOUT			1675.7641	mod_full	match
+TIMEOUT			1687.7641	non_full	match
+TIMEOUT			1691.7641	non_full	match
+TIMEOUT			1695.764	mod_full	nomatch
+TIMEOUT			1703.7641	mod_full	nomatch
+TIMEOUT			1715.764	mod_full	match
+TIMEOUT			1731.764	non_full	nomatch
+TIMEOUT			1735.764	mod_full	nomatch
+TIMEOUT			1739.764	non_full	nomatch
+TIMEOUT			1743.764	mod_full	match
+TIMEOUT			1751.764	non_full	nomatch
+TIMEOUT			1763.764	non_full	nomatch
+TIMEOUT			1767.764	non_full	nomatch
+TIMEOUT			1771.764	mod_full	nomatch
+TIMEOUT			1783.764	non_full	nomatch
+TIMEOUT			1799.7641	mod_full	nomatch
+TIMEOUT			1807.7641	non_full	match
+TIMEOUT			1811.764	mod_full	nomatch
+TIMEOUT			1819.764	non_full	nomatch
+TIMEOUT			1823.764	mod_full	match
+TIMEOUT			1839.7641	mod_full	nomatch
+TIMEOUT			1843.764	mod_full	match
+TIMEOUT			1847.764	mod_full	match
+TIMEOUT			1851.7641	mod_full	nomatch
+TIMEOUT			1867.764	non_full	match
+TIMEOUT			1879.764	mod_full	nomatch
+TIMEOUT			1883.764	non_full	match
+TIMEOUT			1891.764	mod_full	match
+TIMEOUT			1895.7641	non_full	match
+TIMEOUT			1899.764	non_full	nomatch
+TIMEOUT			1903.764	non_full	nomatch
+TIMEOUT			1907.764	non_full	match
+TIMEOUT			1923.764	non_full	match
+TIMEOUT			1931.7641	mod_full	match
+TIMEOUT			1935.764	non_full	nomatch
+TIMEOUT			1951.7641	mod_full	match
+TIMEOUT			1967.764	non_full	match
+TIMEOUT			1971.764	mod_full	nomatch
+TIMEOUT			1975.764	non_full	match
+TIMEOUT			1987.7641	mod_full	match
+TIMEOUT			1995.764	mod_full	match
+TIMEOUT			2007.7641	non_full	match
+TIMEOUT			2011.7641	non_full	match
+TIMEOUT			2015.764	mod_full	nomatch
+TIMEOUT			2023.7641	mod_full	nomatch
+TIMEOUT			2035.764	mod_full	match
+TIMEOUT			2051.7641	non_full	nomatch
+TIMEOUT			2055.764	mod_full	nomatch
+TIMEOUT			2059.764	non_full	nomatch
+TIMEOUT			2063.7641	mod_full	match
+TIMEOUT			2071.764	non_full	nomatch
+TIMEOUT			2083.7641	non_full	nomatch
+TIMEOUT			2087.764	non_full	nomatch
+TIMEOUT			2091.764	mod_full	nomatch
+TIMEOUT			2103.764	non_full	nomatch
+TIMEOUT			2119.7641	mod_full	nomatch
+TIMEOUT			2127.764	non_full	match
+TIMEOUT			2131.7641	mod_full	nomatch
+TIMEOUT			2139.7641	non_full	nomatch
+TIMEOUT			2143.764	mod_full	match
+TIMEOUT			2159.764	mod_full	nomatch
+TIMEOUT			2163.7641	mod_full	match
+TIMEOUT			2167.764	mod_full	match
+TIMEOUT			2171.764	mod_full	nomatch
+TIMEOUT			2187.7641	non_full	match
+TIMEOUT			2199.764	mod_full	nomatch
+TIMEOUT			2203.764	non_full	match
+TIMEOUT			2211.7641	mod_full	match
+TIMEOUT			2215.764	non_full	match
+TIMEOUT			2219.764	non_full	nomatch
+TIMEOUT			2223.7641	non_full	nomatch
+TIMEOUT			2227.7641	non_full	match
+TIMEOUT			2243.764	non_full	match
+TIMEOUT			2251.7641	mod_full	match
+TIMEOUT			2255.7641	non_full	nomatch
+TIMEOUT			2271.764	mod_full	match
+TIMEOUT			2287.764	non_full	match
+TIMEOUT			2291.764	mod_full	nomatch
+TIMEOUT			2295.764	non_full	match
+TIMEOUT			2307.7641	mod_full	match
+TIMEOUT			2315.764	mod_full	match
+TIMEOUT			2327.764	non_full	match
+TIMEOUT			2331.764	non_full	match
+TIMEOUT			2335.7641	mod_full	nomatch
+TIMEOUT			2343.764	mod_full	nomatch
+TIMEOUT			2355.764	mod_full	match
+TIMEOUT			2371.764	non_full	nomatch
+TIMEOUT			2375.764	mod_full	nomatch
+TIMEOUT			2379.764	non_full	nomatch
+TIMEOUT			2383.764	mod_full	match
+TIMEOUT			2391.764	non_full	nomatch
+TIMEOUT			2403.764	non_full	nomatch
+TIMEOUT			2407.764	non_full	nomatch
+TIMEOUT			2411.7641	mod_full	nomatch
+TIMEOUT			2423.764	non_full	nomatch
+TIMEOUT			2439.7641	mod_full	nomatch
+TIMEOUT			2447.764	non_full	match
+TIMEOUT			2451.764	mod_full	nomatch
+TIMEOUT			2459.764	non_full	nomatch
+TIMEOUT			2463.764	mod_full	match
+TIMEOUT			2479.7641	mod_full	nomatch
+TIMEOUT			2483.764	mod_full	match
+TIMEOUT			2487.764	mod_full	match
+TIMEOUT			2491.7641	mod_full	nomatch
+TIMEOUT			2507.764	non_full	match
+TIMEOUT			2519.764	mod_full	nomatch
+TIMEOUT			2523.764	non_full	match
+TIMEOUT			2531.764	mod_full	match
+TIMEOUT			2535.764	non_full	match
+TIMEOUT			2539.764	non_full	nomatch
+TIMEOUT			2543.764	non_full	nomatch
+TIMEOUT			2547.764	non_full	match
+TIMEOUT			2563.764	non_full	match
+TIMEOUT			2571.764	mod_full	match
+TIMEOUT			2575.764	non_full	nomatch
+TIMEOUT			2591.764	mod_full	match
+TIMEOUT			2607.764	non_full	match
+TIMEOUT			2611.764	mod_full	nomatch
+TIMEOUT			2615.764	non_full	match
+TIMEOUT			2627.764	mod_full	match
+TIMEOUT			2635.764	mod_full	match
+TIMEOUT			2647.764	non_full	match
+TIMEOUT			2651.764	non_full	match
+TIMEOUT			2655.7641	mod_full	nomatch
+TIMEOUT			2663.764	mod_full	nomatch
+TIMEOUT			2675.764	mod_full	match
+TIMEOUT			2691.764	non_full	nomatch
+TIMEOUT			2695.764	mod_full	nomatch
+TIMEOUT			2699.764	non_full	nomatch
+TIMEOUT			2703.7641	mod_full	match
+TIMEOUT			2711.7641	non_full	nomatch
+TIMEOUT			2723.764	non_full	nomatch
+TIMEOUT			2727.764	non_full	nomatch
+TIMEOUT			2731.7641	mod_full	nomatch
+TIMEOUT			2743.7641	non_full	nomatch
+TIMEOUT			2759.764	mod_full	nomatch
+TIMEOUT			2767.764	non_full	match
+TIMEOUT			2771.764	mod_full	nomatch
+TIMEOUT			2779.764	non_full	nomatch
+TIMEOUT			2783.764	mod_full	match
+TIMEOUT			2799.764	mod_full	nomatch
+TIMEOUT			2803.764	mod_full	match
+TIMEOUT			2807.764	mod_full	match
+TIMEOUT			2811.7641	mod_full	nomatch
+TIMEOUT			2827.764	non_full	match
+TIMEOUT			2839.764	mod_full	nomatch
+TIMEOUT			2843.764	non_full	match
+TIMEOUT			2851.7641	mod_full	match
+TIMEOUT			2855.7641	non_full	match
+TIMEOUT			2859.764	non_full	nomatch
+TIMEOUT			2863.7641	non_full	nomatch
+TIMEOUT			2867.764	non_full	match
+TIMEOUT			2883.764	non_full	match
+TIMEOUT			2891.764	mod_full	match
+TIMEOUT			2895.7641	non_full	nomatch
+TIMEOUT			2911.764	mod_full	match
+TIMEOUT			2927.764	non_full	match
+TIMEOUT			2931.764	mod_full	nomatch
+TIMEOUT			2935.764	non_full	match
+TIMEOUT			2947.764	mod_full	match
+TIMEOUT			2955.764	mod_full	match
+TIMEOUT			2967.764	non_full	match
+TIMEOUT			2971.764	non_full	match
+TIMEOUT			2975.764	mod_full	nomatch
+TIMEOUT			2983.764	mod_full	nomatch
+TIMEOUT			2995.764	mod_full	match
+TIMEOUT			3011.764	non_full	nomatch
+TIMEOUT			3015.764	mod_full	nomatch
+TIMEOUT			3019.764	non_full	nomatch
+TIMEOUT			3023.764	mod_full	match
+TIMEOUT			3031.764	non_full	nomatch
+TIMEOUT			3043.764	non_full	nomatch
+TIMEOUT			3047.764	non_full	nomatch
+TIMEOUT			3051.764	mod_full	nomatch
+TIMEOUT			3063.764	non_full	nomatch
+TIMEOUT			3079.7641	mod_full	nomatch
+TIMEOUT			3087.7641	non_full	match
+TIMEOUT			3091.764	mod_full	nomatch
+TIMEOUT			3099.764	non_full	nomatch
+TIMEOUT			3103.7641	mod_full	match
+TIMEOUT			3119.7641	mod_full	nomatch
+TIMEOUT			3123.764	mod_full	match
+TIMEOUT			3127.7641	mod_full	match
+TIMEOUT			3131.764	mod_full	nomatch
+TIMEOUT			3147.764	non_full	match
+TIMEOUT			3159.7641	mod_full	nomatch
+TIMEOUT			3163.764	non_full	match
+TIMEOUT			3171.7641	mod_full	match
+TIMEOUT			3175.764	non_full	match
+TIMEOUT			3179.764	non_full	nomatch
+TIMEOUT			3183.7641	non_full	nomatch
+TIMEOUT			3187.764	non_full	match
+TIMEOUT			3203.764	non_full	match
+TIMEOUT			3211.764	mod_full	match
+TIMEOUT			3215.764	non_full	nomatch
+TIMEOUT			3231.764	mod_full	match
+TIMEOUT			3247.764	non_full	match
+TIMEOUT			3251.7641	mod_full	nomatch
+TIMEOUT			3255.764	non_full	match
+TIMEOUT			3267.7641	mod_full	match
+TIMEOUT			3275.7641	mod_full	match
+TIMEOUT			3287.764	non_full	match
+TIMEOUT			3291.764	non_full	match
+TIMEOUT			3295.764	mod_full	nomatch
+TIMEOUT			3303.764	mod_full	nomatch
+TIMEOUT			3315.7641	mod_full	match
+TIMEOUT			3331.764	non_full	nomatch
+TIMEOUT			3335.7641	mod_full	nomatch
+TIMEOUT			3339.764	non_full	nomatch
+TIMEOUT			3343.764	mod_full	match
+TIMEOUT			3351.764	non_full	nomatch
+TIMEOUT			3363.764	non_full	nomatch
+TIMEOUT			3367.7641	non_full	nomatch
+TIMEOUT			3371.764	mod_full	nomatch
+TIMEOUT			3383.7641	non_full	nomatch
+TIMEOUT			3399.7641	mod_full	nomatch
+TIMEOUT			3407.764	non_full	match
+TIMEOUT			3411.764	mod_full	nomatch
+TIMEOUT			3419.764	non_full	nomatch
+TIMEOUT			3423.7641	mod_full	match
+TIMEOUT			3439.764	mod_full	nomatch
+TIMEOUT			3443.7641	mod_full	match
+TIMEOUT			3447.764	mod_full	match
+TIMEOUT			3451.764	mod_full	nomatch
+TIMEOUT			3467.764	non_full	match
+TIMEOUT			3479.764	mod_full	nomatch
+TIMEOUT			3483.764	non_full	match
+TIMEOUT			3491.764	mod_full	match
+TIMEOUT			3495.764	non_full	match
+TIMEOUT			3499.7641	non_full	nomatch
+TIMEOUT			3503.764	non_full	nomatch
+TIMEOUT			3507.764	non_full	match
+TIMEOUT			3523.764	non_full	match
+TIMEOUT			3531.7641	mod_full	match
+TIMEOUT			3535.764	non_full	nomatch
+TIMEOUT			3551.764	mod_full	match
+TIMEOUT			3567.764	non_full	match
+TIMEOUT			3571.764	mod_full	nomatch
+TIMEOUT			3575.764	non_full	match
+TIMEOUT			3587.764	mod_full	match
+TIMEOUT			3595.7641	mod_full	match
+TIMEOUT			3607.764	non_full	match
+TIMEOUT			3611.764	non_full	match
+TIMEOUT			3615.764	mod_full	nomatch
+TIMEOUT			3623.764	mod_full	nomatch
+TIMEOUT			3635.764	mod_full	match
+TIMEOUT			3651.764	non_full	nomatch
+TIMEOUT			3655.7641	mod_full	nomatch
+TIMEOUT			3659.764	non_full	nomatch
+TIMEOUT			3663.764	mod_full	match
+TIMEOUT			3671.764	non_full	nomatch
+TIMEOUT			3683.764	non_full	nomatch
+TIMEOUT			3687.764	non_full	nomatch
+TIMEOUT			3691.7641	mod_full	nomatch
+TIMEOUT			3703.7641	non_full	nomatch
+TIMEOUT			3719.764	mod_full	nomatch
+TIMEOUT			3727.7641	non_full	match
+TIMEOUT			3731.764	mod_full	nomatch
+TIMEOUT			3739.764	non_full	nomatch
+TIMEOUT			3743.764	mod_full	match
+TIMEOUT			3759.764	mod_full	nomatch
+TIMEOUT			3763.764	mod_full	match
+TIMEOUT			3767.764	mod_full	match
+TIMEOUT			3771.764	mod_full	nomatch
+TIMEOUT			3787.764	non_full	match
+TIMEOUT			3799.764	mod_full	nomatch
+TIMEOUT			3803.7641	non_full	match
+TIMEOUT			3811.764	mod_full	match
+TIMEOUT			3815.764	non_full	match
+TIMEOUT			3819.7641	non_full	nomatch
+TIMEOUT			3823.764	non_full	nomatch
+TIMEOUT			3827.7641	non_full	match
+TIMEOUT			3843.764	non_full	match
+TIMEOUT			3851.764	mod_full	match
+TIMEOUT			3855.764	non_full	nomatch
+TIMEOUT			3871.764	mod_full	match
+TIMEOUT			3887.7641	non_full	match
+TIMEOUT			3891.764	mod_full	nomatch
+TIMEOUT			3895.764	non_full	match
+TIMEOUT			3907.764	mod_full	match
+TIMEOUT			3915.7641	mod_full	match
+TIMEOUT			3927.764	non_full	match
+TIMEOUT			3931.764	non_full	match
+TIMEOUT			3935.764	mod_full	nomatch
+TIMEOUT			3943.7641	mod_full	nomatch
+TIMEOUT			3955.764	mod_full	match
+TIMEOUT			3971.764	non_full	nomatch
+TIMEOUT			3975.764	mod_full	nomatch
+TIMEOUT			3979.764	non_full	nomatch
+TIMEOUT			3983.764	mod_full	match
+TIMEOUT			3991.764	non_full	nomatch
+TIMEOUT			4003.7641	non_full	nomatch
+TIMEOUT			4007.7641	non_full	nomatch
+TIMEOUT			4011.764	mod_full	nomatch
+TIMEOUT			4023.764	non_full	nomatch
+TIMEOUT			4039.764	mod_full	nomatch
+TIMEOUT			4047.764	non_full	match
+TIMEOUT			4051.764	mod_full	nomatch
+TIMEOUT			4059.764	non_full	nomatch
+TIMEOUT			4063.764	mod_full	match
+TIMEOUT			4079.764	mod_full	nomatch
+TIMEOUT			4083.764	mod_full	match
+TIMEOUT			4087.764	mod_full	match
+TIMEOUT			4091.764	mod_full	nomatch
+TIMEOUT			4107.7641	non_full	match
+TIMEOUT			4119.764	mod_full	nomatch
+TIMEOUT			4123.764	non_full	match
+TIMEOUT			4131.7641	mod_full	match
+TIMEOUT			4135.764	non_full	match
+TIMEOUT			4139.764	non_full	nomatch
+TIMEOUT			4143.764	non_full	nomatch
+TIMEOUT			4147.764	non_full	match
+TIMEOUT			4163.764	non_full	match
+TIMEOUT			4171.7641	mod_full	match
+TIMEOUT			4175.7641	non_full	nomatch
+TIMEOUT			4191.764	mod_full	match
+TIMEOUT			4207.7641	non_full	match
+TIMEOUT			4211.764	mod_full	nomatch
+TIMEOUT			4215.764	non_full	match
+TIMEOUT			4227.764	mod_full	match
+TIMEOUT			4235.764	mod_full	match
+TIMEOUT			4247.764	non_full	match
+TIMEOUT			4251.764	non_full	match
+TIMEOUT			4255.764	mod_full	nomatch
+TIMEOUT			4263.764	mod_full	nomatch
+TIMEOUT			4275.764	mod_full	match
+TIMEOUT			4291.7641	non_full	nomatch
+TIMEOUT			4295.764	mod_full	nomatch
+TIMEOUT			4299.764	non_full	nomatch
+TIMEOUT			4303.764	mod_full	match
+TIMEOUT			4311.764	non_full	nomatch
+TIMEOUT			4323.764	non_full	nomatch
+TIMEOUT			4327.764	non_full	nomatch
+TIMEOUT			4331.7641	mod_full	nomatch
+TIMEOUT			4343.764	non_full	nomatch
+TIMEOUT			4359.764	mod_full	nomatch
+TIMEOUT			4367.7641	non_full	match
+TIMEOUT			4371.764	mod_full	nomatch
+TIMEOUT			4379.764	non_full	nomatch
+TIMEOUT			4383.7641	mod_full	match
+TIMEOUT			4399.7641	mod_full	nomatch
+TIMEOUT			4403.764	mod_full	match
+TIMEOUT			4407.7641	mod_full	match
+TIMEOUT			4411.764	mod_full	nomatch
+TIMEOUT			4427.764	non_full	match
+TIMEOUT			4439.764	mod_full	nomatch
+TIMEOUT			4443.764	non_full	match
+TIMEOUT			4451.764	mod_full	match
+TIMEOUT			4455.764	non_full	match
+TIMEOUT			4459.764	non_full	nomatch
+TIMEOUT			4463.7641	non_full	nomatch
+TIMEOUT			4467.764	non_full	match
+TIMEOUT			4483.764	non_full	match
+TIMEOUT			4491.764	mod_full	match
+TIMEOUT			4495.7641	non_full	nomatch
+TIMEOUT			4511.764	mod_full	match
+TIMEOUT			4527.764	non_full	match
+TIMEOUT			4531.764	mod_full	nomatch
+TIMEOUT			4535.7641	non_full	match
+TIMEOUT			4547.7641	mod_full	match
+TIMEOUT			4555.764	mod_full	match
+TIMEOUT			4567.764	non_full	match
+TIMEOUT			4571.764	non_full	match
+TIMEOUT			4575.764	mod_full	nomatch
+TIMEOUT			4583.7641	mod_full	nomatch
+TIMEOUT			4595.7641	mod_full	match
+TIMEOUT			4611.7641	non_full	nomatch
+TIMEOUT			4615.764	mod_full	nomatch
+TIMEOUT			4619.7641	non_full	nomatch
+TIMEOUT			4623.764	mod_full	match
+TIMEOUT			4631.764	non_full	nomatch
+TIMEOUT			4643.764	non_full	nomatch
+TIMEOUT			4647.7641	non_full	nomatch
+TIMEOUT			4651.764	mod_full	nomatch
+TIMEOUT			4663.7641	non_full	nomatch
+TIMEOUT			4679.764	mod_full	nomatch
+TIMEOUT			4687.764	non_full	match
+TIMEOUT			4691.764	mod_full	nomatch
+TIMEOUT			4699.7641	non_full	nomatch
+TIMEOUT			4703.764	mod_full	match
+TIMEOUT			4719.764	mod_full	nomatch
+TIMEOUT			4723.764	mod_full	match
+TIMEOUT			4727.7641	mod_full	match
+TIMEOUT			4731.764	mod_full	nomatch
+TIMEOUT			4747.764	non_full	match
+TIMEOUT			4759.764	mod_full	nomatch
+TIMEOUT			4763.764	non_full	match
+TIMEOUT			4771.764	mod_full	match
+TIMEOUT			4775.7641	non_full	match
+TIMEOUT			4779.7641	non_full	nomatch
+TIMEOUT			4783.764	non_full	nomatch
+TIMEOUT			4787.764	non_full	match
+TIMEOUT			4803.764	non_full	match
+TIMEOUT			8408.7701	mod_part_1	none
+KEY	space	3401.8756	11810.6568	mod_part_1	none
+KEY	space	0.72925	11811.4009	mod_part_1	none
+
+----------------------------------------------------------------------------
+Started at: 15-Jul-2009 17:00:20
+
+START	8758.2727		0
+KEY	a	7.3335	7.4482
+KEY	`~	7.8762	15.4242
+KEY	a	1.5257	19.1522	mod_full	match
+
+----------------------------------------------------------------------------
+Started at: 15-Jul-2009 17:40:54
+
+START	11192.3971		0
+KEY	a	0.76887	0.81365
+KEY	`~	2.9333	3.7817
+
+----------------------------------------------------------------------------
+Started at: 15-Jul-2009 17:41:24
+
+START	11222.2488		0
+KEY	a	1.7585	1.8019
+KEY	`~	4.5664	6.4179
+
+----------------------------------------------------------------------------
+Started at: 15-Jul-2009 17:41:47
+
+START	11244.9847		0
+KEY	ESCAPE	11.7202	11.7629
+TIMEOUT			11.7732
+
+----------------------------------------------------------------------------
+Started at: 15-Jul-2009 17:42:21
+
+START	11279.0552		0
+KEY	a	0.43487	0.47647
+KEY	`~	6.0149	6.5085
+KEY	a	0.904	10.2205	test	match
+TIMEOUT			14.9918	test	match
+KEY	a	0.4142	17.7165	test	match
+TIMEOUT			22.9918	test	match
+KEY	s	0.81972	26.1245	test	match
+KEY	a	0.63444	29.9405	test	match
+KEY	ESCAPE	0.51319	33.8205	test	match
+TIMEOUT			33.8278	test	match
+
+----------------------------------------------------------------------------
+Started at: 15-Jul-2009 17:48:18
+
+START	11636.0363		0
+KEY	a	1.2543	1.2974
+KEY	a	9.6604	11.0094
+KEY	`~	2.1038	13.1294
+KEY	s	1.1985	17.1294	test	match
+KEY	a	0.65322	20.5854	test	match
+TIMEOUT			28.2213	test	match
+
+----------------------------------------------------------------------------
+Started at: 15-Jul-2009 22:03:26
+
+START	6231.4049		0
+KEY	a	2.2475	2.2821
+KEY	a	2.9299	5.2581
+KEY	`~	0.67137	5.9461
+TIMEOUT			10.4293	non	1	NoMatch
+KEY	s	0.75082	17.4935	non	2	Match
+TIMEOUT			22.4293	non	3	Match
+TIMEOUT			26.4293	fix	1	Match
+TIMEOUT			32.4294	non	4	Match
+KEY	a	0.47111	37.2201	fix	2	NoMatch
+KEY	a	12.3194	51.2615	fix	2	NoMatch
+KEY	a	2.9728	54.2536	fix	2	NoMatch
+KEY	`~	1.0161	55.2936	fix	2	NoMatch
+KEY	s	0.79895	58.8936	mod	20	Match
+KEY	a	0.9417	63.0376	fix	20	NoMatch
+KEY	a	0.62844	66.7256	non	20	Match
+KEY	a	0.41892	72.5096	non	21	NoMatch
+KEY	s	0.56165	76.6536	non	22	Match
+KEY	s	0.4954	82.5976	fix	21	Match
+KEY	a	17.7375	102.0328	fix	21	Match
+KEY	a	1.2786	103.3368	fix	21	Match
+KEY	`~	0.7015	104.0488	fix	21	Match
+TIMEOUT			108.5322	mod	39	NoMatch
+TIMEOUT			112.5321	non	39	NoMatch
+TIMEOUT			118.5322	mod	40	Match
+TIMEOUT			122.5322	mod	41	Match
+TIMEOUT			126.5322	fix	39	Match
+KEY	a	0.59029	131.4442	fix	40	NoMatch
+TIMEOUT			136.5321	non	40	Match
+KEY	s	0.69152	141.5402	non	41	Match
+KEY	a	0.57828	145.4282	fix	41	NoMatch
+KEY	s	0.345	149.1962	non	42	Match
+KEY	a	1.4398	152.4842	non	42	Match
+KEY	a	3.2953	155.7962	non	42	Match
+KEY	a	2.3005	158.1162	non	42	Match
+
+----------------------------------------------------------------------------
+Started at: 15-Jul-2009 22:08:25
+
+START	6530.5199		0
+KEY	a	0.80482	0.84774
+KEY	a	0.943	1.8397
+KEY	`~	0.236	2.1037
+TIMEOUT			6.5871	non	1	NoMatch
+KEY	s	1.3363	14.2368	non	2	Match
+KEY	s	0.98304	17.8848	non	3	Match
+KEY	s	0.34979	21.2528	fix	1	Match
+KEY	s	0.38827	27.2848	non	4	Match
+KEY	a	0.36202	33.2688	fix	2	NoMatch
+KEY	ESCAPE	3.3563	39.4608	fix	2	NoMatch
+TIMEOUT			39.468	fix	2	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 15-Jul-2009 23:56:01
+
+START	12986.9621		0
+KEY	a	0.71711	0.7594
+KEY	a	0.37251	1.1514
+KEY	`~	1.2515	2.4154
+TIMEOUT			6.8987	non	1	Match
+TIMEOUT			14.8987	non	2	NoMatch
+TIMEOUT			18.8988	mod	1	NoMatch
+TIMEOUT			22.8987	fix	1	Match
+TIMEOUT			28.8987	mod	2	NoMatch
+TIMEOUT			34.8987	fix	2	Match
+KEY	a	2.1823	38.6042	fix	2	Match
+KEY	a	0.39638	39.0282	fix	2	Match
+KEY	a	0.49785	39.5482	fix	2	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 00:45:04
+
+START	15929.2136		0
+KEY	a	0.96632	1.005
+KEY	a	2.0586	3.085
+KEY	`~	0.83057	3.933
+TIMEOUT			8.4163	non	1	Match
+TIMEOUT			16.4162	non	2	Match
+TIMEOUT			20.4163	non	3	NoMatch
+TIMEOUT			24.4162	fix	1	Match
+TIMEOUT			30.4162	non	4	NoMatch
+TIMEOUT			36.4163	fix	2	NoMatch
+TIMEOUT			40.4163	fix	3	NoMatch
+TIMEOUT			44.4163	mod	1	Match
+TIMEOUT			50.4163	mod	2	Match
+TIMEOUT			54.4163	non	5	NoMatch
+TIMEOUT			58.4163	mod	3	NoMatch
+TIMEOUT			66.4163	mod	4	Match
+TIMEOUT			70.4163	non	6	Match
+TIMEOUT			74.4162	fix	4	Match
+TIMEOUT			82.4163	mod	5	Match
+TIMEOUT			86.4162	mod	6	Match
+TIMEOUT			94.4162	fix	5	Match
+KEY	s	0.32502	97.0636	mod	7	NoMatch
+KEY	s	0.3145	105.0556	non	7	Match
+KEY	s	0.96199	109.6875	fix	6	Match
+TIMEOUT			116.4163	mod	8	Match
+TIMEOUT			120.4163	fix	7	Match
+TIMEOUT			124.4163	fix	8	Match
+TIMEOUT			128.4162	non	8	NoMatch
+TIMEOUT			132.4163	non	9	NoMatch
+TIMEOUT			140.4162	fix	9	NoMatch
+TIMEOUT			144.4163	mod	9	Match
+TIMEOUT			148.4163	mod	10	NoMatch
+TIMEOUT			152.4163	fix	10	NoMatch
+TIMEOUT			158.4163	mod	11	Match
+TIMEOUT			162.4162	mod	12	NoMatch
+TIMEOUT			170.4163	fix	11	Match
+TIMEOUT			180.4163	mod	13	NoMatch
+TIMEOUT			184.4163	mod	14	NoMatch
+TIMEOUT			188.4163	fix	12	Match
+TIMEOUT			192.4162	mod	15	NoMatch
+TIMEOUT			196.4162	mod	16	NoMatch
+TIMEOUT			202.4163	fix	13	Match
+TIMEOUT			206.4163	fix	14	Match
+TIMEOUT			210.4163	non	10	NoMatch
+TIMEOUT			214.4162	mod	17	Match
+TIMEOUT			218.4163	fix	15	Match
+TIMEOUT			230.4163	fix	16	NoMatch
+TIMEOUT			236.4162	non	11	NoMatch
+TIMEOUT			240.4163	fix	17	NoMatch
+TIMEOUT			244.4162	mod	18	NoMatch
+TIMEOUT			248.4163	fix	18	NoMatch
+TIMEOUT			258.4163	non	12	NoMatch
+TIMEOUT			264.4163	non	13	Match
+TIMEOUT			268.4163	non	14	NoMatch
+TIMEOUT			272.4162	non	15	NoMatch
+TIMEOUT			280.4163	fix	19	Match
+TIMEOUT			284.4162	non	16	NoMatch
+TIMEOUT			292.4163	non	17	Match
+TIMEOUT			296.4162	mod	19	NoMatch
+TIMEOUT			304.4162	non	18	NoMatch
+TIMEOUT			308.4163	non	19	NoMatch
+KEY	a	37.3597	347.2867	non	19	NoMatch
+KEY	a	0.59158	347.9027	non	19	NoMatch
+KEY	a	0.6209	348.5347	non	19	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 00:57:46
+
+START	16691.4296		0
+KEY	a	1.3162	1.3534
+KEY	a	0.91287	2.2893
+KEY	`~	0.97607	3.2733
+TIMEOUT			7.7567	non	1	NoMatch
+TIMEOUT			15.7567	non	2	NoMatch
+TIMEOUT			19.7567	non	3	Match
+TIMEOUT			23.7566	fix	1	NoMatch
+TIMEOUT			29.7567	non	4	Match
+TIMEOUT			35.7567	fix	2	Match
+TIMEOUT			39.7566	fix	3	Match
+TIMEOUT			43.7566	mod	1	Match
+TIMEOUT			49.7566	mod	2	Match
+TIMEOUT			53.7567	non	5	Match
+TIMEOUT			57.7566	mod	3	Match
+TIMEOUT			65.7566	mod	4	Match
+TIMEOUT			69.7566	non	6	NoMatch
+TIMEOUT			73.7567	fix	4	Match
+TIMEOUT			81.7567	mod	5	Match
+TIMEOUT			85.7566	mod	6	Match
+TIMEOUT			93.7566	fix	5	NoMatch
+TIMEOUT			97.7567	mod	7	Match
+TIMEOUT			105.7567	non	7	Match
+TIMEOUT			109.7567	fix	6	Match
+TIMEOUT			115.7566	mod	8	NoMatch
+TIMEOUT			119.7566	fix	7	Match
+TIMEOUT			123.7567	fix	8	NoMatch
+TIMEOUT			127.7567	non	8	Match
+TIMEOUT			131.7567	non	9	Match
+TIMEOUT			139.7566	fix	9	Match
+TIMEOUT			143.7566	mod	9	Match
+TIMEOUT			147.7566	mod	10	NoMatch
+TIMEOUT			151.7567	fix	10	NoMatch
+TIMEOUT			157.7566	mod	11	Match
+TIMEOUT			161.7567	mod	12	Match
+TIMEOUT			169.7566	fix	11	NoMatch
+TIMEOUT			179.7567	mod	13	NoMatch
+TIMEOUT			183.7566	mod	14	NoMatch
+TIMEOUT			187.7566	fix	12	NoMatch
+TIMEOUT			191.7566	mod	15	NoMatch
+TIMEOUT			195.7566	mod	16	NoMatch
+TIMEOUT			201.7567	fix	13	Match
+TIMEOUT			205.7566	fix	14	NoMatch
+TIMEOUT			209.7567	non	10	Match
+TIMEOUT			213.7566	mod	17	Match
+TIMEOUT			217.7567	fix	15	NoMatch
+TIMEOUT			229.7566	fix	16	Match
+TIMEOUT			235.7566	non	11	NoMatch
+TIMEOUT			239.7567	fix	17	NoMatch
+TIMEOUT			243.7566	mod	18	Match
+TIMEOUT			247.7566	fix	18	Match
+TIMEOUT			257.7566	non	12	NoMatch
+TIMEOUT			263.7566	non	13	Match
+TIMEOUT			267.7566	non	14	NoMatch
+TIMEOUT			271.7566	non	15	Match
+TIMEOUT			279.7566	fix	19	Match
+TIMEOUT			283.7567	non	16	Match
+TIMEOUT			291.7567	non	17	Match
+TIMEOUT			295.7566	mod	19	NoMatch
+TIMEOUT			303.7567	non	18	NoMatch
+TIMEOUT			307.7567	non	19	NoMatch
+KEY	a	14.1518	323.4244	non	19	NoMatch
+KEY	a	0.30044	323.7364	non	19	NoMatch
+KEY	a	0.38224	324.1364	non	19	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 01:05:35
+
+START	17160.8992		0
+KEY	a	0.76823	0.80561
+KEY	a	1.6613	2.4856
+KEY	`~	2.2271	4.7256
+TIMEOUT			9.2089	non	1	NoMatch
+TIMEOUT			17.2089	non	2	NoMatch
+TIMEOUT			21.2089	non	3	Match
+TIMEOUT			25.2089	fix	1	Match
+TIMEOUT			31.209	non	4	NoMatch
+TIMEOUT			37.209	fix	2	Match
+TIMEOUT			41.2089	fix	3	Match
+TIMEOUT			45.2089	mod	1	NoMatch
+TIMEOUT			51.2089	mod	2	NoMatch
+TIMEOUT			55.2089	non	5	Match
+TIMEOUT			59.2089	mod	3	Match
+TIMEOUT			67.2089	mod	4	Match
+TIMEOUT			71.209	non	6	Match
+TIMEOUT			75.2089	fix	4	NoMatch
+TIMEOUT			83.2089	mod	5	NoMatch
+TIMEOUT			87.209	mod	6	Match
+TIMEOUT			95.2089	fix	5	Match
+TIMEOUT			99.2089	mod	7	NoMatch
+TIMEOUT			107.209	non	7	NoMatch
+TIMEOUT			111.2089	fix	6	Match
+TIMEOUT			117.2089	mod	8	Match
+TIMEOUT			121.209	fix	7	NoMatch
+TIMEOUT			125.209	fix	8	Match
+TIMEOUT			129.2089	non	8	NoMatch
+KEY	a	1.522	133.1992	non	9	NoMatch
+KEY	s	0.46293	139.9752	fix	9	Match
+KEY	a	0.54168	144.0552	mod	9	Match
+TIMEOUT			149.2089	mod	10	Match
+TIMEOUT			153.2089	fix	10	NoMatch
+TIMEOUT			159.2089	mod	11	NoMatch
+TIMEOUT			163.2089	mod	12	NoMatch
+TIMEOUT			171.2089	fix	11	Match
+TIMEOUT			181.2089	mod	13	NoMatch
+TIMEOUT			185.2089	mod	14	NoMatch
+TIMEOUT			189.2089	fix	12	NoMatch
+TIMEOUT			193.2089	mod	15	NoMatch
+TIMEOUT			197.209	mod	16	NoMatch
+TIMEOUT			203.209	fix	13	NoMatch
+TIMEOUT			207.2089	fix	14	Match
+TIMEOUT			211.209	non	10	Match
+TIMEOUT			215.2089	mod	17	Match
+TIMEOUT			219.209	fix	15	Match
+KEY	s	1.5818	231.0973	fix	16	Match
+KEY	a	0.53162	236.0573	non	11	Match
+KEY	a	0.41108	239.9213	fix	17	NoMatch
+KEY	s	0.72985	244.2413	mod	18	NoMatch
+TIMEOUT			249.2089	fix	18	NoMatch
+TIMEOUT			259.2089	non	12	Match
+TIMEOUT			265.2089	non	13	Match
+TIMEOUT			269.209	non	14	NoMatch
+TIMEOUT			273.209	non	15	Match
+KEY	s	0.33705	279.8599	fix	19	NoMatch
+KEY	a	0.3518	283.8759	non	16	Match
+TIMEOUT			293.2089	non	17	Match
+KEY	a	1.0801	296.5912	mod	19	Match
+TIMEOUT			305.2089	non	18	Match
+KEY	a	0.50752	308.0224	non	19	Match
+KEY	a	2.1899	312.9025	non	19	Match
+KEY	a	1.6208	314.5265	non	19	Match
+KEY	`~	1.9248	316.4545	non	19	Match
+KEY	s	0.41166	319.6625	mod	20	Match
+KEY	s	0.41843	323.6705	fix	20	Match
+KEY	a	0.40111	327.6545	non	20	NoMatch
+KEY	s	0.47159	333.7185	non	21	NoMatch
+KEY	a	0.60638	337.8545	non	22	NoMatch
+KEY	s	0.39686	343.6385	fix	21	NoMatch
+KEY	a	0.45953	347.7025	fix	22	Match
+KEY	a	0.559	359.8057	mod	21	Match
+KEY	a	0.60577	363.8537	mod	22	NoMatch
+KEY	s	0.44431	369.6857	fix	23	NoMatch
+KEY	a	0.41904	373.6617	mod	23	NoMatch
+KEY	s	0.34568	377.5897	non	23	Match
+KEY	a	0.48026	381.7257	fix	24	Match
+KEY	s	0.39103	387.6297	non	24	NoMatch
+KEY	a	0.43776	391.6777	mod	24	Match
+KEY	s	0.52421	395.7657	fix	25	NoMatch
+KEY	a	0.45919	399.7017	fix	26	Match
+KEY	a	0.4819	403.7257	non	25	NoMatch
+KEY	a	0.4647	407.7097	non	26	NoMatch
+KEY	s	0.3352	413.5737	mod	25	Match
+KEY	a	0.53392	417.7737	mod	26	Match
+KEY	s	0.60456	421.8457	mod	27	NoMatch
+KEY	s	0.37836	435.6323	mod	28	Match
+KEY	a	0.48093	441.7283	non	27	NoMatch
+KEY	s	0.47837	449.7283	fix	27	Match
+KEY	a	0.37289	455.6163	fix	28	Match
+KEY	s	0.49164	459.7363	fix	29	NoMatch
+KEY	s	0.53032	463.7763	mod	29	NoMatch
+KEY	s	0.45709	467.7043	non	28	Match
+KEY	s	0.53461	475.7843	mod	30	NoMatch
+KEY	a	0.65984	485.9043	non	29	NoMatch
+KEY	s	0.77854	490.0243	mod	31	Match
+KEY	a	0.40105	493.6483	mod	32	NoMatch
+KEY	s	0.57598	497.8243	mod	33	Match
+KEY	a	0.64667	501.8963	fix	30	Match
+KEY	s	0.40433	509.6564	mod	34	Match
+KEY	a	0.53899	513.7923	fix	31	NoMatch
+KEY	a	0.64183	517.8963	non	30	NoMatch
+KEY	a	0.729	521.9683	fix	32	NoMatch
+KEY	s	0.38172	531.6323	fix	33	Match
+KEY	s	0.59625	535.8483	non	31	Match
+KEY	a	0.54717	539.8003	mod	35	NoMatch
+KEY	s	0.52946	547.7683	non	32	Match
+KEY	s	0.52008	551.7603	non	33	Match
+KEY	s	0.39781	557.6483	fix	34	NoMatch
+KEY	s	0.39617	563.6403	mod	36	NoMatch
+KEY	s	0.59366	567.8723	fix	35	Match
+KEY	s	0.44155	573.6803	fix	36	Match
+KEY	a	0.52009	577.7603	mod	37	NoMatch
+KEY	s	0.59107	581.8323	fix	37	NoMatch
+KEY	s	0.5592	585.9523	non	34	Match
+KEY	a	0.37134	591.6243	mod	38	NoMatch
+KEY	s	0.49804	597.7443	non	35	Match
+KEY	a	0.40079	601.6483	non	36	NoMatch
+KEY	a	0.37398	611.6163	non	37	NoMatch
+KEY	a	0.36609	615.7603	non	38	NoMatch
+KEY	a	0.41128	619.6563	fix	38	NoMatch
+KEY	a	2.5418	624.9843	fix	38	NoMatch
+KEY	a	1.1492	626.1363	fix	38	NoMatch
+KEY	`~	1.146	627.2883	fix	38	NoMatch
+TIMEOUT			631.7716	mod	39	NoMatch
+TIMEOUT			635.7716	non	39	NoMatch
+TIMEOUT			641.7716	mod	40	Match
+TIMEOUT			645.7716	mod	41	NoMatch
+TIMEOUT			649.7716	fix	39	NoMatch
+TIMEOUT			655.7716	fix	40	NoMatch
+TIMEOUT			659.7716	non	40	NoMatch
+TIMEOUT			665.7716	non	41	NoMatch
+TIMEOUT			669.7716	fix	41	Match
+TIMEOUT			673.7716	non	42	Match
+TIMEOUT			677.7716	fix	42	NoMatch
+TIMEOUT			685.7716	non	43	Match
+TIMEOUT			689.7716	non	44	Match
+TIMEOUT			693.7716	fix	43	NoMatch
+TIMEOUT			699.7716	non	45	Match
+TIMEOUT			703.7716	mod	42	NoMatch
+TIMEOUT			707.7716	non	46	NoMatch
+TIMEOUT			713.7716	mod	43	Match
+TIMEOUT			719.7716	fix	44	Match
+TIMEOUT			723.7716	mod	44	NoMatch
+TIMEOUT			731.7716	fix	45	NoMatch
+TIMEOUT			735.7716	non	47	Match
+TIMEOUT			739.7716	non	48	Match
+TIMEOUT			743.7716	fix	46	NoMatch
+TIMEOUT			747.7716	fix	47	Match
+TIMEOUT			751.7716	mod	45	Match
+TIMEOUT			755.7716	fix	48	Match
+TIMEOUT			763.7716	fix	49	Match
+TIMEOUT			769.7716	fix	50	NoMatch
+TIMEOUT			775.7716	non	49	NoMatch
+TIMEOUT			781.7716	mod	46	Match
+TIMEOUT			791.7716	fix	51	NoMatch
+TIMEOUT			795.7716	fix	52	NoMatch
+TIMEOUT			803.7716	non	50	Match
+TIMEOUT			807.7716	mod	47	NoMatch
+TIMEOUT			811.7716	non	51	NoMatch
+TIMEOUT			815.7716	mod	48	NoMatch
+TIMEOUT			819.7716	fix	53	NoMatch
+TIMEOUT			823.7716	non	52	Match
+TIMEOUT			827.7716	mod	49	NoMatch
+TIMEOUT			839.7716	fix	54	NoMatch
+TIMEOUT			845.7716	mod	50	Match
+TIMEOUT			849.7716	non	53	Match
+TIMEOUT			855.7716	non	54	NoMatch
+TIMEOUT			859.7716	non	55	Match
+TIMEOUT			865.7716	fix	55	NoMatch
+TIMEOUT			869.7716	mod	51	NoMatch
+TIMEOUT			875.7716	fix	56	NoMatch
+TIMEOUT			879.7716	fix	57	Match
+TIMEOUT			885.7716	mod	52	Match
+TIMEOUT			893.7716	mod	53	NoMatch
+TIMEOUT			897.7716	mod	54	Match
+TIMEOUT			901.7716	mod	55	NoMatch
+TIMEOUT			905.7716	mod	56	Match
+TIMEOUT			911.7716	non	56	Match
+TIMEOUT			921.7716	mod	57	Match
+TIMEOUT			927.7716	non	57	Match
+KEY	a	7.6421	940.9271	non	57	Match
+KEY	a	0.33515	941.2711	non	57	Match
+KEY	a	0.34357	941.6311	non	57	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 01:34:50
+
+START	18915.2569		0
+KEY	a	1.1611	1.2003
+KEY	a	0.9651	2.1763
+KEY	`~	0.52226	2.7043
+TIMEOUT			7.1877	non	1	Match
+TIMEOUT			15.1877	non	2	Match
+TIMEOUT			19.1876	non	3	Match
+TIMEOUT			23.1877	fix	1	NoMatch
+TIMEOUT			29.1877	non	4	Match
+TIMEOUT			35.1876	fix	2	Match
+TIMEOUT			39.1876	fix	3	NoMatch
+TIMEOUT			43.1876	mod	1	NoMatch
+TIMEOUT			49.1877	mod	2	Match
+TIMEOUT			53.1876	non	5	NoMatch
+TIMEOUT			57.1876	mod	3	NoMatch
+TIMEOUT			65.1876	mod	4	Match
+TIMEOUT			69.1877	non	6	Match
+TIMEOUT			73.1876	fix	4	Match
+TIMEOUT			81.1877	mod	5	Match
+TIMEOUT			85.1876	mod	6	NoMatch
+TIMEOUT			93.1877	fix	5	NoMatch
+TIMEOUT			97.1876	mod	7	NoMatch
+TIMEOUT			105.1877	non	7	Match
+TIMEOUT			109.1877	fix	6	Match
+TIMEOUT			115.1876	mod	8	NoMatch
+TIMEOUT			119.1876	fix	7	Match
+TIMEOUT			123.1876	fix	8	Match
+TIMEOUT			127.1876	non	8	NoMatch
+TIMEOUT			131.1876	non	9	NoMatch
+TIMEOUT			139.1877	fix	9	NoMatch
+TIMEOUT			143.1876	mod	9	Match
+TIMEOUT			147.1877	mod	10	NoMatch
+TIMEOUT			151.1877	fix	10	Match
+TIMEOUT			157.1877	mod	11	Match
+TIMEOUT			161.1876	mod	12	Match
+TIMEOUT			169.1876	fix	11	NoMatch
+TIMEOUT			179.1876	mod	13	Match
+TIMEOUT			183.1876	mod	14	Match
+TIMEOUT			187.1876	fix	12	Match
+TIMEOUT			191.1877	mod	15	NoMatch
+TIMEOUT			195.1877	mod	16	Match
+TIMEOUT			201.1877	fix	13	Match
+TIMEOUT			205.1877	fix	14	NoMatch
+TIMEOUT			209.1877	non	10	Match
+TIMEOUT			213.1877	mod	17	NoMatch
+TIMEOUT			217.1876	fix	15	Match
+TIMEOUT			229.1876	fix	16	NoMatch
+TIMEOUT			235.1876	non	11	NoMatch
+TIMEOUT			239.1876	fix	17	NoMatch
+TIMEOUT			243.1877	mod	18	Match
+TIMEOUT			247.1877	fix	18	NoMatch
+TIMEOUT			257.1877	non	12	NoMatch
+TIMEOUT			263.1876	non	13	NoMatch
+TIMEOUT			267.1876	non	14	NoMatch
+TIMEOUT			271.1876	non	15	Match
+TIMEOUT			279.1877	fix	19	NoMatch
+TIMEOUT			283.1876	non	16	Match
+TIMEOUT			291.1877	non	17	NoMatch
+TIMEOUT			295.1876	mod	19	Match
+TIMEOUT			303.1876	non	18	Match
+TIMEOUT			307.1877	non	19	NoMatch
+KEY	a	39.4116	348.1003	non	19	NoMatch
+KEY	a	0.83303	348.9483	non	19	NoMatch
+KEY	`~	1.9958	350.9483	non	19	NoMatch
+TIMEOUT			355.4316	mod	20	Match
+TIMEOUT			359.4316	fix	20	Match
+TIMEOUT			363.4315	non	20	NoMatch
+TIMEOUT			369.4316	non	21	NoMatch
+TIMEOUT			373.4316	non	22	NoMatch
+TIMEOUT			379.4316	fix	21	Match
+TIMEOUT			383.4316	fix	22	Match
+TIMEOUT			395.4316	mod	21	Match
+TIMEOUT			399.4316	mod	22	Match
+TIMEOUT			405.4316	fix	23	NoMatch
+TIMEOUT			409.4316	mod	23	NoMatch
+TIMEOUT			413.4316	non	23	NoMatch
+KEY	a	0.34032	416.0752	fix	24	Match
+TIMEOUT			423.4316	non	24	NoMatch
+TIMEOUT			427.4315	mod	24	NoMatch
+TIMEOUT			431.4316	fix	25	Match
+TIMEOUT			435.4316	fix	26	NoMatch
+TIMEOUT			439.4316	non	25	Match
+TIMEOUT			443.4316	non	26	Match
+TIMEOUT			449.4315	mod	25	Match
+TIMEOUT			453.4316	mod	26	Match
+TIMEOUT			457.4316	mod	27	NoMatch
+TIMEOUT			471.4316	mod	28	NoMatch
+TIMEOUT			477.4316	non	27	NoMatch
+TIMEOUT			485.4316	fix	27	NoMatch
+TIMEOUT			491.4316	fix	28	Match
+TIMEOUT			495.4316	fix	29	NoMatch
+TIMEOUT			499.4316	mod	29	Match
+TIMEOUT			503.4316	non	28	Match
+TIMEOUT			511.4316	mod	30	Match
+TIMEOUT			521.4316	non	29	NoMatch
+TIMEOUT			525.4316	mod	31	Match
+TIMEOUT			529.4316	mod	32	Match
+TIMEOUT			533.4315	mod	33	NoMatch
+TIMEOUT			537.4315	fix	30	Match
+TIMEOUT			545.4316	mod	34	Match
+TIMEOUT			549.4316	fix	31	Match
+TIMEOUT			553.4315	non	30	NoMatch
+TIMEOUT			557.4316	fix	32	Match
+TIMEOUT			567.4316	fix	33	Match
+TIMEOUT			571.4316	non	31	NoMatch
+TIMEOUT			575.4316	mod	35	Match
+TIMEOUT			583.4316	non	32	NoMatch
+TIMEOUT			587.4316	non	33	NoMatch
+TIMEOUT			593.4316	fix	34	NoMatch
+TIMEOUT			599.4316	mod	36	NoMatch
+TIMEOUT			603.4316	fix	35	NoMatch
+TIMEOUT			609.4316	fix	36	Match
+TIMEOUT			613.4316	mod	37	NoMatch
+TIMEOUT			617.4316	fix	37	NoMatch
+TIMEOUT			621.4316	non	34	NoMatch
+TIMEOUT			627.4316	mod	38	NoMatch
+TIMEOUT			633.4315	non	35	Match
+TIMEOUT			637.4316	non	36	NoMatch
+TIMEOUT			647.4316	non	37	NoMatch
+TIMEOUT			651.4316	non	38	NoMatch
+TIMEOUT			655.4316	fix	38	NoMatch
+KEY	a	7.4299	664.3791	fix	38	NoMatch
+KEY	a	0.58888	664.9711	fix	38	NoMatch
+KEY	`~	0.88215	665.8671	fix	38	NoMatch
+TIMEOUT			670.3504	mod	39	NoMatch
+TIMEOUT			674.3504	non	39	Match
+TIMEOUT			680.3504	mod	40	Match
+TIMEOUT			684.3503	mod	41	Match
+TIMEOUT			688.3504	fix	39	NoMatch
+TIMEOUT			694.3504	fix	40	NoMatch
+TIMEOUT			698.3504	non	40	Match
+TIMEOUT			704.3504	non	41	NoMatch
+TIMEOUT			708.3504	fix	41	NoMatch
+TIMEOUT			712.3504	non	42	NoMatch
+TIMEOUT			716.3504	fix	42	Match
+TIMEOUT			724.3504	non	43	Match
+TIMEOUT			728.3503	non	44	Match
+TIMEOUT			732.3504	fix	43	Match
+TIMEOUT			738.3504	non	45	NoMatch
+TIMEOUT			742.3504	mod	42	NoMatch
+TIMEOUT			746.3504	non	46	NoMatch
+TIMEOUT			752.3504	mod	43	Match
+TIMEOUT			758.3504	fix	44	Match
+TIMEOUT			762.3504	mod	44	Match
+TIMEOUT			770.3504	fix	45	Match
+TIMEOUT			774.3504	non	47	NoMatch
+TIMEOUT			778.3504	non	48	Match
+TIMEOUT			782.3504	fix	46	Match
+TIMEOUT			786.3504	fix	47	NoMatch
+TIMEOUT			790.3503	mod	45	NoMatch
+TIMEOUT			794.3504	fix	48	Match
+TIMEOUT			802.3504	fix	49	NoMatch
+TIMEOUT			808.3503	fix	50	Match
+TIMEOUT			814.3504	non	49	NoMatch
+TIMEOUT			820.3504	mod	46	Match
+TIMEOUT			830.3504	fix	51	NoMatch
+TIMEOUT			834.3504	fix	52	Match
+TIMEOUT			842.3504	non	50	NoMatch
+TIMEOUT			846.3504	mod	47	NoMatch
+TIMEOUT			850.3504	non	51	NoMatch
+TIMEOUT			854.3503	mod	48	Match
+TIMEOUT			858.3504	fix	53	Match
+TIMEOUT			862.3504	non	52	NoMatch
+TIMEOUT			866.3504	mod	49	NoMatch
+TIMEOUT			878.3503	fix	54	Match
+TIMEOUT			884.3504	mod	50	NoMatch
+TIMEOUT			888.3503	non	53	Match
+TIMEOUT			894.3503	non	54	NoMatch
+TIMEOUT			898.3504	non	55	NoMatch
+TIMEOUT			904.3504	fix	55	Match
+TIMEOUT			908.3504	mod	51	Match
+TIMEOUT			914.3504	fix	56	Match
+TIMEOUT			918.3504	fix	57	Match
+TIMEOUT			924.3504	mod	52	NoMatch
+TIMEOUT			932.3504	mod	53	NoMatch
+TIMEOUT			936.3504	mod	54	Match
+TIMEOUT			940.3503	mod	55	Match
+TIMEOUT			944.3504	mod	56	Match
+TIMEOUT			950.3504	non	56	NoMatch
+TIMEOUT			960.3504	mod	57	NoMatch
+TIMEOUT			966.3504	non	57	Match
+KEY	a	3.4828	975.3425	non	57	Match
+KEY	a	3.0399	978.3985	non	57	Match
+KEY	`~	0.99281	979.3985	non	57	Match
+TIMEOUT			983.8818	fix	58	Match
+TIMEOUT			987.8818	mod	58	NoMatch
+TIMEOUT			995.8818	non	58	NoMatch
+TIMEOUT			1001.8818	non	59	NoMatch
+TIMEOUT			1005.8818	non	60	NoMatch
+TIMEOUT			1009.8818	mod	59	NoMatch
+TIMEOUT			1013.8818	mod	60	Match
+TIMEOUT			1019.8819	mod	61	NoMatch
+TIMEOUT			1023.8818	non	61	NoMatch
+TIMEOUT			1031.8818	non	62	Match
+TIMEOUT			1035.8818	fix	59	NoMatch
+TIMEOUT			1039.8818	fix	60	Match
+TIMEOUT			1047.8818	mod	62	NoMatch
+TIMEOUT			1051.8818	fix	61	Match
+TIMEOUT			1067.8818	fix	62	NoMatch
+TIMEOUT			1073.8818	non	63	NoMatch
+TIMEOUT			1077.8819	non	64	NoMatch
+TIMEOUT			1081.8818	non	65	Match
+TIMEOUT			1085.8818	fix	63	Match
+TIMEOUT			1091.8818	non	66	NoMatch
+TIMEOUT			1095.8819	mod	63	NoMatch
+TIMEOUT			1101.8819	non	67	Match
+TIMEOUT			1105.8818	fix	64	Match
+TIMEOUT			1113.8818	fix	65	NoMatch
+TIMEOUT			1117.8818	fix	66	Match
+TIMEOUT			1121.8818	non	68	NoMatch
+TIMEOUT			1127.8818	non	69	NoMatch
+TIMEOUT			1131.8818	non	70	Match
+TIMEOUT			1135.8818	mod	64	NoMatch
+TIMEOUT			1145.8818	mod	65	Match
+TIMEOUT			1149.8818	non	71	NoMatch
+TIMEOUT			1153.8819	mod	66	NoMatch
+TIMEOUT			1159.8818	fix	67	Match
+TIMEOUT			1163.8818	non	72	Match
+TIMEOUT			1171.8818	fix	68	Match
+TIMEOUT			1177.8818	mod	67	Match
+TIMEOUT			1185.8819	fix	69	Match
+TIMEOUT			1189.8818	fix	70	NoMatch
+TIMEOUT			1195.8818	fix	71	Match
+TIMEOUT			1199.8818	mod	68	NoMatch
+TIMEOUT			1203.8818	non	73	Match
+TIMEOUT			1207.8818	mod	69	Match
+TIMEOUT			1213.8819	mod	70	NoMatch
+TIMEOUT			1217.8818	non	74	Match
+TIMEOUT			1223.8818	mod	71	NoMatch
+TIMEOUT			1227.8818	mod	72	Match
+TIMEOUT			1235.8818	mod	73	Match
+TIMEOUT			1241.8818	mod	74	Match
+TIMEOUT			1247.8818	non	75	NoMatch
+TIMEOUT			1251.8818	fix	72	Match
+TIMEOUT			1257.8818	fix	73	Match
+TIMEOUT			1261.8819	mod	75	NoMatch
+TIMEOUT			1265.8818	fix	74	NoMatch
+TIMEOUT			1269.8818	fix	75	NoMatch
+TIMEOUT			1275.8818	fix	76	NoMatch
+TIMEOUT			1279.8818	non	76	Match
+TIMEOUT			1283.8818	mod	76	NoMatch
+KEY	a	2.5036	1287.9011	mod	76	NoMatch
+KEY	a	1.2402	1289.1491	mod	76	NoMatch
+KEY	`~	1.2886	1290.4532	mod	76	NoMatch
+TIMEOUT			1294.9365	fix	77	NoMatch
+TIMEOUT			1298.9364	mod	77	NoMatch
+TIMEOUT			1302.9364	non	77	Match
+TIMEOUT			1306.9364	non	78	Match
+TIMEOUT			1312.9365	fix	78	Match
+TIMEOUT			1318.9364	non	79	Match
+TIMEOUT			1332.9365	non	80	Match
+TIMEOUT			1336.9364	fix	79	Match
+TIMEOUT			1344.9364	non	81	Match
+TIMEOUT			1350.9365	non	82	NoMatch
+TIMEOUT			1354.9365	fix	80	Match
+TIMEOUT			1358.9365	mod	78	NoMatch
+TIMEOUT			1362.9365	non	83	NoMatch
+TIMEOUT			1366.9364	mod	79	Match
+TIMEOUT			1374.9365	non	84	Match
+TIMEOUT			1378.9365	mod	80	Match
+TIMEOUT			1382.9364	fix	81	NoMatch
+TIMEOUT			1390.9364	fix	82	NoMatch
+TIMEOUT			1396.9365	fix	83	Match
+TIMEOUT			1400.9364	fix	84	NoMatch
+TIMEOUT			1404.9365	mod	81	Match
+TIMEOUT			1410.9364	non	85	Match
+TIMEOUT			1414.9364	fix	85	Match
+TIMEOUT			1418.9365	non	86	Match
+TIMEOUT			1424.9364	mod	82	Match
+TIMEOUT			1430.9365	mod	83	NoMatch
+TIMEOUT			1434.9365	fix	86	Match
+TIMEOUT			1438.9364	mod	84	NoMatch
+TIMEOUT			1442.9364	non	87	Match
+TIMEOUT			1450.9365	non	88	Match
+TIMEOUT			1456.9364	mod	85	Match
+TIMEOUT			1460.9364	non	89	Match
+TIMEOUT			1470.9365	non	90	NoMatch
+TIMEOUT			1474.9364	non	91	NoMatch
+TIMEOUT			1480.9365	mod	86	NoMatch
+TIMEOUT			1484.9365	non	92	NoMatch
+TIMEOUT			1488.9365	fix	87	NoMatch
+TIMEOUT			1492.9365	mod	87	NoMatch
+TIMEOUT			1496.9364	mod	88	Match
+TIMEOUT			1502.9365	fix	88	Match
+TIMEOUT			1506.9364	mod	89	NoMatch
+TIMEOUT			1514.9364	fix	89	NoMatch
+TIMEOUT			1524.9365	mod	90	Match
+TIMEOUT			1528.9364	mod	91	NoMatch
+TIMEOUT			1532.9365	mod	92	NoMatch
+TIMEOUT			1536.9365	fix	90	NoMatch
+TIMEOUT			1540.9364	fix	91	NoMatch
+TIMEOUT			1548.9365	fix	92	Match
+TIMEOUT			1554.9364	fix	93	NoMatch
+TIMEOUT			1558.9365	mod	93	Match
+TIMEOUT			1562.9365	fix	94	NoMatch
+TIMEOUT			1566.9364	fix	95	NoMatch
+TIMEOUT			1572.9365	mod	94	Match
+TIMEOUT			1578.9364	mod	95	NoMatch
+TIMEOUT			1586.9364	non	93	Match
+TIMEOUT			1590.9364	non	94	Match
+TIMEOUT			1594.9365	non	95	NoMatch
+KEY	a	4.3555	1600.7966	non	95	NoMatch
+KEY	a	2.402	1603.2126	non	95	NoMatch
+KEY	`~	0.99913	1604.2206	non	95	NoMatch
+TIMEOUT			1608.7039	mod	96	Match
+TIMEOUT			1612.704	mod	97	Match
+TIMEOUT			1618.704	non	96	NoMatch
+TIMEOUT			1626.7039	mod	98	Match
+TIMEOUT			1630.704	non	97	Match
+TIMEOUT			1634.7039	fix	96	NoMatch
+TIMEOUT			1638.704	mod	99	Match
+TIMEOUT			1644.704	non	98	Match
+TIMEOUT			1650.7039	mod	100	Match
+TIMEOUT			1654.7039	non	99	Match
+TIMEOUT			1658.7039	fix	97	Match
+TIMEOUT			1664.7039	non	100	NoMatch
+TIMEOUT			1668.704	mod	101	Match
+TIMEOUT			1676.704	fix	98	NoMatch
+TIMEOUT			1682.7039	non	101	NoMatch
+TIMEOUT			1686.704	fix	99	NoMatch
+TIMEOUT			1690.704	non	102	Match
+TIMEOUT			1694.7039	mod	102	Match
+TIMEOUT			1700.7039	fix	100	NoMatch
+TIMEOUT			1706.704	mod	103	NoMatch
+TIMEOUT			1710.704	mod	104	Match
+TIMEOUT			1714.7039	fix	101	NoMatch
+TIMEOUT			1720.7039	fix	102	Match
+TIMEOUT			1724.704	mod	105	NoMatch
+TIMEOUT			1728.7039	non	103	Match
+TIMEOUT			1732.704	mod	106	NoMatch
+TIMEOUT			1736.7039	fix	103	NoMatch
+TIMEOUT			1744.704	fix	104	NoMatch
+TIMEOUT			1748.704	non	104	NoMatch
+TIMEOUT			1752.7039	fix	105	Match
+TIMEOUT			1756.7039	non	105	NoMatch
+TIMEOUT			1766.7039	mod	107	Match
+TIMEOUT			1770.7039	mod	108	NoMatch
+TIMEOUT			1776.7039	fix	106	NoMatch
+TIMEOUT			1780.704	non	106	NoMatch
+TIMEOUT			1786.704	fix	107	NoMatch
+TIMEOUT			1790.704	fix	108	Match
+TIMEOUT			1800.7039	non	107	NoMatch
+TIMEOUT			1806.704	non	108	NoMatch
+TIMEOUT			1810.7039	mod	109	NoMatch
+TIMEOUT			1814.704	non	109	Match
+TIMEOUT			1818.7039	non	110	NoMatch
+TIMEOUT			1826.7039	fix	109	NoMatch
+TIMEOUT			1832.7039	fix	110	Match
+TIMEOUT			1840.7039	non	111	Match
+TIMEOUT			1848.704	fix	111	NoMatch
+TIMEOUT			1852.704	fix	112	NoMatch
+TIMEOUT			1856.7039	mod	110	Match
+TIMEOUT			1860.7039	mod	111	Match
+TIMEOUT			1866.704	mod	112	Match
+TIMEOUT			1872.704	mod	113	Match
+TIMEOUT			1878.704	fix	113	NoMatch
+TIMEOUT			1882.704	fix	114	Match
+TIMEOUT			1890.704	non	112	Match
+TIMEOUT			1898.704	non	113	NoMatch
+TIMEOUT			1902.7039	mod	114	NoMatch
+TIMEOUT			1906.704	non	114	Match
+KEY	a	2.4334	1912.6472	non	114	Match
+KEY	a	1.3493	1914.0072	non	114	Match
+KEY	`~	1.0574	1915.0712	non	114	Match
+TIMEOUT			1919.5545	mod	115	NoMatch
+TIMEOUT			1923.5545	non	115	NoMatch
+TIMEOUT			1927.5545	non	116	Match
+TIMEOUT			1935.5545	mod	116	NoMatch
+TIMEOUT			1939.5545	mod	117	NoMatch
+TIMEOUT			1943.5544	mod	118	NoMatch
+TIMEOUT			1947.5544	non	117	NoMatch
+TIMEOUT			1953.5545	non	118	Match
+TIMEOUT			1957.5545	fix	115	NoMatch
+TIMEOUT			1961.5545	non	119	NoMatch
+TIMEOUT			1965.5544	mod	119	Match
+TIMEOUT			1969.5544	mod	120	Match
+TIMEOUT			1977.5544	mod	121	Match
+TIMEOUT			1985.5544	mod	122	Match
+TIMEOUT			1989.5545	non	120	Match
+TIMEOUT			1993.5545	non	121	Match
+TIMEOUT			1997.5545	mod	123	NoMatch
+TIMEOUT			2001.5545	fix	116	Match
+TIMEOUT			2009.5545	non	122	NoMatch
+TIMEOUT			2013.5544	mod	124	NoMatch
+TIMEOUT			2019.5545	fix	117	Match
+TIMEOUT			2025.5544	fix	118	NoMatch
+TIMEOUT			2035.5545	mod	125	NoMatch
+TIMEOUT			2039.5545	mod	126	Match
+TIMEOUT			2047.5544	fix	119	Match
+TIMEOUT			2051.5544	non	123	Match
+TIMEOUT			2055.5544	non	124	Match
+TIMEOUT			2061.5545	fix	120	Match
+TIMEOUT			2065.5545	mod	127	NoMatch
+TIMEOUT			2071.5545	non	125	Match
+TIMEOUT			2081.5545	fix	121	Match
+TIMEOUT			2085.5544	fix	122	NoMatch
+TIMEOUT			2097.5545	non	126	NoMatch
+TIMEOUT			2105.5545	fix	123	NoMatch
+TIMEOUT			2109.5545	fix	124	Match
+TIMEOUT			2119.5544	non	127	Match
+TIMEOUT			2123.5544	fix	125	Match
+TIMEOUT			2127.5545	fix	126	Match
+TIMEOUT			2131.5544	fix	127	NoMatch
+KEY	s	0.76993	2138.6366	fix	128	Match
+TIMEOUT			2143.5544	mod	128	NoMatch
+TIMEOUT			2147.5545	mod	129	NoMatch
+TIMEOUT			2151.5544	non	128	Match
+TIMEOUT			2155.5545	mod	130	NoMatch
+TIMEOUT			2159.5545	fix	129	NoMatch
+TIMEOUT			2165.5545	non	129	Match
+TIMEOUT			2169.5544	mod	131	NoMatch
+TIMEOUT			2173.5545	non	130	Match
+TIMEOUT			2177.5545	fix	130	Match
+TIMEOUT			2185.5544	non	131	Match
+TIMEOUT			2189.5544	fix	131	NoMatch
+TIMEOUT			2193.5545	non	132	Match
+TIMEOUT			2197.5545	mod	132	NoMatch
+TIMEOUT			2201.5545	fix	132	Match
+KEY	a	4.4199	2209.4879	fix	132	Match
+KEY	a	9.1916	2218.6959	fix	132	Match
+KEY	`~	1.2476	2219.9599	fix	132	Match
+TIMEOUT			2224.4432	mod	133	NoMatch
+TIMEOUT			2228.4432	non	133	NoMatch
+TIMEOUT			2234.4432	mod	134	Match
+TIMEOUT			2238.4432	fix	133	NoMatch
+TIMEOUT			2242.4432	fix	134	NoMatch
+TIMEOUT			2246.4432	mod	135	NoMatch
+TIMEOUT			2254.4432	mod	136	NoMatch
+TIMEOUT			2258.4432	non	134	Match
+TIMEOUT			2262.4432	fix	135	NoMatch
+TIMEOUT			2266.4432	non	135	Match
+TIMEOUT			2272.4432	non	136	Match
+TIMEOUT			2276.4432	mod	137	Match
+TIMEOUT			2280.4432	mod	138	Match
+TIMEOUT			2284.4432	non	137	NoMatch
+TIMEOUT			2290.4432	non	138	Match
+TIMEOUT			2296.4432	non	139	NoMatch
+TIMEOUT			2300.4432	mod	139	Match
+TIMEOUT			2304.4432	non	140	Match
+TIMEOUT			2310.4432	fix	136	NoMatch
+TIMEOUT			2316.4432	non	141	NoMatch
+TIMEOUT			2320.4432	mod	140	NoMatch
+TIMEOUT			2324.4432	mod	141	Match
+TIMEOUT			2332.4432	mod	142	NoMatch
+TIMEOUT			2336.4432	mod	143	NoMatch
+TIMEOUT			2342.4432	fix	137	NoMatch
+TIMEOUT			2352.4432	mod	144	NoMatch
+TIMEOUT			2356.4432	fix	138	NoMatch
+TIMEOUT			2364.4432	non	142	Match
+TIMEOUT			2374.4432	fix	139	NoMatch
+TIMEOUT			2378.4432	fix	140	NoMatch
+TIMEOUT			2386.4432	fix	141	NoMatch
+TIMEOUT			2394.4432	non	143	Match
+TIMEOUT			2398.4433	non	144	NoMatch
+TIMEOUT			2402.4432	fix	142	NoMatch
+TIMEOUT			2408.4432	mod	145	Match
+TIMEOUT			2414.4432	fix	143	NoMatch
+TIMEOUT			2418.4432	fix	144	Match
+TIMEOUT			2422.4432	mod	146	NoMatch
+TIMEOUT			2428.4432	mod	147	NoMatch
+TIMEOUT			2432.4432	fix	145	Match
+TIMEOUT			2436.4432	non	145	NoMatch
+TIMEOUT			2442.4432	mod	148	Match
+TIMEOUT			2446.4432	non	146	NoMatch
+TIMEOUT			2458.4432	fix	146	Match
+TIMEOUT			2464.4432	non	147	Match
+TIMEOUT			2468.4432	mod	149	Match
+TIMEOUT			2480.4432	non	148	Match
+TIMEOUT			2484.4432	non	149	Match
+TIMEOUT			2488.4432	mod	150	Match
+TIMEOUT			2492.4432	fix	147	NoMatch
+TIMEOUT			2496.4432	non	150	Match
+TIMEOUT			2500.4432	fix	148	Match
+TIMEOUT			2504.4432	fix	149	Match
+TIMEOUT			2508.4432	fix	150	NoMatch
+KEY	a	2.1195	2512.0699	fix	150	NoMatch
+KEY	a	0.83345	2512.9099	fix	150	NoMatch
+KEY	a	1.6763	2514.5899	fix	150	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 13:59:58
+
+START	1578.9386		0
+KEY	a	3.5389	3.673
+KEY	a	3.115	6.817
+KEY	`~	2.6443	9.481
+KEY	s	0.97669	13.249	non	1	Match
+KEY	ESCAPE	0.30134	20.577	non	2	Match
+TIMEOUT			20.6248	non	2	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 14:09:01
+
+START	2122.5746		0
+KEY	ESCAPE	0.87695	0.91811
+TIMEOUT			0.92794
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 14:09:14
+
+START	2135.6807		0
+KEY	a	1.3717	1.412
+KEY	ESCAPE	0.97037	2.428
+TIMEOUT			2.4369
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 14:09:27
+
+START	2147.8694		0
+KEY	`~	11.5932	11.6332
+KEY	`~	1.9717	13.6332
+KEY	`~	1.9875	15.6332
+TIMEOUT			20.1166	non	1	Match
+TIMEOUT			28.1166	non	2	Match
+TIMEOUT			32.1166	non	3	Match
+TIMEOUT			36.1166	fix	1	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:15:48
+
+START	5000.2274		0
+KEY	a	0.4449	0.49121
+KEY	a	0.62265	1.1712
+KEY	a	2.6425	3.8272
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:16:19
+
+START	5031.4806		0
+KEY	a	0.32496	0.35807
+KEY	a	0.39739	0.78207
+KEY	a	0.59486	1.3981
+KEY	`~	1.6874	3.1101
+TIMEOUT			14.5933	non	1	Match
+TIMEOUT			22.5933	non	2	Match
+KEY	ESCAPE	1.4469	26.3581	non	3	Match
+TIMEOUT			26.3623	non	3	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:17:17
+
+START	5089.0608		0
+KEY	a	0.37362	0.41788
+KEY	a	0.33034	0.80987
+KEY	a	0.97876	1.8099
+KEY	ESCAPE	5.8463	7.6819
+TIMEOUT			7.6899
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:17:39
+
+START	5111.1945		0
+KEY	a	0.24115	0.28415
+KEY	a	0.19652	0.52415
+KEY	a	0.16288	0.70815
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:19:07
+
+START	5199.6069		0
+KEY	a	0.95639	0.99982
+KEY	a	0.43915	1.5038
+KEY	a	0.63513	2.1518
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:22:48
+
+START	5420.8908		0
+KEY	a	0.35036	0.3678
+KEY	a	0.19731	0.5998
+KEY	a	0.18767	0.8078
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:23:29
+
+START	5461.947		0
+KEY	a	0.31432	0.35958
+KEY	a	0.20276	0.59956
+KEY	a	0.68111	1.2956
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:27:16
+
+START	5688.4641		0
+KEY	a	0.37507	0.41801
+KEY	a	0.40526	0.85001
+KEY	a	1.1867	2.05
+KEY	1!	1.3573	3.426
+KEY	ESCAPE	1.6634	14.882	non	1	Match
+TIMEOUT			14.8913	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:27:56
+
+START	5728.1925		0
+KEY	a	1.0071	1.0496
+KEY	a	0.63309	1.7136
+KEY	a	2.1242	3.8576
+KEY	`~	1.0613	4.9376
+KEY	4$	0.45189	15.1936	non	1	Match
+KEY	3#	0.35338	23.0976	non	2	Match
+KEY	ESCAPE	0.23213	26.9776	non	3	Match
+TIMEOUT			26.985	non	3	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:31:22
+
+START	5934.5344		0
+KEY	a	0.78681	0.82852
+KEY	a	0.59923	1.4445
+KEY	a	0.75577	2.2205
+KEY	`~	0.81766	3.0525
+KEY	ESCAPE	0.37945	13.2285	non	1	Match
+TIMEOUT			14.1	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 15:58:21
+
+START	7553.1867		0
+KEY	[{	2.0006	2.0415
+KEY	[{	2.1741	4.2576
+KEY	[{	5.789	10.0656
+KEY	`~	2.9476	13.0336
+KEY	[{	0.54922	16.3776	non	1	Match
+KEY	[{	0.50802	24.4895	non	2	Match
+KEY	[{	0.63831	28.7215	non	3	Match
+KEY	]}	0.48268	32.8016	fix	1	NoMatch
+KEY	[{	0.34946	38.7456	non	4	Match
+KEY	ESCAPE	0.31815	44.6576	fix	2	Match
+TIMEOUT			44.7702	fix	2	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 16:06:37
+
+START	8049.3914		0
+KEY	[{	1.339	1.3816
+KEY	[{	2.6302	4.0456
+KEY	[{	2.025	6.0856
+KEY	`~	4.0705	10.1736
+KEY	[{	0.43845	13.4056	mod	2	Match
+KEY	[{	0.49169	17.4936	non	1	Match
+KEY	[{	0.43875	21.5256	non	3	Match
+KEY	]}	0.42798	25.5496	fix	1	NoMatch
+KEY	]}	0.48125	29.6376	mod	1	NoMatch
+KEY	[{	0.35629	33.5976	non	4	Match
+KEY	]}	0.54126	37.7336	non	9	NoMatch
+KEY	]}	0.47007	41.7976	fix	9	NoMatch
+KEY	[{	0.34583	45.7416	mod	9	Match
+KEY	[{	0.41081	49.7576	fix	2	Match
+KEY	]}	0.37678	53.7416	fix	3	NoMatch
+KEY	]}	0.43228	57.7816	non	5	NoMatch
+KEY	]}	0.43755	61.8216	mod	3	NoMatch
+KEY	[{	0.4108	65.8296	mod	4	Match
+KEY	[{	4.8844	73.5176	mod	4	Match
+KEY	[{	2.6271	76.1656	mod	4	Match
+KEY	[{	0.9579	77.1416	mod	4	Match
+KEY	`~	0.65891	77.8136	mod	4	Match
+KEY	[{	0.41739	81.0376	non	81	Match
+KEY	]}	0.46313	87.0936	fix	77	NoMatch
+KEY	]}	0.60287	91.3016	mod	77	NoMatch
+KEY	[{	0.42473	95.3256	non	77	Match
+KEY	[{	0.47871	99.3976	non	78	Match
+KEY	[{	0.4421	105.6056	fix	78	Match
+KEY	[{	0.43035	111.6376	non	80	Match
+KEY	[{	0.53959	115.7816	fix	79	Match
+KEY	]}	0.40315	123.7816	non	82	NoMatch
+KEY	[{	0.36987	127.7496	fix	80	Match
+KEY	]}	0.41012	131.7576	mod	78	NoMatch
+KEY	]}	0.4321	135.7976	non	83	NoMatch
+KEY	[{	0.42136	139.8216	mod	79	Match
+KEY	[{	0.41811	147.8376	non	84	Match
+KEY	[{	0.85972	151.4936	non	84	Match
+TIMEOUT			151.6738	non	84	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 16:09:22
+
+START	8214.5985		0
+KEY	a	0.49225	0.53446
+KEY	ESCAPE	0.31577	0.91046
+TIMEOUT			0.94757
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 16:09:29
+
+START	8221.263		0
+KEY	[{	1.5891	1.63
+KEY	[{	1.3251	2.99
+KEY	[{	1.5538	4.558
+KEY	`~	0.82006	5.398
+TIMEOUT			16.8813	mod	115	NoMatch
+TIMEOUT			20.8813	non	115	NoMatch
+KEY	ESCAPE	1.3084	24.5031	non	116	Match
+TIMEOUT			24.5519	non	116	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 16:13:28
+
+START	8460.2312		0
+KEY	[{	0.7876	0.83098
+KEY	[{	1.1185	1.999
+KEY	ESCAPE	2.4361	4.455
+TIMEOUT			4.4927
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 16:13:56
+
+START	8488.239		0
+KEY	[{	0.33953	0.36712
+KEY	[{	0.5472	0.94312
+KEY	`~	4.81	5.7751
+KEY	]}	0.65051	16.2311	mod	115	NoMatch
+KEY	]}	0.52928	20.1111	non	115	NoMatch
+KEY	ESCAPE	0.40801	23.9911	non	116	Match
+TIMEOUT			24.0434	non	116	Match
+
+----------------------------------------------------------------------------
+Started at: 16-Jul-2009 16:14:47
+
+START	8540.0239		0
+KEY	[{	0.93996	0.98141
+KEY	[{	0.53545	1.5814
+KEY	`~	2.103	3.7014
+KEY	]}	0.49366	6.9974	mod	115	NoMatch
+KEY	]}	0.49226	11.1814	non	115	NoMatch
+KEY	[{	0.43928	15.2134	non	116	Match
+KEY	]}	0.5153	23.3254	mod	116	NoMatch
+KEY	ESCAPE	0.32486	27.2534	mod	117	NoMatch
+TIMEOUT			27.3161	mod	117	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:11:26
+
+START	723.3803		0
+TIMEOUT			15.2284
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:12:31
+
+START	789.0668		0
+TIMEOUT			14.8854
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:13:14
+
+START	831.3839		0
+KEY	3#	0.79494	0.83483
+KEY	3#	1.3454	2.2188
+KEY	ESCAPE	3.7941	6.0348
+TIMEOUT			6.1127
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:13:34
+
+START	851.5259		0
+TIMEOUT			23.3483
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:14:42
+
+START	919.5528		0
+KEY	1!	22.9743	23.0151
+KEY	1!	0.30929	23.3431
+KEY	`~	8.1383	31.5057
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:16:43
+
+START	1041.1204		0
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:16:58
+
+START	1055.288		0
+TIMEOUT			4.6214
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:19:42
+
+START	1219.3117		0
+KEY	a	0.36921	0.40945
+KEY	a	0.8484	1.3055
+KEY	ESCAPE	1.4533	2.7775
+TIMEOUT			2.8174
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:20:33
+
+START	1271.1507		0
+TIMEOUT			15.959
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:21:13
+
+START	1310.4833		0
+TIMEOUT			13.6752
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:21:45
+
+START	1342.7972		0
+KEY	a	0.40439	0.44401
+KEY	s	1.5629	2.036
+KEY	`~	42.4575	44.5148
+TIMEOUT			55.9981	mod	115	NoMatch
+TIMEOUT			59.9981	non	115	NoMatch
+TIMEOUT			63.9981	non	116	Match
+TIMEOUT			71.9982	mod	116	NoMatch
+TIMEOUT			75.9982	mod	117	NoMatch
+TIMEOUT			79.9981	mod	118	NoMatch
+TIMEOUT			83.9982	non	117	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:24:33
+
+START	1510.9672		0
+KEY	a	0.62727	0.667
+KEY	a	1.8725	2.579
+TIMEOUT			20.6279
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:25:27
+
+START	1564.6726		0
+KEY	a	0.47545	0.51551
+KEY	a	0.39848	0.95551
+KEY	3#	22.8976	23.8714
+KEY	4$	1.033	34.7038	mod	115	NoMatch
+KEY	3#	1.031	38.7034	non	115	NoMatch
+KEY	3#	0.9172	42.5914	non	116	Match
+TIMEOUT			51.3548	mod	116	NoMatch
+KEY	4$	0.73696	54.3994	mod	117	NoMatch
+KEY	4$	0.38328	58.0474	mod	118	NoMatch
+TIMEOUT			64.8949	non	117	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:31:21
+
+START	1918.8686		0
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:31:49
+
+START	1946.6314		0
+TIMEOUT			8.8616
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:32:10
+
+START	1967.3246		0
+KEY	a	0.4026	0.4419
+KEY	`~	1.0331	1.5059
+TIMEOUT			5.9308
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:40:20
+
+START	2457.8962		0
+TIMEOUT			6.2854
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:40:37
+
+START	2474.3125		0
+KEY	a	0.49802	0.54416
+KEY	s	2.4692	3.0322
+TIMEOUT			15.2029
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:42:16
+
+START	2573.7773		0
+KEY	a	5.2064	5.2627
+KEY	a	5.7796	11.0547
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:42:51
+
+START	2608.8679		0
+KEY	ESCAPE	1.622	1.6356
+TIMEOUT			1.6467
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:43:13
+
+START	2630.4342		0
+KEY	a	0.83766	0.87723
+KEY	a	1.1473	2.0372
+KEY	`~	5.8448	7.9019
+TIMEOUT			19.3853	non	1	Match
+TIMEOUT			27.3853	non	2	Match
+TIMEOUT			31.3853	non	3	Match
+TIMEOUT			35.3853	fix	1	NoMatch
+TIMEOUT			41.3853	non	4	Match
+KEY	a	12.2527	64.1473	non	4	Match
+KEY	a	7.8049	71.9713	non	4	Match
+KEY	`~	5.9556	77.9419	non	4	Match
+TIMEOUT			89.4253	fix	2	Match
+TIMEOUT			93.4252	fix	3	NoMatch
+TIMEOUT			97.4253	mod	1	NoMatch
+KEY	a	2.9435	110.8781	mod	1	NoMatch
+KEY	a	3.1682	114.0541	mod	1	NoMatch
+TIMEOUT			114.249	mod	1	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 12:46:07
+
+START	2804.7732		0
+KEY	a	1.9878	2.0444
+KEY	a	7.3308	9.3883
+KEY	`~	5.0809	14.4749
+TIMEOUT			25.9583	fix	1	Match
+TIMEOUT			29.9583	mod	1	NoMatch
+TIMEOUT			33.9583	non	1	NoMatch
+TIMEOUT			37.9583	fix	2	Match
+TIMEOUT			41.9583	mod	2	NoMatch
+TIMEOUT			45.9583	mod	3	Match
+TIMEOUT			51.9583	mod	4	NoMatch
+TIMEOUT			55.9583	fix	3	NoMatch
+TIMEOUT			59.9583	mod	5	Match
+TIMEOUT			63.9583	non	2	NoMatch
+TIMEOUT			67.9583	non	3	Match
+TIMEOUT			71.9583	non	4	NoMatch
+TIMEOUT			83.9583	non	5	Match
+TIMEOUT			89.9583	non	6	NoMatch
+TIMEOUT			93.9583	mod	6	Match
+TIMEOUT			97.9583	mod	7	NoMatch
+TIMEOUT			107.9583	fix	4	Match
+TIMEOUT			111.9582	non	7	Match
+TIMEOUT			115.9582	mod	8	Match
+TIMEOUT			119.9583	non	8	Match
+TIMEOUT			123.9583	fix	5	NoMatch
+TIMEOUT			131.9583	non	9	Match
+TIMEOUT			137.9583	fix	6	NoMatch
+TIMEOUT			141.9583	fix	7	NoMatch
+TIMEOUT			145.9582	fix	8	Match
+TIMEOUT			151.9583	fix	9	NoMatch
+TIMEOUT			157.9583	non	10	NoMatch
+TIMEOUT			161.9583	mod	9	NoMatch
+TIMEOUT			171.9583	fix	10	Match
+TIMEOUT			175.9583	non	11	Match
+TIMEOUT			183.9583	non	12	Match
+TIMEOUT			191.9583	mod	10	NoMatch
+TIMEOUT			195.9583	non	13	Match
+TIMEOUT			199.9583	mod	11	Match
+TIMEOUT			205.9582	mod	12	NoMatch
+TIMEOUT			209.9583	non	14	Match
+TIMEOUT			223.9583	non	15	NoMatch
+TIMEOUT			227.9583	fix	11	NoMatch
+TIMEOUT			231.9583	fix	12	Match
+TIMEOUT			239.9582	non	16	NoMatch
+TIMEOUT			243.9583	mod	13	NoMatch
+TIMEOUT			249.9583	fix	13	Match
+TIMEOUT			253.9583	mod	14	Match
+TIMEOUT			261.9583	non	17	Match
+TIMEOUT			265.9583	fix	14	NoMatch
+TIMEOUT			269.9583	fix	15	Match
+TIMEOUT			273.9583	mod	15	Match
+TIMEOUT			277.9583	fix	16	NoMatch
+TIMEOUT			281.9582	fix	17	Match
+TIMEOUT			289.9583	mod	16	NoMatch
+TIMEOUT			297.9582	mod	17	NoMatch
+TIMEOUT			301.9583	fix	18	NoMatch
+TIMEOUT			307.9583	fix	19	NoMatch
+TIMEOUT			313.9583	mod	18	NoMatch
+TIMEOUT			317.9583	mod	19	NoMatch
+TIMEOUT			321.9583	non	18	Match
+TIMEOUT			325.9583	non	19	NoMatch
+KEY	a	5.463	339.9258	non	19	NoMatch
+KEY	ESCAPE	2.8742	342.8059	non	19	NoMatch
+TIMEOUT			343.3933	non	19	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 13:11:56
+
+START	3966.7627		0
+KEY	a	0.91679	0.95825
+KEY	a	0.72979	1.7423
+KEY	`~	3.8964	5.6623
+KEY	3#	0.8657	16.3262	fix	1	Match
+KEY	4$	0.94223	20.4542	mod	1	NoMatch
+KEY	4$	0.91121	24.3743	non	1	NoMatch
+KEY	4$	0.93396	28.3983	fix	2	Match
+KEY	3#	0.42071	31.8863	mod	2	NoMatch
+KEY	3#	0.32344	35.7902	mod	3	Match
+KEY	4$	0.2899	41.7503	mod	4	NoMatch
+TIMEOUT			47.1456	fix	3	NoMatch
+KEY	4$	0.93542	50.3983	mod	5	Match
+KEY	4$	1.6381	55.1023	non	2	NoMatch
+KEY	4$	1.2769	58.7423	non	3	Match
+TIMEOUT			63.1456	non	4	NoMatch
+KEY	4$	0.42383	73.8943	non	5	Match
+KEY	ESCAPE	0.29436	79.7583	non	6	NoMatch
+TIMEOUT			82.0861	non	6	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 13:13:43
+
+START	4073.9101		0
+KEY	a	1.0981	1.1388
+KEY	a	0.87166	2.0508
+KEY	`~	4.0883	6.1548
+TIMEOUT			10.6382	fix	1	Match
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 13:14:37
+
+START	4128.3706		0
+KEY	a	1.7495	1.7904
+KEY	a	1.9909	3.8064
+KEY	`~	2.6779	6.5024
+TIMEOUT			17.1616	fix	1	Match
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 13:15:27
+
+START	4177.8755		0
+KEY	a	1.2524	1.2934
+KEY	a	2.5785	3.9254
+KEY	`~	1.6475	5.5894
+TIMEOUT			10.0728	fix	1	Match
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 13:15:59
+
+START	4210.0177		0
+KEY	a	0.78034	0.82326
+KEY	a	0.32734	1.2073
+KEY	`~	1.0637	2.2953
+TIMEOUT			6.7786	fix	1	Match
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 13:18:16
+
+START	4347.4524		0
+KEY	a	0.34899	0.38957
+KEY	a	0.36321	0.80558
+KEY	`~	1.3942	2.2216
+TIMEOUT			13.7049	fix	1	Match
+KEY	3#	1.4081	17.4369	mod	1	NoMatch
+TIMEOUT			21.7049	non	1	NoMatch
+KEY	4$	0.27829	24.2929	fix	2	Match
+KEY	ESCAPE	0.43703	28.4529	mod	2	NoMatch
+TIMEOUT			28.5008	mod	2	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 13:18:51
+
+START	4382.0404		0
+KEY	a	1.128	1.1689
+KEY	a	0.90736	2.1369
+KEY	`~	0.36257	2.5129
+TIMEOUT			6.9963	fix	1	Match
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 13:21:58
+
+START	4568.727		0
+KEY	a	1.0211	1.0616
+KEY	a	0.53436	1.6296
+KEY	`~	0.74187	2.3896
+TIMEOUT			6.8729	fix	1	Match
+TIMEOUT			11.8748	mod	1	NoMatch
+TIMEOUT			16.8803	non	1	NoMatch
+TIMEOUT			21.8861	fix	2	Match
+KEY	[{	0.5177	25.721	mod	2	NoMatch
+KEY	[{	0.41524	29.737	mod	3	Match
+KEY	ESCAPE	0.19698	35.5289	mod	4	NoMatch
+TIMEOUT			35.5866	mod	4	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 13:23:02
+
+START	4633.3117		0
+KEY	a	2.035	2.0803
+KEY	a	0.85507	2.9763
+KEY	`~	0.58447	3.5763
+KEY	[{	0.52266	6.8963	fix	1	Match
+TIMEOUT			12.1796	mod	1	NoMatch
+KEY	[{	1.408	18.4125	non	1	NoMatch
+KEY	[{	0.87424	22.8845	fix	2	Match
+KEY	ESCAPE	0.28423	26.7645	mod	2	NoMatch
+TIMEOUT			26.8148	mod	2	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 17-Jul-2009 13:33:15
+
+START	5245.8421		0
+KEY	a	2.2177	2.3939
+KEY	a	1.4056	3.8419
+KEY	a	1.5426	5.4019
+KEY	`~	1.1136	6.5299
+KEY	ESCAPE	0.38203	16.7139	fix	1	Match
+TIMEOUT			16.7589	fix	1	Match
+
+----------------------------------------------------------------------------
+Started at: 23-Jul-2009 14:54:01
+
+START	2249.3897		0
+KEY	a	1.3611	1.7569
+KEY	9(	2.8581	4.6769
+KEY	`~	1.9378	6.6529
+TIMEOUT			11.1362	mod	2	Match
+KEY	[{	0.49886	17.4689	non	1	Match
+KEY	[{	0.52517	21.5969	non	3	Match
+KEY	]}	0.4547	25.6449	fix	1	NoMatch
+KEY	]}	0.49922	29.7409	mod	1	NoMatch
+KEY	ESCAPE	0.34151	33.6849	non	4	Match
+TIMEOUT			33.907	non	4	Match
+
+----------------------------------------------------------------------------
+Started at: 23-Jul-2009 15:00:24
+
+START	2490.0011		0
+KEY	[{	35.1896	35.3511
+KEY	[{	3.5419	38.9111
+KEY	ESCAPE	0.72068	39.6391
+TIMEOUT			39.6753
+
+----------------------------------------------------------------------------
+Started at: 23-Jul-2009 15:01:13
+
+START	2539.1227		0
+KEY	[{	0.46169	0.62149
+KEY	[{	4.3288	4.9575
+KEY	`~	4.9928	9.9575
+KEY	[{	0.67843	13.4615	mod	2	Match
+KEY	[{	0.44935	17.5015	non	1	Match
+KEY	[{	0.41455	21.5015	non	3	Match
+KEY	]}	0.46134	25.5495	fix	1	NoMatch
+KEY	]}	0.47378	29.6135	mod	1	NoMatch
+KEY	[{	0.40557	33.6135	non	4	Match
+KEY	[{	0.54837	37.7575	non	9	NoMatch
+KEY	]}	0.66915	42.0135	fix	9	NoMatch
+KEY	[{	0.39995	46.0135	mod	9	Match
+KEY	]}	0.6793	50.2775	fix	2	Match
+KEY	]}	0.67441	54.5415	fix	3	NoMatch
+KEY	]}	1.4612	59.5975	non	5	NoMatch
+KEY	]}	0.93331	64.1255	mod	3	NoMatch
+KEY	[{	0.55708	68.2695	mod	4	Match
+KEY	[{	5.8005	76.8615	mod	4	Match
+KEY	[{	9.9303	87.7884	mod	4	Match
+KEY	`~	12.2899	100.0924	mod	4	Match
+KEY	]}	1.0078	104.0284	non	81	Match
+KEY	]}	0.79541	110.4124	fix	77	NoMatch
+KEY	]}	0.81722	114.8204	mod	77	NoMatch
+KEY	[{	0.67005	119.0764	non	77	Match
+KEY	]}	0.84961	123.6924	non	78	Match
+KEY	[{	0.81201	130.1004	fix	78	Match
+KEY	[{	0.82402	136.5244	non	80	Match
+KEY	[{	1.1802	141.3004	fix	79	Match
+KEY	]}	1.6076	150.5004	non	82	NoMatch
+KEY	]}	1.1461	155.3964	fix	80	Match
+KEY	[{	1.18	159.3644	fix	80	Match
+TIMEOUT			160.5145	fix	80	Match
+
+----------------------------------------------------------------------------
+Started at: 23-Jul-2009 15:04:21
+
+START	2726.1765		0
+KEY	[{	1.3891	1.5667
+KEY	[{	1.5989	3.1827
+KEY	`~	0.95964	4.1507
+KEY	[{	1.5265	15.4657	mod	115	NoMatch
+KEY	[{	0.96513	18.9057	non	115	NoMatch
+KEY	]}	1.012	22.9537	non	116	Match
+KEY	]}	1.6174	31.5617	mod	116	NoMatch
+KEY	]}	0.52811	34.4737	mod	117	NoMatch
+KEY	]}	0.94288	38.8897	mod	118	NoMatch
+KEY	]}	0.43771	42.3857	non	117	NoMatch
+KEY	[{	0.56419	48.5057	non	118	Match
+KEY	]}	1.5228	53.4657	fix	115	NoMatch
+TIMEOUT			57.6339	non	119	NoMatch
+TIMEOUT			61.634	mod	119	Match
+KEY	a	3.8188	66.9617	mod	119	Match
+TIMEOUT			68.0539	mod	119	Match
+
+----------------------------------------------------------------------------
+Started at: 18-Aug-2009 17:49:38
+
+START	17855.0182		0
+KEY	a	1.545	1.8219
+KEY	a	0.35361	2.1979
+TIMEOUT			17.7993
+
+----------------------------------------------------------------------------
+Started at: 22-Aug-2009 14:30:30
+
+START	637.8122		0
+KEY	a	2.0305	2.3465
+KEY	a	1.2818	3.6905
+KEY	a	0.37519	4.1064
+KEY	`~	0.86142	4.9945
+
+----------------------------------------------------------------------------
+Started at: 22-Aug-2009 14:37:57
+
+START	249.4519		0
+KEY	ESCAPE	1.1437	1.5196
+TIMEOUT			1.5671
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 15:38:04
+
+START	1276.4209		0
+KEY	ESCAPE	2.4798	2.8371
+TIMEOUT			2.8921
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 15:38:26
+
+START	1298.931		0
+KEY	a	4.7473	4.911
+KEY	a	0.79912	5.751
+KEY	`~	0.34681	6.119
+KEY	[{	0.40736	9.327	mod	2	Match
+KEY	[{	0.51808	13.439	non	1	Match
+KEY	[{	0.39165	17.431	non	3	Match
+KEY	]}	0.40713	21.431	fix	1	NoMatch
+KEY	ESCAPE	0.36587	25.391	mod	1	NoMatch
+TIMEOUT			25.3986	mod	1	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 15:43:26
+
+START	1598.9345		0
+KEY	a	0.53472	0.68882
+KEY	a	0.31822	1.0248
+KEY	`~	0.94332	1.9848
+KEY	[{	0.30602	5.0808	mod	2	Match
+KEY	ESCAPE	0.27711	8.9528	non	1	Match
+TIMEOUT			8.9602	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 15:43:46
+
+START	1618.376		0
+KEY	a	0.68089	0.84733
+KEY	a	0.39363	1.2633
+KEY	ESCAPE	1.4479	2.7193
+TIMEOUT			2.7273
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 15:43:54
+
+START	1626.8983		0
+KEY	a	0.33539	0.501
+KEY	a	0.25568	0.77299
+KEY	`~	0.58787	1.373
+KEY	]}	0.61598	11.781	mod	115	NoMatch
+KEY	]}	0.56686	15.733	non	115	NoMatch
+KEY	ESCAPE	0.37351	19.541	non	116	Match
+TIMEOUT			19.5487	non	116	Match
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 15:44:50
+
+START	1682.5138		0
+KEY	a	1.3515	1.5175
+KEY	a	0.59466	2.1335
+KEY	a	0.96806	3.1095
+KEY	`~	1.477	4.5895
+TIMEOUT			16.0728	mod	1	Match
+KEY	3#	0.45666	18.8375	non	1	NoMatch
+KEY	3#	0.4953	22.8775	fix	1	NoMatch
+KEY	3#	0.38855	32.7655	mod	2	NoMatch
+KEY	ESCAPE	0.27534	36.6535	fix	2	Match
+TIMEOUT			36.661	fix	2	Match
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 17:03:06
+
+START	5674.2243		0
+KEY	a	0.75374	1.01
+KEY	a	0.52214	1.562
+TIMEOUT			10.1278
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 17:03:23
+
+START	5691.7327		0
+TIMEOUT			10.2364
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 17:03:49
+
+START	5717.6427		0
+KEY	a	0.44239	0.63155
+KEY	a	0.42343	1.0796
+KEY	a	0.31738	1.4235
+KEY	`~	0.7438	2.1836
+KEY	4$	1.0941	13.0715	mod	1	Match
+KEY	3#	0.51649	16.4956	non	1	NoMatch
+KEY	ESCAPE	0.42676	20.4076	fix	1	NoMatch
+TIMEOUT			20.4156	fix	1	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 30-Aug-2009 17:04:27
+
+START	5755.1918		0
+KEY	a	0.32648	0.48249
+KEY	a	0.29641	0.80248
+KEY	a	0.22032	1.0265
+KEY	`~	1.0748	2.1145
+KEY	4$	0.37155	12.2825	mod	1	Match
+KEY	ESCAPE	0.37787	16.2905	non	1	NoMatch
+TIMEOUT			16.2979	non	1	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 09-Sep-2009 13:25:27
+
+START	2857.8075		0
+KEY	space	1.3684	1.7864
+KEY	space	0.76206	2.5864
+KEY	`~	1.2799	3.8744
+KEY	[{	0.46762	7.1304	mod	2	Match
+TIMEOUT			12.4137	non	1	Match
+KEY	[{	0.51589	18.7304	non	3	Match
+KEY	]}	0.46219	22.7784	fix	1	NoMatch
+KEY	]}	0.46684	26.8344	mod	1	NoMatch
+KEY	ESCAPE	0.24733	30.6664	non	4	Match
+TIMEOUT			30.7647	non	4	Match
+
+----------------------------------------------------------------------------
+Started at: 09-Sep-2009 13:26:19
+
+START	2909.5951		0
+KEY	space	2.3976	2.5588
+KEY	space	0.59471	3.1668
+KEY	`~	1	4.1748
+KEY	]}	0.54563	14.5188	mod	115	NoMatch
+KEY	]}	0.50438	18.4788	non	115	NoMatch
+KEY	[{	0.55977	22.5188	non	116	Match
+KEY	]}	0.46142	30.4228	mod	116	NoMatch
+KEY	]}	0.4761	34.4388	mod	117	NoMatch
+KEY	]}	0.65887	38.6228	mod	118	NoMatch
+KEY	ESCAPE	0.63361	42.5988	non	117	NoMatch
+TIMEOUT			42.6063	non	117	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 09-Sep-2009 18:38:11
+
+START	20396.7228		0
+KEY	a	0.63397	0.83242
+KEY	a	0.27706	1.1284
+KEY	`~	1.3604	2.4964
+KEY	[{	0.35244	5.6404	mod	2	Match
+KEY	[{	0.74547	9.9844	non	1	Match
+KEY	ESCAPE	0.30516	13.8804	non	3	Match
+TIMEOUT			13.8905	non	3	Match
+
+----------------------------------------------------------------------------
+Started at: 09-Sep-2009 18:38:34
+
+START	20420.1605		0
+KEY	a	0.61313	0.77872
+KEY	a	0.89694	1.6987
+KEY	`~	0.5529	2.2587
+KEY	]}	0.59853	12.6507	mod	115	NoMatch
+KEY	ESCAPE	0.30927	16.3627	non	115	NoMatch
+TIMEOUT			16.3702	non	115	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 09-Sep-2009 18:42:13
+
+START	20639.4943		0
+KEY	a	0.52666	0.69098
+KEY	a	0.37479	1.075
+KEY	a	0.26185	1.347
+KEY	`~	0.74586	2.099
+KEY	4$	0.45547	12.339	mod	1	Match
+KEY	ESCAPE	0.38996	16.275	non	1	Match
+TIMEOUT			16.2825	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 12-Sep-2009 15:42:02
+
+START	2186.4774		0
+KEY	a	1.3434	1.7457
+KEY	a	0.14665	1.9217
+KEY	`~	0.87592	2.8017
+KEY	[{	0.3535	5.9458	mod	2	Match
+KEY	ESCAPE	0.57842	10.1218	non	1	Match
+TIMEOUT			10.1835	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 13-Sep-2009 16:58:39
+
+START	1051.4482		0
+KEY	a	5.8602	6.2395
+KEY	a	1.9669	8.4156
+KEY	`~	1.0466	9.4795
+KEY	[{	0.80382	13.0715	mod	2	Match
+KEY	ESCAPE	0.44195	17.1115	non	1	Match
+TIMEOUT			17.1732	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 13-Sep-2009 16:59:17
+
+START	1089.7368		0
+KEY	ESCAPE	0.96685	1.2069
+TIMEOUT			1.2173
+
+----------------------------------------------------------------------------
+Started at: 05-Oct-2009 00:04:12
+
+START	40118.4262		0
+
+----------------------------------------------------------------------------
+Started at: 05-Oct-2009 00:04:23
+
+START	40129.1282		0
+KEY	a	1.4809	1.7417
+KEY	a	0.51022	2.2777
+KEY	a	0.39112	2.6777
+KEY	`~	1.9734	4.6617
+TIMEOUT			16.145	mod	1	Match
+TIMEOUT			20.1451	non	1	Match
+TIMEOUT			24.145	fix	1	Match
+KEY	ESCAPE	0.43635	32.8916	fix	2	Match
+TIMEOUT			32.9001	fix	2	Match
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 13:14:01
+
+START	1216216.178		0
+KEY	a	0.70058	0.88013
+TIMEOUT			0.9123
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 13:17:05
+
+START	1216399.7916		0
+KEY	a	0.55151	0.71455
+KEY	a	0.85482	1.5865
+KEY	`~	1.273	2.8745
+KEY	[{	0.38425	6.0505	mod	2	Match
+KEY	ESCAPE	0.34725	9.9946	non	1	Match
+TIMEOUT			10.0059	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 16:58:29
+
+START	1229683.5909		0
+KEY	a	1.3574	1.733
+KEY	a	0.47159	2.269
+KEY	`~	1.9058	4.205
+KEY	[{	0.39745	7.397	mod	2	Match
+KEY	ESCAPE	0.27166	11.269	non	1	Match
+TIMEOUT			11.3316	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 22-Jan-2010 18:12:15
+
+START	21288.7793		0
+KEY	Return	1.5587	1.9518
+KEY	Return	0.64821	2.6638
+KEY	`~	2.1479	4.8158
+TIMEOUT			9.2991	mod	2	Match
+KEY	[{	0.86213	15.9918	non	1	Match
+KEY	ESCAPE	0.75599	20.3518	non	3	Match
+TIMEOUT			20.3765	non	3	Match

@@ -1,0 +1,98 @@
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 20:01:09
+
+START	74537.5331		0
+STIM	Text	Press any key to begin the practice.	0.12667
+STIM	Paragraph	Please lie as still as possible.	1.129
+STIM	Text	The next run is about to begin.	1.7137
+STIM	Text	+	2.6492
+STIM	Picture	s3.jpg	3.6515	mod	2	Match
+STIM	Blank		3.9355	mod	2	Match
+STIM	Picture	Red.jpg	4.2362	mod	2	Match
+STIM	Blank		4.5369	mod	2	Match
+STIM	Picture	Heart.jpg	4.8209	mod	2	Match
+STIM	Blank		5.1216	mod	2	Match
+STIM	Picture	RedHeart_1.jpg	5.4222	mod	2	Match
+STIM	Blank		5.7397	mod	2	Match
+STIM	Text	Correct!	6.0403	mod	2	Match
+STIM	Text	+	7.0093	mod	2	Match
+STIM	Picture	s2.jpg	7.5104	non	1	Match
+STIM	Blank		7.8111	non	1	Match
+STIM	Picture	nw5.jpg	8.1118	non	1	Match
+STIM	Blank		8.4125	non	1	Match
+STIM	Picture	Car.jpg	8.7132	non	1	Match
+STIM	Blank		9.0139	non	1	Match
+STIM	Picture	GreenCar_3.jpg	9.3146	non	1	Match
+STIM	Cleanup		9.8324	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 20:06:01
+
+START	74829.9598		0
+STIM	Text	Press any key to begin the practice.	0.17593
+STIM	Cleanup		0.24276
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 20:06:54
+
+START	74882.6675		0
+STIM	Text	Press any key to begin the practice.	0.15663
+STIM	Paragraph	Please lie as still as possible.	1.5599
+STIM	Text	The next run is about to begin.	2.3784
+STIM	Text	+	2.9631
+STIM	Cleanup		3.9654	mod	2	Match
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 20:07:42
+
+START	74930.8452		0
+STIM	Text	Press any key to begin the practice.	0.157
+STIM	Paragraph	Please lie as still as possible.	0.8419
+STIM	Text	The next run is about to begin.	1.0925
+STIM	Text	+	1.9278
+STIM	Picture	s3.jpg	2.9301	mod	2	Match
+STIM	Blank		3.2141	mod	2	Match
+STIM	Picture	Red.jpg	3.5147	mod	2	Match
+STIM	Blank		3.8154	mod	2	Match
+STIM	Picture	Heart.jpg	4.1161	mod	2	Match
+STIM	Blank		4.4168	mod	2	Match
+STIM	Picture	RedHeart_1.jpg	4.7175	mod	2	Match
+STIM	Blank		5.1185	mod	2	Match
+STIM	Text	Correct!	5.4192	mod	2	Match
+STIM	Text	+	6.4048	mod	2	Match
+STIM	Picture	s2.jpg	6.9059	non	1	Match
+STIM	Blank		7.2066	non	1	Match
+STIM	Picture	nw5.jpg	7.5073	non	1	Match
+STIM	Blank		7.808	non	1	Match
+STIM	Picture	Car.jpg	8.1087	non	1	Match
+STIM	Blank		8.3927	non	1	Match
+STIM	Picture	GreenCar_3.jpg	8.6934	non	1	Match
+STIM	Cleanup		9.0943	non	1	Match
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 20:12:06
+
+START	75195.304		0
+STIM	Text	Press any key to begin the practice.	0.17602
+STIM	Paragraph	Please lie as still as possible.	1.5292
+STIM	Text	The next run is about to begin.	2.1974
+STIM	Text	+	2.9658
+STIM	Picture	s3.jpg	3.9681	mod	2	Match
+STIM	Blank		4.2521	mod	2	Match
+STIM	Picture	Red.jpg	4.5528	mod	2	Match
+STIM	Blank		4.8535	mod	2	Match
+STIM	Picture	Heart.jpg	5.1375	mod	2	Match
+STIM	Blank		5.4382	mod	2	Match
+STIM	Picture	RedHeart_1.jpg	5.7389	mod	2	Match
+STIM	Blank		6.1732	mod	2	Match
+STIM	Text	Correct!	6.4739	mod	2	Match
+STIM	Text	+	7.4595	mod	2	Match
+STIM	Picture	s2.jpg	7.9607	non	1	Match
+STIM	Blank		8.2614	non	1	Match
+STIM	Picture	nw5.jpg	8.5621	non	1	Match
+STIM	Blank		8.8628	non	1	Match
+STIM	Picture	Car.jpg	9.1635	non	1	Match
+STIM	Blank		9.4642	non	1	Match
+STIM	Picture	GreenCar_3.jpg	9.7648	non	1	Match
+STIM	Cleanup		10.2159	non	1	Match

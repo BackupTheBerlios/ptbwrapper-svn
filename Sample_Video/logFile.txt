@@ -1,0 +1,3339 @@
+
+----------------------------------------------------------------------------------------
+STIM: 0.042925 (Text , The next run is about to begin.)
+STIM: 1.8175 (Text , +)
+STIM: 2.822 (Text , red)
+STIM: 3.0899 (Blank , )
+STIM: 3.3912 (Text , star)
+STIM: 3.6926 (Blank , )
+STIM: 3.994 (Picture , Test.jpg)
+STIM: 4.6803 (Text , +)
+STIM: 6.7898 (Text , red)
+STIM: 7.0911 (Blank , )
+STIM: 7.3925 (Text , star)
+STIM: 7.6939 (Blank , )
+STIM: 7.9952 (Picture , Test.jpg)
+STIM: 9.8033 (Text , +)
+STIM: 10.791 (Text , red)
+STIM: 11.0924 (Blank , )
+STIM: 11.3938 (Text , star)
+STIM: 11.6951 (Blank , )
+STIM: 11.9965 (Picture , Test.jpg)
+STIM: 12.8168 (Text , +)
+STIM: 14.7923 (Cleanup , )
+
+----------------------------------------------------------------------------
+STIM: 0.025993 (Text , The next run is about to begin.)
+STIM: 0.87983 (Text , +)
+STIM: 1.8843 (Text , red)
+STIM: 2.1355 (Blank , )
+STIM: 2.4368 (Text , star)
+STIM: 2.7382 (Blank , )
+STIM: 3.0395 (Picture , Test.jpg)
+STIM: 3.6255 (Text , +)
+STIM: 5.8354 (Text , red)
+STIM: 6.1367 (Blank , )
+STIM: 6.4381 (Text , star)
+STIM: 6.7394 (Blank , )
+STIM: 7.0408 (Picture , Test.jpg)
+STIM: 8.8321 (Text , +)
+STIM: 9.8366 (Text , red)
+STIM: 10.138 (Blank , )
+STIM: 10.4393 (Text , star)
+STIM: 10.7407 (Blank , )
+STIM: 11.042 (Picture , Test.jpg)
+STIM: 11.5275 (Text , +)
+STIM: 13.8379 (Cleanup , )
+
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+STIM: 0.029594 (Text , The next run is about to begin.)
+KEY: 0.23657 (a , 0.20697)
+STIM: 0.26397 (Text , +)
+STIM: 1.2685 (Text , red)
+STIM: 1.5364 (Blank , )
+STIM: 1.8377 (Text , star)
+STIM: 2.1391 (Blank , )
+STIM: 2.4404 (Picture , Test.jpg)
+KEY: 3.0846 (a , 0.64414)
+STIM: 3.1101 (Text , +)
+STIM: 5.2363 (Text , red)
+STIM: 5.5376 (Blank , )
+STIM: 5.839 (Text , star)
+STIM: 6.1403 (Blank , )
+STIM: 6.4417 (Picture , Test.jpg)
+KEY: 6.6446 (s , 0.20289)
+STIM: 6.6593 (Text , +)
+
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+STIM:	0.017452	Text	The next run is about to begin.
+KEY:	0.6589	0.64145	a
+STIM:	0.68712	Text	+
+STIM:	1.6916	Text	red
+STIM:	1.9595	Blank	
+STIM:	2.2608	Text	star
+STIM:	2.5622	Blank	
+STIM:	2.8635	Picture	Test.jpg
+KEY:	3.5469	0.68339	ESCAPE
+STIM:	3.5667	Cleanup	
+STIM:	0.026829	Text	The next run is about to begin.
+KEY:	1.2952	1.2683	ESCAPE
+STIM:	1.3159	Cleanup	
+
+----------------------------------------------------------------------------
+START:	0.0000	86697.0554
+
+----------------------------------------------------------------------------
+START:	0.0000	86697.0554
+STIM:	0.030306	Text	The next run is about to begin.
+KEY:	0.70941	0.67911	a
+STIM:	0.75021	Text	+
+STIM:	1.7547	Text	red
+STIM:	2.0058	Blank	
+STIM:	2.3072	Text	star
+STIM:	2.6085	Blank	
+STIM:	2.9099	Picture	Test.jpg
+KEY:	3.5334	0.62353	ESCAPE
+STIM:	3.5461	Cleanup	
+
+----------------------------------------------------------------------------
+START:	0.0000	86816.5757
+
+----------------------------------------------------------------------------
+START:	0.0000	86816.5757
+STIM:	0.028744	Text	The next run is about to begin.
+KEY:	2.8425	2.8138	`~
+STIM:	2.8579	Text	+
+STIM:	3.8457	Text	red
+STIM:	4.1303	Blank	
+STIM:	4.4317	Text	star
+STIM:	4.733	Blank	
+STIM:	5.0344	Picture	Test.jpg
+KEY:	5.8505	0.81615	s
+STIM:	5.8547	Text	+
+STIM:	7.8302	Text	red
+STIM:	8.1317	Blank	
+STIM:	8.433	Text	star
+STIM:	8.7345	Blank	
+STIM:	9.0356	Picture	Test.jpg
+KEY:	9.6505	0.61489	a
+STIM:	9.6551	Text	+
+STIM:	11.8315	Text	red
+STIM:	12.1328	Blank	
+STIM:	12.4341	Text	star
+STIM:	12.7356	Blank	
+STIM:	13.037	Picture	Test.jpg
+TIMEOUT: 14.8258
+STIM:	14.8283	Text	+
+STIM:	15.8329	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 15:53:15
+Is Debugging.
+
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 15:53:15
+Is Debugging.
+
+START:	0.0000	87982.2099
+START:	0.0000	87982.2099
+STIM:	0.083575	Text	The next run is about to begin.
+KEY:	2.9784	2.8948	a
+STIM:	2.9966	Text	+
+STIM:	4.0011	Text	red
+STIM:	4.2857	Blank	
+STIM:	4.5871	Text	star
+STIM:	4.8717	Blank	
+STIM:	5.173	Picture	Test.jpg
+TIMEOUT: 6.9617
+STIM:	6.9812	Text	+
+STIM:	7.9857	Text	red
+STIM:	8.287	Blank	
+STIM:	8.5716	Text	star
+STIM:	8.8729	Blank	
+STIM:	9.1743	Picture	Test.jpg
+KEY:	9.8744	0.70011	s
+STIM:	9.8942	Text	+
+STIM:	11.9869	Text	red
+STIM:	12.2715	Blank	
+STIM:	12.5729	Text	star
+STIM:	12.8742	Blank	
+STIM:	13.1756	Picture	Test.jpg
+KEY:	13.5304	0.35484	a
+STIM:	13.5439	Text	+
+STIM:	15.9714	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 15:55:19
+Is Debugging.
+
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 15:55:19
+Is Debugging.
+
+START:	0.0000	88106.4041
+START:	0.0000	88106.4041
+STIM:	0.028833	Text	The next run is about to begin.
+KEY:	1.1022	1.0733	ESCAPE
+STIM:	1.1338	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 15:56:07
+Is Debugging.
+
+START:	0.0000	88154.5405
+STIM:	0.024783	Text	The next run is about to begin.
+KEY:	1.7978	1.773	ESCAPE
+STIM:	1.8161	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 16:22:31
+
+STIM:	0.024285	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 16:22:50
+
+START:	0.0000	89757.6905
+STIM:	0.040326	Text	The next run is about to begin.
+KEY:	1.1858	1.1455	a
+STIM:	1.229	Text	+
+STIM:	2.2335	Text	red
+STIM:	2.4846	Blank	
+STIM:	2.786	Text	star
+STIM:	3.0873	Blank	
+STIM:	3.3887	Picture	Test.jpg
+TIMEOUT: 5.1692
+STIM:	5.18	Text	+
+STIM:	6.1845	Text	red
+STIM:	6.4859	Blank	
+STIM:	6.7872	Text	star
+STIM:	7.0886	Blank	
+STIM:	7.3899	Picture	Test.jpg
+KEY:	7.7538	0.36393	s
+STIM:	7.775	Text	+
+STIM:	10.1858	Text	red
+STIM:	10.4871	Blank	
+STIM:	10.7885	Text	star
+STIM:	11.0898	Blank	
+STIM:	11.3912	Picture	Test.jpg
+TIMEOUT: 13.1691
+STIM:	13.1825	Text	+
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 16:24:32
+
+START:	0.0000	89860.0801
+STIM:	0.042708	Text	The next run is about to begin.
+KEY:	1.0931	1.0504	a
+STIM:	1.1309	Text	+
+STIM:	2.1354	Text	red
+STIM:	2.3865	Blank	
+STIM:	2.6879	Text	star
+STIM:	2.9892	Blank	
+STIM:	3.2906	Picture	Test.jpg
+TIMEOUT: 5.0764
+STIM:	5.0987	Text	+
+STIM:	6.0865	Text	red
+STIM:	6.3878	Blank	
+STIM:	6.6892	Text	star
+STIM:	6.9905	Blank	
+STIM:	7.2919	Picture	Test.jpg
+KEY:	7.6451	0.35327	a
+STIM:	7.6602	Text	+
+STIM:	10.0877	Text	red
+STIM:	10.3891	Blank	
+STIM:	10.6904	Text	star
+STIM:	10.9918	Blank	
+STIM:	11.2931	Picture	Test.jpg
+KEY:	11.7651	0.47202	a
+STIM:	11.7954	Text	+
+STIM:	14.089	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 16:26:35
+
+START:	0.0000	89982.5469
+STIM:	0.041059	Text	The next run is about to begin.
+KEY:	1.4599	1.4189	s
+STIM:	1.4808	Text	+
+STIM:	2.4685	Text	red
+STIM:	2.7531	Blank	
+STIM:	3.0545	Text	star
+STIM:	3.3558	Blank	
+STIM:	3.6571	Picture	Test.jpg
+KEY:	4.2039	0.54675	a
+STIM:	4.2098	Text	+
+STIM:	6.4531	Text	red
+STIM:	6.7544	Blank	
+STIM:	7.0557	Text	star
+STIM:	7.3571	Blank	
+STIM:	7.6587	Picture	Test.jpg
+TIMEOUT: 9.4432
+STIM:	9.4498	Text	+
+STIM:	10.4543	Text	red
+STIM:	10.7557	Blank	
+STIM:	11.057	Text	star
+STIM:	11.3583	Blank	
+STIM:	11.6598	Picture	Test.jpg
+KEY:	12.2999	0.6401	a
+STIM:	12.3126	Text	+
+STIM:	14.4558	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 16:31:42
+
+START:	0.0000	90289.9176
+STIM:	0.047364	Text	The next run is about to begin.
+KEY:	0.98372	0.93636	a
+STIM:	1.0016	Text	+
+STIM:	1.9896	Text	red
+STIM:	2.2739	Blank	
+STIM:	2.5754	Text	star
+STIM:	2.8767	Blank	
+STIM:	3.178	Picture	Test.jpg
+KEY:	3.5197	0.34169	ESCAPE
+STIM:	3.5465	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:15:32
+
+START:	0.0000	94992.0664
+STIM:	0.027164	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:15:50
+
+START:	0.0000	95010.2428
+STIM:	0.032146	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:16:46
+
+START:	0.0000	95066.2827
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:20:33
+
+START:	0.0000	95292.6835
+STIM:	0.056956	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:21:23
+
+START:	0.0000	95343.5265
+STIM:	20.9687	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:23:05
+
+START:	0.0000	95445.6695
+STIM:	0.039567	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:23:37
+
+START:	0.0000	95477.0736
+STIM:	0.026126	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:23:54
+
+START:	0.0000	95494.5885
+STIM:	0.039751	Text	Please lie as still as possiblens.
+KEY:	3.2218	3.182	l
+STIM:	3.2709	Text	The next run is about to begin.
+KEY:	4.8858	1.6149	ESCAPE
+STIM:	4.9116	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:43:42
+
+START:	0.0000	96682.0406
+STIM:	0.024045	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:45:03
+
+START:	0.0000	96763.6401
+STIM:	0.04017	Paragraph	Please lie as still as possible.
+KEY:	6.3681	6.3279	ESCAPE
+STIM:	6.402	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:45:33
+
+START:	0.0000	96793.2227
+STIM:	0.040117	Paragraph	Please lie as still as possible.
+KEY:	6.3615	6.3213	a
+STIM:	6.4187	Text	The next run is about to begin.
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:46:09
+
+START:	0.0000	96829.3626
+STIM:	3.9797	Paragraph	Please lie as still as possible.
+KEY:	6.0776	2.0978	a
+STIM:	23.1657	Text	The next run is about to begin.
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:46:58
+
+START:	0.0000	96878.2277
+STIM:	1.9076	Paragraph	Please lie as still as possible.
+KEY:	6.6444	4.7368	space
+STIM:	16.8579	Text	The next run is about to begin.
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:48:07
+
+START:	0.0000	96947.6405
+STIM:	7.6314	Paragraph	Please lie as still as possible.
+KEY:	9.6067	1.9753	space
+STIM:	9.6237	Text	The next run is about to begin.
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:49:09
+
+START:	0.0000	97009.0805
+STIM:	0.032699	Paragraph	Please lie as still as possible.
+KEY:	0.8387	0.806	a
+STIM:	0.85303	Text	The next run is about to begin.
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:50:12
+
+START:	0.0000	97072.0872
+STIM:	0.024879	Paragraph	Please lie as still as possible.
+KEY:	1.072	1.0471	a
+STIM:	1.1298	Text	The next run is about to begin.
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:51:09
+
+START:	0.0000	97129.1039
+STIM:	0.030295	Paragraph	Please lie as still as possible.
+KEY:	1.1833	1.153	a
+STIM:	1.2022	Text	The next run is about to begin.
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:51:39
+
+START:	0.0000	97158.837
+STIM:	0.030367	Paragraph	Please lie as still as possible.
+KEY:	0.60217	0.5718	a
+STIM:	0.61632	Text	The next run is about to begin.
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:52:04
+
+START:	0.0000	97184.5931
+STIM:	0.039639	Paragraph	Please lie as still as possible.
+KEY:	0.76605	0.72641	a
+STIM:	0.79301	Text	The next run is about to begin.
+KEY:	2.542	1.749	a
+STIM:	2.5676	Text	+
+STIM:	3.5721	Text	red
+STIM:	3.84	Blank	
+STIM:	4.1414	Text	star
+STIM:	4.4427	Blank	
+STIM:	4.744	Picture	Test.jpg
+KEY:	5.438	0.69401	ESCAPE
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:52:28
+
+START:	0.0000	97208.5842
+STIM:	0.039437	Paragraph	Please lie as still as possible.
+KEY:	0.68704	0.6476	a
+STIM:	0.74257	Text	The next run is about to begin.
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:53:33
+
+START:	0.0000	97273.0339
+STIM:	0.028402	Paragraph	Please lie as still as possible.
+KEY:	0.56527	0.53687	a
+STIM:	0.58087	Text	The next run is about to begin.
+STIM:	0.61436	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:54:06
+
+START:	0.0000	97306.187
+STIM:	0.023854	Paragraph	Please lie as still as possible.
+KEY:	2.5322	2.5084	a
+STIM:	2.5853	Text	The next run is about to begin.
+KEY:	4.3482	1.7629	a
+STIM:	4.3599	Text	+
+STIM:	5.3644	Text	red
+STIM:	5.649	Blank	
+STIM:	5.9504	Text	star
+STIM:	6.2517	Blank	
+STIM:	6.5531	Picture	Test.jpg
+KEY:	6.8362	0.28313	ESCAPE
+STIM:	6.8545	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 18:54:26
+
+START:	0.0000	97326.3104
+STIM:	0.023906	Paragraph	Please lie as still as possible.
+KEY:	18.6622	18.6383	a
+STIM:	18.6908	Text	The next run is about to begin.
+KEY:	21.2062	2.5154	ESCAPE
+STIM:	21.2355	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:17:26
+
+START:	0.0000	98705.9097
+STIM:	0.12223	Paragraph	Please lie as still as possible.
+KEY:	5.8123	5.6901	ESCAPE
+STIM:	5.8479	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:18:11
+
+START:	0.0000	98751.3778
+STIM:	0.040853	Paragraph	fff
+KEY:	7.3123	7.2714	ESCAPE
+STIM:	7.3402	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:18:50
+
+START:	0.0000	98790.1517
+STIM:	0.040631	Paragraph	Please lie as still as possible.
+KEY:	6.3544	6.3137	a
+STIM:	6.4192	Text	The next run is about to begin.
+KEY:	7.9863	1.5671	a
+STIM:	8.0097	Text	+
+STIM:	9.0142	Text	red
+STIM:	9.282	Blank	
+STIM:	9.5834	Text	star
+STIM:	9.8847	Blank	
+STIM:	10.1861	Picture	Test.jpg
+KEY:	10.6344	0.44828	ESCAPE
+STIM:	10.6548	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:26:48
+
+START:	0.0000	99267.8053
+STIM:	0.043618	Paragraph	Please lie as still as possible.
+KEY:	0.69156	0.64794	a
+STIM:	0.73002	Text	The next run is about to begin.
+KEY:	1.5316	0.80154	a
+STIM:	1.5504	Text	+
+STIM:	2.5549	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:27:11
+
+START:	0.0000	99291.5172
+STIM:	0.037995	Paragraph	Please lie as still as possible.
+KEY:	0.60373	0.56574	a
+STIM:	0.62396	Text	The next run is about to begin.
+KEY:	2.6917	2.0678	a
+STIM:	2.7166	Text	+
+STIM:	3.7212	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:27:33
+
+START:	0.0000	99313.6315
+STIM:	0.039395	Paragraph	Please lie as still as possible.
+KEY:	0.20941	0.17002	a
+STIM:	0.25703	Text	The next run is about to begin.
+KEY:	1.0814	0.82437	a
+STIM:	1.0941	Text	+
+STIM:	2.0986	Picture	Test_1.jpg
+STIM:	2.3832	Blank	
+STIM:	2.6846	Picture	Test_2.jpg
+STIM:	2.9859	Blank	
+STIM:	3.2873	Picture	Test_3.jpg
+KEY:	4.4894	1.2021	a
+STIM:	4.5094	Text	+
+STIM:	6.0831	Picture	Test_1.jpg
+STIM:	6.3845	Blank	
+STIM:	6.6858	Picture	Test_2.jpg
+STIM:	6.9872	Blank	
+STIM:	7.2885	Picture	Test_3.jpg
+TIMEOUT: 9.0647
+STIM:	9.0799	Text	+
+STIM:	10.0844	Picture	Test_1.jpg
+STIM:	10.3857	Blank	
+STIM:	10.6871	Picture	Test_2.jpg
+STIM:	10.9884	Blank	
+STIM:	11.2898	Picture	Test_3.jpg
+KEY:	12.2494	0.95961	ESCAPE
+STIM:	12.2775	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:33:54
+
+START:	0.0000	99693.7683
+STIM:	0.038951	Paragraph	Please lie as still as possible.
+KEY:	4.5741	4.5351	a
+STIM:	4.6262	Text	The next run is about to begin.
+KEY:	7.2781	2.6519	`~
+STIM:	7.3049	Text	+
+STIM:	8.3093	Picture	Test_1.jpg
+STIM:	8.5772	Blank	
+STIM:	8.8786	Picture	Test_2.jpg
+STIM:	9.1799	Blank	
+STIM:	9.4813	Picture	Test_3.jpg
+KEY:	10.5981	1.1168	a
+STIM:	10.6197	Text	+
+STIM:	12.2771	Picture	Test_1.jpg
+STIM:	12.5785	Blank	
+STIM:	12.8798	Picture	Test_2.jpg
+STIM:	13.1979	Blank	
+STIM:	13.4825	Picture	Test_3.jpg
+KEY:	14.1101	0.62762	s
+STIM:	14.1354	Text	+
+STIM:	16.2783	Picture	Test_1.jpg
+STIM:	16.5797	Blank	
+STIM:	16.881	Picture	Test_2.jpg
+STIM:	17.1824	Blank	
+STIM:	17.4837	Picture	Test_3.jpg
+KEY:	17.8541	0.37032	s
+STIM:	17.8688	Text	+
+STIM:	20.2796	Paragraph	Please try to remain still.
+KEY:	28.8086	8.529	`~
+STIM:	28.8346	Text	The next run is about to begin.
+KEY:	33.7686	4.934	`~
+STIM:	33.7901	Text	+
+STIM:	34.7946	Picture	Test_1.jpg
+STIM:	35.0625	Blank	
+STIM:	35.3638	Picture	Test_2.jpg
+STIM:	35.6652	Blank	
+STIM:	35.9665	Picture	Test_3.jpg
+KEY:	36.4486	0.48208	a
+STIM:	36.4688	Text	+
+STIM:	38.7624	Picture	Test_1.jpg
+STIM:	39.0637	Blank	
+STIM:	39.3651	Picture	Test_2.jpg
+STIM:	39.6664	Blank	
+STIM:	39.9678	Picture	Test_3.jpg
+TIMEOUT: 41.7519
+STIM:	41.7759	Text	+
+STIM:	42.7636	Picture	Test_1.jpg
+STIM:	43.065	Blank	
+STIM:	43.3663	Picture	Test_2.jpg
+STIM:	43.6677	Blank	
+STIM:	43.969	Picture	Test_3.jpg
+TIMEOUT: 45.7519
+STIM:	45.7771	Text	+
+STIM:	46.7649	Paragraph	Please try to remain still.
+KEY:	51.2838	4.5189	a
+STIM:	51.3019	Paragraph	Please lie as still as possible.
+KEY:	62.6313	11.3294	a
+STIM:	62.6528	Paragraph	We will be right in.
+STIM:	62.6862	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:35:20
+
+START:	0.0000	99779.801
+STIM:	0.058415	Paragraph	Please lie as still as possible.
+KEY:	0.52659	0.46818	space
+STIM:	0.56067	Text	The next run is about to begin.
+KEY:	1.1346	0.57393	space
+STIM:	1.1634	Text	+
+STIM:	2.1679	Picture	Test_1.jpg
+STIM:	2.4357	Blank	
+STIM:	2.7371	Picture	Test_2.jpg
+STIM:	3.0384	Blank	
+STIM:	3.3398	Picture	Test_3.jpg
+TIMEOUT: 5.1179
+STIM:	5.1311	Text	+
+STIM:	6.1356	Picture	Test_1.jpg
+STIM:	6.437	Blank	
+STIM:	6.7383	Picture	Test_2.jpg
+STIM:	7.0397	Blank	
+STIM:	7.3411	Picture	Test_3.jpg
+TIMEOUT: 9.1179
+STIM:	9.1324	Text	+
+STIM:	10.1369	Picture	Test_1.jpg
+STIM:	10.4383	Blank	
+STIM:	10.7396	Picture	Test_2.jpg
+STIM:	11.0409	Blank	
+STIM:	11.3423	Picture	Test_3.jpg
+TIMEOUT: 13.1179
+STIM:	13.1504	Text	+
+STIM:	14.1381	Paragraph	Please try to remain still.
+KEY:	15.1511	1.013	space
+STIM:	15.1761	Text	The next run is about to begin.
+KEY:	16.0152	0.83908	space
+STIM:	16.0299	Text	+
+STIM:	17.0344	Picture	Test_1.jpg
+STIM:	17.319	Blank	
+STIM:	17.6204	Picture	Test_2.jpg
+STIM:	17.9217	Blank	
+STIM:	18.2231	Picture	Test_3.jpg
+TIMEOUT: 19.9984
+STIM:	20.0144	Text	+
+STIM:	21.019	Picture	Test_1.jpg
+STIM:	21.3203	Blank	
+STIM:	21.6216	Picture	Test_2.jpg
+STIM:	21.923	Blank	
+STIM:	22.2076	Picture	Test_3.jpg
+TIMEOUT: 23.9984
+STIM:	24.0157	Text	+
+STIM:	25.0202	Picture	Test_1.jpg
+STIM:	25.3215	Blank	
+STIM:	25.6229	Picture	Test_2.jpg
+STIM:	25.9075	Blank	
+STIM:	26.2256	Picture	Test_3.jpg
+TIMEOUT: 27.9985
+STIM:	28.017	Text	+
+STIM:	29.0214	Paragraph	Please try to remain still.
+KEY:	29.8203	0.79882	space
+STIM:	29.8418	Paragraph	Please lie as still as possible.
+KEY:	30.6042	0.76244	space
+STIM:	30.6286	Paragraph	We will be right in.
+STIM:	30.6621	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:37:01
+
+START:	0.0000	99880.7877
+STIM:	0.057498	Paragraph	Please lie as still as possible.
+KEY:	0.66897	0.61147	space
+STIM:	0.69367	Text	The next run is about to begin.
+KEY:	1.101	0.40729	space
+STIM:	1.129	Text	+
+STIM:	2.1335	Picture	Test_1.jpg
+STIM:	2.4013	Blank	
+STIM:	2.7027	Picture	Test_2.jpg
+STIM:	3.004	Blank	
+STIM:	3.3054	Picture	Test_3.jpg
+TIMEOUT: 5.0842
+STIM:	5.0967	Text	+
+STIM:	6.1012	Picture	Test_1.jpg
+STIM:	6.4026	Blank	
+STIM:	6.7039	Picture	Test_2.jpg
+STIM:	7.0053	Blank	
+STIM:	7.3066	Picture	Test_3.jpg
+TIMEOUT: 9.0843
+STIM:	9.098	Text	+
+STIM:	10.1025	Picture	Test_1.jpg
+STIM:	10.4038	Blank	
+STIM:	10.7052	Picture	Test_2.jpg
+STIM:	11.0066	Blank	
+STIM:	11.3079	Picture	Test_3.jpg
+TIMEOUT: 13.0842
+STIM:	13.0993	Text	+
+STIM:	14.1037	Paragraph	Please try to remain still.
+KEY:	17.2225	3.1188	space
+STIM:	17.2344	Text	The next run is about to begin.
+KEY:	17.9346	0.70016	space
+STIM:	17.9543	Text	+
+STIM:	18.9588	Picture	Test_1.jpg
+STIM:	19.2434	Blank	
+STIM:	19.528	Picture	Test_2.jpg
+STIM:	19.8293	Blank	
+STIM:	20.1307	Picture	Test_3.jpg
+TIMEOUT: 21.9178
+STIM:	21.9388	Text	+
+STIM:	22.9433	Picture	Test_1.jpg
+STIM:	23.2279	Blank	
+STIM:	23.5293	Picture	Test_2.jpg
+STIM:	23.8306	Blank	
+STIM:	24.132	Picture	Test_3.jpg
+TIMEOUT: 25.9179
+STIM:	25.9401	Text	+
+STIM:	26.9278	Picture	Test_1.jpg
+STIM:	27.2292	Blank	
+STIM:	27.5305	Picture	Test_2.jpg
+STIM:	27.8319	Blank	
+STIM:	28.1332	Picture	Test_3.jpg
+TIMEOUT: 29.9179
+STIM:	29.9413	Text	+
+STIM:	30.9291	Paragraph	Please try to remain still.
+KEY:	32.0806	1.1515	space
+STIM:	32.101	Paragraph	Please lie as still as possible.
+KEY:	32.8806	0.77959	space
+STIM:	32.9046	Paragraph	We will be right in.
+TIMEOUT: 32.917
+STIM:	32.9381	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:37:53
+
+START:	0.0000	99932.9057
+STIM:	0.0562	Paragraph	Please lie as still as possible.
+KEY:	0.23453	0.17833	space
+STIM:	0.2906	Text	The next run is about to begin.
+KEY:	0.66651	0.37591	space
+STIM:	0.69238	Text	+
+STIM:	1.6969	Picture	Test_1.jpg
+STIM:	1.9647	Blank	
+STIM:	2.2661	Picture	Test_2.jpg
+STIM:	2.5675	Blank	
+STIM:	2.8688	Picture	Test_3.jpg
+TIMEOUT: 4.6499
+STIM:	4.6769	Text	+
+STIM:	5.6646	Picture	Test_1.jpg
+STIM:	5.966	Blank	
+STIM:	6.2674	Picture	Test_2.jpg
+STIM:	6.5687	Blank	
+STIM:	6.8701	Picture	Test_3.jpg
+TIMEOUT: 8.6498
+STIM:	8.6614	Text	+
+STIM:	9.6659	Picture	Test_1.jpg
+STIM:	9.9673	Blank	
+STIM:	10.2686	Picture	Test_2.jpg
+STIM:	10.57	Blank	
+STIM:	10.8713	Picture	Test_3.jpg
+TIMEOUT: 12.6498
+STIM:	12.6627	Text	+
+STIM:	13.6672	Paragraph	Please try to remain still.
+KEY:	14.6905	1.0233	space
+STIM:	14.7052	Text	The next run is about to begin.
+KEY:	15.6745	0.96937	space
+STIM:	15.6929	Text	+
+STIM:	16.6974	Picture	Test_1.jpg
+STIM:	16.982	Blank	
+STIM:	17.2834	Picture	Test_2.jpg
+STIM:	17.568	Blank	
+STIM:	17.8693	Picture	Test_3.jpg
+TIMEOUT: 19.6578
+STIM:	19.6775	Text	+
+STIM:	20.6819	Picture	Test_1.jpg
+STIM:	20.9833	Blank	
+STIM:	21.2679	Picture	Test_2.jpg
+STIM:	21.5693	Blank	
+STIM:	21.8706	Picture	Test_3.jpg
+KEY:	22.5066	0.63599	s
+STIM:	22.5235	Text	+
+STIM:	24.6832	Picture	Test_1.jpg
+STIM:	24.9678	Blank	
+STIM:	25.2692	Picture	Test_2.jpg
+STIM:	25.5705	Blank	
+STIM:	25.8718	Picture	Test_3.jpg
+KEY:	26.0105	0.13868	s
+STIM:	26.0225	Text	+
+STIM:	28.6677	Paragraph	Please try to remain still.
+KEY:	29.3705	0.70281	space
+STIM:	29.3876	Paragraph	Please lie as still as possible.
+KEY:	30.3785	0.99091	space
+STIM:	30.3921	Paragraph	We will be right in.
+TIMEOUT: 30.4044
+STIM:	30.4256	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:38:45
+
+START:	0.0000	99985.5745
+STIM:	0.056808	Paragraph	Please lie as still as possible.
+KEY:	0.46978	0.41297	space
+STIM:	0.49206	Paragraph	Please lie as still as possible.
+KEY:	1.3338	0.84172	space
+STIM:	1.3626	Paragraph	We will be right in.
+TIMEOUT: 1.3732
+STIM:	1.3961	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:39:00
+
+START:	0.0000	100000.4908
+STIM:	0.05735	Paragraph	Please lie as still as possible.
+KEY:	0.55352	0.49617	space
+STIM:	0.59307	Paragraph	Please lie as still as possible.
+KEY:	1.1375	0.54444	space
+STIM:	1.1623	Paragraph	We will be right in.
+KEY:	9.8575	8.6952	space
+STIM:	9.8847	Paragraph	We will be right in.
+TIMEOUT: 9.9016
+STIM:	9.9182	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:40:21
+
+START:	0.0000	100080.8009
+STIM:	0.056946	Paragraph	Please lie as still as possible.
+KEY:	0.41221	0.35526	space
+STIM:	0.44202	Paragraph	Please lie as still as possible.
+KEY:	1.0762	0.63419	space
+STIM:	1.0949	Paragraph	We will be right in.
+KEY:	2.1642	1.0693	space
+STIM:	2.1832	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:46:32
+
+START:	0.0000	100451.8309
+STIM:	0.055801	Paragraph	Please lie as still as possible.
+KEY:	2.5106	2.4548	a
+STIM:	2.5503	Text	The next run is about to begin.
+KEY:	5.0146	2.4643	space
+STIM:	5.0281	Text	+
+STIM:	6.0326	Picture	Test_1.jpg
+STIM:	6.3172	Blank	
+STIM:	6.6185	Text	+
+STIM:	7.623	Picture	Test_1.jpg
+STIM:	7.9076	Blank	
+STIM:	8.209	Picture	Test_2.jpg
+STIM:	8.5103	Blank	
+STIM:	8.8117	Text	+
+STIM:	9.8162	Picture	Test_1.jpg
+STIM:	10.1175	Blank	
+STIM:	10.4189	Picture	Test_2.jpg
+STIM:	10.7202	Blank	
+STIM:	11.0216	Picture	Test_3.jpg
+KEY:	11.7105	0.68896	a
+STIM:	11.7247	Text	+
+STIM:	13.8175	Paragraph	Please try to remain still.
+KEY:	17.7266	3.9091	ESCAPE
+TIMEOUT: 17.7345
+STIM:	17.7517	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:47:08
+
+START:	0.0000	100488.7115
+STIM:	0.040383	Paragraph	Please lie as still as possible.
+KEY:	1.4379	1.3976	space
+STIM:	1.4802	Text	The next run is about to begin.
+KEY:	2.622	1.1418	space
+STIM:	2.6354	Text	+
+STIM:	3.6398	Picture	Test_1.jpg
+STIM:	3.9245	Blank	
+STIM:	4.2258	Text	+
+STIM:	6.2181	Picture	Test_1.jpg
+STIM:	6.5194	Blank	
+STIM:	6.8208	Picture	Test_2.jpg
+STIM:	7.1221	Blank	
+STIM:	7.4235	Text	+
+STIM:	9.4157	Picture	Test_1.jpg
+STIM:	9.7171	Blank	
+STIM:	10.0184	Picture	Test_2.jpg
+STIM:	10.3198	Blank	
+STIM:	10.6211	Picture	Test_3.jpg
+KEY:	11.118	0.49684	a
+STIM:	11.1401	Text	+
+STIM:	14.4214	Paragraph	Please try to remain still.
+KEY:	15.662	1.2405	space
+STIM:	15.6771	Text	The next run is about to begin.
+KEY:	16.998	1.3209	ESCAPE
+TIMEOUT: 17.0055
+STIM:	17.0164	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 05-Jul-2009 19:49:15
+
+START:	0.0000	100615.2972
+STIM:	0.038448	Paragraph	Please lie as still as possible.
+KEY:	1.2443	1.2059	space
+STIM:	1.2606	Text	The next run is about to begin.
+KEY:	2.0843	0.82371	space
+STIM:	2.0977	Text	+
+STIM:	3.1022	Picture	Test_1.jpg
+STIM:	3.3868	Blank	
+STIM:	3.6881	Text	+
+STIM:	5.6804	Picture	Test_1.jpg
+STIM:	5.9817	Blank	
+STIM:	6.2831	Picture	Test_2.jpg
+STIM:	6.5845	Blank	
+STIM:	6.8858	Text	+
+STIM:	8.878	Picture	Test_1.jpg
+STIM:	9.1794	Blank	
+STIM:	9.4807	Picture	Test_2.jpg
+STIM:	9.7821	Blank	
+STIM:	10.0834	Picture	Test_3.jpg
+KEY:	10.6843	0.60087	s
+STIM:	10.7029	Text	+
+STIM:	13.8838	Paragraph	Please try to remain still.
+KEY:	18.3323	4.4485	space
+STIM:	18.3538	Text	The next run is about to begin.
+KEY:	20.3803	2.0265	space
+STIM:	20.3963	Text	+
+STIM:	21.4008	Picture	Test_1.jpg
+STIM:	21.6854	Blank	
+STIM:	21.9868	Text	+
+STIM:	23.979	Picture	Test_1.jpg
+STIM:	24.2804	Blank	
+STIM:	24.5817	Picture	Test_2.jpg
+STIM:	24.8831	Blank	
+STIM:	25.1844	Text	+
+STIM:	27.1767	Picture	Test_1.jpg
+STIM:	27.478	Blank	
+STIM:	27.7794	Picture	Test_2.jpg
+STIM:	28.0807	Blank	
+STIM:	28.3821	Picture	Test_3.jpg
+KEY:	29.0923	0.71021	a
+STIM:	29.1187	Text	+
+STIM:	32.1825	Paragraph	Please try to remain still.
+KEY:	32.6283	0.44584	space
+STIM:	32.6512	Paragraph	Please lie as still as possible.
+KEY:	33.4123	0.7611	space
+STIM:	33.4381	Paragraph	We will be right in.
+KEY:	34.5403	1.1022	space
+STIM:	34.5598	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 11:45:43
+
+STIM:		Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 11:47:12
+
+START:	0.0000	118784.6585
+STIM:	0.031063	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 11:47:51
+
+START:	0.0000	118824.3478
+STIM:	-1	Picture	Red.jpg
+STIM:	0.069662	Text	Red.jpg
+STIM:	-1	Picture	nw1.jpg
+STIM:	0.371	Text	nw1.jpg
+STIM:	-1	Picture	Disc.jpg
+STIM:	0.67235	Text	Disc.jpg
+STIM:	-1	Picture	RedDisc_1.jpg
+STIM:	0.97371	Text	RedDisc_1.jpg
+STIM:	-1	Picture	RedDisc_2.jpg
+STIM:	1.2751	Text	RedDisc_2.jpg
+STIM:	-1	Picture	RedDisc_3.jpg
+STIM:	1.5764	Text	RedDisc_3.jpg
+STIM:	-1	Picture	Plane.jpg
+STIM:	1.8945	Text	Plane.jpg
+STIM:	-1	Picture	RedPlane_1.jpg
+STIM:	2.1958	Text	RedPlane_1.jpg
+STIM:	-1	Picture	RedPlane_2.jpg
+STIM:	2.4972	Text	RedPlane_2.jpg
+STIM:	-1	Picture	RedPlane_3.jpg
+STIM:	2.7986	Text	RedPlane_3.jpg
+STIM:	-1	Picture	Bag.jpg
+STIM:	3.0999	Text	Bag.jpg
+STIM:	-1	Picture	RedBag_1.jpg
+STIM:	3.4012	Text	RedBag_1.jpg
+STIM:	-1	Picture	RedBag_2.jpg
+STIM:	3.7026	Text	RedBag_2.jpg
+STIM:	-1	Picture	RedBag_3.jpg
+STIM:	4.004	Text	RedBag_3.jpg
+STIM:	-1	Picture	Lock.jpg
+STIM:	4.3053	Text	Lock.jpg
+STIM:	-1	Picture	RedLock_1.jpg
+STIM:	4.6066	Text	RedLock_1.jpg
+STIM:	-1	Picture	RedLock_2.jpg
+STIM:	4.908	Text	RedLock_2.jpg
+STIM:	-1	Picture	RedLock_3.jpg
+STIM:	5.2093	Text	RedLock_3.jpg
+STIM:	-1	Picture	Cane.jpg
+STIM:	5.5107	Text	Cane.jpg
+STIM:	-1	Picture	RedCane_1.jpg
+STIM:	5.8121	Text	RedCane_1.jpg
+STIM:	-1	Picture	RedCane_2.jpg
+STIM:	6.1134	Text	RedCane_2.jpg
+STIM:	-1	Picture	RedCane_3.jpg
+STIM:	6.4148	Text	RedCane_3.jpg
+STIM:	-1	Picture	Hand.jpg
+STIM:	6.7161	Text	Hand.jpg
+STIM:	-1	Picture	RedHand_1.jpg
+STIM:	7.0175	Text	RedHand_1.jpg
+STIM:	-1	Picture	RedHand_2.jpg
+STIM:	7.3188	Text	RedHand_2.jpg
+STIM:	-1	Picture	RedHand_3.jpg
+STIM:	7.6202	Text	RedHand_3.jpg
+STIM:	-1	Picture	Key.jpg
+STIM:	7.9215	Text	Key.jpg
+STIM:	-1	Picture	RedKey_1.jpg
+STIM:	8.2228	Text	RedKey_1.jpg
+STIM:	-1	Picture	RedKey_2.jpg
+STIM:	8.5242	Text	RedKey_2.jpg
+STIM:	-1	Picture	RedKey_3.jpg
+STIM:	8.8255	Text	RedKey_3.jpg
+STIM:	-1	Picture	Shoe.jpg
+STIM:	9.1269	Text	Shoe.jpg
+STIM:	-1	Picture	RedShoe_1.jpg
+STIM:	9.4282	Text	RedShoe_1.jpg
+STIM:	-1	Picture	RedShoe_2.jpg
+STIM:	9.7296	Text	RedShoe_2.jpg
+STIM:	-1	Picture	RedShoe_3.jpg
+STIM:	10.031	Text	RedShoe_3.jpg
+STIM:	-1	Picture	Bone.jpg
+STIM:	10.3323	Text	Bone.jpg
+STIM:	-1	Picture	RedBone_1.jpg
+STIM:	10.6337	Text	RedBone_1.jpg
+STIM:	-1	Picture	RedBone_2.jpg
+STIM:	10.935	Text	RedBone_2.jpg
+STIM:	-1	Picture	RedBone_3.jpg
+STIM:	11.2364	Text	RedBone_3.jpg
+STIM:	-1	Picture	Square.jpg
+STIM:	11.5377	Text	Square.jpg
+STIM:	-1	Picture	RedSquare_1.jpg
+STIM:	11.839	Text	RedSquare_1.jpg
+STIM:	-1	Picture	RedSquare_2.jpg
+STIM:	12.1404	Text	RedSquare_2.jpg
+STIM:	-1	Picture	RedSquare_3.jpg
+STIM:	12.4418	Text	RedSquare_3.jpg
+STIM:	-1	Picture	Bell.jpg
+STIM:	12.7431	Text	Bell.jpg
+STIM:	-1	Picture	RedBell_1.jpg
+STIM:	13.0445	Text	RedBell_1.jpg
+STIM:	-1	Picture	RedBell_2.jpg
+STIM:	13.3458	Text	RedBell_2.jpg
+STIM:	-1	Picture	RedBell_3.jpg
+STIM:	13.6471	Text	RedBell_3.jpg
+STIM:	-1	Picture	Boat.jpg
+STIM:	13.9485	Text	Boat.jpg
+STIM:	-1	Picture	RedBoat_1.jpg
+STIM:	14.2499	Text	RedBoat_1.jpg
+STIM:	-1	Picture	RedBoat_2.jpg
+STIM:	14.5512	Text	RedBoat_2.jpg
+STIM:	-1	Picture	RedBoat_3.jpg
+STIM:	14.8693	Text	RedBoat_3.jpg
+STIM:	-1	Picture	Bow.jpg
+STIM:	15.1706	Text	Bow.jpg
+STIM:	-1	Picture	RedBow_1.jpg
+STIM:	15.472	Text	RedBow_1.jpg
+STIM:	-1	Picture	RedBow_2.jpg
+STIM:	15.7733	Text	RedBow_2.jpg
+STIM:	-1	Picture	RedBow_3.jpg
+STIM:	16.0747	Text	RedBow_3.jpg
+STIM:	-1	Picture	Car.jpg
+STIM:	16.376	Text	Car.jpg
+STIM:	-1	Picture	RedCar_1.jpg
+STIM:	16.6774	Text	RedCar_1.jpg
+STIM:	-1	Picture	RedCar_2.jpg
+STIM:	16.9787	Text	RedCar_2.jpg
+STIM:	-1	Picture	RedCar_3.jpg
+STIM:	17.2801	Text	RedCar_3.jpg
+STIM:	-1	Picture	Cross.jpg
+STIM:	17.6317	Text	Cross.jpg
+STIM:	-1	Picture	RedCross_1.jpg
+STIM:	17.933	Text	RedCross_1.jpg
+STIM:	-1	Picture	RedCross_2.jpg
+STIM:	18.2344	Text	RedCross_2.jpg
+STIM:	-1	Picture	RedCross_3.jpg
+STIM:	18.5525	Text	RedCross_3.jpg
+STIM:	-1	Picture	Cup.jpg
+STIM:	18.8538	Text	Cup.jpg
+STIM:	-1	Picture	RedCup_1.jpg
+STIM:	19.1551	Text	RedCup_1.jpg
+STIM:	-1	Picture	RedCup_2.jpg
+STIM:	19.4565	Text	RedCup_2.jpg
+STIM:	-1	Picture	RedCup_3.jpg
+STIM:	19.8081	Text	RedCup_3.jpg
+STIM:	-1	Picture	Flag.jpg
+STIM:	20.1094	Text	Flag.jpg
+STIM:	-1	Picture	RedFlag_1.jpg
+STIM:	20.4108	Text	RedFlag_1.jpg
+STIM:	-1	Picture	RedFlag_2.jpg
+STIM:	20.7121	Text	RedFlag_2.jpg
+STIM:	-1	Picture	RedFlag_3.jpg
+STIM:	21.0135	Text	RedFlag_3.jpg
+STIM:	-1	Picture	Fork.jpg
+STIM:	21.4488	Text	Fork.jpg
+STIM:	-1	Picture	RedFork_1.jpg
+STIM:	21.7501	Text	RedFork_1.jpg
+STIM:	-1	Picture	RedFork_2.jpg
+STIM:	22.0515	Text	RedFork_2.jpg
+STIM:	-1	Picture	RedFork_3.jpg
+STIM:	22.3528	Text	RedFork_3.jpg
+STIM:	-1	Picture	Heart.jpg
+STIM:	22.6542	Text	Heart.jpg
+STIM:	-1	Picture	RedHeart_1.jpg
+STIM:	22.9555	Text	RedHeart_1.jpg
+STIM:	-1	Picture	RedHeart_2.jpg
+STIM:	23.2569	Text	RedHeart_2.jpg
+STIM:	-1	Picture	RedHeart_3.jpg
+STIM:	23.5582	Text	RedHeart_3.jpg
+STIM:	-1	Picture	Lamp.jpg
+STIM:	23.8596	Text	Lamp.jpg
+STIM:	-1	Picture	RedLamp_1.jpg
+STIM:	24.1609	Text	RedLamp_1.jpg
+STIM:	-1	Picture	RedLamp_2.jpg
+STIM:	24.4623	Text	RedLamp_2.jpg
+STIM:	-1	Picture	RedLamp_3.jpg
+STIM:	24.7636	Text	RedLamp_3.jpg
+STIM:	-1	Picture	Leaf.jpg
+STIM:	25.065	Text	Leaf.jpg
+STIM:	-1	Picture	RedLeaf_1.jpg
+STIM:	25.3663	Text	RedLeaf_1.jpg
+STIM:	-1	Picture	RedLeaf_2.jpg
+STIM:	25.6677	Text	RedLeaf_2.jpg
+STIM:	-1	Picture	RedLeaf_3.jpg
+STIM:	25.969	Text	RedLeaf_3.jpg
+STIM:	-1	Picture	Note.jpg
+STIM:	26.2704	Text	Note.jpg
+STIM:	-1	Picture	RedNote_1.jpg
+STIM:	26.5717	Text	RedNote_1.jpg
+STIM:	-1	Picture	RedNote_2.jpg
+STIM:	26.8731	Text	RedNote_2.jpg
+STIM:	-1	Picture	RedNote_3.jpg
+STIM:	27.1744	Text	RedNote_3.jpg
+STIM:	-1	Picture	Star.jpg
+STIM:	27.4758	Text	Star.jpg
+STIM:	-1	Picture	RedStar_1.jpg
+STIM:	27.7771	Text	RedStar_1.jpg
+STIM:	-1	Picture	RedStar_2.jpg
+STIM:	28.0785	Text	RedStar_2.jpg
+STIM:	-1	Picture	RedStar_3.jpg
+STIM:	28.3798	Text	RedStar_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	28.6812	Text	Tree.jpg
+STIM:	-1	Picture	RedTree_1.jpg
+STIM:	28.9825	Text	RedTree_1.jpg
+STIM:	-1	Picture	RedTree_2.jpg
+STIM:	29.2839	Text	RedTree_2.jpg
+STIM:	-1	Picture	RedTree_3.jpg
+STIM:	29.602	Text	RedTree_3.jpg
+STIM:	-1	Picture	House.jpg
+STIM:	29.9033	Text	House.jpg
+STIM:	-1	Picture	RedHouse_1.jpg
+STIM:	30.2047	Text	RedHouse_1.jpg
+STIM:	-1	Picture	RedHouse_2.jpg
+STIM:	30.506	Text	RedHouse_2.jpg
+STIM:	-1	Picture	RedHouse_3.jpg
+STIM:	30.8074	Text	RedHouse_3.jpg
+STIM:	-1	Picture	Blue.jpg
+STIM:	31.1255	Text	Blue.jpg
+STIM:	-1	Picture	nw2.jpg
+STIM:	31.4268	Text	nw2.jpg
+STIM:	-1	Picture	Disc.jpg
+STIM:	31.7281	Text	Disc.jpg
+STIM:	-1	Picture	BlueDisc_1.jpg
+STIM:	32.0295	Text	BlueDisc_1.jpg
+STIM:	-1	Picture	BlueDisc_2.jpg
+STIM:	32.3308	Text	BlueDisc_2.jpg
+STIM:	-1	Picture	BlueDisc_3.jpg
+STIM:	32.6322	Text	BlueDisc_3.jpg
+STIM:	-1	Picture	Plane.jpg
+STIM:	32.9335	Text	Plane.jpg
+STIM:	-1	Picture	BluePlane_1.jpg
+STIM:	33.2349	Text	BluePlane_1.jpg
+STIM:	-1	Picture	BluePlane_2.jpg
+STIM:	33.5363	Text	BluePlane_2.jpg
+STIM:	-1	Picture	BluePlane_3.jpg
+STIM:	33.8376	Text	BluePlane_3.jpg
+STIM:	-1	Picture	Bag.jpg
+STIM:	34.1389	Text	Bag.jpg
+STIM:	-1	Picture	BlueBag_1.jpg
+STIM:	34.4403	Text	BlueBag_1.jpg
+STIM:	-1	Picture	BlueBag_2.jpg
+STIM:	34.7417	Text	BlueBag_2.jpg
+STIM:	-1	Picture	BlueBag_3.jpg
+STIM:	35.043	Text	BlueBag_3.jpg
+STIM:	-1	Picture	Lock.jpg
+STIM:	35.3444	Text	Lock.jpg
+STIM:	-1	Picture	BlueLock_1.jpg
+STIM:	35.6457	Text	BlueLock_1.jpg
+STIM:	-1	Picture	BlueLock_2.jpg
+STIM:	35.9471	Text	BlueLock_2.jpg
+STIM:	-1	Picture	BlueLock_3.jpg
+STIM:	36.2484	Text	BlueLock_3.jpg
+STIM:	-1	Picture	Cane.jpg
+STIM:	36.5498	Text	Cane.jpg
+STIM:	-1	Picture	BlueCane_1.jpg
+STIM:	36.8511	Text	BlueCane_1.jpg
+STIM:	-1	Picture	BlueCane_2.jpg
+STIM:	37.1524	Text	BlueCane_2.jpg
+STIM:	-1	Picture	BlueCane_3.jpg
+STIM:	37.4538	Text	BlueCane_3.jpg
+STIM:	-1	Picture	Hand.jpg
+STIM:	37.7551	Text	Hand.jpg
+STIM:	-1	Picture	BlueHand_1.jpg
+STIM:	38.0565	Text	BlueHand_1.jpg
+STIM:	-1	Picture	BlueHand_2.jpg
+STIM:	38.3579	Text	BlueHand_2.jpg
+STIM:	-1	Picture	BlueHand_3.jpg
+STIM:	38.6592	Text	BlueHand_3.jpg
+STIM:	-1	Picture	Key.jpg
+STIM:	38.9606	Text	Key.jpg
+STIM:	-1	Picture	BlueKey_1.jpg
+STIM:	39.2619	Text	BlueKey_1.jpg
+STIM:	-1	Picture	BlueKey_2.jpg
+STIM:	39.5633	Text	BlueKey_2.jpg
+STIM:	-1	Picture	BlueKey_3.jpg
+STIM:	39.8646	Text	BlueKey_3.jpg
+STIM:	-1	Picture	Shoe.jpg
+STIM:	40.166	Text	Shoe.jpg
+STIM:	-1	Picture	BlueShoe_1.jpg
+STIM:	40.4673	Text	BlueShoe_1.jpg
+STIM:	-1	Picture	BlueShoe_2.jpg
+STIM:	40.7687	Text	BlueShoe_2.jpg
+STIM:	-1	Picture	BlueShoe_3.jpg
+STIM:	41.07	Text	BlueShoe_3.jpg
+STIM:	-1	Picture	Bone.jpg
+STIM:	41.3714	Text	Bone.jpg
+STIM:	-1	Picture	BlueBone_1.jpg
+STIM:	41.6727	Text	BlueBone_1.jpg
+STIM:	-1	Picture	BlueBone_2.jpg
+STIM:	41.974	Text	BlueBone_2.jpg
+STIM:	-1	Picture	BlueBone_3.jpg
+STIM:	42.2754	Text	BlueBone_3.jpg
+STIM:	-1	Picture	Square.jpg
+STIM:	42.5768	Text	Square.jpg
+STIM:	-1	Picture	BlueSquare_1.jpg
+STIM:	42.8781	Text	BlueSquare_1.jpg
+STIM:	-1	Picture	BlueSquare_2.jpg
+STIM:	43.1795	Text	BlueSquare_2.jpg
+STIM:	-1	Picture	BlueSquare_3.jpg
+STIM:	43.4808	Text	BlueSquare_3.jpg
+STIM:	-1	Picture	Bell.jpg
+STIM:	43.7822	Text	Bell.jpg
+STIM:	-1	Picture	BlueBell_1.jpg
+STIM:	44.0835	Text	BlueBell_1.jpg
+STIM:	-1	Picture	BlueBell_2.jpg
+STIM:	44.3849	Text	BlueBell_2.jpg
+STIM:	-1	Picture	BlueBell_3.jpg
+STIM:	44.6862	Text	BlueBell_3.jpg
+STIM:	-1	Picture	Boat.jpg
+STIM:	44.9875	Text	Boat.jpg
+STIM:	-1	Picture	BlueBoat_1.jpg
+STIM:	45.2889	Text	BlueBoat_1.jpg
+STIM:	-1	Picture	BlueBoat_2.jpg
+STIM:	45.5903	Text	BlueBoat_2.jpg
+STIM:	-1	Picture	BlueBoat_3.jpg
+STIM:	45.8916	Text	BlueBoat_3.jpg
+STIM:	-1	Picture	Bow.jpg
+STIM:	46.1929	Text	Bow.jpg
+STIM:	-1	Picture	BlueBow_1.jpg
+STIM:	46.4943	Text	BlueBow_1.jpg
+STIM:	-1	Picture	BlueBow_2.jpg
+STIM:	46.7956	Text	BlueBow_2.jpg
+STIM:	-1	Picture	BlueBow_3.jpg
+STIM:	47.097	Text	BlueBow_3.jpg
+STIM:	-1	Picture	Car.jpg
+STIM:	47.3984	Text	Car.jpg
+STIM:	-1	Picture	BlueCar_1.jpg
+STIM:	47.6997	Text	BlueCar_1.jpg
+STIM:	-1	Picture	BlueCar_2.jpg
+STIM:	48.0011	Text	BlueCar_2.jpg
+STIM:	-1	Picture	BlueCar_3.jpg
+STIM:	48.3024	Text	BlueCar_3.jpg
+STIM:	-1	Picture	Cross.jpg
+STIM:	48.6037	Text	Cross.jpg
+STIM:	-1	Picture	BlueCross_1.jpg
+STIM:	48.9051	Text	BlueCross_1.jpg
+STIM:	-1	Picture	BlueCross_2.jpg
+STIM:	49.2064	Text	BlueCross_2.jpg
+STIM:	-1	Picture	BlueCross_3.jpg
+STIM:	49.5078	Text	BlueCross_3.jpg
+STIM:	-1	Picture	Cup.jpg
+STIM:	49.8092	Text	Cup.jpg
+STIM:	-1	Picture	BlueCup_1.jpg
+STIM:	50.1105	Text	BlueCup_1.jpg
+STIM:	-1	Picture	BlueCup_2.jpg
+STIM:	50.4119	Text	BlueCup_2.jpg
+STIM:	-1	Picture	BlueCup_3.jpg
+STIM:	50.7132	Text	BlueCup_3.jpg
+STIM:	-1	Picture	Flag.jpg
+STIM:	51.0146	Text	Flag.jpg
+STIM:	-1	Picture	BlueFlag_1.jpg
+STIM:	51.3159	Text	BlueFlag_1.jpg
+STIM:	-1	Picture	BlueFlag_2.jpg
+STIM:	51.6173	Text	BlueFlag_2.jpg
+STIM:	-1	Picture	BlueFlag_3.jpg
+STIM:	51.9186	Text	BlueFlag_3.jpg
+STIM:	-1	Picture	Fork.jpg
+STIM:	52.22	Text	Fork.jpg
+STIM:	-1	Picture	BlueFork_1.jpg
+STIM:	52.5213	Text	BlueFork_1.jpg
+STIM:	-1	Picture	BlueFork_2.jpg
+STIM:	52.8227	Text	BlueFork_2.jpg
+STIM:	-1	Picture	BlueFork_3.jpg
+STIM:	53.124	Text	BlueFork_3.jpg
+STIM:	-1	Picture	Heart.jpg
+STIM:	53.4253	Text	Heart.jpg
+STIM:	-1	Picture	BlueHeart_1.jpg
+STIM:	53.7267	Text	BlueHeart_1.jpg
+STIM:	-1	Picture	BlueHeart_2.jpg
+STIM:	54.0281	Text	BlueHeart_2.jpg
+STIM:	-1	Picture	BlueHeart_3.jpg
+STIM:	54.3294	Text	BlueHeart_3.jpg
+STIM:	-1	Picture	Lamp.jpg
+STIM:	54.6308	Text	Lamp.jpg
+STIM:	-1	Picture	BlueLamp_1.jpg
+STIM:	54.9321	Text	BlueLamp_1.jpg
+STIM:	-1	Picture	BlueLamp_2.jpg
+STIM:	55.2502	Text	BlueLamp_2.jpg
+STIM:	-1	Picture	BlueLamp_3.jpg
+STIM:	55.5516	Text	BlueLamp_3.jpg
+STIM:	-1	Picture	Leaf.jpg
+STIM:	55.8529	Text	Leaf.jpg
+STIM:	-1	Picture	BlueLeaf_1.jpg
+STIM:	56.1543	Text	BlueLeaf_1.jpg
+STIM:	-1	Picture	BlueLeaf_2.jpg
+STIM:	56.4556	Text	BlueLeaf_2.jpg
+STIM:	-1	Picture	BlueLeaf_3.jpg
+STIM:	56.7569	Text	BlueLeaf_3.jpg
+STIM:	-1	Picture	Note.jpg
+STIM:	57.0583	Text	Note.jpg
+STIM:	-1	Picture	BlueNote_1.jpg
+STIM:	57.3596	Text	BlueNote_1.jpg
+STIM:	-1	Picture	BlueNote_2.jpg
+STIM:	57.661	Text	BlueNote_2.jpg
+STIM:	-1	Picture	BlueNote_3.jpg
+STIM:	57.9624	Text	BlueNote_3.jpg
+STIM:	-1	Picture	Star.jpg
+STIM:	58.2637	Text	Star.jpg
+STIM:	-1	Picture	BlueStar_1.jpg
+STIM:	58.565	Text	BlueStar_1.jpg
+STIM:	-1	Picture	BlueStar_2.jpg
+STIM:	58.8664	Text	BlueStar_2.jpg
+STIM:	-1	Picture	BlueStar_3.jpg
+STIM:	59.1677	Text	BlueStar_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	59.4691	Text	Tree.jpg
+STIM:	-1	Picture	BlueTree_1.jpg
+STIM:	59.7705	Text	BlueTree_1.jpg
+STIM:	-1	Picture	BlueTree_2.jpg
+STIM:	60.0718	Text	BlueTree_2.jpg
+STIM:	-1	Picture	BlueTree_3.jpg
+STIM:	60.3732	Text	BlueTree_3.jpg
+STIM:	-1	Picture	House.jpg
+STIM:	60.6745	Text	House.jpg
+STIM:	-1	Picture	BlueHouse_1.jpg
+STIM:	60.9758	Text	BlueHouse_1.jpg
+STIM:	-1	Picture	BlueHouse_2.jpg
+STIM:	61.2772	Text	BlueHouse_2.jpg
+STIM:	-1	Picture	BlueHouse_3.jpg
+STIM:	61.5786	Text	BlueHouse_3.jpg
+STIM:	-1	Picture	Pink.jpg
+STIM:	61.8799	Text	Pink.jpg
+STIM:	-1	Picture	nw3.jpg
+STIM:	62.1813	Text	nw3.jpg
+STIM:	-1	Picture	Disc.jpg
+STIM:	62.4826	Text	Disc.jpg
+STIM:	-1	Picture	PinkDisc_1.jpg
+STIM:	62.7839	Text	PinkDisc_1.jpg
+STIM:	-1	Picture	PinkDisc_2.jpg
+STIM:	63.0853	Text	PinkDisc_2.jpg
+STIM:	-1	Picture	PinkDisc_3.jpg
+STIM:	63.3866	Text	PinkDisc_3.jpg
+STIM:	-1	Picture	Plane.jpg
+STIM:	63.688	Text	Plane.jpg
+STIM:	-1	Picture	PinkPlane_1.jpg
+STIM:	63.9894	Text	PinkPlane_1.jpg
+STIM:	-1	Picture	PinkPlane_2.jpg
+STIM:	64.2907	Text	PinkPlane_2.jpg
+STIM:	-1	Picture	PinkPlane_3.jpg
+STIM:	64.592	Text	PinkPlane_3.jpg
+STIM:	-1	Picture	Bag.jpg
+STIM:	64.8934	Text	Bag.jpg
+STIM:	-1	Picture	PinkBag_1.jpg
+STIM:	65.1947	Text	PinkBag_1.jpg
+STIM:	-1	Picture	PinkBag_2.jpg
+STIM:	65.4961	Text	PinkBag_2.jpg
+STIM:	-1	Picture	PinkBag_3.jpg
+STIM:	65.7974	Text	PinkBag_3.jpg
+STIM:	-1	Picture	Lock.jpg
+STIM:	66.0988	Text	Lock.jpg
+STIM:	-1	Picture	PinkLock_1.jpg
+STIM:	66.4002	Text	PinkLock_1.jpg
+STIM:	-1	Picture	PinkLock_2.jpg
+STIM:	66.7015	Text	PinkLock_2.jpg
+STIM:	-1	Picture	PinkLock_3.jpg
+STIM:	67.0029	Text	PinkLock_3.jpg
+STIM:	-1	Picture	Cane.jpg
+STIM:	67.3042	Text	Cane.jpg
+STIM:	-1	Picture	PinkCane_1.jpg
+STIM:	67.6056	Text	PinkCane_1.jpg
+STIM:	-1	Picture	PinkCane_2.jpg
+STIM:	67.9069	Text	PinkCane_2.jpg
+STIM:	-1	Picture	PinkCane_3.jpg
+STIM:	68.2083	Text	PinkCane_3.jpg
+STIM:	-1	Picture	Hand.jpg
+STIM:	68.5096	Text	Hand.jpg
+STIM:	-1	Picture	PinkHand_1.jpg
+STIM:	68.8109	Text	PinkHand_1.jpg
+STIM:	-1	Picture	PinkHand_2.jpg
+STIM:	69.1123	Text	PinkHand_2.jpg
+STIM:	-1	Picture	PinkHand_3.jpg
+STIM:	69.4137	Text	PinkHand_3.jpg
+STIM:	-1	Picture	Key.jpg
+STIM:	69.715	Text	Key.jpg
+STIM:	-1	Picture	PinkKey_1.jpg
+STIM:	70.0164	Text	PinkKey_1.jpg
+STIM:	-1	Picture	PinkKey_2.jpg
+STIM:	70.3177	Text	PinkKey_2.jpg
+STIM:	-1	Picture	PinkKey_3.jpg
+STIM:	70.619	Text	PinkKey_3.jpg
+STIM:	-1	Picture	Shoe.jpg
+STIM:	70.9204	Text	Shoe.jpg
+STIM:	-1	Picture	PinkShoe_1.jpg
+STIM:	71.2218	Text	PinkShoe_1.jpg
+STIM:	-1	Picture	PinkShoe_2.jpg
+STIM:	71.5231	Text	PinkShoe_2.jpg
+STIM:	-1	Picture	PinkShoe_3.jpg
+STIM:	71.8245	Text	PinkShoe_3.jpg
+STIM:	-1	Picture	Bone.jpg
+STIM:	72.1258	Text	Bone.jpg
+STIM:	-1	Picture	PinkBone_1.jpg
+STIM:	72.4272	Text	PinkBone_1.jpg
+STIM:	-1	Picture	PinkBone_2.jpg
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 11:51:33
+
+START:	0.0000	119045.4874
+STIM:	-1	Picture	Red.jpg
+STIM:	0.20477	Text	Red.jpg
+STIM:	-1	Picture	nw1.jpg
+STIM:	0.50613	Text	nw1.jpg
+STIM:	-1	Picture	Disc.jpg
+STIM:	0.80748	Text	Disc.jpg
+STIM:	-1	Picture	RedDisc_1.jpg
+STIM:	1.1088	Text	RedDisc_1.jpg
+STIM:	-1	Picture	RedDisc_2.jpg
+STIM:	1.4102	Text	RedDisc_2.jpg
+STIM:	-1	Picture	RedDisc_3.jpg
+STIM:	1.7115	Text	RedDisc_3.jpg
+STIM:	-1	Picture	Plane.jpg
+STIM:	2.0129	Text	Plane.jpg
+STIM:	-1	Picture	RedPlane_1.jpg
+STIM:	2.3142	Text	RedPlane_1.jpg
+STIM:	-1	Picture	RedPlane_2.jpg
+STIM:	2.6156	Text	RedPlane_2.jpg
+STIM:	-1	Picture	RedPlane_3.jpg
+STIM:	2.9169	Text	RedPlane_3.jpg
+STIM:	-1	Picture	Bag.jpg
+STIM:	3.2183	Text	Bag.jpg
+STIM:	-1	Picture	RedBag_1.jpg
+STIM:	3.5196	Text	RedBag_1.jpg
+STIM:	-1	Picture	RedBag_2.jpg
+STIM:	3.821	Text	RedBag_2.jpg
+STIM:	-1	Picture	RedBag_3.jpg
+STIM:	4.1223	Text	RedBag_3.jpg
+STIM:	-1	Picture	Lock.jpg
+STIM:	4.4237	Text	Lock.jpg
+STIM:	-1	Picture	RedLock_1.jpg
+STIM:	4.725	Text	RedLock_1.jpg
+STIM:	-1	Picture	RedLock_2.jpg
+STIM:	5.0264	Text	RedLock_2.jpg
+STIM:	-1	Picture	RedLock_3.jpg
+STIM:	5.3277	Text	RedLock_3.jpg
+STIM:	-1	Picture	Cane.jpg
+STIM:	5.6291	Text	Cane.jpg
+STIM:	-1	Picture	RedCane_1.jpg
+STIM:	5.9304	Text	RedCane_1.jpg
+STIM:	-1	Picture	RedCane_2.jpg
+STIM:	6.2318	Text	RedCane_2.jpg
+STIM:	-1	Picture	RedCane_3.jpg
+STIM:	6.5331	Text	RedCane_3.jpg
+STIM:	-1	Picture	Hand.jpg
+STIM:	6.8345	Text	Hand.jpg
+STIM:	-1	Picture	RedHand_1.jpg
+STIM:	7.1358	Text	RedHand_1.jpg
+STIM:	-1	Picture	RedHand_2.jpg
+STIM:	7.4372	Text	RedHand_2.jpg
+STIM:	-1	Picture	RedHand_3.jpg
+STIM:	7.7385	Text	RedHand_3.jpg
+STIM:	-1	Picture	Key.jpg
+STIM:	8.0399	Text	Key.jpg
+STIM:	-1	Picture	RedKey_1.jpg
+STIM:	8.3412	Text	RedKey_1.jpg
+STIM:	-1	Picture	RedKey_2.jpg
+STIM:	8.6426	Text	RedKey_2.jpg
+STIM:	-1	Picture	RedKey_3.jpg
+STIM:	8.9439	Text	RedKey_3.jpg
+STIM:	-1	Picture	Shoe.jpg
+STIM:	9.2453	Text	Shoe.jpg
+STIM:	-1	Picture	RedShoe_1.jpg
+STIM:	9.5466	Text	RedShoe_1.jpg
+STIM:	-1	Picture	RedShoe_2.jpg
+STIM:	9.848	Text	RedShoe_2.jpg
+STIM:	-1	Picture	RedShoe_3.jpg
+STIM:	10.1493	Text	RedShoe_3.jpg
+STIM:	-1	Picture	Bone.jpg
+STIM:	10.4507	Text	Bone.jpg
+STIM:	-1	Picture	RedBone_1.jpg
+STIM:	10.752	Text	RedBone_1.jpg
+STIM:	-1	Picture	RedBone_2.jpg
+STIM:	11.0534	Text	RedBone_2.jpg
+STIM:	-1	Picture	RedBone_3.jpg
+STIM:	11.3547	Text	RedBone_3.jpg
+STIM:	-1	Picture	Square.jpg
+STIM:	11.6561	Text	Square.jpg
+STIM:	-1	Picture	RedSquare_1.jpg
+STIM:	11.9574	Text	RedSquare_1.jpg
+STIM:	-1	Picture	RedSquare_2.jpg
+STIM:	12.2588	Text	RedSquare_2.jpg
+STIM:	-1	Picture	RedSquare_3.jpg
+STIM:	12.5601	Text	RedSquare_3.jpg
+STIM:	-1	Picture	Bell.jpg
+STIM:	12.8615	Text	Bell.jpg
+STIM:	-1	Picture	RedBell_1.jpg
+STIM:	13.1628	Text	RedBell_1.jpg
+STIM:	-1	Picture	RedBell_2.jpg
+STIM:	13.4642	Text	RedBell_2.jpg
+STIM:	-1	Picture	RedBell_3.jpg
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 12:02:16
+
+START:	0.0000	119688.6663
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 12:02:35
+
+START:	0.0000	119708.0776
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 12:05:21
+
+START:	0.0000	119873.5345
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 12:06:00
+
+START:	0.0000	119912.7602
+STIM:	-1	Picture	Red.jpg
+STIM:	0.066731	Text	Red.jpg
+STIM:	-1	Picture	nw1.jpg
+STIM:	0.36806	Text	nw1.jpg
+STIM:	-1	Picture	Disc.jpg
+STIM:	0.66942	Text	Disc.jpg
+STIM:	-1	Picture	RedDisc_1.jpg
+STIM:	0.97079	Text	RedDisc_1.jpg
+STIM:	-1	Picture	RedDisc_2.jpg
+STIM:	1.2721	Text	RedDisc_2.jpg
+STIM:	-1	Picture	RedDisc_3.jpg
+STIM:	1.5735	Text	RedDisc_3.jpg
+STIM:	-1	Picture	Plane.jpg
+STIM:	1.8748	Text	Plane.jpg
+STIM:	-1	Picture	RedPlane_1.jpg
+STIM:	2.1762	Text	RedPlane_1.jpg
+STIM:	-1	Picture	RedPlane_2.jpg
+STIM:	2.4775	Text	RedPlane_2.jpg
+STIM:	-1	Picture	RedPlane_3.jpg
+STIM:	2.7789	Text	RedPlane_3.jpg
+STIM:	-1	Picture	Bag.jpg
+STIM:	3.0802	Text	Bag.jpg
+STIM:	-1	Picture	RedBag_1.jpg
+STIM:	3.3816	Text	RedBag_1.jpg
+STIM:	-1	Picture	RedBag_2.jpg
+STIM:	3.6829	Text	RedBag_2.jpg
+STIM:	-1	Picture	RedBag_3.jpg
+STIM:	3.9843	Text	RedBag_3.jpg
+STIM:	-1	Picture	Lock.jpg
+STIM:	4.2856	Text	Lock.jpg
+STIM:	-1	Picture	RedLock_1.jpg
+STIM:	4.587	Text	RedLock_1.jpg
+STIM:	-1	Picture	RedLock_2.jpg
+STIM:	4.8883	Text	RedLock_2.jpg
+STIM:	-1	Picture	RedLock_3.jpg
+STIM:	5.1897	Text	RedLock_3.jpg
+STIM:	-1	Picture	Cane.jpg
+STIM:	5.491	Text	Cane.jpg
+STIM:	-1	Picture	RedCane_1.jpg
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 12:07:54
+
+START:	0.0000	120026.8809
+STIM:	-1	Picture	Tree.jpg
+STIM:	0.27483	Text	Red.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	0.57618	Text	nw1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	0.87755	Text	Disc.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	1.1789	Text	RedDisc_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	1.4803	Text	RedDisc_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	1.7816	Text	RedDisc_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	2.0829	Text	Plane.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	2.3843	Text	RedPlane_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	2.6857	Text	RedPlane_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	2.987	Text	RedPlane_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	3.2883	Text	Bag.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	3.5897	Text	RedBag_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	3.891	Text	RedBag_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	4.1924	Text	RedBag_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	4.4937	Text	Lock.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	4.7951	Text	RedLock_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	5.0964	Text	RedLock_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	5.3978	Text	RedLock_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	5.6991	Text	Cane.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	6.0005	Text	RedCane_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	6.3018	Text	RedCane_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	6.6032	Text	RedCane_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	6.9046	Text	Hand.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	7.2059	Text	RedHand_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	7.5072	Text	RedHand_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	7.8086	Text	RedHand_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	8.1099	Text	Key.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	8.4113	Text	RedKey_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	8.7126	Text	RedKey_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	9.014	Text	RedKey_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	9.3153	Text	Shoe.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	9.6167	Text	RedShoe_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	9.918	Text	RedShoe_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	10.2194	Text	RedShoe_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	10.5207	Text	Bone.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	10.8221	Text	RedBone_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	11.1234	Text	RedBone_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	11.4248	Text	RedBone_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	11.7262	Text	Square.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	12.0275	Text	RedSquare_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	12.3288	Text	RedSquare_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	12.6302	Text	RedSquare_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	12.9315	Text	Bell.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	13.2329	Text	RedBell_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	13.5342	Text	RedBell_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	13.8356	Text	RedBell_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	14.137	Text	Boat.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	14.4383	Text	RedBoat_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	14.7396	Text	RedBoat_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	15.041	Text	RedBoat_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	15.3424	Text	Bow.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	15.6437	Text	RedBow_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	15.945	Text	RedBow_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	16.2464	Text	RedBow_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	16.5477	Text	Car.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	16.8491	Text	RedCar_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	17.1504	Text	RedCar_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	17.4518	Text	RedCar_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	17.7531	Text	Cross.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	18.0545	Text	RedCross_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	18.3558	Text	RedCross_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	18.6572	Text	RedCross_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	18.9585	Text	Cup.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	19.3771	Text	RedCup_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	19.6784	Text	RedCup_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	19.9798	Text	RedCup_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	20.2811	Text	Flag.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	20.5825	Text	RedFlag_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	20.8838	Text	RedFlag_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	21.1852	Text	RedFlag_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	21.4865	Text	Fork.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	21.7879	Text	RedFork_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	22.0892	Text	RedFork_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	22.3906	Text	RedFork_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	22.6919	Text	Heart.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	22.9933	Text	RedHeart_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	23.2946	Text	RedHeart_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	23.596	Text	RedHeart_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	23.8973	Text	Lamp.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	24.1987	Text	RedLamp_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	24.5	Text	RedLamp_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	24.8014	Text	RedLamp_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	25.1027	Text	Leaf.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	25.4041	Text	RedLeaf_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	25.7054	Text	RedLeaf_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	26.0068	Text	RedLeaf_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	26.3081	Text	Note.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	26.6095	Text	RedNote_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	26.9108	Text	RedNote_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	27.2122	Text	RedNote_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	27.5135	Text	Star.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	27.8149	Text	RedStar_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	28.1162	Text	RedStar_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	28.4176	Text	RedStar_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	28.7189	Text	Tree.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	29.0203	Text	RedTree_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	29.3216	Text	RedTree_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	29.623	Text	RedTree_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	29.9243	Text	House.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	30.2257	Text	RedHouse_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	30.527	Text	RedHouse_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	30.8284	Text	RedHouse_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	31.1297	Text	Blue.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	31.4311	Text	nw2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	31.7324	Text	Disc.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	32.0505	Text	BlueDisc_1.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	32.3519	Text	BlueDisc_2.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	32.6532	Text	BlueDisc_3.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	32.9546	Text	Plane.jpg
+STIM:	-1	Picture	Tree.jpg
+STIM:	33.2559	Text	BluePlane_1.jpg
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 12:09:37
+
+START:	0.0000	120130.0405
+STIM:	0.17695	Picture	Tree.jpg
+STIM:	0.49503	Picture	Tree.jpg
+STIM:	0.79638	Picture	Tree.jpg
+STIM:	1.0977	Picture	Tree.jpg
+STIM:	1.3991	Picture	Tree.jpg
+STIM:	1.7004	Picture	Tree.jpg
+STIM:	2.0018	Picture	Tree.jpg
+STIM:	2.3031	Picture	Tree.jpg
+STIM:	2.6045	Picture	Tree.jpg
+STIM:	2.9058	Picture	Tree.jpg
+STIM:	3.2072	Picture	Tree.jpg
+STIM:	3.5085	Picture	Tree.jpg
+STIM:	3.8099	Picture	Tree.jpg
+STIM:	4.1112	Picture	Tree.jpg
+STIM:	4.4126	Picture	Tree.jpg
+STIM:	4.7139	Picture	Tree.jpg
+STIM:	5.0153	Picture	Tree.jpg
+STIM:	5.3166	Picture	Tree.jpg
+STIM:	5.618	Picture	Tree.jpg
+STIM:	5.9193	Picture	Tree.jpg
+STIM:	6.2207	Picture	Tree.jpg
+STIM:	6.522	Picture	Tree.jpg
+STIM:	6.8234	Picture	Tree.jpg
+STIM:	7.1247	Picture	Tree.jpg
+STIM:	7.4261	Picture	Tree.jpg
+STIM:	7.7274	Picture	Tree.jpg
+STIM:	8.0288	Picture	Tree.jpg
+STIM:	8.3301	Picture	Tree.jpg
+STIM:	8.6315	Picture	Tree.jpg
+STIM:	8.9328	Picture	Tree.jpg
+STIM:	9.2342	Picture	Tree.jpg
+STIM:	9.5355	Picture	Tree.jpg
+STIM:	9.8369	Picture	Tree.jpg
+STIM:	10.1382	Picture	Tree.jpg
+STIM:	10.4396	Picture	Tree.jpg
+STIM:	10.7409	Picture	Tree.jpg
+STIM:	11.0423	Picture	Tree.jpg
+STIM:	11.3436	Picture	Tree.jpg
+STIM:	11.645	Picture	Tree.jpg
+STIM:	11.9463	Picture	Tree.jpg
+STIM:	12.2477	Picture	Tree.jpg
+STIM:	12.549	Picture	Tree.jpg
+STIM:	12.8504	Picture	Tree.jpg
+STIM:	13.1517	Picture	Tree.jpg
+STIM:	13.4531	Picture	Tree.jpg
+STIM:	13.7544	Picture	Tree.jpg
+STIM:	14.0558	Picture	Tree.jpg
+STIM:	14.3571	Picture	Tree.jpg
+STIM:	14.6585	Picture	Tree.jpg
+STIM:	14.9598	Picture	Tree.jpg
+STIM:	15.2612	Picture	Tree.jpg
+STIM:	15.5625	Picture	Tree.jpg
+STIM:	15.8639	Picture	Tree.jpg
+STIM:	16.1652	Picture	Tree.jpg
+STIM:	16.4666	Picture	Tree.jpg
+STIM:	16.7679	Picture	Tree.jpg
+STIM:	17.0693	Picture	Tree.jpg
+STIM:	17.3706	Picture	Tree.jpg
+STIM:	17.672	Picture	Tree.jpg
+STIM:	17.9733	Picture	Tree.jpg
+STIM:	18.2747	Picture	Tree.jpg
+STIM:	18.576	Picture	Tree.jpg
+STIM:	18.8774	Picture	Tree.jpg
+STIM:	19.1787	Picture	Tree.jpg
+STIM:	19.4801	Picture	Tree.jpg
+STIM:	19.7814	Picture	Tree.jpg
+STIM:	20.0828	Picture	Tree.jpg
+STIM:	20.3841	Picture	Tree.jpg
+STIM:	20.6855	Picture	Tree.jpg
+STIM:	20.9868	Picture	Tree.jpg
+STIM:	21.2882	Picture	Tree.jpg
+STIM:	21.5895	Picture	Tree.jpg
+STIM:	21.8909	Picture	Tree.jpg
+STIM:	22.1922	Picture	Tree.jpg
+STIM:	22.4936	Picture	Tree.jpg
+STIM:	22.7949	Picture	Tree.jpg
+STIM:	23.0963	Picture	Tree.jpg
+STIM:	23.3974	Picture	Tree.jpg
+STIM:	23.699	Picture	Tree.jpg
+STIM:	24.0003	Picture	Tree.jpg
+STIM:	24.3017	Picture	Tree.jpg
+STIM:	24.603	Picture	Tree.jpg
+STIM:	24.9044	Picture	Tree.jpg
+STIM:	25.2057	Picture	Tree.jpg
+STIM:	25.5071	Picture	Tree.jpg
+STIM:	25.8084	Picture	Tree.jpg
+STIM:	26.1098	Picture	Tree.jpg
+STIM:	26.4111	Picture	Tree.jpg
+STIM:	26.7125	Picture	Tree.jpg
+STIM:	27.0138	Picture	Tree.jpg
+STIM:	27.3152	Picture	Tree.jpg
+STIM:	27.6165	Picture	Tree.jpg
+STIM:	27.9179	Picture	Tree.jpg
+STIM:	28.2192	Picture	Tree.jpg
+STIM:	28.5206	Picture	Tree.jpg
+STIM:	28.8219	Picture	Tree.jpg
+STIM:	29.1233	Picture	Tree.jpg
+STIM:	29.4246	Picture	Tree.jpg
+STIM:	29.726	Picture	Tree.jpg
+STIM:	30.0273	Picture	Tree.jpg
+STIM:	30.3287	Picture	Tree.jpg
+STIM:	30.63	Picture	Tree.jpg
+STIM:	30.9314	Picture	Tree.jpg
+STIM:	31.2327	Picture	Tree.jpg
+STIM:	31.5341	Picture	Tree.jpg
+STIM:	31.8354	Picture	Tree.jpg
+STIM:	32.1368	Picture	Tree.jpg
+STIM:	32.4381	Picture	Tree.jpg
+STIM:	32.7395	Picture	Tree.jpg
+STIM:	33.0408	Picture	Tree.jpg
+STIM:	33.3422	Picture	Tree.jpg
+STIM:	33.6603	Picture	Tree.jpg
+STIM:	33.9616	Picture	Tree.jpg
+STIM:	34.263	Picture	Tree.jpg
+STIM:	34.5643	Picture	Tree.jpg
+STIM:	34.8657	Picture	Tree.jpg
+STIM:	35.167	Picture	Tree.jpg
+STIM:	35.4684	Picture	Tree.jpg
+STIM:	35.7697	Picture	Tree.jpg
+STIM:	36.0711	Picture	Tree.jpg
+STIM:	36.3724	Picture	Tree.jpg
+STIM:	36.6738	Picture	Tree.jpg
+STIM:	36.9751	Picture	Tree.jpg
+STIM:	37.2765	Picture	Tree.jpg
+STIM:	37.5778	Picture	Tree.jpg
+STIM:	37.8792	Picture	Tree.jpg
+STIM:	38.1805	Picture	Tree.jpg
+STIM:	38.4819	Picture	Tree.jpg
+STIM:	38.7832	Picture	Tree.jpg
+STIM:	39.0846	Picture	Tree.jpg
+STIM:	39.3859	Picture	Tree.jpg
+STIM:	39.6873	Picture	Tree.jpg
+STIM:	39.9886	Picture	Tree.jpg
+STIM:	40.29	Picture	Tree.jpg
+STIM:	40.5913	Picture	Tree.jpg
+STIM:	40.8927	Picture	Tree.jpg
+STIM:	41.194	Picture	Tree.jpg
+STIM:	41.4954	Picture	Tree.jpg
+STIM:	41.7967	Picture	Tree.jpg
+STIM:	42.0981	Picture	Tree.jpg
+STIM:	42.3994	Picture	Tree.jpg
+STIM:	42.7008	Picture	Tree.jpg
+STIM:	43.0021	Picture	Tree.jpg
+STIM:	43.3035	Picture	Tree.jpg
+STIM:	43.6048	Picture	Tree.jpg
+STIM:	43.9062	Picture	Tree.jpg
+STIM:	44.2075	Picture	Tree.jpg
+STIM:	44.5089	Picture	Tree.jpg
+STIM:	44.8102	Picture	Tree.jpg
+STIM:	45.1116	Picture	Tree.jpg
+STIM:	45.4129	Picture	Tree.jpg
+STIM:	45.7143	Picture	Tree.jpg
+STIM:	46.0156	Picture	Tree.jpg
+STIM:	46.317	Picture	Tree.jpg
+STIM:	46.6183	Picture	Tree.jpg
+STIM:	46.9197	Picture	Tree.jpg
+STIM:	47.221	Picture	Tree.jpg
+STIM:	47.5224	Picture	Tree.jpg
+STIM:	47.8237	Picture	Tree.jpg
+STIM:	48.1251	Picture	Tree.jpg
+STIM:	48.4264	Picture	Tree.jpg
+STIM:	48.7278	Picture	Tree.jpg
+STIM:	49.0291	Picture	Tree.jpg
+STIM:	49.3305	Picture	Tree.jpg
+STIM:	49.6318	Picture	Tree.jpg
+STIM:	49.9332	Picture	Tree.jpg
+STIM:	50.2345	Picture	Tree.jpg
+STIM:	50.5359	Picture	Tree.jpg
+STIM:	50.8372	Picture	Tree.jpg
+STIM:	51.1386	Picture	Tree.jpg
+STIM:	51.4399	Picture	Tree.jpg
+STIM:	51.7413	Picture	Tree.jpg
+STIM:	52.0426	Picture	Tree.jpg
+STIM:	52.344	Picture	Tree.jpg
+STIM:	52.6453	Picture	Tree.jpg
+STIM:	52.9467	Picture	Tree.jpg
+STIM:	53.248	Picture	Tree.jpg
+STIM:	53.5494	Picture	Tree.jpg
+STIM:	53.8507	Picture	Tree.jpg
+STIM:	54.1521	Picture	Tree.jpg
+STIM:	54.4534	Picture	Tree.jpg
+STIM:	54.7548	Picture	Tree.jpg
+STIM:	55.0561	Picture	Tree.jpg
+STIM:	55.3575	Picture	Tree.jpg
+STIM:	55.6588	Picture	Tree.jpg
+STIM:	55.9602	Picture	Tree.jpg
+STIM:	56.2615	Picture	Tree.jpg
+STIM:	56.5629	Picture	Tree.jpg
+STIM:	56.8642	Picture	Tree.jpg
+STIM:	57.1656	Picture	Tree.jpg
+STIM:	57.4669	Picture	Tree.jpg
+STIM:	57.7683	Picture	Tree.jpg
+STIM:	58.0696	Picture	Tree.jpg
+STIM:	58.371	Picture	Tree.jpg
+STIM:	58.6723	Picture	Tree.jpg
+STIM:	58.9737	Picture	Tree.jpg
+STIM:	59.275	Picture	Tree.jpg
+STIM:	59.5764	Picture	Tree.jpg
+STIM:	59.8777	Picture	Tree.jpg
+STIM:	60.1791	Picture	Tree.jpg
+STIM:	60.4804	Picture	Tree.jpg
+STIM:	60.7818	Picture	Tree.jpg
+STIM:	61.0831	Picture	Tree.jpg
+STIM:	61.3845	Picture	Tree.jpg
+STIM:	61.6858	Picture	Tree.jpg
+STIM:	61.9872	Picture	Tree.jpg
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 12:12:02
+
+START:	0.0000	120274.8039
+STIM:	0.095087	Text	Red.jpg
+STIM:	0.39642	Text	nw1.jpg
+STIM:	0.69778	Text	Disc.jpg
+STIM:	0.99912	Text	RedDisc_1.jpg
+STIM:	1.3005	Text	RedDisc_2.jpg
+STIM:	1.6018	Text	RedDisc_3.jpg
+STIM:	1.9032	Text	Plane.jpg
+STIM:	2.2045	Text	RedPlane_1.jpg
+STIM:	2.5059	Text	RedPlane_2.jpg
+STIM:	2.8072	Text	RedPlane_3.jpg
+STIM:	3.1086	Text	Bag.jpg
+STIM:	3.4099	Text	RedBag_1.jpg
+STIM:	3.7113	Text	RedBag_2.jpg
+STIM:	4.0126	Text	RedBag_3.jpg
+STIM:	4.314	Text	Lock.jpg
+STIM:	4.6153	Text	RedLock_1.jpg
+STIM:	4.9167	Text	RedLock_2.jpg
+STIM:	5.218	Text	RedLock_3.jpg
+STIM:	5.5194	Text	Cane.jpg
+STIM:	5.8207	Text	RedCane_1.jpg
+STIM:	6.1221	Text	RedCane_2.jpg
+STIM:	6.4234	Text	RedCane_3.jpg
+STIM:	6.7248	Text	Hand.jpg
+STIM:	7.0261	Text	RedHand_1.jpg
+STIM:	7.3275	Text	RedHand_2.jpg
+STIM:	7.6288	Text	RedHand_3.jpg
+STIM:	7.9302	Text	Key.jpg
+STIM:	8.2315	Text	RedKey_1.jpg
+STIM:	8.5329	Text	RedKey_2.jpg
+STIM:	8.8342	Text	RedKey_3.jpg
+STIM:	9.1356	Text	Shoe.jpg
+STIM:	9.4369	Text	RedShoe_1.jpg
+STIM:	9.7383	Text	RedShoe_2.jpg
+STIM:	10.0396	Text	RedShoe_3.jpg
+STIM:	10.341	Text	Bone.jpg
+STIM:	10.6423	Text	RedBone_1.jpg
+STIM:	10.9437	Text	RedBone_2.jpg
+STIM:	11.245	Text	RedBone_3.jpg
+STIM:	11.5464	Text	Square.jpg
+STIM:	11.8477	Text	RedSquare_1.jpg
+STIM:	12.1491	Text	RedSquare_2.jpg
+STIM:	12.4504	Text	RedSquare_3.jpg
+STIM:	12.7518	Text	Bell.jpg
+STIM:	13.0531	Text	RedBell_1.jpg
+STIM:	13.3545	Text	RedBell_2.jpg
+STIM:	13.6558	Text	RedBell_3.jpg
+STIM:	13.9572	Text	Boat.jpg
+STIM:	14.2585	Text	RedBoat_1.jpg
+STIM:	14.5599	Text	RedBoat_2.jpg
+STIM:	14.8612	Text	RedBoat_3.jpg
+STIM:	15.1626	Text	Bow.jpg
+STIM:	15.4639	Text	RedBow_1.jpg
+STIM:	15.7653	Text	RedBow_2.jpg
+STIM:	16.0666	Text	RedBow_3.jpg
+STIM:	16.368	Text	Car.jpg
+STIM:	16.6693	Text	RedCar_1.jpg
+STIM:	16.9707	Text	RedCar_2.jpg
+STIM:	17.272	Text	RedCar_3.jpg
+STIM:	17.5734	Text	Cross.jpg
+STIM:	17.8747	Text	RedCross_1.jpg
+STIM:	18.1761	Text	RedCross_2.jpg
+STIM:	18.4774	Text	RedCross_3.jpg
+STIM:	18.7788	Text	Cup.jpg
+STIM:	19.0801	Text	RedCup_1.jpg
+STIM:	19.3815	Text	RedCup_2.jpg
+STIM:	19.6828	Text	RedCup_3.jpg
+STIM:	19.9842	Text	Flag.jpg
+STIM:	20.2855	Text	RedFlag_1.jpg
+STIM:	20.5869	Text	RedFlag_2.jpg
+STIM:	20.8882	Text	RedFlag_3.jpg
+STIM:	21.1896	Text	Fork.jpg
+STIM:	21.4909	Text	RedFork_1.jpg
+STIM:	21.7923	Text	RedFork_2.jpg
+STIM:	22.0936	Text	RedFork_3.jpg
+STIM:	22.395	Text	Heart.jpg
+STIM:	22.6963	Text	RedHeart_1.jpg
+STIM:	22.9977	Text	RedHeart_2.jpg
+STIM:	23.299	Text	RedHeart_3.jpg
+STIM:	23.6004	Text	Lamp.jpg
+STIM:	23.9017	Text	RedLamp_1.jpg
+STIM:	24.2031	Text	RedLamp_2.jpg
+STIM:	24.5044	Text	RedLamp_3.jpg
+STIM:	24.8058	Text	Leaf.jpg
+STIM:	25.1071	Text	RedLeaf_1.jpg
+STIM:	25.4085	Text	RedLeaf_2.jpg
+STIM:	25.7098	Text	RedLeaf_3.jpg
+STIM:	26.0112	Text	Note.jpg
+STIM:	26.3125	Text	RedNote_1.jpg
+STIM:	26.6139	Text	RedNote_2.jpg
+STIM:	26.9152	Text	RedNote_3.jpg
+STIM:	27.2166	Text	Star.jpg
+STIM:	27.5179	Text	RedStar_1.jpg
+STIM:	27.8193	Text	RedStar_2.jpg
+STIM:	28.1206	Text	RedStar_3.jpg
+STIM:	28.422	Text	Tree.jpg
+STIM:	28.7233	Text	RedTree_1.jpg
+STIM:	29.0247	Text	RedTree_2.jpg
+STIM:	29.326	Text	RedTree_3.jpg
+STIM:	29.6274	Text	House.jpg
+STIM:	29.9287	Text	RedHouse_1.jpg
+STIM:	30.2301	Text	RedHouse_2.jpg
+STIM:	30.5314	Text	RedHouse_3.jpg
+STIM:	30.8328	Text	Blue.jpg
+STIM:	31.1341	Text	nw2.jpg
+STIM:	31.4355	Text	Disc.jpg
+STIM:	31.7368	Text	BlueDisc_1.jpg
+STIM:	32.0382	Text	BlueDisc_2.jpg
+STIM:	32.3395	Text	BlueDisc_3.jpg
+STIM:	32.6409	Text	Plane.jpg
+STIM:	32.9422	Text	BluePlane_1.jpg
+STIM:	33.2436	Text	BluePlane_2.jpg
+STIM:	33.5449	Text	BluePlane_3.jpg
+STIM:	33.8463	Text	Bag.jpg
+STIM:	34.1476	Text	BlueBag_1.jpg
+STIM:	34.449	Text	BlueBag_2.jpg
+STIM:	34.7503	Text	BlueBag_3.jpg
+STIM:	35.0517	Text	Lock.jpg
+STIM:	35.353	Text	BlueLock_1.jpg
+STIM:	35.6544	Text	BlueLock_2.jpg
+STIM:	35.9557	Text	BlueLock_3.jpg
+STIM:	36.2571	Text	Cane.jpg
+STIM:	36.5584	Text	BlueCane_1.jpg
+STIM:	36.8598	Text	BlueCane_2.jpg
+STIM:	37.1611	Text	BlueCane_3.jpg
+STIM:	37.4625	Text	Hand.jpg
+STIM:	37.7638	Text	BlueHand_1.jpg
+STIM:	38.0652	Text	BlueHand_2.jpg
+STIM:	38.3665	Text	BlueHand_3.jpg
+STIM:	38.6679	Text	Key.jpg
+STIM:	38.9692	Text	BlueKey_1.jpg
+STIM:	39.2706	Text	BlueKey_2.jpg
+STIM:	39.5719	Text	BlueKey_3.jpg
+STIM:	39.8733	Text	Shoe.jpg
+STIM:	40.1746	Text	BlueShoe_1.jpg
+STIM:	40.476	Text	BlueShoe_2.jpg
+STIM:	40.7773	Text	BlueShoe_3.jpg
+STIM:	41.0787	Text	Bone.jpg
+STIM:	41.38	Text	BlueBone_1.jpg
+STIM:	41.6814	Text	BlueBone_2.jpg
+STIM:	41.9827	Text	BlueBone_3.jpg
+STIM:	42.2841	Text	Square.jpg
+STIM:	42.5854	Text	BlueSquare_1.jpg
+STIM:	42.8868	Text	BlueSquare_2.jpg
+STIM:	43.1881	Text	BlueSquare_3.jpg
+STIM:	43.4895	Text	Bell.jpg
+STIM:	43.7908	Text	BlueBell_1.jpg
+STIM:	44.0922	Text	BlueBell_2.jpg
+STIM:	44.3935	Text	BlueBell_3.jpg
+STIM:	44.6949	Text	Boat.jpg
+STIM:	44.9962	Text	BlueBoat_1.jpg
+STIM:	45.2976	Text	BlueBoat_2.jpg
+STIM:	45.5989	Text	BlueBoat_3.jpg
+STIM:	45.9003	Text	Bow.jpg
+STIM:	46.2016	Text	BlueBow_1.jpg
+STIM:	46.503	Text	BlueBow_2.jpg
+STIM:	46.8043	Text	BlueBow_3.jpg
+STIM:	47.1057	Text	Car.jpg
+STIM:	47.407	Text	BlueCar_1.jpg
+STIM:	47.7084	Text	BlueCar_2.jpg
+STIM:	48.0097	Text	BlueCar_3.jpg
+STIM:	48.3111	Text	Cross.jpg
+STIM:	48.6124	Text	BlueCross_1.jpg
+STIM:	48.9138	Text	BlueCross_2.jpg
+STIM:	49.2151	Text	BlueCross_3.jpg
+STIM:	49.5165	Text	Cup.jpg
+STIM:	49.8178	Text	BlueCup_1.jpg
+STIM:	50.1192	Text	BlueCup_2.jpg
+STIM:	50.4205	Text	BlueCup_3.jpg
+STIM:	50.7219	Text	Flag.jpg
+STIM:	51.0232	Text	BlueFlag_1.jpg
+STIM:	51.3246	Text	BlueFlag_2.jpg
+STIM:	51.6259	Text	BlueFlag_3.jpg
+STIM:	51.9273	Text	Fork.jpg
+STIM:	52.2286	Text	BlueFork_1.jpg
+STIM:	52.53	Text	BlueFork_2.jpg
+STIM:	52.8313	Text	BlueFork_3.jpg
+STIM:	53.1327	Text	Heart.jpg
+STIM:	53.434	Text	BlueHeart_1.jpg
+STIM:	53.7354	Text	BlueHeart_2.jpg
+STIM:	54.0367	Text	BlueHeart_3.jpg
+STIM:	54.3381	Text	Lamp.jpg
+STIM:	54.6394	Text	BlueLamp_1.jpg
+STIM:	54.9408	Text	BlueLamp_2.jpg
+STIM:	55.2421	Text	BlueLamp_3.jpg
+STIM:	55.5435	Text	Leaf.jpg
+STIM:	55.8448	Text	BlueLeaf_1.jpg
+STIM:	56.1462	Text	BlueLeaf_2.jpg
+STIM:	56.4475	Text	BlueLeaf_3.jpg
+STIM:	56.7489	Text	Note.jpg
+STIM:	57.0502	Text	BlueNote_1.jpg
+STIM:	57.3516	Text	BlueNote_2.jpg
+STIM:	57.6529	Text	BlueNote_3.jpg
+STIM:	57.9543	Text	Star.jpg
+STIM:	58.2556	Text	BlueStar_1.jpg
+STIM:	58.557	Text	BlueStar_2.jpg
+STIM:	58.8583	Text	BlueStar_3.jpg
+STIM:	59.1597	Text	Tree.jpg
+STIM:	59.461	Text	BlueTree_1.jpg
+STIM:	59.7624	Text	BlueTree_2.jpg
+STIM:	60.0637	Text	BlueTree_3.jpg
+STIM:	60.3651	Text	House.jpg
+STIM:	60.6664	Text	BlueHouse_1.jpg
+STIM:	60.9678	Text	BlueHouse_2.jpg
+STIM:	61.2691	Text	BlueHouse_3.jpg
+STIM:	61.5705	Text	Pink.jpg
+STIM:	61.8718	Text	nw3.jpg
+STIM:	62.1732	Text	Disc.jpg
+STIM:	62.4745	Text	PinkDisc_1.jpg
+STIM:	62.7759	Text	PinkDisc_2.jpg
+STIM:	63.0772	Text	PinkDisc_3.jpg
+STIM:	63.3786	Text	Plane.jpg
+STIM:	63.6799	Text	PinkPlane_1.jpg
+STIM:	63.9813	Text	PinkPlane_2.jpg
+STIM:	64.2826	Text	PinkPlane_3.jpg
+STIM:	64.584	Text	Bag.jpg
+STIM:	64.8853	Text	PinkBag_1.jpg
+STIM:	65.1867	Text	PinkBag_2.jpg
+STIM:	65.488	Text	PinkBag_3.jpg
+STIM:	65.7894	Text	Lock.jpg
+STIM:	66.0907	Text	PinkLock_1.jpg
+STIM:	66.3921	Text	PinkLock_2.jpg
+STIM:	66.6934	Text	PinkLock_3.jpg
+STIM:	66.9948	Text	Cane.jpg
+STIM:	67.2961	Text	PinkCane_1.jpg
+STIM:	67.5975	Text	PinkCane_2.jpg
+STIM:	67.8988	Text	PinkCane_3.jpg
+STIM:	68.2002	Text	Hand.jpg
+STIM:	68.5015	Text	PinkHand_1.jpg
+STIM:	68.8029	Text	PinkHand_2.jpg
+STIM:	69.1042	Text	PinkHand_3.jpg
+STIM:	69.4056	Text	Key.jpg
+STIM:	69.7069	Text	PinkKey_1.jpg
+STIM:	70.0083	Text	PinkKey_2.jpg
+STIM:	70.3096	Text	PinkKey_3.jpg
+STIM:	70.611	Text	Shoe.jpg
+STIM:	70.9123	Text	PinkShoe_1.jpg
+STIM:	71.2137	Text	PinkShoe_2.jpg
+STIM:	71.515	Text	PinkShoe_3.jpg
+STIM:	71.8164	Text	Bone.jpg
+STIM:	72.1177	Text	PinkBone_1.jpg
+STIM:	72.4191	Text	PinkBone_2.jpg
+STIM:	72.7204	Text	PinkBone_3.jpg
+STIM:	73.0218	Text	Square.jpg
+STIM:	73.3231	Text	PinkSquare_1.jpg
+STIM:	73.6245	Text	PinkSquare_2.jpg
+STIM:	73.9258	Text	PinkSquare_3.jpg
+STIM:	74.2272	Text	Bell.jpg
+STIM:	74.5285	Text	PinkBell_1.jpg
+STIM:	74.8299	Text	PinkBell_2.jpg
+STIM:	75.1312	Text	PinkBell_3.jpg
+STIM:	75.4326	Text	Boat.jpg
+STIM:	75.7339	Text	PinkBoat_1.jpg
+STIM:	76.0353	Text	PinkBoat_2.jpg
+STIM:	76.3366	Text	PinkBoat_3.jpg
+STIM:	76.638	Text	Bow.jpg
+STIM:	76.9393	Text	PinkBow_1.jpg
+STIM:	77.2407	Text	PinkBow_2.jpg
+STIM:	77.542	Text	PinkBow_3.jpg
+STIM:	77.8434	Text	Car.jpg
+STIM:	78.1447	Text	PinkCar_1.jpg
+STIM:	78.4461	Text	PinkCar_2.jpg
+STIM:	78.7474	Text	PinkCar_3.jpg
+STIM:	79.0488	Text	Cross.jpg
+STIM:	79.3501	Text	PinkCross_1.jpg
+STIM:	79.6515	Text	PinkCross_2.jpg
+STIM:	79.9528	Text	PinkCross_3.jpg
+STIM:	80.2542	Text	Cup.jpg
+STIM:	80.5555	Text	PinkCup_1.jpg
+STIM:	80.8569	Text	PinkCup_2.jpg
+STIM:	81.1582	Text	PinkCup_3.jpg
+STIM:	81.4596	Text	Flag.jpg
+STIM:	81.7609	Text	PinkFlag_1.jpg
+STIM:	82.0623	Text	PinkFlag_2.jpg
+STIM:	82.3636	Text	PinkFlag_3.jpg
+STIM:	82.665	Text	Fork.jpg
+STIM:	82.9663	Text	PinkFork_1.jpg
+STIM:	83.2677	Text	PinkFork_2.jpg
+STIM:	83.569	Text	PinkFork_3.jpg
+STIM:	83.8704	Text	Heart.jpg
+STIM:	84.1717	Text	PinkHeart_1.jpg
+STIM:	84.4731	Text	PinkHeart_2.jpg
+STIM:	84.7744	Text	PinkHeart_3.jpg
+STIM:	85.0758	Text	Lamp.jpg
+STIM:	85.3771	Text	PinkLamp_1.jpg
+STIM:	85.6785	Text	PinkLamp_2.jpg
+STIM:	85.9798	Text	PinkLamp_3.jpg
+STIM:	86.2812	Text	Leaf.jpg
+STIM:	86.5825	Text	PinkLeaf_1.jpg
+STIM:	86.8839	Text	PinkLeaf_2.jpg
+STIM:	87.1852	Text	PinkLeaf_3.jpg
+STIM:	87.4866	Text	Note.jpg
+STIM:	87.7879	Text	PinkNote_1.jpg
+STIM:	88.0893	Text	PinkNote_2.jpg
+STIM:	88.3906	Text	PinkNote_3.jpg
+STIM:	88.692	Text	Star.jpg
+STIM:	88.9933	Text	PinkStar_1.jpg
+STIM:	89.2947	Text	PinkStar_2.jpg
+STIM:	89.596	Text	PinkStar_3.jpg
+STIM:	89.8974	Text	Tree.jpg
+STIM:	90.1987	Text	PinkTree_1.jpg
+STIM:	90.5001	Text	PinkTree_2.jpg
+STIM:	90.8014	Text	PinkTree_3.jpg
+STIM:	91.1028	Text	House.jpg
+STIM:	91.4041	Text	PinkHouse_1.jpg
+STIM:	91.7055	Text	PinkHouse_2.jpg
+STIM:	92.0069	Text	PinkHouse_3.jpg
+STIM:	92.3082	Text	Black.jpg
+STIM:	92.6095	Text	nw4.jpg
+STIM:	92.9109	Text	Disc.jpg
+STIM:	93.2122	Text	BlackDisc_1.jpg
+STIM:	93.5136	Text	BlackDisc_2.jpg
+STIM:	93.8149	Text	BlackDisc_3.jpg
+STIM:	94.1163	Text	Plane.jpg
+STIM:	94.4176	Text	BlackPlane_1.jpg
+STIM:	94.719	Text	BlackPlane_2.jpg
+STIM:	95.0203	Text	BlackPlane_3.jpg
+STIM:	95.3217	Text	Bag.jpg
+STIM:	95.623	Text	BlackBag_1.jpg
+STIM:	95.9244	Text	BlackBag_2.jpg
+STIM:	96.2258	Text	BlackBag_3.jpg
+STIM:	96.5271	Text	Lock.jpg
+STIM:	96.8284	Text	BlackLock_1.jpg
+STIM:	97.1298	Text	BlackLock_2.jpg
+STIM:	97.4311	Text	BlackLock_3.jpg
+STIM:	97.7325	Text	Cane.jpg
+STIM:	98.0338	Text	BlackCane_1.jpg
+STIM:	98.3352	Text	BlackCane_2.jpg
+STIM:	98.6365	Text	BlackCane_3.jpg
+STIM:	98.9379	Text	Hand.jpg
+STIM:	99.2392	Text	BlackHand_1.jpg
+STIM:	99.5406	Text	BlackHand_2.jpg
+STIM:	99.8419	Text	BlackHand_3.jpg
+STIM:	100.1433	Text	Key.jpg
+STIM:	100.4446	Text	BlackKey_1.jpg
+STIM:	100.746	Text	BlackKey_2.jpg
+STIM:	101.0473	Text	BlackKey_3.jpg
+STIM:	101.3487	Text	Shoe.jpg
+STIM:	101.65	Text	BlackShoe_1.jpg
+STIM:	101.9514	Text	BlackShoe_2.jpg
+STIM:	102.2527	Text	BlackShoe_3.jpg
+STIM:	102.5541	Text	Bone.jpg
+STIM:	102.8554	Text	BlackBone_1.jpg
+STIM:	103.1568	Text	BlackBone_2.jpg
+STIM:	103.4581	Text	BlackBone_3.jpg
+STIM:	103.7595	Text	Square.jpg
+STIM:	104.0608	Text	BlackSquare_1.jpg
+STIM:	104.3622	Text	BlackSquare_2.jpg
+STIM:	104.6635	Text	BlackSquare_3.jpg
+STIM:	104.9649	Text	Bell.jpg
+STIM:	105.2663	Text	BlackBell_1.jpg
+STIM:	105.5676	Text	BlackBell_2.jpg
+STIM:	105.8689	Text	BlackBell_3.jpg
+STIM:	106.1703	Text	Boat.jpg
+STIM:	106.4716	Text	BlackBoat_1.jpg
+STIM:	106.773	Text	BlackBoat_2.jpg
+STIM:	107.0743	Text	BlackBoat_3.jpg
+STIM:	107.3757	Text	Bow.jpg
+STIM:	107.677	Text	BlackBow_1.jpg
+STIM:	107.9784	Text	BlackBow_2.jpg
+STIM:	108.2797	Text	BlackBow_3.jpg
+STIM:	108.5811	Text	Car.jpg
+STIM:	108.8824	Text	BlackCar_1.jpg
+STIM:	109.2005	Text	BlackCar_2.jpg
+STIM:	109.5019	Text	BlackCar_3.jpg
+STIM:	109.8032	Text	Cross.jpg
+STIM:	110.1046	Text	BlackCross_1.jpg
+STIM:	110.4059	Text	BlackCross_2.jpg
+STIM:	110.7073	Text	BlackCross_3.jpg
+STIM:	111.0086	Text	Cup.jpg
+STIM:	111.31	Text	BlackCup_1.jpg
+STIM:	111.6113	Text	BlackCup_2.jpg
+STIM:	111.9127	Text	BlackCup_3.jpg
+STIM:	112.214	Text	Flag.jpg
+STIM:	112.5154	Text	BlackFlag_1.jpg
+STIM:	112.8167	Text	BlackFlag_2.jpg
+STIM:	113.1181	Text	BlackFlag_3.jpg
+STIM:	113.4194	Text	Fork.jpg
+STIM:	113.7208	Text	BlackFork_1.jpg
+STIM:	114.0221	Text	BlackFork_2.jpg
+STIM:	114.3235	Text	BlackFork_3.jpg
+STIM:	114.6248	Text	Heart.jpg
+STIM:	114.9262	Text	BlackHeart_1.jpg
+STIM:	115.2275	Text	BlackHeart_2.jpg
+STIM:	115.5289	Text	BlackHeart_3.jpg
+STIM:	115.8302	Text	Lamp.jpg
+STIM:	116.1316	Text	BlackLamp_1.jpg
+STIM:	116.4329	Text	BlackLamp_2.jpg
+STIM:	116.7343	Text	BlackLamp_3.jpg
+STIM:	117.0356	Text	Leaf.jpg
+STIM:	117.337	Text	BlackLeaf_1.jpg
+STIM:	117.6383	Text	BlackLeaf_2.jpg
+STIM:	117.9397	Text	BlackLeaf_3.jpg
+STIM:	118.241	Text	Note.jpg
+STIM:	118.5424	Text	BlackNote_1.jpg
+STIM:	118.8437	Text	BlackNote_2.jpg
+STIM:	119.1451	Text	BlackNote_3.jpg
+STIM:	119.4464	Text	Star.jpg
+STIM:	119.7478	Text	BlackStar_1.jpg
+STIM:	120.0491	Text	BlackStar_2.jpg
+STIM:	120.3505	Text	BlackStar_3.jpg
+STIM:	120.6518	Text	Tree.jpg
+STIM:	120.9532	Text	BlackTree_1.jpg
+STIM:	121.2545	Text	BlackTree_2.jpg
+STIM:	121.5559	Text	BlackTree_3.jpg
+STIM:	121.8572	Text	House.jpg
+STIM:	122.1586	Text	BlackHouse_1.jpg
+STIM:	122.4599	Text	BlackHouse_2.jpg
+STIM:	122.7613	Text	BlackHouse_3.jpg
+STIM:	123.0626	Text	Green.jpg
+STIM:	123.364	Text	nw5.jpg
+STIM:	123.6653	Text	Disc.jpg
+STIM:	123.9667	Text	GreenDisc_1.jpg
+STIM:	124.268	Text	GreenDisc_2.jpg
+STIM:	124.5694	Text	GreenDisc_3.jpg
+STIM:	124.8707	Text	Plane.jpg
+STIM:	125.1721	Text	GreenPlane_1.jpg
+STIM:	125.4734	Text	GreenPlane_2.jpg
+STIM:	125.7748	Text	GreenPlane_3.jpg
+STIM:	126.0761	Text	Bag.jpg
+STIM:	126.3775	Text	GreenBag_1.jpg
+STIM:	126.6788	Text	GreenBag_2.jpg
+STIM:	126.9802	Text	GreenBag_3.jpg
+STIM:	127.2815	Text	Lock.jpg
+STIM:	127.5829	Text	GreenLock_1.jpg
+STIM:	127.8842	Text	GreenLock_2.jpg
+STIM:	128.1856	Text	GreenLock_3.jpg
+STIM:	128.4869	Text	Cane.jpg
+STIM:	128.7883	Text	GreenCane_1.jpg
+STIM:	129.0896	Text	GreenCane_2.jpg
+STIM:	129.391	Text	GreenCane_3.jpg
+STIM:	129.6923	Text	Hand.jpg
+STIM:	129.9937	Text	GreenHand_1.jpg
+STIM:	130.295	Text	GreenHand_2.jpg
+STIM:	130.5964	Text	GreenHand_3.jpg
+STIM:	130.8977	Text	Key.jpg
+STIM:	131.1991	Text	GreenKey_1.jpg
+STIM:	131.5004	Text	GreenKey_2.jpg
+STIM:	131.8018	Text	GreenKey_3.jpg
+STIM:	132.1031	Text	Shoe.jpg
+STIM:	132.4045	Text	GreenShoe_1.jpg
+STIM:	132.7058	Text	GreenShoe_2.jpg
+STIM:	133.0072	Text	GreenShoe_3.jpg
+STIM:	133.3085	Text	Bone.jpg
+STIM:	133.6099	Text	GreenBone_1.jpg
+STIM:	133.9112	Text	GreenBone_2.jpg
+STIM:	134.2126	Text	GreenBone_3.jpg
+STIM:	134.5139	Text	Square.jpg
+STIM:	134.8153	Text	GreenSquare_1.jpg
+STIM:	135.1166	Text	GreenSquare_2.jpg
+STIM:	135.418	Text	GreenSquare_3.jpg
+STIM:	135.7193	Text	Bell.jpg
+STIM:	136.0207	Text	GreenBell_1.jpg
+STIM:	136.3221	Text	GreenBell_2.jpg
+STIM:	136.6234	Text	GreenBell_3.jpg
+STIM:	136.9247	Text	Boat.jpg
+STIM:	137.2428	Text	GreenBoat_1.jpg
+STIM:	137.5442	Text	GreenBoat_2.jpg
+STIM:	137.8455	Text	GreenBoat_3.jpg
+STIM:	138.1469	Text	Bow.jpg
+STIM:	138.4482	Text	GreenBow_1.jpg
+STIM:	138.7496	Text	GreenBow_2.jpg
+STIM:	139.0509	Text	GreenBow_3.jpg
+STIM:	139.3523	Text	Car.jpg
+STIM:	139.6536	Text	GreenCar_1.jpg
+STIM:	139.955	Text	GreenCar_2.jpg
+STIM:	140.2563	Text	GreenCar_3.jpg
+STIM:	140.5577	Text	Cross.jpg
+STIM:	140.859	Text	GreenCross_1.jpg
+STIM:	141.1604	Text	GreenCross_2.jpg
+STIM:	141.4617	Text	GreenCross_3.jpg
+STIM:	141.7631	Text	Cup.jpg
+STIM:	142.0644	Text	GreenCup_1.jpg
+STIM:	142.3658	Text	GreenCup_2.jpg
+STIM:	142.6671	Text	GreenCup_3.jpg
+STIM:	142.9685	Text	Flag.jpg
+STIM:	143.2698	Text	GreenFlag_1.jpg
+STIM:	143.5712	Text	GreenFlag_2.jpg
+STIM:	143.8725	Text	GreenFlag_3.jpg
+STIM:	144.1739	Text	Fork.jpg
+STIM:	144.4752	Text	GreenFork_1.jpg
+STIM:	144.7766	Text	GreenFork_2.jpg
+STIM:	145.0779	Text	GreenFork_3.jpg
+STIM:	145.3793	Text	Heart.jpg
+STIM:	145.6806	Text	GreenHeart_1.jpg
+STIM:	145.982	Text	GreenHeart_2.jpg
+STIM:	146.2833	Text	GreenHeart_3.jpg
+STIM:	146.5847	Text	Lamp.jpg
+STIM:	146.886	Text	GreenLamp_1.jpg
+STIM:	147.1874	Text	GreenLamp_2.jpg
+STIM:	147.4887	Text	GreenLamp_3.jpg
+STIM:	147.7901	Text	Leaf.jpg
+STIM:	148.0914	Text	GreenLeaf_1.jpg
+STIM:	148.3928	Text	GreenLeaf_2.jpg
+STIM:	148.6941	Text	GreenLeaf_3.jpg
+STIM:	148.9955	Text	Note.jpg
+STIM:	149.2968	Text	GreenNote_1.jpg
+STIM:	149.5982	Text	GreenNote_2.jpg
+STIM:	149.8995	Text	GreenNote_3.jpg
+STIM:	150.2009	Text	Star.jpg
+STIM:	150.5022	Text	GreenStar_1.jpg
+STIM:	150.8036	Text	GreenStar_2.jpg
+STIM:	151.1049	Text	GreenStar_3.jpg
+STIM:	151.4063	Text	Tree.jpg
+STIM:	151.7076	Text	GreenTree_1.jpg
+STIM:	152.009	Text	GreenTree_2.jpg
+STIM:	152.3103	Text	GreenTree_3.jpg
+STIM:	152.6117	Text	House.jpg
+STIM:	152.913	Text	GreenHouse_1.jpg
+STIM:	153.2144	Text	GreenHouse_2.jpg
+STIM:	153.5157	Text	GreenHouse_3.jpg
+STIM:	153.8171	Text	Brown.jpg
+STIM:	154.1184	Text	nw6.jpg
+STIM:	154.4198	Text	Disc.jpg
+STIM:	154.7211	Text	BrownDisc_1.jpg
+STIM:	155.0225	Text	BrownDisc_2.jpg
+STIM:	155.3238	Text	BrownDisc_3.jpg
+STIM:	155.6252	Text	Plane.jpg
+STIM:	155.9265	Text	BrownPlane_1.jpg
+STIM:	156.2279	Text	BrownPlane_2.jpg
+STIM:	156.5292	Text	BrownPlane_3.jpg
+STIM:	156.8306	Text	Bag.jpg
+STIM:	157.1319	Text	BrownBag_1.jpg
+STIM:	157.4333	Text	BrownBag_2.jpg
+STIM:	157.7346	Text	BrownBag_3.jpg
+STIM:	158.036	Text	Lock.jpg
+STIM:	158.3373	Text	BrownLock_1.jpg
+STIM:	158.6387	Text	BrownLock_2.jpg
+STIM:	158.94	Text	BrownLock_3.jpg
+STIM:	159.2414	Text	Cane.jpg
+STIM:	159.5427	Text	BrownCane_1.jpg
+STIM:	159.8441	Text	BrownCane_2.jpg
+STIM:	160.1454	Text	BrownCane_3.jpg
+STIM:	160.4468	Text	Hand.jpg
+STIM:	160.7481	Text	BrownHand_1.jpg
+STIM:	161.0495	Text	BrownHand_2.jpg
+STIM:	161.3508	Text	BrownHand_3.jpg
+STIM:	161.6522	Text	Key.jpg
+STIM:	161.9535	Text	BrownKey_1.jpg
+STIM:	162.2549	Text	BrownKey_2.jpg
+STIM:	162.5562	Text	BrownKey_3.jpg
+STIM:	162.8576	Text	Shoe.jpg
+STIM:	163.1589	Text	BrownShoe_1.jpg
+STIM:	163.4603	Text	BrownShoe_2.jpg
+STIM:	163.7616	Text	BrownShoe_3.jpg
+STIM:	164.063	Text	Bone.jpg
+STIM:	164.3643	Text	BrownBone_1.jpg
+STIM:	164.6657	Text	BrownBone_2.jpg
+STIM:	164.967	Text	BrownBone_3.jpg
+STIM:	165.2684	Text	Square.jpg
+STIM:	165.5697	Text	BrownSquare_1.jpg
+STIM:	165.8711	Text	BrownSquare_2.jpg
+STIM:	166.1724	Text	BrownSquare_3.jpg
+STIM:	166.4738	Text	Bell.jpg
+STIM:	166.7751	Text	BrownBell_1.jpg
+STIM:	167.0765	Text	BrownBell_2.jpg
+STIM:	167.3778	Text	BrownBell_3.jpg
+STIM:	167.6792	Text	Boat.jpg
+STIM:	167.9805	Text	BrownBoat_1.jpg
+STIM:	168.2819	Text	BrownBoat_2.jpg
+STIM:	168.5832	Text	BrownBoat_3.jpg
+STIM:	168.8846	Text	Bow.jpg
+STIM:	169.1859	Text	BrownBow_1.jpg
+STIM:	169.4873	Text	BrownBow_2.jpg
+STIM:	169.7886	Text	BrownBow_3.jpg
+STIM:	170.09	Text	Car.jpg
+STIM:	170.3913	Text	BrownCar_1.jpg
+STIM:	170.6927	Text	BrownCar_2.jpg
+STIM:	170.994	Text	BrownCar_3.jpg
+STIM:	171.2954	Text	Cross.jpg
+STIM:	171.5967	Text	BrownCross_1.jpg
+STIM:	171.8981	Text	BrownCross_2.jpg
+STIM:	172.1994	Text	BrownCross_3.jpg
+STIM:	172.5008	Text	Cup.jpg
+STIM:	172.8021	Text	BrownCup_1.jpg
+STIM:	173.1035	Text	BrownCup_2.jpg
+STIM:	173.4048	Text	BrownCup_3.jpg
+STIM:	173.7062	Text	Flag.jpg
+STIM:	174.0075	Text	BrownFlag_1.jpg
+STIM:	174.3089	Text	BrownFlag_2.jpg
+STIM:	174.6102	Text	BrownFlag_3.jpg
+STIM:	174.9116	Text	Fork.jpg
+STIM:	175.2129	Text	BrownFork_1.jpg
+STIM:	175.5143	Text	BrownFork_2.jpg
+STIM:	175.8156	Text	BrownFork_3.jpg
+STIM:	176.117	Text	Heart.jpg
+STIM:	176.4183	Text	BrownHeart_1.jpg
+STIM:	176.7197	Text	BrownHeart_2.jpg
+STIM:	177.021	Text	BrownHeart_3.jpg
+STIM:	177.3224	Text	Lamp.jpg
+STIM:	177.6237	Text	BrownLamp_1.jpg
+STIM:	177.9251	Text	BrownLamp_2.jpg
+STIM:	178.2264	Text	BrownLamp_3.jpg
+STIM:	178.5278	Text	Leaf.jpg
+STIM:	178.8291	Text	BrownLeaf_1.jpg
+STIM:	179.1305	Text	BrownLeaf_2.jpg
+STIM:	179.4318	Text	BrownLeaf_3.jpg
+STIM:	179.7332	Text	Note.jpg
+STIM:	180.0345	Text	BrownNote_1.jpg
+STIM:	180.3359	Text	BrownNote_2.jpg
+STIM:	180.6372	Text	BrownNote_3.jpg
+STIM:	180.9386	Text	Star.jpg
+STIM:	181.2399	Text	BrownStar_1.jpg
+STIM:	181.5413	Text	BrownStar_2.jpg
+STIM:	181.8426	Text	BrownStar_3.jpg
+STIM:	182.144	Text	Tree.jpg
+STIM:	182.4453	Text	BrownTree_1.jpg
+STIM:	182.7467	Text	BrownTree_2.jpg
+STIM:	183.048	Text	BrownTree_3.jpg
+STIM:	183.3494	Text	House.jpg
+STIM:	183.6507	Text	BrownHouse_1.jpg
+STIM:	183.9521	Text	BrownHouse_2.jpg
+STIM:	184.2534	Text	BrownHouse_3.jpg
+STIM:	184.5548	Text	Done!
+STIM:	185.5593	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 12:21:19
+
+START:	0.0000	120831.4633
+STIM:	0.16314	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 13:03:58
+
+START:	0.0000	123390.4302
+STIM:	0.093458	Paragraph	Please lie as still as possible.
+KEY:	3.6591	3.5656	ESCAPE
+TIMEOUT: 3.67
+STIM:	3.6929	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 15:02:07
+
+START:	0.0000	130479.8262
+STIM:	0.074496	Paragraph	Please lie as still as possible.
+KEY:	1.1782	1.1037	space
+STIM:	1.1962	Text	The next run is about to begin.
+KEY:	1.9062	0.70998	space
+STIM:	1.9328	Text	+
+STIM:	2.9373	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 15:02:44
+
+START:	0.0000	130516.425
+STIM:	0.039469	Paragraph	Please lie as still as possible.
+KEY:	1.0833	1.0439	space
+STIM:	1.1109	Text	The next run is about to begin.
+KEY:	1.4593	0.3484	space
+STIM:	1.4792	Text	+
+STIM:	2.4837	Picture	Blue.jpg
+STIM:	2.7516	Blank	
+STIM:	3.053	Picture	Bag.jpg
+STIM:	3.3543	Blank	
+STIM:	3.6557	Picture	BlueSquare_3.jpg
+KEY:	5.0673	1.4117	a
+STIM:	5.0787	Text	+
+STIM:	6.4683	Picture	nw2.jpg
+STIM:	6.7529	Blank	
+STIM:	7.0542	Picture	Hand.jpg
+STIM:	7.3556	Blank	
+STIM:	7.6569	Picture	BlueHand_3.jpg
+KEY:	8.3233	0.66642	s
+STIM:	8.3433	Text	+
+STIM:	10.4528	Picture	nw2.jpg
+STIM:	10.7541	Blank	
+STIM:	11.0555	Picture	Bone.jpg
+STIM:	11.3568	Blank	
+STIM:	11.6582	Text	+
+STIM:	12.6627	Picture	Blue.jpg
+STIM:	12.964	Blank	
+STIM:	13.2654	Picture	Lock.jpg
+STIM:	13.5667	Blank	
+STIM:	13.8681	Text	+
+STIM:	14.8558	Picture	nw3.jpg
+STIM:	15.1572	Blank	
+STIM:	15.4585	Picture	Key.jpg
+STIM:	15.7599	Blank	
+STIM:	16.0612	Text	+
+STIM:	17.0657	Picture	Pink.jpg
+STIM:	17.3671	Blank	
+STIM:	17.6517	Picture	Bell.jpg
+STIM:	17.953	Blank	
+STIM:	18.2544	Picture	PinkLamp_2.jpg
+KEY:	18.7874	0.53295	a
+STIM:	18.8069	Text	+
+STIM:	21.067	Picture	nw6.jpg
+STIM:	21.3516	Blank	
+STIM:	21.653	Text	+
+STIM:	22.6574	Picture	Brown.jpg
+STIM:	22.9588	Blank	
+STIM:	23.2602	Picture	Shoe.jpg
+STIM:	23.5615	Blank	
+STIM:	23.8629	Text	+
+STIM:	24.8673	Picture	nw4.jpg
+STIM:	25.152	Blank	
+STIM:	25.4533	Picture	Square.jpg
+STIM:	25.7547	Blank	
+STIM:	26.056	Text	+
+STIM:	27.0605	Picture	nw3.jpg
+STIM:	27.3619	Blank	
+STIM:	27.6632	Picture	Bell.jpg
+STIM:	27.9646	Blank	
+STIM:	28.2659	Picture	PinkLamp_2.jpg
+KEY:	28.8193	0.55343	a
+STIM:	28.8351	Text	+
+STIM:	31.0618	Picture	Black.jpg
+STIM:	31.3631	Blank	
+STIM:	31.6645	Picture	Key.jpg
+STIM:	31.9658	Blank	
+STIM:	32.2672	Picture	BlackHeart_1.jpg
+KEY:	32.8433	0.57617	a
+STIM:	32.8699	Text	+
+STIM:	35.063	Picture	nw1.jpg
+STIM:	35.3644	Blank	
+STIM:	35.6658	Picture	Cane.jpg
+STIM:	35.9671	Blank	
+STIM:	36.2517	Picture	BrownTree_1.jpg
+KEY:	36.9073	0.65564	a
+STIM:	36.9213	Text	+
+STIM:	39.0643	Picture	nw2.jpg
+STIM:	39.3656	Blank	
+STIM:	39.667	Picture	Lock.jpg
+STIM:	39.9516	Blank	
+STIM:	40.253	Text	+
+STIM:	41.2575	Picture	nw2.jpg
+STIM:	41.5588	Blank	
+STIM:	41.8602	Picture	Bag.jpg
+STIM:	42.1615	Blank	
+STIM:	42.4629	Text	+
+STIM:	43.4674	Picture	Brown.jpg
+STIM:	43.752	Blank	
+STIM:	44.0533	Picture	Lock.jpg
+STIM:	44.3547	Blank	
+STIM:	44.656	Picture	BrownLock_2.jpg
+KEY:	45.1873	0.53133	s
+STIM:	45.2085	Text	+
+STIM:	47.4519	Picture	nw5.jpg
+STIM:	47.7532	Blank	
+STIM:	48.0546	Text	+
+STIM:	49.0591	Picture	Green.jpg
+STIM:	49.3604	Blank	
+STIM:	49.6618	Picture	Flag.jpg
+STIM:	49.9631	Blank	
+STIM:	50.2645	Picture	BlueFlag_3.jpg
+KEY:	51.2433	0.97887	a
+STIM:	51.269	Text	+
+STIM:	53.0603	Picture	Green.jpg
+STIM:	53.3617	Blank	
+STIM:	53.663	Text	+
+STIM:	54.6675	Picture	Brown.jpg
+STIM:	54.9521	Blank	
+STIM:	55.2535	Text	+
+STIM:	56.258	Picture	nw2.jpg
+STIM:	56.5593	Blank	
+STIM:	56.8607	Picture	Boat.jpg
+STIM:	57.162	Blank	
+STIM:	57.4634	Picture	BlueBoat_1.jpg
+KEY:	58.0593	0.59597	s
+STIM:	58.0828	Text	+
+STIM:	60.2592	Picture	nw2.jpg
+STIM:	60.5606	Blank	
+STIM:	60.8619	Picture	Leaf.jpg
+STIM:	61.1633	Blank	
+STIM:	61.4646	Picture	PinkCar_1.jpg
+KEY:	62.0353	0.57069	a
+STIM:	62.0506	Text	+
+STIM:	64.2605	Picture	Blue.jpg
+STIM:	64.5619	Blank	
+STIM:	64.8632	Picture	Leaf.jpg
+STIM:	65.1645	Blank	
+STIM:	65.4659	Picture	PinkLeaf_1.jpg
+KEY:	66.1714	0.7055	a
+STIM:	66.1858	Text	+
+STIM:	68.2618	Picture	Brown.jpg
+STIM:	68.5631	Blank	
+STIM:	68.8645	Text	+
+STIM:	69.8522	Picture	Black.jpg
+STIM:	70.1536	Blank	
+STIM:	70.4549	Picture	Bow.jpg
+STIM:	70.7563	Blank	
+STIM:	71.0576	Picture	PinkBow_2.jpg
+KEY:	71.5394	0.48172	a
+STIM:	71.5599	Text	+
+STIM:	73.8535	Picture	nw4.jpg
+STIM:	74.1548	Blank	
+STIM:	74.4562	Picture	Plane.jpg
+STIM:	74.7575	Blank	
+STIM:	75.0589	Text	+
+STIM:	76.0634	Picture	nw2.jpg
+STIM:	76.3647	Blank	
+STIM:	76.6661	Text	+
+STIM:	77.6539	Picture	Black.jpg
+STIM:	77.9552	Blank	
+STIM:	78.2565	Picture	Square.jpg
+STIM:	78.5579	Blank	
+STIM:	78.8593	Picture	BlackSquare_1.jpg
+KEY:	79.4673	0.60809	s
+STIM:	79.4787	Text	+
+STIM:	81.6551	Picture	Brown.jpg
+STIM:	81.9564	Blank	
+STIM:	82.2578	Picture	Bell.jpg
+STIM:	82.5592	Blank	
+STIM:	82.8605	Text	+
+STIM:	83.865	Picture	Blue.jpg
+STIM:	84.1663	Blank	
+STIM:	84.4677	Text	+
+STIM:	85.4555	Picture	nw6.jpg
+STIM:	85.7568	Blank	
+STIM:	86.0582	Picture	Shoe.jpg
+STIM:	86.3595	Blank	
+STIM:	86.6608	Text	+
+STIM:	87.6653	Picture	nw3.jpg
+STIM:	87.9667	Blank	
+STIM:	88.2681	Picture	Fork.jpg
+STIM:	88.5527	Blank	
+STIM:	88.854	Picture	PinkFork_1.jpg
+KEY:	89.3154	0.46133	ESCAPE
+TIMEOUT: 89.324
+STIM:	89.3395	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 15:42:25
+
+START:	0.0000	132898.2972
+STIM	0.038009	Paragraph	Please lie as still as possible.
+KEY	1.5398	1.5018	space
+STIM	1.5615	Text	The next run is about to begin.
+KEY	1.9399	0.37834	space
+STIM	1.9633	Text	+
+STIM	2.9678	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 15:42:57
+
+START:	0.0000	132930.1082
+STIM	0.052978	Paragraph	Please lie as still as possible.
+KEY	0.57691	0.52393	space
+STIM	0.60545	Text	The next run is about to begin.
+KEY	0.8089	0.20345	space
+STIM	0.82311	Text	+
+STIM	1.8276	Picture	Pink.jpg
+STIM	2.1122	Blank	
+STIM	2.4136	Picture	Shoe.jpg
+STIM	2.7149	Blank	
+STIM	3.0163	Picture	PinkShoe_3.jpg
+TIMEOUT	4.7922
+STIM	4.8076	Text	+
+STIM	5.4103	Picture	nw2.jpg
+STIM	5.7117	Blank	
+STIM	6.013	Picture	Lamp.jpg
+STIM	6.3144	Blank	
+STIM	6.6157	Picture	BlueLamp_1.jpg
+TIMEOUT	8.3922
+STIM	8.4071	Text	+
+STIM	8.9093	Picture	nw4.jpg
+STIM	9.2107	Blank	
+STIM	9.512	Picture	Cane.jpg
+STIM	9.8134	Blank	
+STIM	10.1147	Text	+
+STIM	10.5165	Picture	Blue.jpg
+STIM	10.8011	Blank	
+STIM	11.1025	Picture	Square.jpg
+STIM	11.4038	Blank	
+STIM	11.7052	Text	+
+STIM	12.3079	Picture	nw2.jpg
+STIM	12.6092	Blank	
+STIM	12.9106	Picture	Square.jpg
+STIM	13.2119	Blank	
+STIM	13.5133	Text	+
+STIM	13.9151	Picture	Blue.jpg
+STIM	14.2164	Blank	
+STIM	14.5178	Picture	Lamp.jpg
+STIM	14.8024	Blank	
+STIM	15.1037	Picture	BlueLamp_1.jpg
+KEY	15.752	0.64822	s
+STIM	15.7734	Text	+
+STIM	17.4141	Picture	nw3.jpg
+STIM	17.7155	Blank	
+STIM	18.0168	Text	+
+STIM	18.4018	Picture	Green.jpg
+STIM	18.7032	Blank	
+STIM	19.0046	Picture	Plane.jpg
+STIM	19.3059	Blank	
+STIM	19.6072	Text	+
+STIM	20.1095	Picture	nw5.jpg
+STIM	20.4108	Blank	
+STIM	20.7122	Picture	Hand.jpg
+STIM	21.0136	Blank	
+STIM	21.3149	Text	+
+STIM	21.9176	Picture	nw2.jpg
+STIM	22.2022	Blank	
+STIM	22.5035	Picture	Key.jpg
+STIM	22.8049	Blank	
+STIM	23.1063	Picture	BlueBell_3.jpg
+KEY	23.768	0.66171	a
+STIM	23.7927	Text	+
+STIM	25.3162	Picture	Pink.jpg
+STIM	25.6175	Blank	
+STIM	25.9021	Picture	Bag.jpg
+STIM	26.2035	Blank	
+STIM	26.5048	Picture	PinkHouse_2.jpg
+KEY	26.984	0.47918	s
+STIM	27.0071	Text	+
+STIM	28.9156	Picture	nw5.jpg
+STIM	29.217	Blank	
+STIM	29.5016	Picture	Flag.jpg
+STIM	29.8029	Blank	
+STIM	30.1043	Picture	PinkHeart_1.jpg
+KEY	30.64	0.53571	a
+STIM	30.6568	Text	+
+STIM	32.3142	Picture	nw1.jpg
+STIM	32.6155	Blank	
+STIM	32.9169	Picture	Key.jpg
+STIM	33.2015	Blank	
+STIM	33.5028	Text	+
+STIM	34.0051	Picture	nw1.jpg
+STIM	34.3064	Blank	
+STIM	34.6078	Picture	Shoe.jpg
+STIM	34.9091	Blank	
+STIM	35.2105	Text	+
+STIM	35.6123	Picture	Green.jpg
+STIM	35.9137	Blank	
+STIM	36.215	Picture	Lock.jpg
+STIM	36.5163	Blank	
+STIM	36.8177	Picture	GreenLock_2.jpg
+KEY	37.32	0.5023	s
+STIM	37.3367	Text	+
+STIM	39.1113	Picture	nw6.jpg
+STIM	39.4126	Blank	
+STIM	39.714	Text	+
+STIM	40.1158	Picture	Brown.jpg
+STIM	40.4171	Blank	
+STIM	40.7017	Picture	Fork.jpg
+STIM	41.0031	Blank	
+STIM	41.3044	Picture	BrownFork_1.jpg
+KEY	41.84	0.53554	s
+STIM	41.8569	Text	+
+STIM	43.6148	Picture	Brown.jpg
+STIM	43.9162	Blank	
+STIM	44.2175	Text	+
+STIM	44.8035	Picture	Red.jpg
+STIM	45.1048	Blank	
+STIM	45.4062	Text	+
+STIM	45.9084	Picture	nw4.jpg
+STIM	46.2098	Blank	
+STIM	46.5111	Picture	Cup.jpg
+STIM	46.8125	Blank	
+STIM	47.1138	Picture	BlackCup_3.jpg
+KEY	47.504	0.39018	ESCAPE
+TIMEOUT	47.5131
+STIM	47.5324	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 15:53:07
+
+START:	0.0000	133539.8877
+STIM	0.038569	Paragraph	Please lie as still as possible.
+KEY	1.0199	0.98137	space
+STIM	1.0431	Text	The next run is about to begin.
+KEY	2.7239	1.6809	space
+STIM	2.7507	Text	+
+STIM	3.7552	Picture	Pink.jpg
+STIM	4.0231	Blank	
+STIM	4.3244	Picture	Shoe.jpg
+STIM	4.6258	Blank	
+STIM	4.9271	Picture	PinkShoe_3.jpg
+TIMEOUT	6.7072
+STIM	6.7185	Text	+
+STIM	7.3212	Picture	nw2.jpg
+STIM	7.6225	Blank	
+STIM	7.9239	Picture	Lamp.jpg
+STIM	8.2252	Blank	
+STIM	8.5266	Picture	BlueLamp_1.jpg
+KEY	8.9879	0.46136	ESCAPE
+TIMEOUT	9.0006
+STIM	9.0288	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 15:53:36
+
+START:	0.0000	133568.7501
+STIM	0.038666	Paragraph	Please lie as still as possible.
+KEY	1.0456	1.0069	space
+STIM	1.0936	Text	The next run is about to begin.
+KEY	1.6135	0.51999	space
+STIM	1.6293	Text	+
+STIM	2.6338	Picture	Pink.jpg
+STIM	2.9184	Blank	
+STIM	3.2197	Picture	Shoe.jpg
+STIM	3.5211	Blank	
+STIM	3.8057	Picture	PinkShoe_3.jpg
+TIMEOUT	5.5969
+STIM	5.6138	Text	+
+STIM	6.2165	Picture	nw2.jpg
+STIM	6.5178	Blank	
+STIM	6.8192	Picture	Lamp.jpg
+STIM	7.1205	Blank	
+STIM	7.4219	Picture	BlueLamp_1.jpg
+TIMEOUT	9.1968
+STIM	9.2133	Text	+
+STIM	9.7155	Picture	nw4.jpg
+STIM	10.0168	Blank	
+STIM	10.3182	Picture	Cane.jpg
+STIM	10.6196	Blank	
+STIM	10.9209	Text	+
+STIM	11.306	Picture	Blue.jpg
+STIM	11.6073	Blank	
+STIM	11.9087	Picture	Square.jpg
+STIM	12.21	Blank	
+STIM	12.5114	Text	+
+STIM	13.1141	Picture	nw2.jpg
+STIM	13.4154	Blank	
+STIM	13.7168	Picture	Square.jpg
+STIM	14.0181	Blank	
+STIM	14.3195	Text	+
+STIM	14.7213	Picture	Blue.jpg
+STIM	15.0059	Blank	
+STIM	15.3072	Picture	Lamp.jpg
+STIM	15.6086	Blank	
+STIM	15.9099	Picture	BlueLamp_1.jpg
+TIMEOUT	17.6969
+STIM	17.718	Text	+
+STIM	18.2203	Picture	nw3.jpg
+STIM	18.5216	Blank	
+STIM	18.8062	Text	+
+STIM	19.208	Picture	Green.jpg
+STIM	19.5094	Blank	
+STIM	19.8107	Picture	Plane.jpg
+STIM	20.1121	Blank	
+STIM	20.4134	Text	+
+STIM	20.9157	Picture	nw5.jpg
+STIM	21.217	Blank	
+STIM	21.5184	Picture	Hand.jpg
+STIM	21.8197	Blank	
+STIM	22.1211	Text	+
+STIM	22.707	Picture	nw2.jpg
+STIM	23.0084	Blank	
+STIM	23.3097	Picture	Key.jpg
+STIM	23.6111	Blank	
+STIM	23.9125	Picture	BlueBell_3.jpg
+TIMEOUT	25.6968
+STIM	25.7205	Text	+
+STIM	26.1223	Picture	Pink.jpg
+STIM	26.407	Blank	
+STIM	26.7083	Picture	Bag.jpg
+STIM	27.0096	Blank	
+STIM	27.311	Picture	PinkHouse_2.jpg
+TIMEOUT	29.0969
+STIM	29.1191	Text	+
+STIM	29.7218	Picture	nw5.jpg
+STIM	30.0064	Blank	
+STIM	30.3077	Picture	Flag.jpg
+STIM	30.6091	Blank	
+STIM	30.9105	Picture	PinkHeart_1.jpg
+TIMEOUT	32.6968
+STIM	32.7186	Text	+
+STIM	33.1204	Picture	nw1.jpg
+STIM	33.4217	Blank	
+STIM	33.7063	Picture	Key.jpg
+STIM	34.0077	Blank	
+STIM	34.309	Text	+
+STIM	34.8113	Picture	nw1.jpg
+STIM	35.1126	Blank	
+STIM	35.4139	Picture	Shoe.jpg
+STIM	35.7153	Blank	
+STIM	36.0167	Text	+
+STIM	36.4185	Picture	Green.jpg
+STIM	36.7198	Blank	
+STIM	37.0212	Picture	Lock.jpg
+STIM	37.3058	Blank	
+STIM	37.6071	Picture	GreenLock_2.jpg
+TIMEOUT	39.3969
+STIM	39.4152	Text	+
+STIM	39.9175	Picture	nw6.jpg
+STIM	40.2188	Blank	
+STIM	40.5202	Text	+
+STIM	40.922	Picture	Brown.jpg
+STIM	41.2066	Blank	
+STIM	41.5079	Picture	Fork.jpg
+STIM	41.8093	Blank	
+STIM	42.1106	Picture	BrownFork_1.jpg
+KEY	42.5219	0.41127	a
+STIM	42.5459	Text	+
+STIM	44.421	Picture	Brown.jpg
+STIM	44.7223	Blank	
+STIM	45.0069	Text	+
+STIM	45.6096	Picture	Red.jpg
+STIM	45.911	Blank	
+STIM	46.2123	Text	+
+STIM	46.7146	Picture	nw4.jpg
+STIM	47.0159	Blank	
+STIM	47.3173	Picture	Cup.jpg
+STIM	47.6186	Blank	
+STIM	47.92	Picture	BlackCup_3.jpg
+KEY	48.3459	0.42591	ESCAPE
+TIMEOUT	48.3546
+STIM	48.372	Cleanup	
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 16:13:49
+
+START:	0.0000	134782.2715
+STIM	0.054056	Paragraph	Please lie as still as possible.
+KEY	0.53565	0.48159	space
+STIM	0.55631	Text	The next run is about to begin.
+KEY	1.1917	0.63535	space
+STIM	1.2092	Text	+
+STIM	2.2137	Picture	Pink.jpg	mod_full
+STIM	2.4983	Blank		mod_full
+STIM	2.7997	Picture	Shoe.jpg	mod_full
+STIM	3.0843	Blank		mod_full
+STIM	3.3857	Picture	PinkShoe_3.jpg	mod_full
+KEY	4.2396	0.85398	s	mod_full
+STIM	4.2562	Text	+	mod_full
+STIM	5.7965	Picture	nw2.jpg	non_full
+STIM	6.0978	Blank		non_full
+STIM	6.3992	Picture	Lamp.jpg	non_full
+STIM	6.7005	Blank		non_full
+STIM	6.9851	Picture	BlueLamp_1.jpg	non_full
+KEY	7.6636	0.67854	a	non_full
+STIM	7.6883	Text	+	non_full
+STIM	9.2955	Picture	nw4.jpg	non_part_1
+STIM	9.5968	Blank		non_part_1
+STIM	9.8982	Picture	Cane.jpg	non_part_1
+STIM	10.1995	Blank		non_part_1
+STIM	10.4841	Text	+	non_part_1
+STIM	10.8859	Picture	Blue.jpg	mod_part_1
+STIM	11.1873	Blank		mod_part_1
+STIM	11.4886	Picture	Square.jpg	mod_part_1
+STIM	11.79	Blank		mod_part_1
+STIM	12.0913	Text	+	mod_part_1
+STIM	12.694	Picture	nw2.jpg	non_part_1
+STIM	12.9954	Blank		non_part_1
+STIM	13.2967	Picture	Square.jpg	non_part_1
+STIM	13.5981	Blank		non_part_1
+STIM	13.8994	Text	+	non_part_1
+STIM	14.2845	Picture	Blue.jpg	mod_full
+STIM	14.5858	Blank		mod_full
+STIM	14.8872	Picture	Lamp.jpg	mod_full
+STIM	15.1885	Blank		mod_full
+STIM	15.4899	Picture	BlueLamp_1.jpg	mod_full
+KEY	15.8876	0.39778	ESCAPE	mod_full
+TIMEOUT	16.0308	 	 	mod_full
+STIM	16.0424	Cleanup		mod_full
+
+----------------------------------------------------------------------------
+Started at: 06-Jul-2009 16:15:13
+
+START:	0.0000	134866.1119
+STIM	0.038904	Paragraph	Please lie as still as possible.
+KEY	1.7296	1.6907	space
+STIM	4.0572	Text	The next run is about to begin.
+KEY	4.1696	0.11243	space
+STIM	4.1741	Text	+
+STIM	5.1619	Picture	Pink.jpg	mod_full
+STIM	5.4633	Blank		mod_full
+STIM	5.815	Picture	Shoe.jpg	mod_full
+STIM	6.0662	Blank		mod_full
+STIM	6.3673	Picture	PinkShoe_3.jpg	mod_full
+KEY	7.0336	0.66639	a	mod_full
+STIM	7.0537	Text	+	mod_full
+STIM	8.7614	Picture	nw2.jpg	non_full
+STIM	9.0627	Blank		non_full
+STIM	9.3809	Picture	Lamp.jpg	non_full
+STIM	9.6656	Blank		non_full
+STIM	9.9837	Picture	BlueLamp_1.jpg	non_full
+KEY	10.8416	0.85792	s	non_full
+STIM	10.8543	Text	+	non_full
+STIM	12.2606	Picture	nw4.jpg	non_part_1
+STIM	12.5951	Blank		non_part_1
+STIM	12.863	Picture	Cane.jpg	non_part_1
+STIM	13.1646	Blank		non_part_1
+STIM	13.466	Text	+	non_part_1
+STIM	13.8845	Picture	Blue.jpg	mod_part_1
+STIM	14.1692	Blank		mod_part_1
+STIM	14.4703	Picture	Square.jpg	mod_part_1
+STIM	14.7716	Blank		mod_part_1
+STIM	15.0732	Text	+	mod_part_1
+STIM	15.7258	Picture	nw2.jpg	non_part_1
+STIM	15.9602	Blank		non_part_1
+STIM	16.2786	Picture	Square.jpg	non_part_1
+STIM	16.6134	Blank		non_part_1
+STIM	16.8643	Text	+	non_part_1
+STIM	17.2828	Picture	Blue.jpg	mod_full
+STIM	17.6176	Blank		mod_full
+STIM	17.8691	Picture	Lamp.jpg	mod_full
+STIM	18.1704	Blank		mod_full
+STIM	18.4715	Picture	BlueLamp_1.jpg	mod_full
+KEY	18.9217	0.45016	s	mod_full
+STIM	18.9405	Text	+	mod_full
+STIM	20.7653	Picture	nw3.jpg	non_part_2
+STIM	21.0665	Blank		non_part_2
+STIM	21.3678	Text	+	non_part_2
+STIM	21.7696	Picture	Green.jpg	mod_part_1
+STIM	22.0542	Blank		mod_part_1
+STIM	22.3555	Picture	Plane.jpg	mod_part_1
+STIM	22.6569	Blank		mod_part_1
+STIM	22.9582	Text	+	mod_part_1
+STIM	23.4606	Picture	nw5.jpg	non_part_1
+STIM	23.7619	Blank		non_part_1
+STIM	24.0632	Picture	Hand.jpg	non_part_1
+STIM	24.3646	Blank		non_part_1
+STIM	24.6659	Text	+	non_part_1
+STIM	25.2686	Picture	nw2.jpg	non_full
+STIM	25.5534	Blank		non_full
+STIM	25.8546	Picture	Key.jpg	non_full
+STIM	26.1559	Blank		non_full
+STIM	26.4573	Picture	BlueBell_3.jpg	non_full
+TIMEOUT	28.253	 	 	non_full
+STIM	28.2654	Text	+	non_full
+STIM	28.6672	Picture	Pink.jpg	mod_full
+STIM	28.9685	Blank		mod_full
+STIM	29.2698	Picture	Bag.jpg	mod_full
+STIM	29.5544	Blank		mod_full
+STIM	29.8558	Picture	PinkHouse_2.jpg	mod_full
+TIMEOUT	31.653	 	 	mod_full
+STIM	31.6639	Text	+	mod_full
+STIM	32.2666	Picture	nw5.jpg	non_full
+STIM	32.5679	Blank		non_full
+STIM	32.8694	Picture	Flag.jpg	non_full
+STIM	33.1539	Blank		non_full
+STIM	33.4553	Picture	PinkHeart_1.jpg	non_full
+TIMEOUT	35.2529	 	 	non_full
+STIM	35.2634	Text	+	non_full
+STIM	35.6652	Picture	nw1.jpg	non_part_1
+STIM	35.9666	Blank		non_part_1
+STIM	36.2679	Picture	Key.jpg	non_part_1
+STIM	36.5692	Blank		non_part_1
+STIM	36.8539	Text	+	non_part_1
+STIM	37.3561	Picture	nw1.jpg	non_part_1
+STIM	37.6574	Blank		non_part_1
+STIM	37.9588	Picture	Shoe.jpg	non_part_1
+STIM	38.2602	Blank		non_part_1
+STIM	38.5615	Text	+	non_part_1
+STIM	38.9633	Picture	Green.jpg	mod_full
+STIM	39.2647	Blank		mod_full
+STIM	39.566	Picture	Lock.jpg	mod_full
+STIM	39.8673	Blank		mod_full
+STIM	40.1687	Picture	GreenLock_2.jpg	mod_full
+KEY	41.3706	1.2018	ESCAPE	mod_full
+TIMEOUT	41.3793	 	 	mod_full
+STIM	41.3908	Cleanup		mod_full
+
+----------------------------------------------------------------------------
+Started at: 07-Jul-2009 18:04:48
+
+STIM	Cleanup		0.036033	
+
+----------------------------------------------------------------------------
+Started at: 07-Jul-2009 18:06:41
+
+START	163103.8365		163103.8365	
+STIM	Paragraph	Please lie as still as possible.	0.050705	
+KEY	space	2.524	2.5747	
+STIM	Text	The next run is about to begin.	2.5954	
+KEY	space	2.0913	4.6867	
+STIM	Text	+	4.7049	
+STIM	Picture	Blue.jpg	5.7094		mod_full	match
+STIM	Blank		5.994		mod_full	match
+STIM	Picture	Square.jpg	6.2953		mod_full	match
+STIM	Blank		6.5799		mod_full	match
+STIM	Picture	BlueSquare_1.jpg	6.8813		mod_full	match
+KEY	ESCAPE	1.0774	7.9587		mod_full	match
+TIMEOUT			7.9669		mod_full	match
+STIM	Cleanup		7.9863		mod_full	match

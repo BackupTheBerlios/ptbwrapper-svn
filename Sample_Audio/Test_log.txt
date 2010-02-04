@@ -1,0 +1,980 @@
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:12:35
+
+START	78823.4269		0
+STIM	Cleanup		148.0631
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:15:24
+
+START	78993.0166		0
+STIM	Cleanup		0.040072
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:16:29
+
+START	79057.417		0
+STIM	Cleanup		0.03843
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:17:10
+
+START	79098.6425		0
+STIM	Cleanup		0.024488
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:17:23
+
+START	79111.8258		0
+STIM	Cleanup		0.038734
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:17:55
+
+START	79143.9974		0
+STIM	Cleanup		0.24158
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:19:34
+
+START	79242.6098		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.23403
+STIM	Cleanup		0.44124
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:20:39
+
+START	79307.9264		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	1.0504
+STIM	Cleanup		1.2609
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:21:43
+
+START	79372.2587		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	13.6921
+STIM	Cleanup		91.1516
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:24:38
+
+START	79547.2477		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	1.0675
+STIM	Blank		6.4379
+STIM	Cleanup		6.7386
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:25:33
+
+START	79601.8743		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	8.0516
+STIM	Blank		20.804
+STIM	Cleanup		27.5196
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:26:17
+
+START	79646.2426		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.23453
+STIM	Blank		9.7128
+STIM	Cleanup		16.7289
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:26:51
+
+START	79680.0055		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.2361
+STIM	Blank		5.8355
+STIM	Cleanup		6.1362
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:33:07
+
+START	80056.0751		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	1.0759
+STIM	Text	Done	4.482
+STIM	Cleanup		4.7827
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:33:19
+
+START	80067.7848		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.25964
+STIM	Text	Done	12.6849
+STIM	Cleanup		12.9856
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:33:57
+
+START	80105.4885		0
+STIM_PREPARE	Text	Started	-80106.4885
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.28975
+STIM	Text	Done	8.1746
+STIM	Cleanup		8.4753
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:36:28
+
+START	80256.7023		0
+STIM_PREPARE	Text	Started	-80257.7023
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	1.1106
+STIM	Text	Done	5.17
+STIM	Cleanup		5.4707
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:37:37
+
+START	80325.8852		0
+STIM_PREPARE	Text	Started	-80326.8852
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	1.0708
+STIM	Text	Done	4.9631
+STIM	Cleanup		5.2638
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:37:50
+
+START	80338.792		0
+STIM_PREPARE	Text	Started	-80339.792
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.32551
+STIM	Text	Done	5.287
+STIM	Cleanup		5.5877
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:38:38
+
+START	80386.3399		0
+STIM_PREPARE	Text	Started	-80387.3399
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.30414
+STIM	Text	Done	5.9171
+STIM	Cleanup		6.2178
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:39:02
+
+START	80411.0983		0
+STIM_PREPARE	Text	Started	-80412.0983
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	19.4304
+STIM	Text	Done	26.3631
+STIM	Cleanup		26.6638
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:39:48
+
+START	80457.038		0
+STIM_PREPARE	Text	Started	-80458.038
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.31948
+STIM	Text	Done	2.558
+STIM	Cleanup		2.8587
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:46:23
+
+START	80852.0427		0
+STIM_PREPARE	Text	Started	-80853.0427	1
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	1.1295	1
+STIM	Text	Done	7.1601	1
+STIM	Cleanup		7.4608	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:48:29
+
+START	80977.5171		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	1.6128	1
+STIM	Text	Done	2.6152	1
+STIM	Cleanup		2.9159	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:48:39
+
+START	80988.2093		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.31799	1
+STIM	Text	Done	1.3281	1
+STIM	Cleanup		1.6288	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:48:54
+
+START	81002.7416		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.33719	1
+STIM	Text	Done	5.205	1
+STIM	Cleanup		5.5057	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:49:12
+
+START	81021.0244		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.32847	1
+STIM	Text	Done	1.8232	1
+STIM	Cleanup		2.1239	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:49:37
+
+START	81045.723		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.31587	1
+STIM	Text	Done	3.8027	1
+STIM	Cleanup		4.0867	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:49:52
+
+START	81060.8593		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.31248	1
+STIM	Text	Done	3.8013	1
+STIM	Cleanup		4.0853	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:50:10
+
+START	81078.9313		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.31535	1
+STIM	Text	Done	3.8215	1
+STIM	Cleanup		4.1222	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:50:27
+
+START	81095.6227		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.31665	1
+STIM	Text	Done	10.8011	1
+STIM	Cleanup		11.0851	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:50:52
+
+START	81120.8135		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.31475	1
+STIM	Text	Done	2.349	1
+STIM	Cleanup		2.633	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:51:00
+
+START	81128.9266		0
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.32103	1
+STIM	Text	Done	2.505	1
+STIM	Cleanup		2.789	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:51:22
+
+START	81150.7847		0
+STIM_PREPARE	Text	Start	-81151.7847	1
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.35947	1
+STIM	Text	Done	6.0393	1
+STIM	Cleanup		6.34	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:51:36
+
+START	81164.983		0
+STIM_PREPARE	Text	Start	-81165.983	1
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.36032	1
+STIM	Text	Done	10.8512	1
+STIM	Cleanup		11.1352	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 21:51:54
+
+START	81182.39		0
+STIM_PREPARE	Text	Start	-81183.39	1
+STIM	Soundfile	/Applications/Psychtoolbox/PsychDemos/SoundFiles/funk.wav	0.3939	1
+STIM	Text	Done	10.9015	1
+STIM	Cleanup		11.2022	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:21:26
+
+START	82954.501		0
+STIM	Soundfile	Voiced_bilabial_plosive.wav	0.48973	1
+STIM	Text	Done	2.2329	1
+STIM	Cleanup		2.5335	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:29:22
+
+START	83430.5892		0
+STIM	Cleanup		0.12334
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:29:53
+
+START	83461.4417		0
+STIM	Paragraph	Please press any key when ready.	0.12548
+STIM	Soundfile	Voiced_bilabial_plosive.wav	2.8469	c1	1
+STIM	Text	Done	4.0345	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	4.4178	c2	1
+STIM	Text	Done	5.137	c2	1
+STIM	Cleanup		5.538	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:30:11
+
+START	83479.7033		0
+STIM	Paragraph	Please press any key when ready.	0.07267
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.4815	c1	1
+STIM	Text	Done	2.6119	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.9952	c2	1
+STIM	Text	Done	3.7979	c2	1
+STIM	Cleanup		4.1989	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:31:27
+
+START	83555.2769		0
+STIM	Paragraph	Please press any key when ready.	0.073699
+STIM	Blank		1.3266
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.539	c1	1
+STIM	Text	Done	2.5628	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.9461	c2	1
+STIM	Text	Done	3.5985	c2	1
+STIM	Cleanup		3.9995	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:31:56
+
+START	83584.5595		0
+STIM	Paragraph	Please press any key when ready.	0.058795
+STIM	Blank		7.1752
+STIM	Soundfile	Voiced_bilabial_plosive.wav	7.3963	c1	1
+STIM	Cleanup		7.4759	c1	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:33:13
+
+START	83662.1582		0
+STIM	Paragraph	Please press any key when ready.	0.039286
+STIM	Blank		1.1418
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.3549	c1	1
+STIM	Blank		2.1943	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.5776	c2	1
+STIM	Blank		3.23	c2	1
+STIM	Cleanup		3.6309	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:34:27
+
+START	83736.0615		0
+STIM	Paragraph	Please press any key when ready.	0.073579
+STIM	Blank		0.80861
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.0195	c1	1
+STIM	Blank		1.8109	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.1942	c2	1
+STIM	Blank		2.7965	c2	1
+STIM	Paragraph	Please press any key when ready.	3.1975	c2	1
+STIM	Cleanup		3.2309	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:35:45
+
+START	83813.3079		0
+STIM	Paragraph	Please press any key when ready.	0.072371
+STIM	Blank		1.5424
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.7508	c1	1
+STIM	Blank		2.3777	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.761	c2	1
+STIM	Blank		3.6473	c2	1
+STIM	Paragraph	Please press any key when ready.	4.0482	c2	1
+STIM	Blank		6.838	c2	1
+STIM	Cleanup		7.8403	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:38:51
+
+START	83999.3375		0
+STIM	Paragraph	Please press any key when ready.	0.072669
+STIM	Blank		0.74089
+STIM	Soundfile	Voiced_bilabial_plosive.wav	0.95089	c1	1
+STIM	Blank		3.1464	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	3.5297	c2	1
+STIM	Blank		4.4494	c2	1
+STIM	Paragraph	Please press any key when ready.	4.8504	c2	1
+STIM	Blank		6.0699	c2	1
+STIM	Cleanup		6.1701	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 22:39:09
+
+START	84017.7464		0
+STIM	Paragraph	Please press any key when ready.	0.072949
+STIM	Cleanup		0.62424
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:06:48
+
+START	85676.7982		0
+STIM	Paragraph	Press any key.	0.055382
+STIM	Cleanup		0.37281
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:07:52
+
+START	85740.9798		0
+STIM	Paragraph	Press any key.	0.055465
+STIM	Paragraph	Please press any key when ready.	1.726
+STIM	Blank		2.7784
+STIM	Soundfile	Voiced_bilabial_plosive.wav	2.9917	c1	1
+STIM	Blank		3.6972	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	4.0805	c2	1
+STIM	Blank		4.5826	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	4.9659	c1	1
+STIM	Blank		5.5515	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	5.9348	c2	1
+STIM	Blank		6.487	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	6.8703	c1	1
+STIM	Blank		7.3724	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	7.7557	c2	1
+STIM	Blank		8.1575	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	8.5408	c1	1
+STIM	Blank		9.3102	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	9.6935	c2	1
+STIM	Cleanup		10.4628	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:09:15
+
+START	85823.5706		0
+STIM	Paragraph	Press any key.	0.055594
+STIM	Paragraph	Please press any key when ready.	0.9744
+STIM	Blank		1.392
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.605	c1	1
+STIM	Blank		2.5447	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.928	c2	1
+STIM	Blank		3.3967	c2	1
+STIM	Paragraph	Please press any key when ready.	3.7976	c2	1
+STIM	Paragraph	Please press any key when ready.	5.3345	c2	1
+STIM	Blank		7.1554	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	7.2387	c1	1
+STIM	Blank		7.9405	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	8.3238	c1	1
+STIM	Blank		8.7758	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	9.159	c2	1
+STIM	Blank		9.7112	c2	1
+STIM	Paragraph	Please press any key when ready.	10.1122	c2	1
+STIM	Cleanup		10.1456	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:09:50
+
+START	85859.0161		0
+STIM	Paragraph	Press any key.	0.041597
+STIM	Paragraph	Please press any key when ready.	4.3349
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:09:59
+
+START	85867.3953		0
+STIM	Paragraph	Press any key.	0.032097
+STIM	Paragraph	Please press any key when ready.	0.85065
+STIM	Blank		1.1513
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.3766	c1	1
+STIM	Blank		2.02	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.4033	c2	1
+STIM	Blank		2.8887	c2	1
+STIM	Paragraph	Please press any key when ready.	3.2896	c2	1
+STIM	Paragraph	Please press any key when ready.	3.9077	c2	1
+STIM	Blank		4.342	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	4.4253	c1	1
+STIM	Blank		5.0771	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	5.4604	c1	1
+STIM	Blank		5.8288	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	6.2121	c2	1
+STIM	Blank		7.1819	c2	1
+STIM	Paragraph	Please press any key when ready.	7.5829	c2	1
+STIM	Cleanup		7.6163	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:10:24
+
+START	85892.878		0
+STIM	Paragraph	Press any key.	0.04163
+STIM	Paragraph	Please press any key when ready.	0.79335
+STIM	Blank		1.1776
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.3925	c1	1
+STIM	Blank		2.8314	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	3.2147	c2	1
+STIM	Blank		6.1056	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	6.4889	c1	1
+STIM	Blank		7.3418	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	7.7251	c2	1
+STIM	Blank		8.411	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	8.7943	c1	1
+STIM	Blank		9.43	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	9.8133	c2	1
+STIM	Blank		10.4156	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	10.7989	c1	1
+STIM	Blank		11.301	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	11.6843	c2	1
+STIM	Blank		12.1195	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	12.5028	c1	1
+STIM	Blank		12.8713	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	13.2546	c2	1
+STIM	Blank		13.6063	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	13.9896	c1	1
+STIM	Blank		14.3246	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	14.7079	c2	1
+STIM	Blank		16.3126	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	16.6958	c1	1
+STIM	Blank		17.0977	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	17.481	c2	1
+STIM	Blank		18.7348	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	19.1181	c1	1
+STIM	Blank		19.5534	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	19.9367	c2	1
+STIM	Blank		20.3552	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	20.7385	c1	1
+STIM	Blank		21.0736	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	21.4569	c2	1
+STIM	Cleanup		27.1543	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:10:58
+
+START	85926.7237		0
+STIM	Paragraph	Press any key.	0.057504
+STIM	Paragraph	Please press any key when ready.	0.54198
+STIM	Blank		0.9429
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.1545	c1	1
+STIM	Blank		2.9809	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	3.3642	c2	1
+STIM	Blank		5.4533	c2	1
+STIM	Paragraph	Please press any key when ready.	5.8542	c2	1
+STIM	Paragraph	Please press any key when ready.	6.8231	c2	1
+STIM	Blank		8.477	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	8.5603	c1	1
+STIM	Blank		9.4793	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	9.8626	c1	1
+STIM	Blank		10.6487	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	11.032	c2	1
+STIM	Blank		12.7034	c2	1
+STIM	Paragraph	Please press any key when ready.	13.1043	c2	1
+STIM	Cleanup		13.1545	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:11:19
+
+START	85948.0571		0
+STIM	Paragraph	Press any key.	0.040086
+STIM	Paragraph	Please press any key when ready.	0.79183
+STIM	Blank		1.1927
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.4064	c1	1
+STIM	Blank		2.0948	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.4781	c2	1
+STIM	Blank		4.8178	c2	1
+STIM	Paragraph	Please press any key when ready.	5.2187	c2	1
+STIM	Paragraph	Please press any key when ready.	6.6554	c2	1
+STIM	Blank		7.7412	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	7.8245	c1	1
+STIM	Blank		8.4595	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	8.8428	c1	1
+STIM	Blank		9.3616	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	9.7449	c2	1
+STIM	Blank		10.2971	c2	1
+STIM	Paragraph	Please press any key when ready.	10.6981	c2	1
+STIM	Cleanup		10.7482	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:11:52
+
+START	85980.2808		0
+STIM	Paragraph	Press any key.	0.040891
+STIM	Paragraph	Please press any key when ready.	0.47522
+STIM	Blank		0.84273
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.0552	c1	1
+STIM	Blank		1.5611	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	1.9444	c2	1
+STIM	Blank		2.3462	c2	1
+STIM	Paragraph	Please press any key when ready.	2.7471	c2	1
+STIM	Paragraph	Please press any key when ready.	3.265	c2	1
+STIM	Blank		4.3508	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	4.4341	c1	1
+STIM	Blank		5.0692	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	5.4525	c1	1
+STIM	Blank		5.9378	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	6.3211	c2	1
+STIM	Blank		6.8232	c2	1
+STIM	Paragraph	Please press any key when ready.	7.2241	c2	1
+STIM	Cleanup		7.2576	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:12:15
+
+START	86004.0682		0
+STIM	Paragraph	Press any key.	0.041698
+STIM	Paragraph	Please press any key when ready.	0.50944
+STIM	Blank		0.79345
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.0064	c1	1
+STIM	Blank		1.4951	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	1.8784	c2	1
+STIM	Blank		2.347	c2	1
+STIM	Paragraph	Please press any key when ready.	2.748	c2	1
+STIM	Paragraph	Please press any key when ready.	3.9674	c2	1
+STIM	Blank		4.619	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	4.7023	c1	1
+STIM	Blank		5.3206	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	5.7039	c1	1
+STIM	Blank		6.1558	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	6.5391	c2	1
+STIM	Blank		6.9911	c2	1
+STIM	Paragraph	Please press any key when ready.	7.392	c2	1
+STIM	Text	The experiment is now over.	9.0291	c2	1
+STIM	Blank		10.2987	c2	1
+STIM	Cleanup		11.3011	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:12:49
+
+START	86037.494		0
+STIM	Paragraph	Press any key.	0.059915
+STIM	Paragraph	Please press any key when ready.	0.64463
+STIM	Blank		1.079
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.2912	c1	1
+STIM	Blank		1.9978	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.3811	c2	1
+STIM	Blank		3.0502	c2	1
+STIM	Paragraph	Please press any key when ready.	3.4511	c2	1
+STIM	Paragraph	Please press any key when ready.	3.9355	c2	1
+STIM	Blank		5.0381	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	5.1214	c1	1
+STIM	Blank		5.7898	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	6.1731	c1	1
+STIM	Blank		6.575	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	6.9583	c2	1
+STIM	Blank		7.5439	c2	1
+STIM	Paragraph	Please press any key when ready.	7.9448	c2	1
+STIM	Text	The experiment is now over.	8.8803	c2	1
+STIM	Blank		9.5652	c2	1
+STIM	Cleanup		9.6655	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:14:26
+
+START	86134.7043		0
+STIM	Paragraph	Press any key.	0.074291
+STIM	Paragraph	Please press any key when ready.	1.0098
+STIM	Blank		1.5777
+STIM	Soundfile	Voiced_bilabial_plosive.wav	2.6138	c1	1
+STIM	Blank		2.7805	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	3.1638	c2	1
+STIM	Blank		3.549	c2	1
+STIM	Paragraph	Please press any key when ready.	3.9499	c2	1
+STIM	Paragraph	Please press any key when ready.	4.1504	c2	1
+STIM	Blank		4.568	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	4.6513	c1	1
+STIM	Blank		5.1025	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	5.4858	c1	1
+STIM	Blank		5.871	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	6.2543	c2	1
+STIM	Blank		7.7086	c2	1
+STIM	Paragraph	Please press any key when ready.	8.1095	c2	1
+STIM	Text	The experiment is now over.	8.6608	c2	1
+STIM	Blank		9.4793	c2	1
+STIM	Cleanup		9.5796	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:15:09
+
+START	86177.8379		0
+STIM	Paragraph	Press any key.	0.057064
+STIM	Paragraph	Please press any key when ready.	0.39117
+STIM	Blank		0.72527
+STIM	Soundfile	Voiced_bilabial_plosive.wav	0.92276	c1	1
+STIM	Blank		1.0427	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	1.426	c2	1
+STIM	Blank		1.8445	c2	1
+STIM	Paragraph	Please press any key when ready.	2.2454	c2	1
+STIM	Paragraph	Please press any key when ready.	2.3624	c2	1
+STIM	Blank		2.9805	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	3.0638	c1	1
+STIM	Blank		3.5819	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	3.9652	c1	1
+STIM	Blank		4.2835	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	4.6668	c2	1
+STIM	Blank		5.4863	c2	1
+STIM	Paragraph	Please press any key when ready.	5.8872	c2	1
+STIM	Text	The experiment is now over.	6.6222	c2	1
+STIM	Blank		7.1902	c2	1
+STIM	Cleanup		37.8778	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:23:48
+
+START	86696.7204		0
+STIM	Cleanup		0.057018
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:24:19
+
+START	86728.028		0
+STIM	Paragraph	Press any key.	0.055156
+STIM	Paragraph	Please press any key when ready.	1.1744
+STIM	Blank		1.6923
+STIM	Soundfile	Voiced_bilabial_plosive.wav	2.7194	c1	1
+STIM	Blank		3.4797	c1	1
+STIM	Cleanup		3.7804	c1	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:24:54
+
+START	86763.0919		0
+STIM	Paragraph	Press any key.	0.055558
+STIM	Paragraph	Please press any key when ready.	0.82401
+STIM	Blank		1.2583
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.4714	c1	1
+STIM	Blank		2.0602	c1	1
+STIM	Text	Correct!	2.3609	c1	1
+STIM	Blank		3.3632	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	3.7465	c2	1
+STIM	Blank		4.4323	c2	1
+STIM	Cleanup		4.733	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:25:19
+
+START	86788.0309		0
+STIM	Paragraph	Press any key.	0.04082
+STIM	Paragraph	Please press any key when ready.	0.80924
+STIM	Blank		1.1434
+STIM	Soundfile	Voiced_bilabial_plosive.wav	1.3577	c1	1
+STIM	Blank		2.0287	c1	1
+STIM	Text	Correct!	2.3295	c1	1
+STIM	Blank		3.3318	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	3.715	c2	1
+STIM	Blank		4.4677	c2	1
+STIM	Text	Correct!	4.7684	c2	1
+STIM	Blank		5.7707	c2	1
+STIM	Paragraph	Please press any key when ready.	6.1716	c2	1
+STIM	Paragraph	Please press any key when ready.	6.6227	c2	1
+STIM	Blank		7.1071	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	7.1904	c1	1
+STIM	Blank		8.0426	c1	1
+STIM	Text	Incorrect.	8.3433	c1	1
+STIM	Blank		9.3457	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	9.729	c1	1
+STIM	Blank		10.8491	c1	1
+STIM	Text	Correct!	11.1498	c1	1
+STIM	Blank		12.1521	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	12.5354	c2	1
+STIM	Blank		13.2714	c2	1
+STIM	Text	Correct!	13.5721	c2	1
+STIM	Blank		14.5744	c2	1
+STIM	Paragraph	Please press any key when ready.	14.9753	c2	1
+STIM	Text	The practice is now over.	16.6459	c2	1
+STIM	Blank		17.3141	c2	1
+STIM	Cleanup		17.4143	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:26:07
+
+START	86836.0439		0
+STIM	Paragraph	Press any key.	0.072256
+STIM	Paragraph	Please press any key when ready.	0.84069
+STIM	Blank		1.3418
+STIM	Soundfile	Voiced_bilabial_plosive.wav	2.3683	c1	1
+STIM	Blank		2.8119	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	3.1952	c2	1
+STIM	Blank		3.7641	c2	1
+STIM	Paragraph	Please press any key when ready.	4.1651	c2	1
+STIM	Paragraph	Please press any key when ready.	6.3534	c2	1
+STIM	Blank		6.7711	c2	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	6.8544	c1	1
+STIM	Blank		7.5228	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	7.9061	c1	1
+STIM	Blank		8.4917	c1	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	8.875	c2	1
+STIM	Blank		9.4272	c2	1
+STIM	Paragraph	Please press any key when ready.	9.8281	c2	1
+STIM	Text	The experiment is now over.	10.7469	c2	1
+STIM	Blank		11.1979	c2	1
+STIM	Cleanup		11.2982	c2	1
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:36:36
+
+START	87464.4601		0
+STIM	Paragraph	Press any key.	0.041635
+STIM	Paragraph	Please press any key when ready.	0.927
+STIM	Blank		1.6453
+STIM	Soundfile	Voiced_bilabial_plosive.wav	2.6611	c1	1
+STIM	Blank		3.249	c1	1
+STIM	Text	Correct!	3.5497	c1	1
+STIM	Blank		4.5521	c1	1
+STIM	Soundfile	Voiced_bilabial_plosive.wav	5.2543	c1	2
+STIM	Blank		5.7548	c1	2
+STIM	Text	Incorrect.	6.0555	c1	2
+STIM	Blank		7.0579	c1	2
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	7.6374	c2	3
+STIM	Blank		11.5182	c2	3
+STIM	Text	Correct!	11.8188	c2	3
+STIM	Blank		12.8212	c2	3
+STIM	Soundfile	Voiced_bilabial_plosive.wav	13.4372	c1	4
+STIM	Cleanup		14.5919	c1	4
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:56:32
+
+START	88661.1101		0
+STIM	Paragraph	Press any key.	0.040526
+STIM	Paragraph	Please press any key when ready.	0.92592
+STIM	Blank		1.8948
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.1026	c2	1
+STIM	Blank		3.0141	c2	1
+STIM	Text	Incorrect.	3.3148	c2	1
+STIM	Blank		4.3171	c2	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	4.9829	c2	2
+STIM	Blank		5.7036	c2	2
+STIM	Text	Correct!	6.0043	c2	2
+STIM	Blank		7.0066	c2	2
+STIM	Soundfile	Voiced_bilabial_plosive.wav	7.613	c1	3
+STIM	Blank		8.4266	c1	3
+STIM	Text	Correct!	8.7273	c1	3
+STIM	Blank		9.7296	c1	3
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	10.38	c2	4
+STIM	Blank		11.0159	c2	4
+STIM	Text	Correct!	11.3166	c2	4
+STIM	Blank		12.3189	c2	4
+STIM	Soundfile	Voiced_bilabial_plosive.wav	12.8514	c1	5
+STIM	Cleanup		13.956	c1	5
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:56:55
+
+START	88683.8818		0
+STIM	Paragraph	Press any key.	0.054827
+STIM	Paragraph	Please press any key when ready.	0.65621
+STIM	Blank		1.2576
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	1.4683	c2	1
+STIM	Blank		2.1263	c2	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.7921	c2	2
+STIM	Blank		3.4126	c2	2
+STIM	Soundfile	Voiced_bilabial_plosive.wav	4.019	c1	3
+STIM	Blank		4.6154	c1	3
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	5.2658	c2	4
+STIM	Blank		5.7847	c2	4
+STIM	Soundfile	Voiced_bilabial_plosive.wav	6.3172	c1	5
+STIM	Blank		6.8539	c1	5
+STIM	Soundfile	Voiced_bilabial_plosive.wav	7.5228	c1	6
+STIM	Cleanup		8.0066	c1	6
+
+----------------------------------------------------------------------------
+Started at: 21-Jan-2010 23:57:13
+
+START	88701.9397		0
+STIM	Paragraph	Please lie still.	0.0554
+STIM	Paragraph	Please press any key when ready.	1.8262
+STIM	Blank		2.8118
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	3.0206	c2	1
+STIM	Blank		5.4011	c2	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	6.0669	c2	2
+STIM	Blank		6.6707	c2	2
+STIM	Soundfile	Voiced_bilabial_plosive.wav	7.2771	c1	3
+STIM	Blank		7.7231	c1	3
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	8.3736	c2	4
+STIM	Blank		8.9593	c2	4
+STIM	Soundfile	Voiced_bilabial_plosive.wav	9.4918	c1	5
+STIM	Cleanup		10.2289	c1	5
+
+----------------------------------------------------------------------------
+Started at: 22-Jan-2010 00:00:13
+
+START	88881.8546		0
+STIM	Paragraph	Press any key.	0.039552
+STIM	Paragraph	Please press any key when ready.	0.80801
+STIM	Blank		1.5931
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	1.8057	c2	1
+STIM	Blank		2.4786	c2	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	3.1328	c2	2
+STIM	Blank		3.7816	c2	2
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	4.2901	c2	3
+STIM	Blank		4.8841	c2	3
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	5.4903	c2	4
+STIM	Cleanup		11.182	c2	4
+
+----------------------------------------------------------------------------
+Started at: 22-Jan-2010 00:01:23
+
+START	88951.7963		0
+STIM	Paragraph	Press any key.	0.0428
+STIM	Paragraph	Please press any key when ready.	4.4363
+STIM	Blank		5.305
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	5.519	c2	1
+STIM	Blank		6.207	c2	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	6.8612	c2	2
+STIM	Blank		7.4599	c2	2
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	7.9684	c2	3
+STIM	Blank		8.6293	c2	3
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	9.2355	c2	4
+STIM	Blank		9.7319	c2	4
+STIM	Soundfile	Voiced_bilabial_plosive.wav	10.2928	c1	5
+STIM	Blank		10.9012	c1	5
+STIM	Soundfile	Voiced_bilabial_plosive.wav	11.3992	c1	6
+STIM	Blank		12.1541	c1	6
+STIM	Soundfile	Voiced_bilabial_plosive.wav	12.772	c1	7
+STIM	Blank		13.4237	c1	7
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	14.018	c2	8
+STIM	Blank		14.5931	c2	8
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	15.0631	c2	9
+STIM	Blank		15.6288	c2	9
+STIM	Soundfile	Voiced_bilabial_plosive.wav	16.1438	c1	10
+STIM	Blank		16.8149	c1	10
+STIM	Soundfile	Voiced_bilabial_plosive.wav	17.3704	c1	11
+STIM	Blank		17.8005	c1	11
+STIM	Soundfile	Voiced_bilabial_plosive.wav	18.4493	c1	12
+STIM	Blank		18.8195	c1	12
+STIM	Soundfile	Voiced_bilabial_plosive.wav	19.278	c1	13
+STIM	Blank		19.8051	c1	13
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	20.3287	c2	14
+STIM	Blank		20.9244	c2	14
+STIM	Soundfile	Voiced_bilabial_plosive.wav	21.4595	c1	15
+STIM	Blank		21.9267	c1	15
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	22.6083	c2	16
+STIM	Blank		23.1295	c2	16
+STIM	Paragraph	Please press any key when ready.	23.8979	c2	16
+STIM	Text	The practice is now over.	26.3369	c2	16
+STIM	Blank		26.9049	c2	16
+STIM	Cleanup		27.0051	c2	16
+
+----------------------------------------------------------------------------
+Started at: 22-Jan-2010 00:02:49
+
+START	89037.2975		0
+STIM	Paragraph	Press any key.	0.038985
+STIM	Paragraph	Please press any key when ready.	1.8766
+STIM	Blank		2.5281
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	2.7378	c2	1
+STIM	Blank		3.3634	c2	1
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	4.0175	c2	2
+STIM	Blank		4.4826	c2	2
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	4.9911	c2	3
+STIM	Blank		5.4515	c2	3
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	6.0577	c2	4
+STIM	Blank		6.5709	c2	4
+STIM	Soundfile	Voiced_bilabial_plosive.wav	7.1319	c1	5
+STIM	Blank		7.7569	c1	5
+STIM	Soundfile	Voiced_bilabial_plosive.wav	8.2548	c1	6
+STIM	Blank		8.8761	c1	6
+STIM	Soundfile	Voiced_bilabial_plosive.wav	9.494	c1	7
+STIM	Blank		10.1624	c1	7
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	10.7567	c2	8
+STIM	Blank		11.2315	c2	8
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	11.7015	c2	9
+STIM	Blank		12.3508	c2	9
+STIM	Soundfile	Voiced_bilabial_plosive.wav	12.8658	c1	10
+STIM	Blank		13.3197	c1	10
+STIM	Soundfile	Voiced_bilabial_plosive.wav	13.8752	c1	11
+STIM	Blank		14.2886	c1	11
+STIM	Soundfile	Voiced_bilabial_plosive.wav	14.9373	c1	12
+STIM	Blank		15.2743	c1	12
+STIM	Soundfile	Voiced_bilabial_plosive.wav	15.7328	c1	13
+STIM	Blank		16.5105	c1	13
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	17.0341	c2	14
+STIM	Blank		17.9304	c2	14
+STIM	Soundfile	Voiced_bilabial_plosive.wav	18.4656	c1	15
+STIM	Blank		18.9661	c1	15
+STIM	Soundfile	Voiceless_alveolar_plosive.wav	19.6477	c2	16
+STIM	Blank		20.0687	c2	16
+STIM	Paragraph	Please press any key when ready.	20.8371	c2	16
+STIM	Text	The practice is now over.	21.7726	c2	16
+STIM	Blank		22.2737	c2	16
+STIM	Cleanup		22.374	c2	16
