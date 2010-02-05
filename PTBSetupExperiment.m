@@ -209,6 +209,10 @@ else
 	PTBTheWindowPtr = Screen('OpenWindow', screenNumber, PTBBackgroundColor);
 end
 
+% Set alpha blending on, just in case we want it
+% TODO: Does this break anything?
+Screen(PTBTheWindowPtr,'BlendFunction',GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+
 % This prevents the OS from getting in the way.
 % TODO: Allow configurability.
 Priority(MaxPriority(PTBTheWindowPtr));

@@ -36,7 +36,6 @@ pic_tex = Screen('MakeTexture', PTBTheWindowPtr, imdata);
 
 % Save some memory.
 % TODO: Allow keeping in memory
-% TTest
 clear imdata;
 
 % TODO: See how this works and how effective it is at 
