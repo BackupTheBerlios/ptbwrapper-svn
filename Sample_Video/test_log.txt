@@ -15696,3 +15696,115 @@ STIM	Picture	Cup.jpg	35.3825	mod	117	NoMatch
 STIM	Blank		35.6838	mod	117	NoMatch
 STIM	Picture	GreenCane_2.jpg	35.9852	mod	117	NoMatch
 STIM	Cleanup		36.4539	mod	117	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:41:33
+
+START	17926.7346		0
+STIM	Text	Press any key to begin the practice.	0.17884
+STIM	Paragraph	Please lie as still as possible.	1.9367
+STIM	Text	The next run is about to begin.	2.6399
+STIM	Text	+	4.314
+STIM	Picture	s2.jpg	24.5045	mod	115	NoMatch
+STIM	Blank		24.5212	mod	115	NoMatch
+STIM	Picture	Brown.jpg	28.9243	mod	115	NoMatch
+STIM	Blank		28.941	mod	115	NoMatch
+STIM	Picture	Cane.jpg	28.9578	mod	115	NoMatch
+STIM	Blank		28.9745	mod	115	NoMatch
+STIM	Picture	BrownKey_3.jpg	29.008	mod	115	NoMatch
+STIM	Text	+	29.0415	mod	115	NoMatch
+STIM	Picture	s6.jpg	29.075	non	115	NoMatch
+STIM	Blank		29.0917	non	115	NoMatch
+STIM	Picture	nw2.jpg	29.1084	non	115	NoMatch
+STIM	Blank		29.1252	non	115	NoMatch
+STIM	Picture	Leaf.jpg	29.1419	non	115	NoMatch
+STIM	Blank		29.1587	non	115	NoMatch
+STIM	Picture	BlueTree_1.jpg	29.1754	non	115	NoMatch
+STIM	Text	+	29.2089	non	115	NoMatch
+STIM	Picture	s6.jpg	29.2424	non	116	Match
+STIM	Blank		29.2591	non	116	Match
+STIM	Picture	nw4.jpg	29.2758	non	116	Match
+STIM	Blank		29.2926	non	116	Match
+STIM	Picture	Heart.jpg	29.3093	non	116	Match
+STIM	Blank		29.3261	non	116	Match
+STIM	Picture	BlackHeart_1.jpg	29.3428	non	116	Match
+STIM	Text	+	29.3763	non	116	Match
+STIM	Picture	s6.jpg	29.393	mod	116	NoMatch
+STIM	Blank		29.4098	mod	116	NoMatch
+STIM	Picture	Green.jpg	29.4265	mod	116	NoMatch
+STIM	Blank		29.4433	mod	116	NoMatch
+STIM	Picture	Flag.jpg	29.4935	mod	116	NoMatch
+STIM	Blank		29.7948	mod	116	NoMatch
+STIM	Picture	BrownFlag_1.jpg	30.0795	mod	116	NoMatch
+STIM	Cleanup		30.2636	mod	116	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:44:22
+
+START	18095.7779		0
+STIM	Text	Press any key to begin the practice.	0.17615
+STIM	Paragraph	Please lie as still as possible.	0.62819
+STIM	Text	The next run is about to begin.	0.99648
+STIM	Text	+	1.8503
+STIM	Matrix	TTest	9.8528	mod	115	NoMatch
+STIM	Blank		10.1374	mod	115	NoMatch
+STIM	Matrix	TTest	10.422	mod	115	NoMatch
+STIM	Blank		10.7234	mod	115	NoMatch
+STIM	Matrix	TTest	11.0248	mod	115	NoMatch
+STIM	Blank		11.3261	mod	115	NoMatch
+STIM	Matrix	TTest	11.6275	mod	115	NoMatch
+STIM	Cleanup		12.0795	mod	115	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:45:09
+
+START	18143.2056		0
+STIM	Text	Press any key to begin the practice.	0.1776
+STIM	Paragraph	Please lie as still as possible.	0.59614
+STIM	Text	The next run is about to begin.	0.86401
+STIM	Text	+	1.835
+STIM	Matrix	TTest	2.8395	mod	115	NoMatch
+STIM	Blank		3.1241	mod	115	NoMatch
+STIM	Matrix	TTest	3.4255	mod	115	NoMatch
+STIM	Blank		3.7101	mod	115	NoMatch
+STIM	Matrix	TTest	4.0115	mod	115	NoMatch
+STIM	Blank		4.3128	mod	115	NoMatch
+STIM	Matrix	TTest	4.6142	mod	115	NoMatch
+STIM	Cleanup		4.9992	mod	115	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:46:07
+
+START	18201.3168		0
+STIM	Text	Press any key to begin the practice.	0.17675
+STIM	Paragraph	Please lie as still as possible.	0.7125
+STIM	Text	The next run is about to begin.	1.1478
+STIM	Text	+	2.0685
+STIM	Matrix	TTest	3.0731	mod	115	NoMatch
+STIM	Blank		3.3409	mod	115	NoMatch
+STIM	Matrix	TTest	3.6423	mod	115	NoMatch
+STIM	Blank		3.9436	mod	115	NoMatch
+STIM	Matrix	TTest	4.245	mod	115	NoMatch
+STIM	Blank		4.5463	mod	115	NoMatch
+STIM	Matrix	TTest	4.8477	mod	115	NoMatch
+STIM	Blank		5.3332	mod	115	NoMatch
+STIM	Text	Incorrect.	5.6345	mod	115	NoMatch
+STIM	Text	+	6.6056	mod	115	NoMatch
+STIM	Matrix	TTest	7.1078	non	115	NoMatch
+STIM	Blank		7.4092	non	115	NoMatch
+STIM	Matrix	TTest	7.7105	non	115	NoMatch
+STIM	Blank		8.0119	non	115	NoMatch
+STIM	Matrix	TTest	8.3132	non	115	NoMatch
+STIM	Blank		8.6146	non	115	NoMatch
+STIM	Matrix	TTest	8.8992	non	115	NoMatch
+STIM	Blank		9.2172	non	115	NoMatch
+STIM	Text	Correct!	9.5186	non	115	NoMatch
+STIM	Text	+	10.4896	non	115	NoMatch
+STIM	Matrix	TTest	10.9919	non	116	Match
+STIM	Blank		11.2932	non	116	Match
+STIM	Matrix	TTest	11.5946	non	116	Match
+STIM	Blank		11.8959	non	116	Match
+STIM	Matrix	TTest	12.1973	non	116	Match
+STIM	Blank		12.4986	non	116	Match
+STIM	Matrix	TTest	12.8	non	116	Match
+STIM	Cleanup		13.1683	non	116	Match

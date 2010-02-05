@@ -1,5 +1,13 @@
 Bugs:
 Enable setting of logic on triggers (i.e. so that they're always up)
 Creation of automatic checkin / checkout / update / status scripts?
+Movie
+Add text size
+Add comments
+Standardize positions
+Handle positions more generally
+Standardize / improve samples
+Uncheckin unecessary files
 Archive:
+DisplayPicture depend on DisplayMatrix @done(2010-02-05) @project(Bugs)
 Handling triggering without box @done(2010-02-05) @project(Bugs)

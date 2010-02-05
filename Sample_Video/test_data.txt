@@ -2555,3 +2555,48 @@ KEY	]}	0.54966	24.5311	non	116	Match
 KEY	]}	0.51515	32.4991	mod	116	NoMatch
 KEY	ESCAPE	0.44991	36.4351	mod	117	NoMatch
 TIMEOUT			36.4441	mod	117	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:41:33
+
+START	17926.7346		0
+KEY	Return	1.74	1.9189
+KEY	Return	0.67816	2.6149
+KEY	`~	1.647	4.2869
+TIMEOUT			29.02	mod	115	NoMatch
+TIMEOUT			29.185	non	115	NoMatch
+TIMEOUT			29.3525	non	116	Match
+KEY	ESCAPE	0.15141	30.2309	mod	116	NoMatch
+TIMEOUT			30.2405	mod	116	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:44:22
+
+START	18095.7779		0
+KEY	Return	0.43649	0.61264
+KEY	Return	0.34444	0.97262
+KEY	`~	0.83216	1.8286
+KEY	ESCAPE	0.41719	12.0447	mod	115	NoMatch
+TIMEOUT			12.0538	mod	115	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:45:09
+
+START	18143.2056		0
+KEY	Return	0.40735	0.58495
+KEY	Return	0.2448	0.84094
+KEY	`~	0.95293	1.8169
+KEY	ESCAPE	0.36278	4.9769	mod	115	NoMatch
+TIMEOUT			4.9862	mod	115	NoMatch
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:46:07
+
+START	18201.3168		0
+KEY	Return	0.50561	0.68236
+KEY	Return	0.40985	1.1223
+KEY	`~	0.8946	2.0424
+KEY	[{	0.45869	5.3063	mod	115	NoMatch
+KEY	]}	0.2952	9.1944	non	115	NoMatch
+KEY	ESCAPE	0.34639	13.1464	non	116	Match
+TIMEOUT			13.1556	non	116	Match
