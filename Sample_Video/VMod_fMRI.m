@@ -57,7 +57,7 @@ try
 	if mode == 0
 		PTBDisplayParagraph({'We will now run a few short scans.', 'Please lie as still as possible.'}, {'center', 30}, {'any'});
 	else
-		PTBDisplayText('Press any key to begin the practice.', 'center', {'any'});
+		PTBDisplayText('Press any key to begin the practice.', {'center'}, {'any'});
 	end
 	
 	% Do the runs
@@ -80,7 +80,7 @@ try
 		PTBDisplayParagraph({'The experiment is now over.', 'We will be right in.'}, {'center', 30}, {'any'});
 		
 	else
-		PTBDisplayText('The practice is now over.','center',{'any'});	
+		PTBDisplayText('The practice is now over.',{'center'},{'any'});	
 	end
 	
 	% And finish up
@@ -105,7 +105,7 @@ global button_box_id;
 PTBSetInputDevice(button_box_id);
 
 % Wait for the first backtick to begin.
-PTBDisplayText('The next run is about to begin.', 'center', {'`~'});
+PTBDisplayText('The next run is about to begin.', {'center'}, {'`~'});
 
 % Skip the first couple of TRs for warmup
 if mode == 0 || mode == 2
@@ -113,7 +113,7 @@ if mode == 0 || mode == 2
 else
 	warmupTime = 1;
 end
-PTBDisplayText('+', 'center', {warmupTime});
+PTBDisplayText('+', {'center'}, {warmupTime});
 
 % Initialize the last trial time.
 % This will always be an idealized time,
@@ -158,7 +158,7 @@ if mode == 0
 else
 	cooldownTime = 1;
 end
-PTBDisplayText('+', 'center', {cooldownTime + lastTrialEnd});
+PTBDisplayText('+', {'center'}, {cooldownTime + lastTrialEnd});
 
 % Grab the input back
 PTBSetInputDevice(keyboard_id);
@@ -167,7 +167,7 @@ PTBSetInputDevice(keyboard_id);
 if mode == 0
 	PTBDisplayParagraph({'The run is now over.','Please try to remain still.'}, {'center',30},{'any'});
 else
-	PTBDisplayText('The run is now over.', 'center',{'any'});
+	PTBDisplayText('The run is now over.', {'center'},{'any'});
 end
 
 % Quick blank to make sure the last screen stays on
@@ -240,20 +240,20 @@ if mode == 1
 	trial_time = PTBLastKeyPressTime - start_time + p_ISI + p_feedback_time;
 	if (strcmp(PTBLastKeyPress,match_key) && strcmpi(answer,'match')) ||...
 		(strcmp(PTBLastKeyPress,nomatch_key) && strcmpi(answer,'nomatch'))
-		PTBDisplayText('Correct!','center',{start_time + trial_time});
+		PTBDisplayText('Correct!',{'center'},{start_time + trial_time});
 	elseif (strcmp(PTBLastKeyPress,nomatch_key) && strcmpi(answer,'match')) ||...
 		(strcmp(PTBLastKeyPress,match_key) && strcmpi(answer,'nomatch'))
-		PTBDisplayText('Incorrect.','center',{start_time + trial_time});
+		PTBDisplayText('Incorrect.',{'center'},{start_time + trial_time});
 
 	% Might have timed out
 	else
 		trial_time = GetSecs + p_time_out_time - start_time;
-		PTBDisplayText('Please respond faster.','center',{start_time + trial_time});
+		PTBDisplayText('Please respond faster.',{'center'},{start_time + trial_time});
 	end
 
 end
 
 % And wait for the ITI to end.
 end_time = start_time + trial_time + ITI;
-PTBDisplayText('+', 'center', {end_time});
+PTBDisplayText('+', {'center'}, {end_time});
     

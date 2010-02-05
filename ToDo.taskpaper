@@ -1,0 +1,5 @@
+Bugs:
+Enable setting of logic on triggers (i.e. so that they're always up)
+Creation of automatic checkin / checkout / update / status scripts?
+Archive:
+Handling triggering without box @done(2010-02-05) @project(Bugs)

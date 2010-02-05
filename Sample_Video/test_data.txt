@@ -2536,3 +2536,22 @@ TIMEOUT			9.2991	mod	2	Match
 KEY	[{	0.86213	15.9918	non	1	Match
 KEY	ESCAPE	0.75599	20.3518	non	3	Match
 TIMEOUT			20.3765	non	3	Match
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:25:01
+
+START	16934.6773		0
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:26:32
+
+START	17026.3549		0
+KEY	Return	1.7153	1.8901
+KEY	Return	0.75821	2.6741
+KEY	`~	3.5001	6.1861
+TIMEOUT			17.6694	mod	115	NoMatch
+TIMEOUT			21.6694	non	115	NoMatch
+KEY	]}	0.54966	24.5311	non	116	Match
+KEY	]}	0.51515	32.4991	mod	116	NoMatch
+KEY	ESCAPE	0.44991	36.4351	mod	117	NoMatch
+TIMEOUT			36.4441	mod	117	NoMatch

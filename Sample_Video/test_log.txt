@@ -15641,3 +15641,58 @@ STIM	Picture	Shoe.jpg	18.9936	non	3	Match
 STIM	Blank		19.2947	non	3	Match
 STIM	Picture	RedShoe_3.jpg	19.5958	non	3	Match
 STIM	Cleanup		20.3987	non	3	Match
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:25:01
+
+START	16934.6773		0
+STIM	Cleanup		0.22514
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:26:32
+
+START	17026.3549		0
+STIM	Text	Press any key to begin the practice.	0.17481
+STIM	Paragraph	Please lie as still as possible.	1.9159
+STIM	Text	The next run is about to begin.	2.686
+STIM	Text	+	6.2018
+STIM	Picture	s2.jpg	14.2043	mod	115	NoMatch
+STIM	Blank		14.4889	mod	115	NoMatch
+STIM	Picture	Brown.jpg	14.7902	mod	115	NoMatch
+STIM	Blank		15.0916	mod	115	NoMatch
+STIM	Picture	Cane.jpg	15.3929	mod	115	NoMatch
+STIM	Blank		15.6943	mod	115	NoMatch
+STIM	Picture	BrownKey_3.jpg	15.9789	mod	115	NoMatch
+STIM	Text	+	17.6865	mod	115	NoMatch
+STIM	Picture	s6.jpg	18.1888	non	115	NoMatch
+STIM	Blank		18.4901	non	115	NoMatch
+STIM	Picture	nw2.jpg	18.7915	non	115	NoMatch
+STIM	Blank		19.0928	non	115	NoMatch
+STIM	Picture	Leaf.jpg	19.3942	non	115	NoMatch
+STIM	Blank		19.6788	non	115	NoMatch
+STIM	Picture	BlueTree_1.jpg	19.9801	non	115	NoMatch
+STIM	Text	+	21.6878	non	115	NoMatch
+STIM	Picture	s6.jpg	22.19	non	116	Match
+STIM	Blank		22.4914	non	116	Match
+STIM	Picture	nw4.jpg	22.7927	non	116	Match
+STIM	Blank		23.0941	non	116	Match
+STIM	Picture	Heart.jpg	23.3787	non	116	Match
+STIM	Blank		23.6801	non	116	Match
+STIM	Picture	BlackHeart_1.jpg	23.9814	non	116	Match
+STIM	Text	+	24.5506	non	116	Match
+STIM	Picture	s6.jpg	30.1926	mod	116	NoMatch
+STIM	Blank		30.4939	mod	116	NoMatch
+STIM	Picture	Green.jpg	30.7785	mod	116	NoMatch
+STIM	Blank		31.0799	mod	116	NoMatch
+STIM	Picture	Flag.jpg	31.3812	mod	116	NoMatch
+STIM	Blank		31.6826	mod	116	NoMatch
+STIM	Picture	BrownFlag_1.jpg	31.9839	mod	116	NoMatch
+STIM	Text	+	32.5196	mod	116	NoMatch
+STIM	Picture	s2.jpg	34.1938	mod	117	NoMatch
+STIM	Blank		34.4784	mod	117	NoMatch
+STIM	Picture	Green.jpg	34.7798	mod	117	NoMatch
+STIM	Blank		35.0811	mod	117	NoMatch
+STIM	Picture	Cup.jpg	35.3825	mod	117	NoMatch
+STIM	Blank		35.6838	mod	117	NoMatch
+STIM	Picture	GreenCane_2.jpg	35.9852	mod	117	NoMatch
+STIM	Cleanup		36.4539	mod	117	NoMatch
