@@ -13,6 +13,13 @@
 
 function PTBSendTrigger(value)
 
+% Check
+global PTBUSBBoxInitialized;
+if ~PTBUSBBoxInitialized
+	disp('WARNING: No trigger sent.');
+	return;
+end
+
 % Send the trigger
 global PTBUSBBoxDeviceID;
 global PTBTriggerLength;

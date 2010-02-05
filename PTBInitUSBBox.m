@@ -20,6 +20,8 @@ end;
 
 % Set all the triggers to 0
 global PTBUSBBoxDeviceID;
+global PTBUSBBoxInitialized;
 PTBUSBBoxDeviceID = results(1);
 PsychHID('SetReport', PTBUSBBoxDeviceID, 2, hex2dec('32'), uint8([0 0]));
 disp('BBox found and ready to go.');
+PTBUSBBoxInitialized = 1;

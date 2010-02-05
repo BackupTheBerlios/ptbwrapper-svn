@@ -41,6 +41,7 @@
 %	- PTBVisualStimulus: 1 if there is a visual stimulus to display.
 %	- PTBAudioStimulus: 1 if there is a visual stimulus to display.
 %   - PTBTriggerLength: The length of triggers sent to the MEG DAQs.
+%	- PTBUSBBoxInitialized: 1 if USBBox has been initialized.
 %
 % Author: Doug Bemis
 % Date: 7/3/09
@@ -123,6 +124,10 @@ global PTBTriggerLength;
 if isempty(PTBTriggerLength)
     PTBTriggerLength = 0.01;
 end
+
+% Make sure we don't error
+global PTBUSBBoxInitialized;
+PTBUSBBoxInitialized = 0;
 
 % This is how long the start screen is on for.
 startScreenTime = 1;
