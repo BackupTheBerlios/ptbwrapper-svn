@@ -2,9 +2,12 @@
 % File: PTBDisplayLines.m
 %
 % Displays lines to the screen.
+%
 % Args:
 %	- positions: Where to put the lines
+%	- size: The width of the lines
 %	- duration: How long to show the the text.
+%	- trigger: A trigger to send (optional)
 %
 % Usage: PTBDisplayText([0 0; 100 100]',{.2})
 %

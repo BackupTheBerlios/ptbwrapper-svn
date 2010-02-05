@@ -2,11 +2,14 @@
 % File: PTBDisplayCircles.m
 %
 % Displays circles to the screen.
+%
 % Args:
 %	- positions: Where to put the circles
+%	- size: The size of the circles
 %	- duration: How long to show the the text.
+%	- trigger: A trigger to send (optional)
 %
-% Usage: PTBDisplayText([0 0],{.2})
+% Usage: PTBDisplayCircles([100 100; 200 200]', 20, {.3})
 %
 % Author: Doug Bemis
 % Date: 2/3/10

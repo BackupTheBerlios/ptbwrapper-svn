@@ -5,6 +5,8 @@
 % NOTE: This is only called when another one is needed.
 % TODO: Figure out if this is bad...
 %
+% Args:
+%
 % Usage: PTBCloseSound
 %
 % Author: Doug Bemis

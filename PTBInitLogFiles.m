@@ -3,6 +3,10 @@
 %
 % Initialize the log files.
 %
+% Args:
+%
+% Usage: PTBInitLogFiles
+%
 % Author: Doug Bemis
 % Date: 7/5/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

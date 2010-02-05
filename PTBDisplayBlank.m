@@ -3,6 +3,12 @@
 %
 % Just display a blank screen.
 %
+% Args:
+%	- duration: The length to display
+%	- trigger: A trigger to send (optional)
+%
+% Usage: PTBDisplayBlank({.3})
+%
 % Author: Doug Bemis
 % Date: 7/4/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

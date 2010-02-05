@@ -3,6 +3,9 @@
 %
 % Sets the input device.
 %
+% Args:
+%	- device_num: The device to read from.
+%
 % Usage: PTBSetInputDevice(1);
 %
 % Author: Doug Bemis

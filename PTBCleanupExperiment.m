@@ -1,7 +1,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBCleanupExperiment.m
 %
-% Does the cleanup for a PTBExperiment
+% Does the cleanup for a PTBExperiment. Call this
+% if the screen is still up and you don't want it to be.
+%
+% Args:
+%
+% Usage: PTBCleanupExperiment
 %
 % Author: Doug Bemis
 % Date: 7/3/09

@@ -3,6 +3,8 @@
 %
 % This waits for a key to be pressed and records it.
 %
+% Usage: PTBWaitForKey
+%
 % Author: Doug Bemis
 % Date: 7/4/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

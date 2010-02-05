@@ -3,6 +3,10 @@
 %
 % Log all keystrokes in the buffer. 
 %
+% Args:
+%
+% Usage: PTBLogKeyStrokes.
+%
 % Author: Doug Bemis
 % Date: 7/7/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

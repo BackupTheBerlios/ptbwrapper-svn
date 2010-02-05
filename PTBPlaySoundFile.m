@@ -3,6 +3,11 @@
 %
 % Plays a given .wav file
 %
+% Args:
+%	- soundfile: The file to play
+%	- duration: How long to play for
+%	- trigger: A trigger value to send (optional)
+%
 % Usage: PTBPlaySoundFile('soundfile.wav',{300})
 %
 % Author: Doug Bemis

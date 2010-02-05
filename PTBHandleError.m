@@ -5,6 +5,10 @@
 % Will exit and perform cleanup, and, hopefully,
 % print out the error that caused the exception.
 %
+% Args:
+%
+% Usage: PTBHandleError
+%
 % Author: Doug Bemis
 % Date: 7/4/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

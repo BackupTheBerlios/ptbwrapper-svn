@@ -2,6 +2,7 @@
 % File: PTBSendTrigger.m
 %
 % Initializes the IOLab USB ButtonBox
+%
 % Args:
 %	- value: 0-255 trigger value to send
 %

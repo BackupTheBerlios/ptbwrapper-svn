@@ -8,8 +8,9 @@
 %	- duration: How long to show the the text.
 %
 % NOTE: Position is the top of the text.
+% NOTE: Only 'center' is as a cell...
 %
-% Usage: PTBDisplayText('Hello world.','center',{.2})
+% Usage: PTBDisplayText('Hello world.',{'center'},{.2})
 %
 % Author: Doug Bemis
 % Date: 7/4/09

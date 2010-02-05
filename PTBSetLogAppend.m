@@ -3,6 +3,11 @@
 %
 % Sets data to append at the end of each log line.
 %
+% Args:
+%	- Comma delimited strings to add.
+%
+% Usage: PTBSetLogAppend('Condition','Item')
+%
 % Author: Doug Bemis
 % Date: 7/6/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

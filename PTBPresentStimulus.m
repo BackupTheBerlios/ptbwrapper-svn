@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBPresentStimulus.m
 %
+% This is mainly used internally.
+%
 % Displays the backbuffer to the screen.
 % This should be called whenever the stimulus has
 % been created and is ready to display.
@@ -9,6 +11,8 @@
 % stimulus until the previous stimulus is done (or
 % ASAP, if it's late) and will schedule the time for the
 % next stimulus.
+%
+% Usage: PTBSetBackgroundColor(duration, type, tag, trigger)
 %
 % Author: Doug Bemis
 % Date: 7/4/09

@@ -6,12 +6,20 @@
 % argument will record all keystrokes during the experiment.
 % NOTE: An empty string will write to the command window.
 %
-% TODO: Possibly allow changing during the experiment.
+%
+% Args:
+%	- logfile: The name of the log file.
+%	- datafile: The name of the data file (optional).
+%		* Will default to the logfile.
+%	- keyfile: The name of the key file (optional).
+%
+% Usage: PTBSetLogFiles('subj_log.txt','subj_data.txt')
 %
 % Author: Doug Bemis
 % Date: 7/6/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+% TODO: Possibly allow changing during the experiment.
 function PTBSetLogFiles(varargin)
 
 if nargin < 1 || nargin > 3

@@ -1,7 +1,13 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBSetupExperiment.m
 %
-% Does the setup for a PTBExperiment.
+% Does the setup for a PTBExperiment. Should be called
+% soonish in the experiment.
+%
+% Args:
+%	- title: The name of the experiment.
+%
+% Usage: PTBSetupExperiment('VMod')
 %
 % This sets and provides various useful global
 % values. NOTE: These can often be set at any time

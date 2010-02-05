@@ -7,6 +7,11 @@
 % the time for the next display, and move on to 
 % preparing it.
 %
+% Args:
+%	- duration: The duration to use
+%
+% Usage: PTBSetDuration({.3,'any'})
+%
 % Author: Doug Bemis
 % Date: 7/4/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

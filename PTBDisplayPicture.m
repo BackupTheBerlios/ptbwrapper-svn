@@ -3,6 +3,13 @@
 %
 % Displays a picture to the screen.
 %
+% Args:
+%	- picture: The picture file to display
+%	- duration: The length to display for.
+%	- trigger: A trigger to send (optional)
+%
+% Usage: PTBDisplayPicture('Test.jpg',{.3})
+%
 % Author: Doug Bemis
 % Date: 7/4/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

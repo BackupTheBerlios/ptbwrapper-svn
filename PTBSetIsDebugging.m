@@ -3,6 +3,11 @@
 %
 % Sets the debugging flag.
 %
+% Args:
+%	- value: 1 to use the debugging setup.
+%
+% Usage: PTBSetIsDebugging(1)
+%
 % Author: Doug Bemis
 % Date: 7/6/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

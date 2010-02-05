@@ -4,7 +4,13 @@
 % Displays matrices to the screen. Allows arbitarily 
 % created images to be displayed.
 %
-% U
+% Args:
+%	- matrices: The matrices to display
+%	- positions: The position to display them
+%	- duration: The length to display
+%	- trigger: A trigger to send (optional)
+%
+% Usage: PTBDisplayMatrices(matrices, {[100 100],'center'},{'any'})
 %
 % Author: Doug Bemis
 % Date: 7/4/09

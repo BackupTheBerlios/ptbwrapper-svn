@@ -3,6 +3,8 @@
 %
 % Initializes the IOLab USB ButtonBox
 %
+% Usage: PTBInitUSBBox
+%
 % Author: Doug Bemis
 % Date: 1/21/10
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

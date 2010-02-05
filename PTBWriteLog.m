@@ -1,7 +1,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBWriteLog.m
 %
-% Write out a line to a log file.
+% Write out a line to a log file. This is mainly used
+% automatically and internally.
+%
+% Usage: PTBWriteLog(fid, event, type, tag, time)
 %
 % Author: Doug Bemis
 % Date: 7/6/09

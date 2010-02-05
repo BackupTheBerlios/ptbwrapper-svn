@@ -2,6 +2,7 @@
 % File: PTBInitSound.m
 %
 % Initializes the sound driver. Good luck...
+%
 % Args:
 %	- latency: 0 for no low-latency, 1 for low-latency
 %		- If 1 crashes, use 0...
