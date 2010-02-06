@@ -1,0 +1,36 @@
+{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf540
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 To setup a run:\
+\
+1. Open a terminal\
+\
+2. cd Documents/Papers/Scripts/VMod_fMRI\
+\
+3. Create the 8 runs\
+\cf0 	a. optseq2 --ntp 152 --tr 2 --psdwin 0 20 --ev mod 4 19  --ev non 4 19 --ev fix 4 19 --nkeep 6 --o VMod_1 --nsearch 10000\
+\pard\pardeftab720\ql\qnatural
+	b. optseq2 --ntp 144 --tr 2 --psdwin 0 20 --ev mod 4 18 --ev non 4 18 --ev fix 4 18 --nkeep 2 --o VMod_2 --nsearch 10000\
+	* This should create 8 *.par files\
+\
+4. Create the stimulus lists: run 'generateControlLists_fMRI(\{'VMod_1-001.par','VMod_1-002.par','VMod_1-003.par','VMod_1-004.par','VMod_1-005.par','VMod_1-006.par','VMod_2-001.par','VMod_2-002.par'\})'\
+\
+5. Check the lists: [num_mod num_non num_fix num_mod_m num_mod_nm num_non_m num_non_nm num_fix_m num_fix_nm num_mod_nm_1 num_mod_nm_2] = checkStimLists(\{'stim_1.txt','stim_2.txt','stim_3.txt','stim_4.txt','stim_5.txt','stim_6.txt','stim_7.txt','stim_8.txt',\})\
+	- Make sure all the numbers are right\
+\
+6. Run the practice lists: \
+	a. VMod_fMRI('AVB',\{'practice_stim_1.txt',\cf0 'practice_stim_2.txt'\cf0 \},1)\
+		- This will be practice with feedback\
+			- Run 2 puts in long fixations\
+\pard\pardeftab720\ql\qnatural
+\cf0 	b. VMod_fMRI('AVB',\{'practice_stim_3.txt'\},2)\
+		- This eliminates the feedback\
+\
+7. Check the input of the scanner \
+	* Remember to set debug mode one\
+\
+8. Run the scans: VMod_fMRI('AVB',\{'stim_1.txt','stim_2.txt','stim_3.txt','stim_4.txt','stim_5.txt','stim_6.txt','stim_7.txt','stim_8.txt'\},0)\
+}

@@ -1,0 +1,458 @@
+STIM	Picture	s5.jpg	22.466	fix	1	Match
+STIM	Blank		22.7661	fix	1	Match
+STIM	Picture	s1.jpg	23.0663	fix	1	Match
+STIM	Blank		23.3664	fix	1	Match
+STIM	Picture	Note.jpg	23.7333	fix	1	Match
+STIM	Blank		23.9667	fix	1	Match
+STIM	Picture	RedNote_1.jpg	24.2667	fix	1	Match
+STIM	Text	+	25.9675	fix	1	Match
+STIM	Picture	s6.jpg	26.4677	mod	1	NoMatch
+STIM	Blank		26.7679	mod	1	NoMatch
+STIM	Picture	Blue.jpg	27.068	mod	1	NoMatch
+STIM	Blank		27.368	mod	1	NoMatch
+STIM	Picture	Boat.jpg	27.6683	mod	1	NoMatch
+STIM	Blank		27.9682	mod	1	NoMatch
+STIM	Picture	BlueFork_3.jpg	28.2684	mod	1	NoMatch
+STIM	Text	+	29.9692	mod	1	NoMatch
+STIM	Picture	s1.jpg	30.4694	non	1	NoMatch
+STIM	Blank		30.7694	non	1	NoMatch
+STIM	Picture	nw4.jpg	31.0696	non	1	NoMatch
+STIM	Blank		31.3698	non	1	NoMatch
+STIM	Picture	Shoe.jpg	31.6699	non	1	NoMatch
+STIM	Blank		31.97	non	1	NoMatch
+STIM	Picture	BlueLock_1.jpg	32.2701	non	1	NoMatch
+STIM	Text	+	33.9708	non	1	NoMatch
+STIM	Picture	s5.jpg	34.471	fix	2	Match
+STIM	Blank		34.7711	fix	2	Match
+STIM	Picture	s2.jpg	35.0713	fix	2	Match
+STIM	Blank		35.3714	fix	2	Match
+STIM	Picture	House.jpg	35.6716	fix	2	Match
+STIM	Blank		35.9717	fix	2	Match
+STIM	Picture	BlueHouse_3.jpg	36.2718	fix	2	Match
+STIM	Text	+	37.9725	fix	2	Match
+STIM	Picture	s3.jpg	38.4727	mod	2	NoMatch
+STIM	Blank		38.7728	mod	2	NoMatch
+STIM	Picture	Brown.jpg	39.0729	mod	2	NoMatch
+STIM	Blank		39.373	mod	2	NoMatch
+STIM	Picture	Bag.jpg	39.6732	mod	2	NoMatch
+STIM	Blank		39.9734	mod	2	NoMatch
+STIM	Picture	BrownKey_1.jpg	40.2734	mod	2	NoMatch
+STIM	Text	+	41.9741	mod	2	NoMatch
+STIM	Picture	s6.jpg	42.4743	mod	3	Match
+STIM	Blank		42.7746	mod	3	Match
+STIM	Picture	Black.jpg	43.0746	mod	3	Match
+STIM	Blank		43.3747	mod	3	Match
+STIM	Picture	Leaf.jpg	43.6749	mod	3	Match
+STIM	Blank		43.975	mod	3	Match
+STIM	Picture	BlackLeaf_1.jpg	44.2751	mod	3	Match
+STIM	Text	+	45.9758	mod	3	Match
+STIM	Picture	s1.jpg	48.4602	mod	4	NoMatch
+STIM	Blank		48.7603	mod	4	NoMatch
+STIM	Picture	Blue.jpg	49.0604	mod	4	NoMatch
+STIM	Blank		49.3606	mod	4	NoMatch
+STIM	Picture	Hand.jpg	49.6607	mod	4	NoMatch
+STIM	Blank		49.9608	mod	4	NoMatch
+STIM	Picture	PinkHand_1.jpg	50.2609	mod	4	NoMatch
+STIM	Text	+	51.9616	mod	4	NoMatch
+STIM	Picture	s2.jpg	52.4618	fix	3	NoMatch
+STIM	Blank		52.762	fix	3	NoMatch
+STIM	Picture	s6.jpg	53.0621	fix	3	NoMatch
+STIM	Blank		53.3623	fix	3	NoMatch
+STIM	Picture	Bell.jpg	53.6624	fix	3	NoMatch
+STIM	Blank		53.9626	fix	3	NoMatch
+STIM	Picture	PinkLamp_3.jpg	54.2626	fix	3	NoMatch
+STIM	Text	+	55.9632	fix	3	NoMatch
+STIM	Picture	s1.jpg	56.4635	mod	5	Match
+STIM	Blank		56.7637	mod	5	Match
+STIM	Picture	Black.jpg	57.0638	mod	5	Match
+STIM	Blank		57.364	mod	5	Match
+STIM	Picture	Fork.jpg	57.6641	mod	5	Match
+STIM	Blank		57.9642	mod	5	Match
+STIM	Picture	BlackFork_3.jpg	58.2643	mod	5	Match
+STIM	Text	+	59.965	mod	5	Match
+STIM	Picture	s6.jpg	60.4652	non	2	NoMatch
+STIM	Blank		60.7653	non	2	NoMatch
+STIM	Picture	nw3.jpg	61.0654	non	2	NoMatch
+STIM	Blank		61.3656	non	2	NoMatch
+STIM	Picture	Square.jpg	61.6657	non	2	NoMatch
+STIM	Blank		61.9658	non	2	NoMatch
+STIM	Picture	PinkDisc_1.jpg	62.2659	non	2	NoMatch
+STIM	Text	+	63.9666	non	2	NoMatch
+STIM	Picture	s4.jpg	64.4668	non	3	Match
+STIM	Blank		64.767	non	3	Match
+STIM	Picture	nw2.jpg	65.0671	non	3	Match
+STIM	Blank		65.3672	non	3	Match
+STIM	Picture	Car.jpg	65.6674	non	3	Match
+STIM	Blank		65.9675	non	3	Match
+STIM	Picture	BlueCar_2.jpg	66.2676	non	3	Match
+STIM	Text	+	67.9683	non	3	Match
+STIM	Picture	s3.jpg	68.4685	non	4	NoMatch
+STIM	Blank		68.7686	non	4	NoMatch
+STIM	Picture	nw2.jpg	69.0688	non	4	NoMatch
+STIM	Blank		69.3688	non	4	NoMatch
+STIM	Picture	Cross.jpg	69.669	non	4	NoMatch
+STIM	Blank		69.9691	non	4	NoMatch
+STIM	Picture	BrownFork_3.jpg	70.2694	non	4	NoMatch
+STIM	Text	+	71.97	non	4	NoMatch
+STIM	Picture	s6.jpg	80.4735	non	5	Match
+STIM	Blank		80.7737	non	5	Match
+STIM	Picture	nw2.jpg	81.0739	non	5	Match
+STIM	Blank		81.3739	non	5	Match
+STIM	Picture	Flag.jpg	81.674	non	5	Match
+STIM	Blank		81.9741	non	5	Match
+STIM	Picture	BlueFlag_3.jpg	82.2743	non	5	Match
+STIM	Text	+	83.9751	non	5	Match
+STIM	Picture	s4.jpg	86.476	non	6	NoMatch
+STIM	Blank		86.7594	non	6	NoMatch
+STIM	Picture	nw5.jpg	87.0596	non	6	NoMatch
+STIM	Blank		87.3597	non	6	NoMatch
+STIM	Picture	Boat.jpg	87.6598	non	6	NoMatch
+STIM	Blank		87.96	non	6	NoMatch
+STIM	Picture	GreenFlag_3.jpg	88.26	non	6	NoMatch
+STIM	Text	+	89.9608	non	6	NoMatch
+STIM	Picture	s1.jpg	90.461	mod	6	Match
+STIM	Blank		90.7611	mod	6	Match
+STIM	Picture	Pink.jpg	91.0613	mod	6	Match
+STIM	Blank		91.3614	mod	6	Match
+STIM	Picture	Car.jpg	91.6616	mod	6	Match
+STIM	Blank		91.9616	mod	6	Match
+STIM	Picture	PinkCar_1.jpg	92.2617	mod	6	Match
+STIM	Text	+	93.9624	mod	6	Match
+STIM	Picture	s3.jpg	94.4626	mod	7	NoMatch
+STIM	Blank		94.7628	mod	7	NoMatch
+STIM	Picture	Blue.jpg	95.0629	mod	7	NoMatch
+STIM	Blank		95.3631	mod	7	NoMatch
+STIM	Picture	Lamp.jpg	95.6633	mod	7	NoMatch
+STIM	Blank		95.9633	mod	7	NoMatch
+STIM	Picture	PinkLamp_3.jpg	96.2634	mod	7	NoMatch
+STIM	Text	+	97.9642	mod	7	NoMatch
+STIM	Picture	s2.jpg	104.4669	fix	4	Match
+STIM	Blank		104.7669	fix	4	Match
+STIM	Picture	s6.jpg	105.0671	fix	4	Match
+STIM	Blank		105.3672	fix	4	Match
+STIM	Picture	Star.jpg	105.6674	fix	4	Match
+STIM	Blank		105.9675	fix	4	Match
+STIM	Picture	BrownStar_3.jpg	106.2676	fix	4	Match
+STIM	Text	+	107.9683	fix	4	Match
+STIM	Picture	s2.jpg	108.4686	non	7	Match
+STIM	Blank		108.7688	non	7	Match
+STIM	Picture	nw3.jpg	109.0687	non	7	Match
+STIM	Blank		109.369	non	7	Match
+STIM	Picture	Hand.jpg	109.6691	non	7	Match
+STIM	Blank		109.9691	non	7	Match
+STIM	Picture	PinkHand_3.jpg	110.2693	non	7	Match
+STIM	Text	+	111.97	non	7	Match
+STIM	Picture	s3.jpg	112.4702	mod	8	Match
+STIM	Blank		112.7704	mod	8	Match
+STIM	Picture	Brown.jpg	113.0705	mod	8	Match
+STIM	Blank		113.3706	mod	8	Match
+STIM	Picture	Plane.jpg	113.7208	mod	8	Match
+STIM	Blank		113.9708	mod	8	Match
+STIM	Picture	BrownPlane_1.jpg	114.2709	mod	8	Match
+STIM	Text	+	115.9717	mod	8	Match
+STIM	Picture	s3.jpg	116.4719	non	8	Match
+STIM	Blank		116.772	non	8	Match
+STIM	Picture	nw4.jpg	117.0722	non	8	Match
+STIM	Blank		117.3723	non	8	Match
+STIM	Picture	Cup.jpg	117.6724	non	8	Match
+STIM	Blank		117.9725	non	8	Match
+STIM	Picture	BlackCup_1.jpg	118.2727	non	8	Match
+STIM	Text	+	119.9733	non	8	Match
+STIM	Picture	s3.jpg	120.4736	fix	5	NoMatch
+STIM	Blank		120.7736	fix	5	NoMatch
+STIM	Picture	s2.jpg	121.0738	fix	5	NoMatch
+STIM	Blank		121.3739	fix	5	NoMatch
+STIM	Picture	Square.jpg	121.674	fix	5	NoMatch
+STIM	Blank		121.9742	fix	5	NoMatch
+STIM	Picture	BlueNote_2.jpg	122.2743	fix	5	NoMatch
+STIM	Text	+	123.975	fix	5	NoMatch
+STIM	Picture	s1.jpg	128.4602	non	9	Match
+STIM	Blank		128.7603	non	9	Match
+STIM	Picture	nw5.jpg	129.0604	non	9	Match
+STIM	Blank		129.3606	non	9	Match
+STIM	Picture	Lamp.jpg	129.6607	non	9	Match
+STIM	Blank		129.9609	non	9	Match
+STIM	Picture	GreenLamp_1.jpg	130.261	non	9	Match
+STIM	Text	+	131.9617	non	9	Match
+STIM	Picture	s1.jpg	134.4627	fix	6	NoMatch
+STIM	Blank		134.7628	fix	6	NoMatch
+STIM	Picture	s3.jpg	135.0629	fix	6	NoMatch
+STIM	Blank		135.3631	fix	6	NoMatch
+STIM	Picture	Note.jpg	135.6632	fix	6	NoMatch
+STIM	Blank		135.9634	fix	6	NoMatch
+STIM	Picture	RedSquare_1.jpg	136.2634	fix	6	NoMatch
+STIM	Text	+	137.9643	fix	6	NoMatch
+STIM	Picture	s4.jpg	138.4644	fix	7	NoMatch
+STIM	Blank		138.7646	fix	7	NoMatch
+STIM	Picture	s5.jpg	139.0646	fix	7	NoMatch
+STIM	Blank		139.3648	fix	7	NoMatch
+STIM	Picture	Cup.jpg	139.6648	fix	7	NoMatch
+STIM	Blank		139.965	fix	7	NoMatch
+STIM	Picture	BluePlane_2.jpg	140.2651	fix	7	NoMatch
+STIM	Text	+	141.9658	fix	7	NoMatch
+STIM	Picture	s3.jpg	142.466	fix	8	Match
+STIM	Blank		142.7661	fix	8	Match
+STIM	Picture	s2.jpg	143.0664	fix	8	Match
+STIM	Blank		143.3664	fix	8	Match
+STIM	Picture	Bag.jpg	143.6666	fix	8	Match
+STIM	Blank		143.9666	fix	8	Match
+STIM	Picture	BlueBag_3.jpg	144.2669	fix	8	Match
+STIM	Text	+	145.9674	fix	8	Match
+STIM	Picture	s4.jpg	148.4685	fix	9	NoMatch
+STIM	Blank		148.7688	fix	9	NoMatch
+STIM	Picture	s5.jpg	149.0688	fix	9	NoMatch
+STIM	Blank		149.3689	fix	9	NoMatch
+STIM	Picture	Boat.jpg	149.6691	fix	9	NoMatch
+STIM	Blank		149.9692	fix	9	NoMatch
+STIM	Picture	PinkBow_1.jpg	150.2693	fix	9	NoMatch
+STIM	Text	+	151.9699	fix	9	NoMatch
+STIM	Picture	s4.jpg	154.4712	non	10	NoMatch
+STIM	Blank		154.7712	non	10	NoMatch
+STIM	Picture	nw2.jpg	155.0713	non	10	NoMatch
+STIM	Blank		155.3714	non	10	NoMatch
+STIM	Picture	Tree.jpg	155.6715	non	10	NoMatch
+STIM	Blank		155.9716	non	10	NoMatch
+STIM	Picture	PinkCar_1.jpg	156.2718	non	10	NoMatch
+STIM	Text	+	157.9725	non	10	NoMatch
+STIM	Picture	s1.jpg	158.4728	mod	9	NoMatch
+STIM	Blank		158.7729	mod	9	NoMatch
+STIM	Picture	Black.jpg	159.073	mod	9	NoMatch
+STIM	Blank		159.3731	mod	9	NoMatch
+STIM	Picture	Shoe.jpg	159.6732	mod	9	NoMatch
+STIM	Blank		159.9733	mod	9	NoMatch
+STIM	Picture	BlueShoe_3.jpg	160.2735	mod	9	NoMatch
+STIM	Text	+	161.9741	mod	9	NoMatch
+STIM	Picture	s2.jpg	168.4602	fix	10	Match
+STIM	Blank		168.7603	fix	10	Match
+STIM	Picture	s3.jpg	169.0604	fix	10	Match
+STIM	Blank		169.3605	fix	10	Match
+STIM	Picture	Hand.jpg	169.6607	fix	10	Match
+STIM	Blank		169.9608	fix	10	Match
+STIM	Picture	PinkHand_3.jpg	170.2609	fix	10	Match
+STIM	Text	+	171.9616	fix	10	Match
+STIM	Picture	s1.jpg	172.4619	non	11	Match
+STIM	Blank		172.762	non	11	Match
+STIM	Picture	nw3.jpg	173.0621	non	11	Match
+STIM	Blank		173.3622	non	11	Match
+STIM	Picture	Heart.jpg	173.6623	non	11	Match
+STIM	Blank		173.9625	non	11	Match
+STIM	Picture	PinkHeart_3.jpg	174.4127	non	11	Match
+STIM	Text	+	175.9633	non	11	Match
+STIM	Picture	s5.jpg	180.4652	non	12	Match
+STIM	Blank		180.7653	non	12	Match
+STIM	Picture	nw3.jpg	181.0654	non	12	Match
+STIM	Blank		181.3655	non	12	Match
+STIM	Picture	Disc.jpg	181.6657	non	12	Match
+STIM	Blank		181.9658	non	12	Match
+STIM	Picture	PinkDisc_1.jpg	182.266	non	12	Match
+STIM	Text	+	183.9667	non	12	Match
+STIM	Picture	s3.jpg	188.4685	mod	10	NoMatch
+STIM	Blank		188.7687	mod	10	NoMatch
+STIM	Picture	Blue.jpg	189.0688	mod	10	NoMatch
+STIM	Blank		189.3689	mod	10	NoMatch
+STIM	Picture	Cross.jpg	189.669	mod	10	NoMatch
+STIM	Blank		189.9692	mod	10	NoMatch
+STIM	Picture	RedCross_3.jpg	190.2693	mod	10	NoMatch
+STIM	Text	+	191.97	mod	10	NoMatch
+STIM	Picture	s5.jpg	192.4702	non	13	Match
+STIM	Blank		192.7703	non	13	Match
+STIM	Picture	nw2.jpg	193.0706	non	13	Match
+STIM	Blank		193.3706	non	13	Match
+STIM	Picture	House.jpg	193.6708	non	13	Match
+STIM	Blank		193.9709	non	13	Match
+STIM	Picture	BlueHouse_3.jpg	194.2709	non	13	Match
+STIM	Text	+	195.9718	non	13	Match
+STIM	Picture	s2.jpg	196.4719	mod	11	Match
+STIM	Blank		196.772	mod	11	Match
+STIM	Picture	Pink.jpg	197.0723	mod	11	Match
+STIM	Blank		197.3722	mod	11	Match
+STIM	Picture	Hand.jpg	197.6723	mod	11	Match
+STIM	Blank		197.9725	mod	11	Match
+STIM	Picture	PinkHand_3.jpg	198.2727	mod	11	Match
+STIM	Text	+	199.9733	mod	11	Match
+STIM	Picture	s5.jpg	202.4743	mod	12	NoMatch
+STIM	Blank		202.7746	mod	12	NoMatch
+STIM	Picture	Brown.jpg	203.0747	mod	12	NoMatch
+STIM	Blank		203.3747	mod	12	NoMatch
+STIM	Picture	Flag.jpg	203.6749	mod	12	NoMatch
+STIM	Blank		203.9751	mod	12	NoMatch
+STIM	Picture	BrownSquare_1.jpg	204.2751	mod	12	NoMatch
+STIM	Text	+	205.9758	mod	12	NoMatch
+STIM	Picture	s4.jpg	206.4761	non	14	Match
+STIM	Blank		206.7594	non	14	Match
+STIM	Picture	nw6.jpg	207.1096	non	14	Match
+STIM	Blank		207.3597	non	14	Match
+STIM	Picture	Hand.jpg	207.66	non	14	Match
+STIM	Blank		207.96	non	14	Match
+STIM	Picture	BrownHand_2.jpg	208.2601	non	14	Match
+STIM	Text	+	209.9609	non	14	Match
+STIM	Picture	s2.jpg	220.4652	non	15	NoMatch
+STIM	Blank		220.7654	non	15	NoMatch
+STIM	Picture	nw4.jpg	221.0655	non	15	NoMatch
+STIM	Blank		221.3657	non	15	NoMatch
+STIM	Picture	Lock.jpg	221.6657	non	15	NoMatch
+STIM	Blank		221.9658	non	15	NoMatch
+STIM	Picture	BlackTree_3.jpg	222.2661	non	15	NoMatch
+STIM	Text	+	223.9667	non	15	NoMatch
+STIM	Picture	s3.jpg	224.467	fix	11	NoMatch
+STIM	Blank		224.767	fix	11	NoMatch
+STIM	Picture	s4.jpg	225.0672	fix	11	NoMatch
+STIM	Blank		225.3673	fix	11	NoMatch
+STIM	Picture	Bow.jpg	225.6674	fix	11	NoMatch
+STIM	Blank		225.9675	fix	11	NoMatch
+STIM	Picture	BrownFork_3.jpg	226.2676	fix	11	NoMatch
+STIM	Text	+	227.9683	fix	11	NoMatch
+STIM	Picture	s3.jpg	228.4685	fix	12	Match
+STIM	Blank		228.7687	fix	12	Match
+STIM	Picture	s5.jpg	229.0689	fix	12	Match
+STIM	Blank		229.369	fix	12	Match
+STIM	Picture	Tree.jpg	229.669	fix	12	Match
+STIM	Blank		229.9692	fix	12	Match
+STIM	Picture	GreenTree_3.jpg	230.2693	fix	12	Match
+STIM	Text	+	231.9699	fix	12	Match
+STIM	Picture	s2.jpg	236.472	non	16	NoMatch
+STIM	Blank		236.772	non	16	NoMatch
+STIM	Picture	nw5.jpg	237.0721	non	16	NoMatch
+STIM	Blank		237.3723	non	16	NoMatch
+STIM	Picture	Fork.jpg	237.6725	non	16	NoMatch
+STIM	Blank		237.9725	non	16	NoMatch
+STIM	Picture	BrownCane_3.jpg	238.2726	non	16	NoMatch
+STIM	Text	+	239.9734	non	16	NoMatch
+STIM	Picture	s6.jpg	240.4737	mod	13	NoMatch
+STIM	Blank		240.7737	mod	13	NoMatch
+STIM	Picture	Black.jpg	241.0738	mod	13	NoMatch
+STIM	Blank		241.3739	mod	13	NoMatch
+STIM	Picture	Bow.jpg	241.6741	mod	13	NoMatch
+STIM	Blank		241.9742	mod	13	NoMatch
+STIM	Picture	BlackCross_2.jpg	242.2744	mod	13	NoMatch
+STIM	Text	+	243.975	mod	13	NoMatch
+STIM	Picture	s3.jpg	246.4761	fix	13	Match
+STIM	Blank		246.7596	fix	13	Match
+STIM	Picture	s4.jpg	247.0596	fix	13	Match
+STIM	Blank		247.3597	fix	13	Match
+STIM	Picture	Key.jpg	247.6599	fix	13	Match
+STIM	Blank		247.96	fix	13	Match
+STIM	Picture	BlackKey_2.jpg	248.2602	fix	13	Match
+STIM	Text	+	249.9608	fix	13	Match
+STIM	Picture	s5.jpg	250.4611	mod	14	Match
+STIM	Blank		250.7613	mod	14	Match
+STIM	Picture	Blue.jpg	251.0614	mod	14	Match
+STIM	Blank		251.3614	mod	14	Match
+STIM	Picture	Lock.jpg	251.6616	mod	14	Match
+STIM	Blank		251.9617	mod	14	Match
+STIM	Picture	BlueLock_1.jpg	252.2619	mod	14	Match
+STIM	Text	+	253.9626	mod	14	Match
+STIM	Picture	s3.jpg	258.4644	non	17	Match
+STIM	Blank		258.7645	non	17	Match
+STIM	Picture	nw6.jpg	259.0647	non	17	Match
+STIM	Blank		259.3648	non	17	Match
+STIM	Picture	House.jpg	259.6648	non	17	Match
+STIM	Blank		259.965	non	17	Match
+STIM	Picture	BrownHouse_1.jpg	260.2651	non	17	Match
+STIM	Text	+	261.9659	non	17	Match
+STIM	Picture	s6.jpg	262.4661	fix	14	NoMatch
+STIM	Blank		262.7662	fix	14	NoMatch
+STIM	Picture	s2.jpg	263.0663	fix	14	NoMatch
+STIM	Blank		263.3664	fix	14	NoMatch
+STIM	Picture	Cane.jpg	263.6665	fix	14	NoMatch
+STIM	Blank		263.9667	fix	14	NoMatch
+STIM	Picture	BlackFork_3.jpg	264.2669	fix	14	NoMatch
+STIM	Text	+	265.9676	fix	14	NoMatch
+STIM	Picture	s2.jpg	266.4678	fix	15	Match
+STIM	Blank		266.7679	fix	15	Match
+STIM	Picture	s4.jpg	267.0679	fix	15	Match
+STIM	Blank		267.3681	fix	15	Match
+STIM	Picture	Bag.jpg	267.6683	fix	15	Match
+STIM	Blank		267.9684	fix	15	Match
+STIM	Picture	BlackBag_3.jpg	268.2685	fix	15	Match
+STIM	Text	+	269.9691	fix	15	Match
+STIM	Picture	s5.jpg	270.4694	mod	15	Match
+STIM	Blank		270.7695	mod	15	Match
+STIM	Picture	Blue.jpg	271.0698	mod	15	Match
+STIM	Blank		271.3698	mod	15	Match
+STIM	Picture	Boat.jpg	271.6699	mod	15	Match
+STIM	Blank		271.97	mod	15	Match
+STIM	Picture	BlueBoat_1.jpg	272.2703	mod	15	Match
+STIM	Text	+	273.9709	mod	15	Match
+STIM	Picture	s2.jpg	274.471	fix	16	NoMatch
+STIM	Blank		274.7711	fix	16	NoMatch
+STIM	Picture	s5.jpg	275.0713	fix	16	NoMatch
+STIM	Blank		275.3715	fix	16	NoMatch
+STIM	Picture	House.jpg	275.6715	fix	16	NoMatch
+STIM	Blank		275.9717	fix	16	NoMatch
+STIM	Picture	BlueCar_2.jpg	276.2718	fix	16	NoMatch
+STIM	Text	+	277.9725	fix	16	NoMatch
+STIM	Picture	s2.jpg	278.4729	fix	17	Match
+STIM	Blank		278.7728	fix	17	Match
+STIM	Picture	s6.jpg	279.073	fix	17	Match
+STIM	Blank		279.3732	fix	17	Match
+STIM	Picture	Square.jpg	279.6732	fix	17	Match
+STIM	Blank		279.9735	fix	17	Match
+STIM	Picture	BrownSquare_1.jpg	280.2736	fix	17	Match
+STIM	Text	+	281.9742	fix	17	Match
+STIM	Picture	s6.jpg	286.4761	mod	16	NoMatch
+STIM	Blank		286.7596	mod	16	NoMatch
+STIM	Picture	Green.jpg	287.0597	mod	16	NoMatch
+STIM	Blank		287.3598	mod	16	NoMatch
+STIM	Picture	Cross.jpg	287.6598	mod	16	NoMatch
+STIM	Blank		287.96	mod	16	NoMatch
+STIM	Picture	BlackCross_2.jpg	288.2602	mod	16	NoMatch
+STIM	Text	+	289.9609	mod	16	NoMatch
+STIM	Picture	s3.jpg	294.4628	mod	17	NoMatch
+STIM	Blank		294.7628	mod	17	NoMatch
+STIM	Picture	Blue.jpg	295.063	mod	17	NoMatch
+STIM	Blank		295.3631	mod	17	NoMatch
+STIM	Picture	Plane.jpg	295.6632	mod	17	NoMatch
+STIM	Blank		295.9634	mod	17	NoMatch
+STIM	Picture	BrownPlane_1.jpg	296.2636	mod	17	NoMatch
+STIM	Text	+	297.9642	mod	17	NoMatch
+STIM	Picture	s4.jpg	298.4644	fix	18	NoMatch
+STIM	Blank		298.7646	fix	18	NoMatch
+STIM	Picture	s6.jpg	299.0648	fix	18	NoMatch
+STIM	Blank		299.3648	fix	18	NoMatch
+STIM	Picture	Lamp.jpg	299.6649	fix	18	NoMatch
+STIM	Blank		299.965	fix	18	NoMatch
+STIM	Picture	PinkBow_2.jpg	300.2651	fix	18	NoMatch
+STIM	Text	+	301.9659	fix	18	NoMatch
+STIM	Picture	s3.jpg	304.467	fix	19	NoMatch
+STIM	Blank		304.7671	fix	19	NoMatch
+STIM	Picture	s2.jpg	305.0671	fix	19	NoMatch
+STIM	Blank		305.3672	fix	19	NoMatch
+STIM	Picture	Cross.jpg	305.6674	fix	19	NoMatch
+STIM	Blank		305.9675	fix	19	NoMatch
+STIM	Picture	BlueBoat_1.jpg	306.2677	fix	19	NoMatch
+STIM	Text	+	307.9684	fix	19	NoMatch
+STIM	Picture	s2.jpg	310.4694	mod	18	NoMatch
+STIM	Blank		310.7695	mod	18	NoMatch
+STIM	Picture	Brown.jpg	311.0698	mod	18	NoMatch
+STIM	Blank		311.3698	mod	18	NoMatch
+STIM	Picture	Bell.jpg	311.6699	mod	18	NoMatch
+STIM	Blank		311.9701	mod	18	NoMatch
+STIM	Picture	GreenBell_2.jpg	312.2703	mod	18	NoMatch
+STIM	Text	+	313.9709	mod	18	NoMatch
+STIM	Picture	s5.jpg	314.4712	mod	19	NoMatch
+STIM	Blank		314.7713	mod	19	NoMatch
+STIM	Picture	Blue.jpg	315.0714	mod	19	NoMatch
+STIM	Blank		315.3715	mod	19	NoMatch
+STIM	Picture	Key.jpg	315.6716	mod	19	NoMatch
+STIM	Blank		315.9718	mod	19	NoMatch
+STIM	Picture	BlueBoat_1.jpg	316.2718	mod	19	NoMatch
+STIM	Text	+	317.9725	mod	19	NoMatch
+STIM	Picture	s2.jpg	318.4728	non	18	Match
+STIM	Blank		318.7729	non	18	Match
+STIM	Picture	nw6.jpg	319.073	non	18	Match
+STIM	Blank		319.3732	non	18	Match
+STIM	Picture	Star.jpg	319.6732	non	18	Match
+STIM	Blank		319.9735	non	18	Match
+STIM	Picture	BrownStar_3.jpg	320.2735	non	18	Match
+STIM	Text	+	321.9742	non	18	Match
+STIM	Picture	s2.jpg	322.4745	non	19	NoMatch
+STIM	Blank		322.7746	non	19	NoMatch
+STIM	Picture	nw5.jpg	323.0746	non	19	NoMatch
+STIM	Blank		323.3749	non	19	NoMatch
+STIM	Picture	Car.jpg	323.6749	non	19	NoMatch
+STIM	Blank		323.9751	non	19	NoMatch
+STIM	Picture	PinkHeart_3.jpg	324.2752	non	19	NoMatch
+STIM	Text	+	325.9758	non	19	NoMatch
+STIM	Text	+	326.4761	non	19	NoMatch
+STIM	Paragraph	Please try to remain still.	334.4628	non	19	NoMatch

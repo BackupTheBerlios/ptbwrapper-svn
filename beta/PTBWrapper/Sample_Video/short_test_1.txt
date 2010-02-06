@@ -1,0 +1,5 @@
+non	1	s2.jpg	nw5.jpg	Car.jpg	GreenCar_3.jpg	Match	4.5
+non	2	s1.jpg	nw3.jpg	Cross.jpg	PinkCross_1.jpg	Match	0.5
+non	3	s5.jpg	nw1.jpg	Shoe.jpg	RedShoe_3.jpg	Match	0.5
+fix	1	s1.jpg	s6.jpg	Fork.jpg	BrownCup_1.jpg	NoMatch	2.5
+non	4	s6.jpg	nw1.jpg	Hand.jpg	RedHand_3.jpg	Match	2.5
