@@ -1,0 +1,2196 @@
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:17:42
+
+START	5481.793		0
+KEY	Return	1.4225	1.4612
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:17:56
+
+START	5495.7571		0
+KEY	Return	0.85689	0.8971
+TIMEOUT			2.5529	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:18:13
+
+START	5512.3961		0
+KEY	Return	0.95442	0.99415
+KEY	Return	0.8524	3.4982	Testing
+KEY	space	0.78564	5.2022	Testing
+KEY	space	0.88968	7.0102	Testing
+KEY	space	0.81354	8.7382	Testing
+KEY	space	1.0042	10.6662	Testing
+KEY	ESCAPE	0.62708	12.2102	Testing
+TIMEOUT			12.2196	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:29:40
+
+START	6199.9		0
+KEY	Return	0.55224	0.59364
+KEY	Return	2.6679	4.8976	Testing
+KEY	Return	1.2362	7.0576	Testing
+KEY	Return	1.0973	9.0737	Testing
+KEY	ESCAPE	0.067904	10.0656	Testing
+TIMEOUT			10.0751	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:30:22
+
+START	6242.0306		0
+KEY	Return	0.34155	0.38298
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:30:41
+
+START	6260.1403		0
+KEY	Return	0.61703	0.65729
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:31:13
+
+START	6292.8313		0
+KEY	Return	0.33733	0.37883
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:31:40
+
+START	6319.1591		0
+KEY	Return	0.55383	0.59509
+KEY	Return	1.0054	3.2351	Testing
+KEY	ESCAPE	0.40431	4.5551	Testing
+TIMEOUT			4.5641	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:31:53
+
+START	6332.2047		0
+KEY	Return	1.259	1.3014
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:32:13
+
+START	6352.5364		0
+KEY	Return	0.57668	0.6177
+KEY	Return	1.4429	3.7057	Testing
+KEY	Return	0.91142	5.5297	Testing
+KEY	ESCAPE	1.6099	8.0657	Testing
+TIMEOUT			8.0751	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:33:23
+
+START	6422.9654		0
+KEY	Return	0.89795	0.93944
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:33:48
+
+START	6447.5729		0
+KEY	Return	0.30196	0.34281
+KEY	Return	1.3162	3.2948	Testing
+KEY	Return	0.93297	5.1668	Testing
+KEY	Return	0.66269	6.7508	Testing
+KEY	Return	1.1957	8.8708	Testing
+KEY	Return	0.83411	10.6308	Testing
+KEY	Return	0.70406	12.2548	Testing
+KEY	Return	1.3156	14.4868	Testing
+KEY	ESCAPE	0.30914	15.7188	Testing
+TIMEOUT			15.728	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:34:14
+
+START	6473.3833		0
+KEY	Return	0.43633	0.47643
+KEY	ESCAPE	2.5562	4.6844	Testing
+TIMEOUT			4.6944	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:34:30
+
+START	6489.8202		0
+KEY	Return	0.47035	0.51154
+KEY	Return	1.2295	3.3755	Testing
+KEY	ESCAPE	0.41851	4.7195	Testing
+TIMEOUT			4.7288	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:35:48
+
+START	6567.0987		0
+KEY	Return	0.55975	0.60104
+KEY	Return	0.94667	3.193	Testing
+KEY	Return	0.56369	4.681	Testing
+KEY	Return	0.81291	6.417	Testing
+KEY	ESCAPE	1.7876	9.129	Testing
+TIMEOUT			9.1384	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:37:58
+
+START	6697.6839		0
+KEY	Return	1.1907	1.2318
+KEY	Return	0.99946	3.8638	Testing
+KEY	Return	0.55034	5.3358	Testing
+KEY	ESCAPE	0.31228	6.5679	Testing
+TIMEOUT			6.5769	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:39:09
+
+START	6768.8486		0
+KEY	Return	0.61817	0.65923
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:39:30
+
+START	6789.2952		0
+KEY	Return	0.4827	0.52442
+KEY	ESCAPE	1.3131	3.4764	Testing
+TIMEOUT			3.4864	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:39:57
+
+START	6816.0905		0
+KEY	Return	0.53547	0.57712
+KEY	Return	0.73105	2.9611	Testing
+KEY	ESCAPE	0.69326	4.5771	Testing
+TIMEOUT			4.5863	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:40:30
+
+START	6849.6678		0
+KEY	Return	0.8372	0.87909
+KEY	ESCAPE	0.63611	3.1671	Testing
+TIMEOUT			3.1769	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:47:08
+
+START	7247.2538		0
+KEY	LeftGUI	8.1264	8.1674
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:47:22
+
+START	7261.4354		0
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:47:45
+
+START	7284.6066		0
+KEY	Return	1.8751	1.9168
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:48:19
+
+START	7318.8699		0
+KEY	Return	0.58864	0.62951
+KEY	ESCAPE	1.2155	3.4615	Testing
+TIMEOUT			3.4715	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:48:51
+
+START	7350.3405		0
+KEY	Return	2.0919	2.1349
+KEY	ESCAPE	0.27378	19.6949	Testing
+TIMEOUT			19.7049	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:10:06
+
+START	8625.8401		0
+KEY	Return	0.55607	0.59727
+KEY	Return	1.2797	3.5093	Testing
+KEY	Return	0.64261	5.0773	Testing
+KEY	Return	0.49703	6.4853	Testing
+KEY	Return	0.46107	7.8693	Testing
+KEY	Return	0.42653	9.2213	Testing
+KEY	Return	0.47343	10.6213	Testing
+KEY	Return	0.35088	11.8853	Testing
+KEY	Return	0.61726	13.4213	Testing
+KEY	Return	0.48836	14.8293	Testing
+KEY	Return	0.33315	16.0773	Testing
+KEY	Return	0.52825	17.5253	Testing
+KEY	Return	0.70688	19.1573	Testing
+KEY	Return	0.56647	20.6373	Testing
+KEY	Return	0.68769	22.2453	Testing
+KEY	Return	0.53202	23.6933	Testing
+KEY	ESCAPE	1.2306	25.8453	Testing
+TIMEOUT			25.8549	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:23:07
+
+START	9406.8611		0
+KEY	Return	4.9045	4.9463
+KEY	Return	2.604	9.1943	Testing
+KEY	Return	0.83989	10.9551	Testing
+KEY	Return	0.68513	12.5543	Testing
+KEY	Return	0.98542	14.4583	Testing
+KEY	ESCAPE	0.57703	15.9544	Testing
+TIMEOUT			15.9634	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:23:32
+
+START	9431.5027		0
+KEY	Return	0.62417	0.66479
+KEY	Return	1.289	3.5848	Testing
+KEY	ESCAPE	0.36388	4.8648	Testing
+TIMEOUT			4.8739	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:24:01
+
+START	9460.4011		0
+KEY	Return	0.74807	0.79037
+KEY	ESCAPE	6.1119	8.5264	Testing
+TIMEOUT			8.5363	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:24:47
+
+START	9506.7093		0
+KEY	Return	0.54506	0.58615
+KEY	Return	0.85338	3.0662	Testing
+KEY	ESCAPE	8.4666	12.4501	Testing
+TIMEOUT			12.4594	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:25:47
+
+START	9566.4288		0
+KEY	Return	0.55972	0.60274
+KEY	Return	1.5062	5.6587	Testing
+KEY	ESCAPE	0.37045	54.1209	Testing
+TIMEOUT			54.1304	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:26:59
+
+START	9638.1299		0
+KEY	Return	0.8189	0.85978
+KEY	Return	0.75523	3.2518	Testing
+KEY	ESCAPE	0.5487	4.7158	Testing
+TIMEOUT			4.7251	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:28:28
+
+START	9727.3674		0
+KEY	LeftControl	1.2517	1.2944
+KEY	LeftControl	1.0605	3.9264	Testing
+KEY	LeftControl	0.1154	4.9024	Testing
+KEY	ESCAPE	0.6025	6.3584	Testing
+TIMEOUT			6.3675	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:29:22
+
+START	9781.3432		0
+KEY	Return	0.69855	0.74049
+KEY	Return	0.45654	2.8205	Testing
+KEY	ESCAPE	0.42272	4.1565	Testing
+TIMEOUT			4.1655	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:30:25
+
+START	9844.0556		0
+KEY	Return	0.67497	0.71615
+KEY	Return	0.35365	2.7002	Testing
+KEY	Return	0.95605	4.5721	Testing
+KEY	Return	0.46106	5.9482	Testing
+KEY	Return	0.4425	7.3161	Testing
+KEY	Return	0.45668	8.7002	Testing
+KEY	Return	0.35884	9.9722	Testing
+KEY	Return	0.44853	11.3481	Testing
+KEY	Return	0.45472	12.7241	Testing
+KEY	ESCAPE	0.25288	13.8921	Testing
+TIMEOUT			13.9013	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:31:57
+
+START	9936.8361		0
+KEY	Return	1.0619	1.1036
+KEY	Return	0.33234	3.0636	Testing
+KEY	Return	0.68742	4.6716	Testing
+KEY	Return	0.37974	5.9676	Testing
+KEY	Return	0.46072	7.3516	Testing
+KEY	Return	0.40218	8.6796	Testing
+KEY	Return	0.33047	9.9276	Testing
+KEY	Return	0.42957	11.2796	Testing
+KEY	Return	0.32446	12.5276	Testing
+KEY	Return	0.29624	13.7356	Testing
+KEY	Return	0.25278	14.9116	Testing
+KEY	Return	0.2674	16.0956	Testing
+KEY	Return	0.27332	17.2876	Testing
+KEY	Return	0.36727	18.5676	Testing
+KEY	Return	0.27295	19.7596	Testing
+KEY	Return	0.39085	21.0636	Testing
+KEY	Return	0.27187	22.2476	Testing
+KEY	Return	0.37379	23.5356	Testing
+KEY	Return	0.29548	24.7436	Testing
+KEY	Return	0.42799	26.0956	Testing
+KEY	Return	0.13087	27.1516	Testing
+KEY	ESCAPE	0.81445	28.8876	Testing
+TIMEOUT			28.8967	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:32:41
+
+START	9980.9557		0
+KEY	Return	0.55926	0.60004
+KEY	Return	2.8066	52.5456	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:34:22
+
+START	10081.8225		0
+KEY	Return	1.209	1.2661
+KEY	Return	2.0466	52.4534	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:40:45
+
+START	10464.2392		0
+KEY	Return	0.62709	0.68461
+KEY	Return	1.8919	4.2046	Testing
+KEY	Return	4.9014	10.0206	Testing
+KEY	ESCAPE	6.1513	17.1006	Testing
+TIMEOUT			17.1105	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:41:41
+
+START	10520.1011		0
+KEY	Return	0.54937	0.59078
+KEY	Return	2.5217	4.7348	Testing
+KEY	Return	5.1204	10.7748	Testing
+KEY	ESCAPE	0.88111	12.5828	Testing
+TIMEOUT			12.5918	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:42:03
+
+START	10542.9044		0
+KEY	Return	0.73067	0.7715
+KEY	ESCAPE	5.9745	8.3875	Testing
+TIMEOUT			8.3977	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:42:41
+
+START	10580.8254		0
+KEY	Return	0.48172	0.5225
+KEY	ESCAPE	0.13686	2.2825	Testing
+TIMEOUT			2.2921	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:43:14
+
+START	10613.5821		0
+KEY	LeftControl	4.3951	4.4378
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:43:30
+
+START	10629.6539		0
+KEY	Return	0.54751	0.606
+KEY	Return	0.63912	2.886	Testing
+KEY	Return	0.75753	4.558	Testing
+KEY	Return	1.183	6.654	Testing
+KEY	Return	0.83014	8.406	Testing
+KEY	Return	0.78806	10.118	Testing
+KEY	Return	1.3561	12.39	Testing
+KEY	Return	0.70821	14.014	Testing
+KEY	ESCAPE	0.7271	15.67	Testing
+TIMEOUT			15.6796	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:47:38
+
+START	10877.5947		0
+KEY	Return	0.57608	0.6167
+KEY	ESCAPE	1.139	3.3847	Testing
+TIMEOUT			3.3946	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:47:55
+
+START	10894.6155		0
+KEY	LeftControl	4.7378	4.7799
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:48:09
+
+START	10908.5318		0
+KEY	Return	0.95719	1.0156
+KEY	Return	2.7519	5.3996	Testing
+KEY	ESCAPE	0.58073	6.9037	Testing
+TIMEOUT			6.9131	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:49:21
+
+START	10980.8318		0
+KEY	Return	0.52517	0.56726
+KEY	Return	0.75419	2.9513	Testing
+KEY	ESCAPE	2.3157	6.1833	Testing
+TIMEOUT			6.1925	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:02:31
+
+START	11770.3758		0
+KEY	Return	0.46123	0.51742
+KEY	Return	1.0451	3.1894	Testing
+KEY	Return	0.96185	5.0774	Testing
+KEY	Return	1.2741	7.2774	Testing
+KEY	Return	0.71774	8.9094	Testing
+KEY	Return	10.7766	20.6054	Testing
+KEY	Return	3.427	24.9494	Testing
+KEY	Return	2.4196	28.2854	Testing
+KEY	Return	5.4385	34.6454	Testing
+KEY	Return	2.2331	37.8214	Testing
+KEY	Return	1.5238	40.2695	Testing
+KEY	Return	0.43685	41.6214	Testing
+KEY	Return	0.76372	43.3014	Testing
+KEY	Return	4.7405	48.9654	Testing
+KEY	Return	1.2294	51.1174	Testing
+KEY	Return	0.97043	53.0134	Testing
+KEY	ESCAPE	6.4107	60.3414	Testing
+TIMEOUT			60.3508	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:03:56
+
+START	11855.8218		0
+KEY	Return	0.54247	0.58344
+KEY	Return	0.43479	2.6474	Testing
+KEY	Return	0.44166	4.0074	Testing
+KEY	Return	0.91183	5.8474	Testing
+KEY	Return	0.71424	7.4874	Testing
+KEY	Return	1.4371	9.8474	Testing
+KEY	Return	0.88967	11.6554	Testing
+KEY	Return	1.0935	13.6634	Testing
+KEY	Return	1.6812	16.2725	Testing
+KEY	Return	1.0181	18.2154	Testing
+KEY	Return	1.0163	20.1514	Testing
+KEY	Return	0.65452	21.7274	Testing
+KEY	Return	0.66022	23.3034	Testing
+KEY	Return	1.0332	25.2634	Testing
+KEY	Return	0.96673	27.1514	Testing
+KEY	Return	1.175	29.2474	Testing
+KEY	ESCAPE	0.74285	30.9034	Testing
+TIMEOUT			30.9127	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:10:39
+
+START	12258.3685		0
+KEY	Return	0.56102	0.60231
+KEY	ESCAPE	3.6606	5.8903	Testing
+TIMEOUT			5.9001	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:11:00
+
+START	12279.951		0
+KEY	Return	0.60978	0.65179
+KEY	ESCAPE	2.9793	5.2598	Testing
+TIMEOUT			5.2696	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:11:33
+
+START	12312.0245		0
+KEY	LeftControl	0.77606	0.81829
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:11:54
+
+START	12333.9594		0
+KEY	Return	0.75294	0.81136
+KEY	Return	1.9081	4.3554	Testing
+KEY	ESCAPE	2.3649	7.6354	Testing
+TIMEOUT			7.645	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:13:22
+
+START	12421.0443		0
+KEY	LeftControl	0.48783	0.5289
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:13:30
+
+START	12429.1635		0
+KEY	Return	0.48796	0.54568
+KEY	Return	0.75838	2.9377	Testing
+KEY	Return	0.75916	4.6257	Testing
+KEY	Return	0.87264	6.4097	Testing
+KEY	Return	1.3252	8.6497	Testing
+KEY	Return	1.8786	11.4417	Testing
+KEY	Return	0.84816	13.2177	Testing
+KEY	Return	1.5334	15.6737	Testing
+KEY	Return	3.3417	19.9377	Testing
+KEY	Return	1.3539	22.2097	Testing
+KEY	ESCAPE	0.93798	24.0657	Testing
+TIMEOUT			24.0751	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:14:13
+
+START	12472.2458		0
+KEY	Return	0.54976	0.59138
+KEY	Return	0.40938	2.6394	Testing
+KEY	Return	0.48094	4.0474	Testing
+KEY	Return	0.82971	5.7994	Testing
+KEY	Return	0.61966	7.3434	Testing
+KEY	Return	0.72275	8.9834	Testing
+KEY	ESCAPE	0.34166	10.2394	Testing
+TIMEOUT			10.2486	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:14:47
+
+START	12506.9253		0
+KEY	Return	1.0616	1.1039
+KEY	Return	1.9241	4.6559	Testing
+KEY	Return	0.52415	6.0959	Testing
+KEY	Return	0.74282	7.7679	Testing
+KEY	Return	0.60029	9.2959	Testing
+KEY	Return	0.65611	10.8719	Testing
+KEY	Return	0.4618	12.2479	Testing
+KEY	Return	0.52327	13.6959	Testing
+KEY	Return	0.82263	15.4319	Testing
+KEY	Return	0.40528	16.7519	Testing
+KEY	Return	0.49356	18.1599	Testing
+KEY	Return	0.56162	19.6479	Testing
+KEY	Return	1.1228	21.6959	Testing
+KEY	ESCAPE	0.31679	22.9279	Testing
+TIMEOUT			22.9369	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:20:38
+
+START	12857.0193		0
+KEY	Return	0.8023	0.84305
+KEY	Return	1.14	3.6031	Testing
+KEY	Return	0.53329	5.051	Testing
+KEY	Return	0.95991	6.9311	Testing
+KEY	Return	0.48822	8.3471	Testing
+KEY	Return	0.69298	9.9551	Testing
+KEY	Return	0.82459	11.7071	Testing
+KEY	Return	3.6952	16.315	Testing
+KEY	Return	3.8526	21.0831	Testing
+KEY	Return	3.6029	25.6111	Testing
+KEY	Return	8.6917	35.2271	Testing
+KEY	Return	1.0382	37.1791	Testing
+KEY	Return	0.45968	38.555	Testing
+KEY	ESCAPE	1.3371	40.8191	Testing
+TIMEOUT			40.8286	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:21:40
+
+START	12919.4961		0
+KEY	Return	0.46859	0.51022
+TIMEOUT			2.4131	Testing
+TIMEOUT			3.6159	Testing
+TIMEOUT			4.8187	Testing
+TIMEOUT			6.0215	Testing
+TIMEOUT			7.2243	Testing
+TIMEOUT			8.427	Testing
+TIMEOUT			9.6298	Testing
+TIMEOUT			10.8326	Testing
+TIMEOUT			12.0353	Testing
+TIMEOUT			13.2382	Testing
+TIMEOUT			14.441	Testing
+TIMEOUT			15.6438	Testing
+TIMEOUT			16.8465	Testing
+TIMEOUT			18.0493	Testing
+TIMEOUT			19.2521	Testing
+TIMEOUT			20.4548	Testing
+TIMEOUT			21.6577	Testing
+TIMEOUT			22.8604	Testing
+TIMEOUT			24.0631	Testing
+TIMEOUT			25.266	Testing
+TIMEOUT			26.4687	Testing
+TIMEOUT			27.6715	Testing
+TIMEOUT			28.8743	Testing
+TIMEOUT			30.0771	Testing
+TIMEOUT			31.2798	Testing
+TIMEOUT			32.4826	Testing
+TIMEOUT			33.6854	Testing
+KEY	ESCAPE	0.14293	34.7478	Testing
+TIMEOUT			34.7577	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:29:08
+
+START	13367.228		0
+KEY	Return	0.65067	0.69519
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:29:41
+
+START	13400.2257		0
+KEY	Return	0.36976	0.40944
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:30:19
+
+START	13437.995		0
+KEY	Return	0.45514	0.4962
+KEY	Return	0.97496	3.1042	Testing
+KEY	ESCAPE	1.0073	5.0242	Testing
+TIMEOUT			5.0335	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:31:08
+
+START	13487.3084		0
+KEY	Return	0.61317	0.65478
+KEY	Return	0.90266	3.1828	Testing
+KEY	ESCAPE	0.35379	4.4548	Testing
+TIMEOUT			4.464	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:36:27
+
+START	13806.2608		0
+KEY	Return	0.65014	0.69321
+KEY	Return	0.59351	2.9252	Testing
+KEY	Return	0.57755	4.4294	Testing
+KEY	Return	0.59386	5.9492	Testing
+KEY	Return	0.68972	7.5652	Testing
+KEY	Return	0.51727	9.0132	Testing
+KEY	Return	0.46463	10.3972	Testing
+KEY	Return	0.59007	11.9092	Testing
+KEY	Return	0.93461	13.7572	Testing
+KEY	Return	0.57633	15.2532	Testing
+KEY	Return	0.51284	16.6932	Testing
+KEY	Return	0.46821	18.0852	Testing
+KEY	Return	0.46568	19.4692	Testing
+KEY	Return	0.38313	20.7732	Testing
+KEY	Return	0.5041	22.1972	Testing
+KEY	ESCAPE	0.39617	23.5092	Testing
+TIMEOUT			23.5186	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:37:15
+
+START	13853.9563		0
+KEY	Return	0.51661	0.55769
+KEY	Return	0.73619	2.9657	Testing
+KEY	Return	0.60244	4.4857	Testing
+KEY	Return	0.93049	6.334	Testing
+KEY	Return	0.5879	7.8457	Testing
+KEY	ESCAPE	1.1005	9.8617	Testing
+TIMEOUT			9.8713	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:37:33
+
+START	13872.6826		0
+KEY	Return	0.55727	0.61532
+TIMEOUT			2.5298	Testing
+TIMEOUT			3.7326	Testing
+TIMEOUT			4.9353	Testing
+TIMEOUT			6.1381	Testing
+TIMEOUT			7.3409	Testing
+TIMEOUT			8.5437	Testing
+TIMEOUT			9.7465	Testing
+TIMEOUT			10.9493	Testing
+TIMEOUT			12.1521	Testing
+TIMEOUT			13.3548	Testing
+TIMEOUT			14.5576	Testing
+TIMEOUT			15.7604	Testing
+TIMEOUT			16.9632	Testing
+TIMEOUT			18.166	Testing
+TIMEOUT			19.3687	Testing
+TIMEOUT			20.5715	Testing
+TIMEOUT			21.7743	Testing
+TIMEOUT			22.9771	Testing
+TIMEOUT			24.1798	Testing
+TIMEOUT			25.3826	Testing
+TIMEOUT			26.5854	Testing
+KEY	ESCAPE	0.2622	27.767	Testing
+TIMEOUT			27.7778	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:47:41
+
+START	14480.7858		0
+KEY	Return	0.3969	0.44047
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:49:04
+
+START	14563.1042		0
+KEY	Return	0.78884	0.871
+TIMEOUT			2.8045	Testing
+TIMEOUT			4.024	Testing
+TIMEOUT			5.2267	Testing
+TIMEOUT			6.4295	Testing
+TIMEOUT			7.6323	Testing
+TIMEOUT			8.835	Testing
+TIMEOUT			10.0378	Testing
+KEY	ESCAPE	0.26572	11.223	Testing
+TIMEOUT			11.2421	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:49:26
+
+START	14585.7112		0
+KEY	Return	0.50753	0.55151
+KEY	Return	0.68973	2.872	Testing
+KEY	Return	0.79804	4.584	Testing
+KEY	ESCAPE	0.3894	5.896	Testing
+TIMEOUT			5.9054	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:51:12
+
+START	14690.9378		0
+KEY	Return	0.45533	0.49923
+KEY	ESCAPE	3.2792	5.4112	Testing
+TIMEOUT			5.4216	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:51:27
+
+START	14706.6452		0
+KEY	Return	1.0717	1.1279
+KEY	Return	0.91742	3.6799	Testing
+KEY	Return	0.87185	5.4719	Testing
+KEY	Return	0.81237	7.1999	Testing
+KEY	ESCAPE	0.48305	8.6079	Testing
+TIMEOUT			8.6178	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:52:03
+
+START	14742.2745		0
+KEY	Return	0.63203	0.67459
+KEY	Return	0.91211	3.2266	Testing
+KEY	Return	0.62654	4.7786	Testing
+KEY	Return	0.65697	6.3626	Testing
+KEY	Return	0.74266	8.0186	Testing
+KEY	Return	0.71215	9.6586	Testing
+KEY	ESCAPE	0.69897	11.2826	Testing
+TIMEOUT			11.2919	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:53:15
+
+START	14814.523		0
+KEY	Return	0.73373	0.77812
+KEY	Return	0.59452	2.9944	Testing
+KEY	Return	0.65812	4.5781	Testing
+KEY	Return	0.56782	6.0581	Testing
+KEY	Return	0.40907	7.3861	Testing
+KEY	Return	0.53663	8.8501	Testing
+KEY	Return	0.97927	10.7461	Testing
+KEY	ESCAPE	0.41086	12.0821	Testing
+TIMEOUT			12.0914	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:54:32
+
+START	14891.6164		0
+KEY	LeftControl	1.192	1.2207
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:54:41
+
+START	14900.8239		0
+KEY	Return	0.43357	0.49324
+KEY	Return	0.47485	2.5892	Testing
+KEY	Return	0.50359	4.0212	Testing
+KEY	Return	0.39567	5.3332	Testing
+KEY	Return	0.44395	6.7012	Testing
+KEY	Return	0.69012	8.3173	Testing
+KEY	Return	0.55042	9.7812	Testing
+KEY	Return	0.67235	11.3732	Testing
+KEY	Return	0.71733	13.0052	Testing
+KEY	Return	0.86422	14.7892	Testing
+KEY	Return	1.1647	16.8772	Testing
+KEY	ESCAPE	0.94059	18.7412	Testing
+TIMEOUT			18.7516	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:57:24
+
+START	15063.4172		0
+KEY	Return	0.68918	0.74787
+KEY	Return	0.53515	2.9159	Testing
+KEY	Return	0.52981	4.3639	Testing
+KEY	Return	0.57244	5.8599	Testing
+KEY	Return	0.78163	7.5559	Testing
+KEY	Return	0.70203	9.1802	Testing
+KEY	Return	0.8573	10.9559	Testing
+KEY	ESCAPE	1.0865	12.9559	Testing
+TIMEOUT			12.9659	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:58:32
+
+START	15131.8769		0
+KEY	Return	0.37568	0.41621
+KEY	Return	0.85904	2.9042	Testing
+KEY	Return	0.58359	4.4162	Testing
+KEY	Return	1.4001	6.7362	Testing
+KEY	Return	1.2781	8.9362	Testing
+KEY	Return	1.121	10.9842	Testing
+KEY	Return	0.85095	12.7522	Testing
+KEY	Return	1.1682	14.8402	Testing
+KEY	Return	0.632	16.3922	Testing
+KEY	Return	4.4384	21.7522	Testing
+KEY	ESCAPE	1.044	23.7202	Testing
+TIMEOUT			23.731	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:59:18
+
+START	15177.2117		0
+KEY	Return	0.91757	0.96147
+KEY	Return	0.73767	3.3375	Testing
+KEY	Return	0.72385	4.9775	Testing
+KEY	Return	0.83884	6.7296	Testing
+KEY	Return	0.80469	8.4495	Testing
+KEY	ESCAPE	0.66003	10.0255	Testing
+TIMEOUT			10.0357	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:01:36
+
+START	15315.4306		0
+KEY	Return	0.82607	0.87046
+KEY	Return	0.61042	3.1105	Testing
+KEY	Return	1.6015	5.6385	Testing
+KEY	Return	2.071	8.6305	Testing
+KEY	Return	2.1288	11.6785	Testing
+KEY	Return	1.8078	14.4146	Testing
+KEY	ESCAPE	11.2068	26.5366	Testing
+TIMEOUT			26.5501	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:09:11
+
+START	15770.7664		0
+KEY	Return	0.58956	0.63385
+KEY	Return	4.471	6.7539	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:10:30
+
+START	15849.1479		0
+KEY	Return	0.73011	0.77402
+KEY	Return	13.1804	15.5798	Testing
+KEY	ESCAPE	5.6732	22.1718	Testing
+TIMEOUT			22.1815	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:14:56
+
+START	16115.6325		0
+KEY	Return	3.8436	3.8854
+KEY	Return	0.7643	6.2854	Testing
+KEY	Return	0.66122	7.8694	Testing
+KEY	Return	0.50606	9.3014	Testing
+KEY	Return	2.4861	12.7014	Testing
+KEY	Return	0.92623	14.5494	Testing
+KEY	Return	1.8167	17.2774	Testing
+KEY	Return	0.54547	18.8294	Testing
+KEY	Return	2.2514	22.0054	Testing
+KEY	Return	1.8527	24.7974	Testing
+KEY	Return	0.98362	26.7014	Testing
+KEY	Return	0.7032	28.3254	Testing
+KEY	Return	2.1948	31.4374	Testing
+KEY	Return	0.99967	33.3495	Testing
+KEY	Return	1.6625	35.9334	Testing
+KEY	Return	0.65719	37.5174	Testing
+KEY	Return	0.46291	38.8934	Testing
+KEY	Return	0.53236	40.3494	Testing
+KEY	Return	0.38301	41.6534	Testing
+KEY	Return	0.92797	43.5014	Testing
+KEY	ESCAPE	0.88169	45.3094	Testing
+TIMEOUT			45.3189	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:16:15
+
+START	16194.8642		0
+KEY	Return	2.5705	2.6137
+KEY	Return	0.5295	4.7657	Testing
+KEY	Return	0.41216	6.1017	Testing
+KEY	Return	0.61972	7.6458	Testing
+KEY	Return	0.45882	9.0217	Testing
+KEY	Return	0.37629	10.3257	Testing
+KEY	Return	0.55326	11.8057	Testing
+KEY	Return	0.72321	13.4457	Testing
+KEY	Return	1.0941	15.4537	Testing
+KEY	Return	0.48076	16.8617	Testing
+KEY	Return	0.42151	18.2057	Testing
+KEY	Return	0.5411	19.6617	Testing
+KEY	Return	0.82373	21.3977	Testing
+KEY	Return	0.71839	23.0297	Testing
+KEY	ESCAPE	0.94526	24.8937	Testing
+TIMEOUT			24.9033	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:23:56
+
+START	16655.0609		0
+KEY	Return	0.43981	0.48323
+KEY	Return	1.4964	3.6113	Testing
+KEY	ESCAPE	1.5061	6.0433	Testing
+TIMEOUT			6.0527	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:24:42
+
+START	16701.6672		0
+KEY	Return	0.44015	0.48505
+KEY	Return	0.52867	2.645	Testing
+KEY	Return	0.60331	4.173	Testing
+KEY	ESCAPE	0.37113	5.461	Testing
+TIMEOUT			5.4713	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:25:20
+
+START	16739.7963		0
+KEY	Return	0.46199	0.51587
+TIMEOUT			2.4254	Testing
+TIMEOUT			3.6281	Testing
+TIMEOUT			4.831	Testing
+TIMEOUT			6.0337	Testing
+TIMEOUT			7.2365	Testing
+TIMEOUT			8.4393	Testing
+TIMEOUT			9.6421	Testing
+TIMEOUT			10.8449	Testing
+TIMEOUT			12.0476	Testing
+TIMEOUT			13.2504	Testing
+TIMEOUT			14.4532	Testing
+TIMEOUT			15.6559	Testing
+TIMEOUT			16.8588	Testing
+TIMEOUT			18.0615	Testing
+TIMEOUT			19.2643	Testing
+TIMEOUT			20.467	Testing
+TIMEOUT			21.6699	Testing
+TIMEOUT			22.8727	Testing
+TIMEOUT			24.0754	Testing
+TIMEOUT			25.2782	Testing
+TIMEOUT			26.4809	Testing
+TIMEOUT			27.6838	Testing
+TIMEOUT			28.8866	Testing
+KEY	ESCAPE	0.25709	30.0631	Testing
+TIMEOUT			30.0733	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 12:40:35
+
+START	2242.6609		0
+KEY	Return	1.3129	1.5694
+TIMEOUT			3.4967	Testing
+TIMEOUT			4.6995	Testing
+TIMEOUT			5.9023	Testing
+TIMEOUT			7.1051	Testing
+TIMEOUT			8.3079	Testing
+TIMEOUT			9.5106	Testing
+KEY	ESCAPE	0.11538	10.5455	Testing
+TIMEOUT			10.6342	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 13:18:26
+
+START	3378.0148		0
+KEY	Return	0.57018	0.61183
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 13:18:45
+
+START	3396.4555		0
+KEY	Return	0.83157	0.87506
+TIMEOUT			2.7826	Testing
+TIMEOUT			3.9853	Testing
+TIMEOUT			5.1881	Testing
+TIMEOUT			6.3909	Testing
+TIMEOUT			7.5937	Testing
+TIMEOUT			8.7964	Testing
+TIMEOUT			9.9992	Testing
+TIMEOUT			11.2019	Testing
+TIMEOUT			12.4048	Testing
+TIMEOUT			13.6076	Testing
+TIMEOUT			14.8103	Testing
+TIMEOUT			16.0131	Testing
+TIMEOUT			17.2159	Testing
+TIMEOUT			18.4187	Testing
+KEY	ESCAPE	0.20322	19.5413	Testing
+TIMEOUT			19.5509	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 13:20:54
+
+START	3525.5706		0
+KEY	Return	1.1908	1.2342
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 13:21:25
+
+START	3556.8457		0
+KEY	Return	0.56652	0.60722
+TIMEOUT			2.5125	Testing
+TIMEOUT			3.7153	Testing
+TIMEOUT			4.918	Testing
+TIMEOUT			6.1208	Testing
+TIMEOUT			7.3235	Testing
+TIMEOUT			8.5264	Testing
+KEY	ESCAPE	0.041443	9.4872	Testing
+TIMEOUT			9.4969	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 13:22:01
+
+START	3592.7777		0
+KEY	Return	0.7855	0.82715
+TIMEOUT			2.7305	Testing
+TIMEOUT			3.9332	Testing
+TIMEOUT			5.1361	Testing
+TIMEOUT			6.3389	Testing
+TIMEOUT			7.5416	Testing
+TIMEOUT			8.7444	Testing
+TIMEOUT			9.9472	Testing
+TIMEOUT			11.15	Testing
+TIMEOUT			12.3528	Testing
+KEY	ESCAPE	0.083074	13.3553	Testing
+TIMEOUT			13.3649	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:37:53
+
+START	3995.8309		0
+KEY	Return	0.6419	0.68442
+TIMEOUT			2.5977	Testing
+TIMEOUT			3.8006	Testing
+TIMEOUT			5.0033	Testing
+TIMEOUT			6.2061	Testing
+TIMEOUT			7.4089	Testing
+TIMEOUT			8.6117	Testing
+TIMEOUT			9.8144	Testing
+TIMEOUT			11.0172	Testing
+KEY	ESCAPE	0.16748	12.1042	Testing
+TIMEOUT			12.1138	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:38:20
+
+START	4023.6128		0
+KEY	Return	1.3288	1.3702
+TIMEOUT			3.2816	Testing
+TIMEOUT			4.4844	Testing
+TIMEOUT			5.6871	Testing
+TIMEOUT			6.89	Testing
+TIMEOUT			8.0928	Testing
+KEY	ESCAPE	0.18206	9.1943	Testing
+TIMEOUT			9.2038	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:46:30
+
+START	4512.96		0
+KEY	m	0.76536	0.8072
+KEY	m	0.73912	3.4872	Testing
+KEY	l	0.68956	5.5592	Testing
+KEY	m	0.59409	7.5352	Testing
+KEY	m	0.75817	9.6872	Testing
+KEY	m	0.61916	11.7032	Testing
+KEY	m	0.61455	13.7032	Testing
+KEY	ESCAPE	0.8659	15.9592	Testing
+TIMEOUT			15.9691	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:48:58
+
+START	4661.3699		0
+KEY	l	0.52334	0.56495
+KEY	m	0.92513	3.957	Testing
+KEY	m	0.9005	6.7889	Testing
+KEY	m	1.3573	10.069	Testing
+KEY	m	0.76309	12.7489	Testing
+KEY	l	0.54554	15.221	Testing
+KEY	ESCAPE	0.47313	17.6209	Testing
+TIMEOUT			17.6309	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:52:17
+
+START	4860.4784		0
+KEY	l	0.49808	0.54137
+KEY	m	0.53396	3.5174	Testing
+KEY	m	0.5103	5.9494	Testing
+KEY	ESCAPE	0.49531	8.3734	Testing
+TIMEOUT			8.3834	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:56:37
+
+START	5120.0126		0
+KEY	Return	0.56064	0.60288
+KEY	m	0.75441	3.7869	Testing
+KEY	m	0.56957	6.2749	Testing
+KEY	m	0.55246	8.7469	Testing
+KEY	m	0.65609	11.3229	Testing
+KEY	m	0.61948	13.8589	Testing
+KEY	m	0.80828	16.5869	Testing
+KEY	ESCAPE	0.42861	18.9469	Testing
+TIMEOUT			18.9563	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 17:25:59
+
+START	6881.6823		0
+KEY	Return	0.61585	0.65977
+KEY	Return	1.2348	2.9158	1	4	0	6	30
+KEY	m	0.6179	4.9718	1	4	0	6	30
+KEY	m	0.86409	7.7238	2	4	30	6	0
+KEY	l	0.61245	10.2118	3	6	0	4	30
+KEY	l	0.56923	12.7078	4	6	30	4	0
+KEY	m	0.52323	15.2678	5	10	0	16	30
+KEY	m	0.37482	17.3078	6	10	30	16	0
+KEY	l	0.81138	20.0998	7	16	0	10	30
+KEY	l	0.532	22.4598	8	16	30	10	0
+KEY	m	0.40805	24.8918	9	20	0	34	30
+KEY	m	0.39989	26.9718	10	20	30	34	0
+KEY	l	0.53456	29.4118	11	34	0	20	30
+KEY	m	0.59089	31.9238	12	34	30	20	0
+KEY	m	0.5505	34.3558	13	40	0	60	30
+KEY	m	0.51084	36.7718	14	40	30	60	0
+KEY	m	0.49421	39.0438	15	60	0	40	30
+KEY	ESCAPE	0.46089	41.3158	16	60	30	40	0
+TIMEOUT			41.3248	16	60	30	40	0
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 17:58:25
+
+START	8827.9146		0
+KEY	l	1.1783	1.2212
+KEY	m	0.82849	3.0932	1	10	0	16	30
+KEY	m	0.49329	5.0132	1	10	0	16	30
+KEY	l	0.59762	7.5732	2	60	30	40	30
+KEY	l	1.1669	10.7652	3	16	10	10	30
+KEY	l	0.5004	13.1892	4	16	30	10	10
+KEY	m	0.44238	15.4532	5	4	30	6	15
+KEY	l	0.62951	18.0292	6	34	30	20	0
+KEY	l	0.4962	20.4852	7	34	4	20	30
+KEY	m	0.53515	23.0132	8	60	30	40	0
+KEY	l	0.56016	25.4772	9	10	30	16	30
+KEY	m	0.49368	27.9332	10	10	15	16	30
+KEY	m	0.65846	30.6372	11	40	15	60	30
+KEY	ESCAPE	0.43362	33.0852	12	4	15	6	30
+TIMEOUT			33.095	12	4	15	6	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:09:23
+
+START	9485.6679		0
+KEY	Return	2.2226	2.2657
+KEY	Return	0.81307	4.1137	1	40	30	60	4
+TIMEOUT			7.0224	1	40	30	60	4
+TIMEOUT			10.5139	2	16	0	10	30
+TIMEOUT			14.0721	3	60	30	40	4
+KEY	l	1.1044	17.2347	4	4	10	6	30
+KEY	l	0.47912	19.4827	5	34	30	20	4
+KEY	ESCAPE	0.47169	22.1147	6	34	30	20	15
+TIMEOUT			22.1242	6	34	30	20	15
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:15:13
+
+START	9836.0624		0
+KEY	m	0.56516	0.60687
+KEY	ESCAPE	3.8328	5.4949	1	40	30	60	4
+TIMEOUT			5.5057	1	40	30	60	4
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:16:00
+
+START	9883.3049		0
+KEY	Return	0.82664	0.86837
+KEY	m	0.89164	2.8044	1	40	30	60	4
+KEY	m	0.84893	5.1004	1	40	30	60	4
+KEY	l	0.56033	7.6684	2	16	0	10	30
+TIMEOUT			11.2308	3	60	30	40	4
+TIMEOUT			16.4095	4	4	10	6	30
+KEY	l	0.57161	20.1084	5	34	30	20	4
+KEY	l	0.67266	22.9324	6	34	30	20	15
+KEY	m	0.4885	25.4044	7	10	30	16	0
+KEY	l	0.63941	28.0444	8	10	15	16	30
+KEY	m	0.51409	30.5084	9	34	30	20	30
+KEY	l	0.46572	32.9324	10	34	30	20	30
+TIMEOUT			36.4892	11	10	30	16	30
+KEY	ESCAPE	0.43776	40.3884	12	16	30	10	15
+TIMEOUT			40.3978	12	16	30	10	15
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:17:04
+
+START	9947.0529		0
+KEY	Return	0.92733	0.96834
+KEY	Return	0.77281	2.7683	1	40	30	60	4
+KEY	l	0.68041	4.8643	1	40	30	60	4
+TIMEOUT			8.3568	2	16	0	10	30
+KEY	l	0.18327	11.2163	2	16	0	10	30
+KEY	l	0.49602	13.7843	3	60	30	40	4
+TIMEOUT			17.3275	4	4	10	6	30
+KEY	m	0.33721	20.0403	4	4	10	6	30
+KEY	l	0.50435	22.3123	5	34	30	20	4
+KEY	ESCAPE	0.37623	24.8403	6	34	30	20	15
+TIMEOUT			24.8495	6	34	30	20	15
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:25:32
+
+START	10455.1122		0
+KEY	m	0.91639	0.97237
+KEY	m	0.62588	2.6364	1	40	30	60	4
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:25:54
+
+START	10477.2281		0
+KEY	l	0.66331	0.70444
+KEY	m	0.54267	2.3044	1	40	30	60	4
+KEY	m	0.77944	4.5124	1	40	30	60	4
+KEY	l	0.53365	7.0564	2	16	0	10	30
+KEY	m	0.63963	9.7684	3	60	30	40	4
+KEY	l	0.47809	12.2964	4	4	10	6	30
+KEY	l	0.55889	14.6324	5	34	30	20	4
+KEY	l	0.56391	17.3604	6	34	30	20	15
+KEY	l	0.464	19.8164	7	10	30	16	0
+KEY	ESCAPE	0.46365	22.2884	8	10	15	16	30
+TIMEOUT			22.298	8	10	15	16	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:26:46
+
+START	10528.9138		0
+KEY	Return	0.3852	0.42674
+KEY	Return	0.23654	1.7147	1	40	30	60	4
+KEY	m	3.1526	5.4828	1	40	30	60	4
+KEY	l	2.3499	8.1547	1	40	30	60	4
+KEY	m	1.6797	11.0427	2	16	0	10	30
+KEY	l	1.123	12.4908	2	16	0	10	30
+KEY	l	1.9902	15.7468	3	60	30	40	4
+KEY	l	1.2369	17.2988	3	60	30	40	4
+KEY	l	0.64375	19.1948	4	4	10	6	30
+KEY	l	0.84285	20.3628	4	4	10	6	30
+KEY	m	1.062	22.4028	5	34	30	20	4
+KEY	m	0.62742	23.3547	5	34	30	20	4
+KEY	ESCAPE	0.62351	25.3387	6	34	30	20	15
+TIMEOUT			25.3484	6	34	30	20	15
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:28:40
+
+START	10643.1942		0
+KEY	Return	0.36724	0.40918
+KEY	Return	0.25129	1.7132	1	40	30	60	4
+KEY	m	0.88474	4.0172	1	40	30	60	4
+KEY	l	0.65074	6.6732	2	16	0	10	30
+KEY	l	0.56777	9.3132	3	60	30	40	4
+KEY	m	0.53704	11.9052	4	4	10	6	30
+KEY	l	0.59173	14.2652	5	34	30	20	4
+KEY	ESCAPE	0.13134	16.5612	6	34	30	20	15
+TIMEOUT			16.57	6	34	30	20	15
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:30:01
+
+START	10723.8818		0
+KEY	Return	0.58476	0.62558
+KEY	Return	0.33237	1.9936	1	40	30	60	4
+KEY	l	0.64231	4.0576	1	40	30	60	4
+KEY	m	0.87416	6.9456	2	16	0	10	30
+KEY	ESCAPE	0.48534	9.5136	3	60	30	40	4
+TIMEOUT			9.5228	3	60	30	40	4
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:36:21
+
+START	11104.4923		0
+KEY	ESCAPE	0.37984	0.42315
+TIMEOUT			0.43547
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:36:58
+
+START	11140.7095		0
+KEY	Return	0.9868	1.0299
+KEY	Return	2.2288	4.31	1	16	30	10	30
+KEY	l	0.53103	6.254	1	16	30	10	30
+KEY	l	0.55746	8.686	2	60	30	40	10
+KEY	l	0.68862	11.206	3	60	30	40	0
+KEY	l	0.52257	13.646	4	4	10	6	30
+KEY	m	1.1048	16.734	5	34	30	20	4
+KEY	m	0.36748	18.87	6	40	30	60	10
+KEY	m	0.54804	21.406	7	40	30	60	30
+KEY	m	0.69542	24.126	8	4	30	6	30
+KEY	m	0.36872	26.422	9	40	10	60	30
+KEY	m	0.40805	28.75	10	20	30	34	30
+KEY	Return	1.0552	30.366	10	20	30	34	30
+KEY	Return	0.49005	30.87	10	20	30	34	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 21:41:08
+
+START	3502.7101		0
+KEY	Return	0.6016	0.81886
+KEY	Return	0.51293	2.3709	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:02:08
+
+START	4762.2063		0
+KEY	Return	1.1967	1.2429
+KEY	Return	0.32205	2.5949
+KEY	ESCAPE	7.1312	9.7389	1	16	30	10	30
+TIMEOUT			9.7481	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:02:24
+
+START	4778.6652		0
+KEY	Return	0.41964	0.46395
+KEY	Return	0.19511	1.696
+KEY	Return	1.7055	3.424	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:02:54
+
+START	4807.8453		0
+KEY	Return	0.59089	0.63585
+KEY	Return	0.32697	1.9959
+KEY	ESCAPE	9.1514	11.1719	1	16	30	10	30
+TIMEOUT			11.1811	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:03:33
+
+START	4847.0883		0
+KEY	Return	0.46844	0.51288
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:03:49
+
+START	4862.941		0
+KEY	LeftControl	0.62322	0.65216
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:04:12
+
+START	4886.7492		0
+KEY	Return	0.51942	0.564
+KEY	Return	0.24249	1.8441
+KEY	ESCAPE	2.0226	3.892	1	16	30	10	30
+TIMEOUT			3.9011	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:04:38
+
+START	4912.0787		0
+KEY	LeftControl	0.51041	0.53853
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:04:46
+
+START	4919.7972		0
+KEY	Return	0.83063	0.89203
+KEY	Return	0.34029	2.26
+KEY	ESCAPE	2.98	5.268	1	16	30	10	30
+TIMEOUT			5.2775	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:08:45
+
+START	5159.3889		0
+KEY	Return	0.50803	0.55095
+TIMEOUT			1.609
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:08:59
+
+START	5173.5193		0
+KEY	Return	0.38606	0.42859
+KEY	Return	0.28305	1.7486
+KEY	ESCAPE	3.6857	5.4526	1	16	30	10	30
+TIMEOUT			5.4617	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:09:28
+
+START	5202.4651		0
+KEY	Return	0.75973	0.80282
+TIMEOUT			1.887
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:09:57
+
+START	5231.1755		0
+KEY	Return	0.49579	0.54037
+KEY	Return	0.31552	1.9004
+KEY	ESCAPE	1.4847	3.4044	1	16	30	10	30
+TIMEOUT			3.4136	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:27:25
+
+START	6279.0164		0
+KEY	LeftControl	1.1297	1.1606
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:27:34
+
+START	6288.2486		0
+KEY	Return	0.56719	0.62442
+KEY	Return	0.27199	1.9364
+KEY	ESCAPE	7.9234	9.8724	1	16	30	10	30
+TIMEOUT			9.8818	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:28:03
+
+START	6316.774		0
+KEY	Return	0.45608	0.49897
+KEY	Return	0.23734	1.787
+KEY	ESCAPE	2.4662	4.267	1	16	30	10	30
+TIMEOUT			4.2761	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:32:54
+
+START	6608.7122		0
+KEY	Return	0.46689	0.51278
+KEY	Return	0.28891	1.8248
+KEY	ESCAPE	3.5796	5.4168	1	16	30	10	30
+TIMEOUT			5.4259	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:33:21
+
+START	6634.7813		0
+KEY	Return	0.56811	0.61172
+KEY	Return	0.24818	1.9157
+KEY	ESCAPE	1.4283	3.3637	1	16	30	10	30
+TIMEOUT			3.3729	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:34:16
+
+START	6690.2491		0
+KEY	Return	0.44001	0.48096
+KEY	Return	0.24673	1.761
+KEY	ESCAPE	1.5229	3.305	1	16	30	10	30
+TIMEOUT			3.3143	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:36:25
+
+START	6818.8044		0
+KEY	Return	0.59824	0.6432
+KEY	Return	0.26955	1.9552
+KEY	ESCAPE	1.369	3.3392	1	16	30	10	30
+TIMEOUT			3.3484	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:39:39
+
+START	7012.9279		0
+KEY	Return	0.35164	0.39269
+KEY	Return	0.47333	1.9207
+KEY	ESCAPE	0.65183	2.5847	1	16	30	10	30
+TIMEOUT			2.5939	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:43:53
+
+START	7267.2329		0
+KEY	Return	0.42442	0.46642
+KEY	Return	0.2799	1.7784
+KEY	ESCAPE	13.844	15.6439	1	16	30	10	30
+TIMEOUT			15.6533	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:45:30
+
+START	7364.1015		0
+KEY	Return	0.44152	0.4822
+KEY	Return	0.32025	1.8342
+KEY	ESCAPE	57.4856	59.3344	1	16	30	10	30
+TIMEOUT			59.3442	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:52:36
+
+START	7789.9254		0
+KEY	Return	0.66277	0.70399
+KEY	Return	0.45188	2.184
+KEY	ESCAPE	16.1398	18.3407	1	16	30	10	30
+TIMEOUT			18.3502	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:00:59
+
+START	8293.3314		0
+KEY	Return	0.71039	0.75083
+KEY	Return	0.46527	2.2468
+KEY	ESCAPE	39.8631	42.1302	1	16	30	10	30
+TIMEOUT			42.1394	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:01:53
+
+START	8346.7863		0
+KEY	Return	0.52155	0.56329
+KEY	Return	0.29258	1.8913
+KEY	ESCAPE	4.4705	6.3873	1	16	30	10	30
+TIMEOUT			6.3968	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:02:10
+
+START	8364.4479		0
+KEY	Return	1.1631	1.2057
+KEY	Return	0.48919	2.7416
+KEY	ESCAPE	11.4583	14.213	1	16	30	10	30
+TIMEOUT			14.2221	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:04:08
+
+START	8482.0743		0
+KEY	Return	0.53576	0.57891
+KEY	Return	0.37007	1.9869
+KEY	ESCAPE	1.857	3.8589	1	16	30	10	30
+TIMEOUT			3.868	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:04:39
+
+START	8513.2797		0
+KEY	Return	0.53731	0.58154
+KEY	Return	0.42758	2.0455
+KEY	ESCAPE	9.5596	11.6295	1	16	30	10	30
+TIMEOUT			11.6386	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:05:01
+
+START	8535.1955		0
+KEY	Return	0.51044	0.55376
+KEY	Return	0.36222	1.9457
+KEY	ESCAPE	9.2812	11.2498	1	16	30	10	30
+TIMEOUT			11.259	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:05:30
+
+START	8563.824		0
+KEY	Return	0.70618	0.74926
+KEY	Return	0.70833	2.5093
+KEY	ESCAPE	43.5786	46.0994	1	16	30	10	30
+TIMEOUT			46.1085	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:06:32
+
+START	8625.7348		0
+KEY	Return	0.49766	0.54058
+KEY	Return	0.34216	1.9086
+KEY	ESCAPE	2.2386	4.1566	1	16	30	10	30
+TIMEOUT			4.166	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:07:33
+
+START	8687.3593		0
+KEY	Return	0.66782	0.71235
+KEY	Return	0.41619	2.1683
+KEY	ESCAPE	2.7649	4.9523	1	16	30	10	30
+TIMEOUT			4.9619	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:07:47
+
+START	8701.5052		0
+KEY	Return	0.54511	0.59042
+KEY	Return	0.43542	2.0544
+KEY	ESCAPE	5.9674	8.0384	1	16	30	10	30
+TIMEOUT			8.0476	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:12:47
+
+START	9001.2172		0
+KEY	Return	0.62366	0.66636
+KEY	Return	0.31026	2.0104
+KEY	ESCAPE	1.4234	3.4583	1	16	30	10	30
+TIMEOUT			3.4676	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:13:15
+
+START	9029.3593		0
+KEY	Return	1.4322	1.4922
+KEY	Return	0.45915	2.9802
+KEY	ESCAPE	6.2216	9.2282	1	16	30	10	30
+TIMEOUT			9.2373	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:13:46
+
+START	9059.9266		0
+KEY	Return	0.59865	0.64492
+KEY	Return	0.3587	2.0289
+KEY	ESCAPE	12.7864	14.8249	1	16	30	10	30
+TIMEOUT			14.8346	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:14:09
+
+START	9083.2671		0
+KEY	Return	0.88078	0.9245
+KEY	Return	0.32348	2.2925
+KEY	ESCAPE	2.7404	5.0442	1	16	30	10	30
+TIMEOUT			5.0534	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:14:37
+
+START	9111.6413		0
+KEY	LeftControl	1.3608	1.3903
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:14:49
+
+START	9123.3474		0
+KEY	Return	0.65648	0.71618
+KEY	Return	0.38158	2.1322
+KEY	ESCAPE	6.3798	8.5322	1	16	30	10	30
+TIMEOUT			8.5418	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:15:12
+
+START	9145.7648		0
+KEY	Return	0.73614	0.77875
+KEY	Return	0.30553	2.1227
+KEY	ESCAPE	15.1968	17.3321	1	16	30	10	30
+TIMEOUT			17.3414	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:16:05
+
+START	9198.8166		0
+KEY	DownArrow	0.68427	0.71232
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:16:14
+
+START	9208.5962		0
+KEY	Return	0.88127	0.94076
+KEY	Return	0.30074	2.2688
+KEY	ESCAPE	3.7746	6.0608	1	16	30	10	30
+TIMEOUT			6.0704	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:16:44
+
+START	9238.1274		0
+KEY	Return	0.64571	0.68952
+KEY	Return	0.34755	2.0655
+KEY	ESCAPE	7.4672	9.5535	1	16	30	10	30
+TIMEOUT			9.5627	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:19:33
+
+START	9407.3532		0
+KEY	Return	0.44324	0.48604
+KEY	Return	0.30597	1.8221
+KEY	ESCAPE	2.5319	4.3661	1	16	30	10	30
+TIMEOUT			4.3753	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:21:37
+
+START	9531.6751		0
+KEY	LeftControl	0.16291	0.1905
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:21:44
+
+START	9538.6722		0
+KEY	LeftControl	0.14752	0.20942
+KEY	LeftControl	0.71234	1.9294
+TIMEOUT			3.7465	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:22:01
+
+START	9555.096		0
+TIMEOUT			14.9341
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:22:30
+
+START	9583.7072		0
+TIMEOUT			1.4957
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:22:36
+
+START	9590.0717		0
+KEY	Return	0.57421	0.6339
+KEY	Return	0.31901	1.9859
+KEY	ESCAPE	1.7842	3.7859	1	16	30	10	30
+TIMEOUT			3.7953	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:28:47
+
+START	9961.3674		0
+KEY	Return	0.47812	0.52208
+TIMEOUT			1.5847
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:29:33
+
+START	10007.2733		0
+KEY	Return	1.3805	1.4242
+TIMEOUT			33.3839
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:30:29
+
+START	10063.6074		0
+KEY	LeftControl	0.66669	0.69494
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:30:39
+
+START	10072.735		0
+KEY	Return	0.98062	1.0393
+KEY	Return	5.3796	7.4473
+KEY	ESCAPE	2.8688	10.3273	1	16	30	10	30
+TIMEOUT			10.3367	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:31:19
+
+START	10113.6669		0
+KEY	Return	0.48799	0.53146
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:31:52
+
+START	10145.7779		0
+KEY	Return	0.66547	0.70844
+KEY	Return	0.27859	2.0125
+KEY	ESCAPE	5.2892	7.3244	1	16	30	10	30
+TIMEOUT			7.3335	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:32:12
+
+START	10166.4699		0
+KEY	Return	0.41275	0.45636
+KEY	Return	0.30828	1.8084
+KEY	ESCAPE	1.9734	3.8084	1	16	30	10	30
+TIMEOUT			3.8175	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:41:35
+
+START	10729.559		0
+KEY	Return	0.5679	0.61173
+KEY	Return	0.45744	2.0917
+KEY	ESCAPE	1.7727	3.8757	1	16	30	10	30
+TIMEOUT			3.885	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:43:46
+
+START	10860.2941		0
+KEY	Return	0.50423	0.54872
+KEY	Return	0.79601	2.3807
+KEY	ESCAPE	3.9757	6.3807	1	16	30	10	30
+TIMEOUT			6.3898	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:44:44
+
+START	10918.1196		0
+KEY	Return	0.6145	0.65916
+KEY	Return	0.45384	2.1392
+KEY	ESCAPE	10.8053	12.9594	1	16	30	10	30
+TIMEOUT			12.9687	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:52:41
+
+START	11394.6735		0
+KEY	Return	0.62749	0.66988
+KEY	Return	0.56207	2.2619	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:53:04
+
+START	11418.3281		0
+KEY	Return	0.4835	0.52729
+KEY	Return	0.32002	1.8873	1	16	30	10	30
+KEY	Return	1.1985	3.7033	1	16	30	10	30
+KEY	ESCAPE	10.6604	14.3874	1	16	30	10	30
+TIMEOUT			14.3963	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:00:20
+
+START	11854.0801		0
+KEY	Return	0.43778	0.48174
+KEY	Return	0.40451	1.9217	1	16	30	10	30
+KEY	Return	5.2953	7.8338	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:00:59
+
+START	11892.9871		0
+KEY	Return	0.44215	0.48677
+KEY	Return	3.0089	4.5268	1	16	30	10	30
+KEY	Return	1.072	6.2228	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:01:28
+
+START	11922.5704		0
+KEY	Return	1.4196	1.4635
+KEY	Return	0.51135	2.9995	1	16	30	10	30
+KEY	Return	0.5889	4.2154	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:02:03
+
+START	11957.5094		0
+KEY	Return	0.38379	0.42846
+KEY	Return	0.36949	1.8205	1	16	30	10	30
+KEY	Return	0.5337	2.9724	1	16	30	10	30
+KEY	Return	1.0479	4.3404	1	16	30	10	30
+KEY	Return	0.78569	6.2045	2	60	30	40	10
+KEY	Return	0.84873	7.3724	2	60	30	40	10
+KEY	Return	1.3657	9.7645	3	60	30	40	0
+KEY	Return	1.6028	11.6924	3	60	30	40	0
+KEY	Return	0.53787	13.3564	4	4	10	6	30
+KEY	Return	0.75604	14.4284	4	4	10	6	30
+KEY	Return	0.51802	16.1325	5	34	30	20	4
+KEY	Return	0.71293	17.1645	5	34	30	20	4
+KEY	ESCAPE	0.27002	18.4125	6	40	30	60	10
+TIMEOUT			18.4212	6	40	30	60	10
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:03:47
+
+START	12060.8901		0
+KEY	Return	0.51308	0.55683
+KEY	Return	0.38086	1.9648	1	16	30	10	30
+KEY	l	0.80472	4.1968	1	16	30	10	30
+KEY	l	0.60608	6.6768	2	60	30	40	10
+KEY	l	0.62655	9.1248	3	60	30	40	0
+TIMEOUT			12.5431	4	4	10	6	30
+KEY	ESCAPE	0.1321	15.2768	4	4	10	6	30
+TIMEOUT			15.2856	4	4	10	6	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:06:44
+
+START	12238.3179		0
+KEY	Return	0.5009	0.54508
+KEY	Return	0.61742	2.1851	1	16	30	10	30
+KEY	l	1.2709	4.881	1	16	30	10	30
+KEY	l	0.53948	7.2971	2	60	30	40	10
+KEY	l	0.48291	9.6011	3	60	30	40	0
+KEY	m	0.36812	11.8971	4	4	10	6	30
+KEY	l	0.53553	14.4251	5	34	30	20	4
+KEY	ESCAPE	0.33718	16.5371	6	40	30	60	10
+TIMEOUT			16.5467	6	40	30	60	10
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:08:41
+
+START	12355.5594		0
+KEY	Return	0.51499	0.55962
+KEY	Return	0.43079	2.0156	1	16	30	10	30
+KEY	l	1.0764	4.5196	1	16	30	10	30
+KEY	l	0.83391	7.2236	2	60	30	40	10
+KEY	m	0.68399	9.7356	3	60	30	40	0
+KEY	m	0.4403	12.1036	4	4	10	6	30
+KEY	ESCAPE	0.78872	14.8796	5	34	30	20	4
+TIMEOUT			14.8886	5	34	30	20	4
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:09:49
+
+START	12422.8127		0
+KEY	Return	0.66372	0.70634
+KEY	Return	0.31681	2.0503	1	16	30	10	30
+KEY	l	0.53568	4.0104	1	16	30	10	30
+KEY	l	0.76489	6.6503	2	60	30	40	10
+KEY	m	0.68992	9.1703	3	60	30	40	0
+KEY	l	0.66224	11.7544	4	4	10	6	30
+KEY	l	0.58429	14.3383	5	34	30	20	4
+KEY	m	0.50371	16.6183	6	40	30	60	10
+KEY	ESCAPE	0.5932	19.2023	7	40	30	60	30
+TIMEOUT			19.2113	7	40	30	60	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:11:14
+
+START	12507.7065		0
+KEY	Return	0.47334	0.51916
+KEY	Return	0.57459	2.1272	1	16	30	10	30
+TIMEOUT			5.0281	1	16	30	10	30
+KEY	Return	0.93453	8.4472	1	16	30	10	30
+KEY	l	0.48194	10.8071	2	60	30	40	10
+KEY	ESCAPE	0.35559	12.9911	3	60	30	40	0
+TIMEOUT			13.0006	3	60	30	40	0
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:17:05
+
+START	12858.9979		0
+KEY	Return	0.95665	1.0014
+KEY	Return	0.50038	2.5374	1	16	30	10	30
+KEY	l	0.4471	4.4094	1	16	30	10	30
+KEY	l	0.44802	6.7374	2	60	30	40	10
+KEY	l	0.49914	9.0654	3	60	30	40	0
+KEY	m	0.38358	11.3774	4	4	10	6	30
+KEY	l	0.39827	13.7694	5	34	30	20	4
+KEY	m	0.42188	15.9694	6	40	30	60	10
+KEY	m	0.39507	18.3534	7	40	30	60	30
+KEY	l	0.65552	21.0414	8	4	30	6	30
+KEY	m	0.39002	23.3374	9	40	10	60	30
+KEY	l	0.59971	25.8574	10	20	30	34	30
+KEY	Return	1.1965	27.6094	10	20	30	34	30
+KEY	Return	0.51837	28.1534	10	20	30	34	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:28:31
+
+START	13545.5268		0
+KEY	l	0.87738	0.91898
+KEY	l	0.72807	2.695	1	16	30	10	15				
+KEY	l	0.44042	4.567	1	16	30	10	15				
+KEY	l	0.66961	7.207	2	16	4	10	30				
+KEY	l	0.72266	9.855	3	60	30	40	10				
+KEY	l	0.50297	12.247	4	34	30	20	30				
+KEY	m	0.30877	14.631	5	4	30	6	30				
+KEY	l	0.48924	17.239	6	34	30	20	30				
+KEY	m	0.41664	19.527	7	10	0	16	30				
+KEY	m	0.59209	22.063	8	40	4	60	30				
+KEY	l	0.42056	24.319	9	60	30	40	4				
+KEY	l	0.50572	26.815	10	4	30	6	10				
+KEY	l	0.72688	27.823	10	4	30	6	10				
+KEY	l	0.34953	28.199	10	4	30	6	10				
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:30:05
+
+START	13638.7763		0
+KEY	Return	0.33757	0.39743
+KEY	Return	0.22876	1.6614	1	16	30	10	15				
+KEY	l	0.6113	3.7014	1	16	30	10	15				
+KEY	ESCAPE	0.23234	5.9174	2	16	4	10	30				
+TIMEOUT			5.9274	2	16	4	10	30				
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:31:16
+
+START	13710.4988		0
+KEY	Return	0.89811	0.94007
+KEY	F7	6.085	8.0523	1	16	30	10	15				
+TIMEOUT			13.1272	1	16	30	10	15				
+KEY	Return	1.524	17.2361	1	16	30	10	15				
+KEY	ESCAPE	0.33905	48.3961	2	16	4	10	30				
+TIMEOUT			48.4052	2	16	4	10	30				
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:32:39
+
+START	13792.8005		0
+KEY	Return	0.56408	0.60639
+KEY	Return	0.33362	1.9664	1	16	30	10	15				
+TIMEOUT			4.874	1	16	30	10	15				
+KEY	ESCAPE	2.2276	9.6864	1	16	30	10	15				
+TIMEOUT			9.6953	1	16	30	10	15				
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:32:58
+
+START	13812.3502		0
+KEY	LeftControl	4.7229	4.7527
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:33:20
+
+START	13834.0835		0
+KEY	Return	0.85439	0.91543
+KEY	F5	7.0914	9.0275	1	16	30	10	15				
+KEY	ESCAPE	0.31972	33.5794	1	16	30	10	15				
+TIMEOUT			33.5886	1	16	30	10	15				
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:37:07
+
+START	14061.1525		0
+KEY	Return	0.79984	0.8424
+KEY	Return	0.38301	2.2504	1	40	30	60	10	3	1	2	
+KEY	ESCAPE	1.0309	4.7064	1	40	30	60	10	3	1	2	
+TIMEOUT			4.7153	1	40	30	60	10	3	1	2	
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:40:18
+
+START	14252.4107		0
+KEY	Return	0.76959	0.81074
+KEY	Return	0.5215	2.3707	1	16	30	10	10	2	3	2	2
+KEY	l	0.56347	4.3547	1	16	30	10	10	2	3	2	2
+KEY	ESCAPE	0.46822	6.7707	2	60	30	40	30	4	5	2	1
+TIMEOUT			6.78	2	60	30	40	30	4	5	2	1
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:41:19
+
+START	14312.7819		0
+KEY	Return	1.1591	1.1995
+KEY	Return	0.33392	2.5675	1	16	30	10	10	2	3	2	2
+KEY	l	0.60009	4.5915	1	16	30	10	10	2	3	2	2
+KEY	l	0.41608	6.9355	2	60	30	40	30	4	5	2	1
+KEY	m	0.55948	9.4395	3	60	10	40	30	4	3	2	1
+KEY	l	0.42131	11.8795	4	60	30	40	15	4	4	2	2
+KEY	m	0.42878	14.2475	5	20	15	34	30	3	4	1	1
+KEY	m	0.45721	16.7035	6	10	30	16	15	2	4	1	2
+KEY	l	0.4297	19.1035	7	34	30	20	10	3	3	2	2
+KEY	m	0.78035	21.8315	8	60	4	40	30	4	2	2	1
+KEY	m	0.34673	24.1435	9	4	30	6	0	1	1	1	2
+KEY	l	0.4583	26.4315	10	60	0	40	30	4	1	2	1
+KEY	Return	0.89901	27.7596	10	60	0	40	30	4	1	2	1
+KEY	Return	0.41822	28.1995	10	60	0	40	30	4	1	2	1
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:46:32
+
+START	14625.6963		0
+KEY	Return	0.78107	0.84226
+KEY	Return	0.7898	2.6423	1	16	30	10	10	2	3	2	2
+KEY	l	0.77495	4.7703	1	16	30	10	10	2	3	2	2
+KEY	l	0.51523	7.1223	2	60	30	40	30	4	5	2	1
+KEY	l	0.72915	9.7303	3	60	10	40	30	4	3	2	1
+KEY	l	0.59524	12.2583	4	60	30	40	15	4	4	2	2
+KEY	m	0.48613	14.6103	5	20	15	34	30	3	4	1	1
+KEY	m	0.53933	17.0743	6	10	30	16	15	2	4	1	2
+KEY	l	0.53573	19.4983	7	34	30	20	10	3	3	2	2
+KEY	m	0.64574	22.0023	8	60	4	40	30	4	2	2	1
+KEY	m	0.3905	24.2583	9	4	30	6	0	1	1	1	2
+KEY	l	0.67965	26.6903	10	60	0	40	30	4	1	2	1
+KEY	Return	0.85541	27.9543	10	60	0	40	30	4	1	2	1
+KEY	Return	0.46482	28.4343	10	60	0	40	30	4	1	2	1
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:47:32
+
+START	14685.9501		0
+KEY	Return	0.43196	0.49254
+KEY	Return	0.56017	2.0605	1	4	30	6	15	1	4	1	2
+KEY	m	0.49956	3.9085	1	4	30	6	15	1	4	1	2
+KEY	m	0.54333	6.3965	2	20	30	34	30	3	5	1	1
+KEY	m	0.51745	8.5805	3	4	30	6	0	1	1	1	2
+KEY	l	0.39337	10.7165	4	6	10	4	30	1	3	2	1
+KEY	l	0.4736	12.9565	5	6	0	4	30	1	1	2	1
+KEY	l	0.4085	15.0845	6	34	30	20	10	3	3	2	2
+KEY	l	1.0341	18.0205	7	34	30	20	0	3	1	2	2
+KEY	m	0.70431	20.6205	8	40	30	60	4	4	2	1	2
+KEY	m	0.39581	22.9405	9	40	30	60	10	4	3	1	2
+KEY	m	0.5771	25.5325	10	60	10	40	30	4	3	2	1
+KEY	m	0.4026	27.8525	11	20	10	34	30	3	3	1	1
+KEY	m	0.44549	30.3565	12	10	10	16	30	2	3	1	1
+KEY	l	0.61731	32.7885	13	34	10	20	30	3	3	2	1
+KEY	l	0.41893	35.0845	14	6	0	4	30	1	1	2	1
+KEY	m	0.49909	37.5085	15	10	30	16	4	2	2	1	2
+KEY	m	0.41979	39.9405	16	60	30	40	4	4	2	2	2
+KEY	l	0.40622	42.2205	17	6	30	4	30	1	5	2	1
+KEY	l	0.52129	44.6125	18	34	30	20	4	3	2	2	2
+KEY	m	0.48424	47.0365	19	20	30	34	30	3	5	1	1
+KEY	m	0.55062	49.3965	20	4	15	6	30	1	4	1	1
+KEY	m	0.4053	51.6285	21	20	10	34	30	3	3	1	1
+KEY	m	0.42746	53.8605	22	10	10	16	30	2	3	1	1
+KEY	l	0.37016	56.1805	23	6	30	4	0	1	1	2	2
+KEY	l	0.94725	58.9005	24	16	10	10	30	2	3	2	1
+KEY	l	0.50768	61.3405	25	16	30	10	4	2	2	2	2
+KEY	ESCAPE	0.42632	63.6365	26	60	4	40	30	4	2	2	1
+TIMEOUT			63.6457	26	60	4	40	30	4	2	2	1
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:18:08
+
+START	16522.4431		0
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:21:44
+
+START	16737.942		0
+KEY	ESCAPE	1.2126	1.2575
+TIMEOUT			1.2692
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:22:04
+
+START	16757.9034		0
+KEY	Return	1.6564	1.6961
+KEY	Return	1.761	4.4961	1	34	0	20	30	3	1	2	1
+KEY	ESCAPE	0.61135	6.5441	1	34	0	20	30	3	1	2	1
+TIMEOUT			6.5529	1	34	0	20	30	3	1	2	1
+
+----------------------------------------------------------------------------
+Started at: 06-Feb-2010 00:09:23
+
+START	74090.7697		0
+KEY	Return	0.66668	0.71012
+KEY	Return	0.85147	2.5821	1	34	0	20	30	3	1	2	1
+KEY	l	0.59556	4.5981	1	34	0	20	30	3	1	2	1
+KEY	l	0.41351	7.0221	2	6	30	4	30	1	5	2	1
+KEY	m	0.75338	9.7341	3	20	4	34	30	3	2	1	1
+KEY	m	0.62003	12.1901	4	4	30	6	15	1	4	1	2
+KEY	ESCAPE	0.52792	14.4701	5	10	30	16	0	2	1	1	2
+TIMEOUT			14.4799	5	10	30	16	0	2	1	1	2
+
+----------------------------------------------------------------------------
+Started at: 06-Feb-2010 00:10:45
+
+START	74172.7607		0
+KEY	Return	0.84547	0.88714
+KEY	Return	0.65515	2.5511	1	34	0	20	30	3	1	2	1
+KEY	l	0.77857	4.6791	1	34	0	20	30	3	1	2	1
+KEY	l	0.5042	7.1111	2	6	30	4	30	1	5	2	1
+KEY	ESCAPE	0.55417	9.5833	3	20	4	34	30	3	2	1	1
+TIMEOUT			9.5925	3	20	4	34	30	3	2	1	1
