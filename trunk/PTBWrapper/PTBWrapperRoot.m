@@ -12,4 +12,7 @@ function path = PTBWrapperRoot
 
 path=which('PTBWrapperRoot');
 i=find(filesep==path);
-path=path(1:i(end-1));
+
+% NOTE: Add -1 after end for each 
+% folder we're in under PTBWrapper.
+path=path(1:i(end));
