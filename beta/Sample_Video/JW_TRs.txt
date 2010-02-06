@@ -1,0 +1,77 @@
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 16446.1416 (09-Jan-0045 03:23:51)
+
+ 	NaN	NaN	NaN	0	0	0	0	NaN	16492.4629	46.3213
+ 	NaN	NaN	NaN	0	0	0	0	NaN	16492.6539	46.5123
+`	NaN	NaN	NaN	0	0	0	0	NaN	16522.0939	75.9523
+[	NaN	NaN	NaN	0	0	0	0	NaN	16525.7739	79.6323
+[	NaN	NaN	NaN	0	0	0	0	NaN	16531.5269	85.3853
+[	NaN	NaN	NaN	0	0	0	0	NaN	16537.7579	91.6163
+]	NaN	NaN	NaN	0	0	0	0	NaN	16542.1499	96.0083
+]	NaN	NaN	NaN	0	0	0	0	NaN	16546.4539	100.3123
+[	NaN	NaN	NaN	0	0	0	0	NaN	16551.0699	104.9283
+]	NaN	NaN	NaN	0	0	0	0	NaN	16555.3579	109.2163
+]	NaN	NaN	NaN	0	0	0	0	NaN	16559.5099	113.3683
+[	NaN	NaN	NaN	0	0	0	0	NaN	16563.8139	117.6723
+[	NaN	NaN	NaN	0	0	0	0	NaN	16568.0219	121.8803
+]	NaN	NaN	NaN	0	0	0	0	NaN	16572.1659	126.0243
+]	NaN	NaN	NaN	0	0	0	0	NaN	16576.3819	130.2403
+]	NaN	NaN	NaN	0	0	0	0	NaN	16580.5579	134.4163
+[	NaN	NaN	NaN	0	0	0	0	NaN	16584.7099	138.5683
+a	NaN	NaN	NaN	0	0	0	0	NaN	16610.9239	164.7823
+a	NaN	NaN	NaN	0	0	0	0	NaN	16612.5719	166.4303
+`	NaN	NaN	NaN	0	0	0	0	NaN	16613.7709	167.6293
+[	NaN	NaN	NaN	0	0	0	0	NaN	16617.3959	171.2543
+]	NaN	NaN	NaN	0	0	0	0	NaN	16623.5399	177.3983
+]	NaN	NaN	NaN	0	0	0	0	NaN	16627.7559	181.6143
+[	NaN	NaN	NaN	0	0	0	0	NaN	16632.0119	185.8703
+[	NaN	NaN	NaN	0	0	0	0	NaN	16636.2679	190.1263
+[	NaN	NaN	NaN	0	0	0	0	NaN	16642.5399	196.3983
+[	NaN	NaN	NaN	0	0	0	0	NaN	16649.1079	202.9663
+[	NaN	NaN	NaN	0	0	0	0	NaN	16653.3249	207.1833
+]	NaN	NaN	NaN	0	0	0	0	NaN	16661.4769	215.3353
+[	NaN	NaN	NaN	0	0	0	0	NaN	16665.7159	219.5743
+a	NaN	NaN	NaN	0	0	0	0	NaN	16683.7719	237.6303
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 16697.5642 (17-Sep-0045 13:32:24)
+
+a	NaN	NaN	NaN	0	0	0	0	NaN	16671.3792	-26.1849
+a	NaN	NaN	NaN	0	0	0	0	NaN	16673.8832	-23.6809
+`	NaN	NaN	NaN	0	0	0	0	NaN	16676.7312	-20.8329
+]	NaN	NaN	NaN	0	0	0	0	NaN	16687.1712	-10.3929
+]	NaN	NaN	NaN	0	0	0	0	NaN	16691.3872	-6.1769
+[	NaN	NaN	NaN	0	0	0	0	NaN	16695.1632	-2.4009
+]	NaN	NaN	NaN	0	0	0	0	NaN	16703.3072	5.7431
+]	NaN	NaN	NaN	0	0	0	0	NaN	16707.2672	9.7031
+]	NaN	NaN	NaN	0	0	0	0	NaN	16710.9472	13.3831
+]	NaN	NaN	NaN	0	0	0	0	NaN	16715.1232	17.5591
+[	NaN	NaN	NaN	0	0	0	0	NaN	16721.4832	23.9191
+]	NaN	NaN	NaN	0	0	0	0	NaN	16725.1072	27.5431
+]	NaN	NaN	NaN	0	0	0	0	NaN	16729.3872	31.8231
+[	NaN	NaN	NaN	0	0	0	0	NaN	16733.3392	35.7751
+
+	NaN	NaN	NaN	0	0	0	0	NaN	16785.3182	87.7541
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 18623.3258 (26-Dec-0050 07:49:11)
+
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 18633.1974 (05-Jan-0051 04:44:17)
+
+
+
+--------------------------------------------------
+
+Keystrokes for experiment starting at : 18633.1974 (05-Jan-0051 04:44:17)
+

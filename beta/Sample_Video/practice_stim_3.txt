@@ -1,0 +1,11 @@
+mod	115	s2.jpg	Brown.jpg	Cane.jpg	BrownKey_3.jpg	NoMatch	0.5
+non	115	s6.jpg	nw2.jpg	Leaf.jpg	BlueTree_1.jpg	NoMatch	0.5
+non	116	s6.jpg	nw4.jpg	Heart.jpg	BlackHeart_1.jpg	Match	4.5
+mod	116	s6.jpg	Green.jpg	Flag.jpg	BrownFlag_1.jpg	NoMatch	0.5
+mod	117	s2.jpg	Green.jpg	Cup.jpg	GreenCane_2.jpg	NoMatch	0.5
+mod	118	s1.jpg	Brown.jpg	Heart.jpg	BlackHeart_1.jpg	NoMatch	0.5
+non	117	s2.jpg	nw5.jpg	Hand.jpg	BlueCross_1.jpg	NoMatch	2.5
+non	118	s4.jpg	nw1.jpg	Tree.jpg	RedTree_2.jpg	Match	0.5
+fix	115	s3.jpg	s2.jpg	Bell.jpg	BlackCup_3.jpg	NoMatch	0.5
+non	119	s4.jpg	nw3.jpg	Note.jpg	PinkFork_1.jpg	NoMatch	0.5
+mod	119	s6.jpg	Black.jpg	Boat.jpg	BlackBoat_3.jpg	Match	0.5

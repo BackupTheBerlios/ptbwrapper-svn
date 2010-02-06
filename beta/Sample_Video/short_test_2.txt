@@ -1,0 +1,3 @@
+fix	2	s6.jpg	s4.jpg	Boat.jpg	BlackBoat_3.jpg	Match	0.5
+fix	3	s3.jpg	s2.jpg	Bag.jpg	BlueCross_1.jpg	NoMatch	0.5
+mod	1	s3.jpg	Red.jpg	Cross.jpg	BlueCross_1.jpg	NoMatch	2.5
