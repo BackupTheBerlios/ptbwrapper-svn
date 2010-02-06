@@ -128,10 +128,11 @@
 function DownloadPTBWrapper(targetdirectory,downloadmethod,targetRevision,flavor)
 
 % Check for psychtoolbox first. Might have to make this more general...
-if ~exist('Psychtoolbox','dir')
-	error('Could not find Psychtoolbox. Please install this first. Otherwise, this wrapper would be ridiculous.')
-else
-	fprintf('Found Psychtoolbox. We can now proceed...\n');
+try
+    ptbroot = PsychtoolboxRoot;
+	fprintf(['Found Psychtoolbox at ' ptbroot '. We can now proceed...\n']);
+catch
+    error('Could not find Psychtoolbox. Please install this first. Otherwise, this wrapper would be ridiculous.')
 end
 
 % Hmm... Haven't tried Octave yet.
