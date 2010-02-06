@@ -58,12 +58,8 @@
 function PTBSetupExperiment(title)
 
 % Versioning!
-global PTBMajorVersion;
-PTBMajorVersion = 0;
-global PTBMinorVersion;
-PTBMinorVersion = 2;
-global PTBRevision;
-PTBRevision = 0;
+global PTBWrapper
+PTBWrapperVersion;
 
 % Setup the debugging flag. Default to not debugging.
 global PTBIsDebugging
@@ -251,8 +247,8 @@ if isempty(PTBUseStartScreen)
 end
 if PTBUseStartScreen
 	Screen('DrawText', PTBTheWindowPtr, title, 50, 100, [255 255 255 255]);
-	Screen('DrawText', PTBTheWindowPtr, ['Powered by PTB wrapper version: ' num2str(PTBMajorVersion)...
-		'.' num2str(PTBMinorVersion) '.' num2str(PTBRevision)], 50, 180, [255 255 255 255]);
+	Screen('DrawText', PTBTheWindowPtr, ['Powered by PTB wrapper version: ' num2str(PTBWrapper.major)...
+		'.' num2str(PTBWrapper.minor) '.' num2str(PTBWrapper.point)], 50, 180, [255 255 255 255]);
 	if (PTBIsDebugging)
 		Screen('TextSize', PTBTheWindowPtr, 25);
 		 Screen('DrawText', PTBTheWindowPtr, 'Currently Debugging', 50, 260, [255 255 255 255]);

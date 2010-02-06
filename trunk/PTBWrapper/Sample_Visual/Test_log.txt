@@ -1,0 +1,5882 @@
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:17:42
+
+START	5481.793		0
+STIM	Paragraph	Press any key to begin.	0.038685
+STIM	Blank		1.4753
+STIM	Text	+	2.4777	Testing
+STIM	Blank		2.7784	Testing
+STIM	Cleanup		3.079	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:17:56
+
+START	5495.7571		0
+STIM	Paragraph	Press any key to begin.	0.040205
+STIM	Blank		0.92559
+STIM	Text	+	1.9279	Testing
+STIM	Blank		2.2286	Testing
+STIM	Text	TRIAL	2.5293	Testing
+STIM	Cleanup		2.5794	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:18:13
+
+START	5512.3961		0
+STIM	Paragraph	Press any key to begin.	0.039739
+STIM	Blank		1.042
+STIM	Text	+	2.0444	Testing
+STIM	Blank		2.3451	Testing
+STIM	Text	TRIAL	2.6458	Testing
+STIM	Blank		3.5144	Testing
+STIM	Text	+	3.8151	Testing
+STIM	Blank		4.1158	Testing
+STIM	Text	TRIAL	4.4165	Testing
+STIM	Blank		5.2184	Testing
+STIM	Text	+	5.5191	Testing
+STIM	Blank		5.8198	Testing
+STIM	Text	TRIAL	6.1205	Testing
+STIM	Blank		7.0226	Testing
+STIM	Text	+	7.3232	Testing
+STIM	Blank		7.6239	Testing
+STIM	Text	TRIAL	7.9246	Testing
+STIM	Blank		8.7599	Testing
+STIM	Text	+	9.0606	Testing
+STIM	Blank		9.3613	Testing
+STIM	Text	TRIAL	9.662	Testing
+STIM	Blank		10.681	Testing
+STIM	Text	+	10.9817	Testing
+STIM	Blank		11.2824	Testing
+STIM	Text	TRIAL	11.5831	Testing
+STIM	Cleanup		12.2346	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:29:40
+
+START	6199.9		0
+STIM	Paragraph	Press any key to begin.	0.0414
+STIM	Blank		0.62606
+STIM	Text	+	1.6284	Testing
+STIM	Blank		1.9291	Testing
+STIM	Circles	--	2.2298	Testing
+STIM	Blank		4.9193	Testing
+STIM	Text	+	5.22	Testing
+STIM	Blank		5.5207	Testing
+STIM	Circles	--	5.8214	Testing
+STIM	Blank		7.0743	Testing
+STIM	Text	+	7.375	Testing
+STIM	Blank		7.6757	Testing
+STIM	Circles	--	7.9764	Testing
+STIM	Blank		9.0957	Testing
+STIM	Text	+	9.3964	Testing
+STIM	Blank		9.697	Testing
+STIM	Circles	--	9.9977	Testing
+STIM	Cleanup		10.098	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:30:22
+
+START	6242.0306		0
+STIM	Paragraph	Press any key to begin.	0.041438
+STIM	Blank		0.40895
+STIM	Text	+	1.4113	Testing
+STIM	Blank		1.712	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:30:40
+
+START	6260.1403		0
+STIM	Paragraph	Press any key to begin.	0.040253
+STIM	Blank		0.67505
+STIM	Text	+	1.6774	Testing
+STIM	Blank		1.9781	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:31:13
+
+START	6292.8313		0
+STIM	Paragraph	Press any key to begin.	0.041505
+STIM	Blank		0.42571
+STIM	Text	+	1.428	Testing
+STIM	Blank		1.7287	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:31:40
+
+START	6319.1591		0
+STIM	Paragraph	Press any key to begin.	0.04126
+STIM	Blank		0.62594
+STIM	Text	+	1.6283	Testing
+STIM	Blank		1.929	Testing
+STIM	Circles	--	2.2296	Testing
+STIM	Blank		3.2487	Testing
+STIM	Text	+	3.5494	Testing
+STIM	Blank		3.8501	Testing
+STIM	Circles	--	4.1508	Testing
+STIM	Cleanup		4.5851	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:31:53
+
+START	6332.2047		0
+STIM	Paragraph	Press any key to begin.	0.04242
+STIM	Blank		1.3454
+STIM	Text	+	2.3477	Testing
+STIM	Blank		2.6484	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:32:13
+
+START	6352.5364		0
+STIM	Paragraph	Press any key to begin.	0.041016
+STIM	Blank		0.65911
+STIM	Text	+	1.6614	Testing
+STIM	Blank		1.9621	Testing
+STIM	Circles	--	2.2628	Testing
+STIM	Blank		3.7162	Testing
+STIM	Text	+	4.0169	Testing
+STIM	Blank		4.3176	Testing
+STIM	Circles	--	4.6183	Testing
+STIM	Blank		5.5538	Testing
+STIM	Text	+	5.8545	Testing
+STIM	Blank		6.1552	Testing
+STIM	Circles	--	6.4558	Testing
+STIM	Cleanup		8.093	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:33:23
+
+START	6422.9654		0
+STIM	Paragraph	Press any key to begin.	0.041495
+STIM	Blank		0.96026
+STIM	Text	+	1.9626	Testing
+STIM	Blank		2.2633	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:33:48
+
+START	6447.5729		0
+STIM	Paragraph	Press any key to begin.	0.04085
+STIM	Blank		0.37495
+STIM	Text	+	1.3772	Testing
+STIM	Blank		1.678	Testing
+STIM	Circles	--	1.9786	Testing
+STIM	Blank		3.315	Testing
+STIM	Text	+	3.6325	Testing
+STIM	Blank		3.9332	Testing
+STIM	Circles	--	4.2339	Testing
+STIM	Blank		5.1861	Testing
+STIM	Text	+	5.4867	Testing
+STIM	Blank		5.7875	Testing
+STIM	Circles	--	6.0881	Testing
+STIM	Blank		6.7731	Testing
+STIM	Text	+	7.0738	Testing
+STIM	Blank		7.3745	Testing
+STIM	Circles	--	7.6752	Testing
+STIM	Blank		8.8946	Testing
+STIM	Text	+	9.1953	Testing
+STIM	Blank		9.496	Testing
+STIM	Circles	--	9.7967	Testing
+STIM	Blank		10.6487	Testing
+STIM	Text	+	10.9494	Testing
+STIM	Blank		11.2501	Testing
+STIM	Circles	--	11.5508	Testing
+STIM	Blank		12.2691	Testing
+STIM	Text	+	12.5698	Testing
+STIM	Blank		12.8705	Testing
+STIM	Circles	--	13.1712	Testing
+STIM	Blank		14.5076	Testing
+STIM	Text	+	14.8083	Testing
+STIM	Blank		15.109	Testing
+STIM	Circles	--	15.4097	Testing
+STIM	Cleanup		15.7438	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:34:14
+
+START	6473.3833		0
+STIM	Paragraph	Press any key to begin.	0.040105
+STIM	Blank		0.52455
+STIM	Text	+	1.5268	Testing
+STIM	Blank		1.8276	Testing
+STIM	Circles	--	2.1283	Testing
+STIM	Cleanup		4.7176	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:34:30
+
+START	6489.8202		0
+STIM	Paragraph	Press any key to begin.	0.041197
+STIM	Blank		0.54235
+STIM	Text	+	1.5447	Testing
+STIM	Blank		1.8454	Testing
+STIM	Circles	--	2.1461	Testing
+STIM	Blank		3.399	Testing
+STIM	Text	+	3.6996	Testing
+STIM	Blank		4.0003	Testing
+STIM	Circles	--	4.301	Testing
+STIM	Cleanup		4.7521	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:35:47
+
+START	6567.0987		0
+STIM	Paragraph	Press any key to begin.	0.041292
+STIM	Blank		0.64267
+STIM	Text	+	1.645	Testing
+STIM	Blank		1.9457	Testing
+STIM	Circles	--	2.2464	Testing
+STIM	Blank		3.2153	Testing
+STIM	Text	+	3.516	Testing
+STIM	Blank		3.8167	Testing
+STIM	Circles	--	4.1174	Testing
+STIM	Blank		4.702	Testing
+STIM	Text	+	5.0027	Testing
+STIM	Blank		5.3034	Testing
+STIM	Circles	--	5.6041	Testing
+STIM	Blank		6.4394	Testing
+STIM	Text	+	6.7401	Testing
+STIM	Blank		7.0408	Testing
+STIM	Circles	--	7.3415	Testing
+STIM	Cleanup		9.1623	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:37:58
+
+START	6697.6839		0
+STIM	Paragraph	Press any key to begin.	0.041186
+STIM	Blank		1.2607
+STIM	Text	+	2.263	Testing
+STIM	Blank		2.5637	Testing
+STIM	Circles	--	2.8644	Testing
+STIM	Blank		3.8834	Testing
+STIM	Text	+	4.1841	Testing
+STIM	Blank		4.4848	Testing
+STIM	Circles	--	4.7855	Testing
+STIM	Blank		5.3535	Testing
+STIM	Text	+	5.6542	Testing
+STIM	Blank		5.9549	Testing
+STIM	Circles	--	6.2556	Testing
+STIM	Cleanup		6.5897	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:39:09
+
+START	6768.8486		0
+STIM	Paragraph	Press any key to begin.	0.041064
+STIM	Blank		0.69255
+STIM	Text	+	1.6949	Testing
+STIM	Blank		1.9956	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:39:30
+
+START	6789.2952		0
+STIM	Paragraph	Press any key to begin.	0.041724
+STIM	Blank		0.55956
+STIM	Text	+	1.5619	Testing
+STIM	Blank		1.8626	Testing
+STIM	Circles	--	2.1633	Testing
+STIM	Cleanup		3.4997	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:39:56
+
+START	6816.0905		0
+STIM	Paragraph	Press any key to begin.	0.041647
+STIM	Blank		0.60963
+STIM	Text	+	1.6119	Testing
+STIM	Blank		1.9126	Testing
+STIM	Circles	--	2.2301	Testing
+STIM	Blank		2.9818	Testing
+STIM	Text	+	3.2825	Testing
+STIM	Blank		3.5832	Testing
+STIM	Circles	--	3.8839	Testing
+STIM	Cleanup		4.6022	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:40:30
+
+START	6849.6678		0
+STIM	Paragraph	Press any key to begin.	0.041896
+STIM	Blank		0.92726
+STIM	Text	+	1.9296	Testing
+STIM	Blank		2.2303	Testing
+STIM	Circles	--	2.531	Testing
+STIM	Cleanup		3.1992	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:47:08
+
+START	7247.2538		0
+STIM	Paragraph	Press any key to begin.	0.041046
+STIM	Blank		8.1765
+STIM	Cleanup		9.1621	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:47:22
+
+START	7261.4354		0
+STIM	Paragraph	Press any key to begin.	0.042288
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:47:45
+
+START	7284.6066		0
+STIM	Paragraph	Press any key to begin.	0.041638
+STIM	Blank		1.946
+STIM	Cleanup		2.9483	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:48:19
+
+START	7318.8699		0
+STIM	Paragraph	Press any key to begin.	0.040878
+STIM	Blank		0.64229
+STIM	Text	+	1.6446	Testing
+STIM	Blank		1.9453	Testing
+STIM	Circles	--	2.246	Testing
+STIM	Cleanup		3.4822	Testing
+
+----------------------------------------------------------------------------
+Started at: 03-Feb-2010 23:48:51
+
+START	7350.3405		0
+STIM	Paragraph	Press any key to begin.	0.043026
+STIM	Blank		2.1813
+STIM	Text	+	18.8198	Testing
+STIM	Blank		19.1205	Testing
+STIM	Circles	--	19.4212	Testing
+STIM	Cleanup		19.7219	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:10:06
+
+START	8625.8401		0
+STIM	Paragraph	Press any key to begin.	0.041194
+STIM	Blank		0.62587
+STIM	Text	+	1.6282	Testing
+STIM	Blank		1.9289	Testing
+STIM	Circles	--	2.2296	Testing
+STIM	Blank		3.5326	Testing
+STIM	Text	+	3.8333	Testing
+STIM	Blank		4.134	Testing
+STIM	Circles	--	4.4347	Testing
+STIM	Blank		5.0862	Testing
+STIM	Text	+	5.3869	Testing
+STIM	Blank		5.6876	Testing
+STIM	Circles	--	5.9882	Testing
+STIM	Blank		6.5061	Testing
+STIM	Text	+	6.8068	Testing
+STIM	Blank		7.1075	Testing
+STIM	Circles	--	7.4082	Testing
+STIM	Blank		7.8927	Testing
+STIM	Text	+	8.1934	Testing
+STIM	Blank		8.4941	Testing
+STIM	Circles	--	8.7947	Testing
+STIM	Blank		9.2458	Testing
+STIM	Text	+	9.5465	Testing
+STIM	Blank		9.8472	Testing
+STIM	Circles	--	10.1479	Testing
+STIM	Blank		10.6323	Testing
+STIM	Text	+	10.933	Testing
+STIM	Blank		11.2337	Testing
+STIM	Circles	--	11.5344	Testing
+STIM	Blank		11.9019	Testing
+STIM	Text	+	12.2026	Testing
+STIM	Blank		12.5033	Testing
+STIM	Circles	--	12.804	Testing
+STIM	Blank		13.4388	Testing
+STIM	Text	+	13.7395	Testing
+STIM	Blank		14.0402	Testing
+STIM	Circles	--	14.3409	Testing
+STIM	Blank		14.842	Testing
+STIM	Text	+	15.1427	Testing
+STIM	Blank		15.4434	Testing
+STIM	Circles	--	15.7441	Testing
+STIM	Blank		16.0949	Testing
+STIM	Text	+	16.3956	Testing
+STIM	Blank		16.6963	Testing
+STIM	Circles	--	16.997	Testing
+STIM	Blank		17.5483	Testing
+STIM	Text	+	17.849	Testing
+STIM	Blank		18.1497	Testing
+STIM	Circles	--	18.4504	Testing
+STIM	Blank		19.1687	Testing
+STIM	Text	+	19.4694	Testing
+STIM	Blank		19.7701	Testing
+STIM	Circles	--	20.0708	Testing
+STIM	Blank		20.6555	Testing
+STIM	Text	+	20.9562	Testing
+STIM	Blank		21.2569	Testing
+STIM	Circles	--	21.5576	Testing
+STIM	Blank		22.2592	Testing
+STIM	Text	+	22.5599	Testing
+STIM	Blank		22.8606	Testing
+STIM	Circles	--	23.1613	Testing
+STIM	Blank		23.7126	Testing
+STIM	Text	+	24.0132	Testing
+STIM	Blank		24.314	Testing
+STIM	Circles	--	24.6146	Testing
+STIM	Cleanup		25.8675	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:23:07
+
+START	9406.8611		0
+STIM	Paragraph	Press any key to begin.	0.041876
+STIM	Blank		4.9866
+STIM	Text	+	5.989	Testing
+STIM	Blank		6.2896	Testing
+STIM	Circles	--	6.5903	Testing
+STIM	Blank		9.213	Testing
+STIM	Text	+	9.5138	Testing
+STIM	Blank		9.8144	Testing
+STIM	Circles	--	10.1152	Testing
+STIM	Blank		10.9671	Testing
+STIM	Text	+	11.2678	Testing
+STIM	Blank		11.5685	Testing
+STIM	Circles	--	11.8692	Testing
+STIM	Blank		12.5708	Testing
+STIM	Text	+	12.8715	Testing
+STIM	Blank		13.1722	Testing
+STIM	Circles	--	13.4729	Testing
+STIM	Blank		14.4752	Testing
+STIM	Text	+	14.7759	Testing
+STIM	Blank		15.0766	Testing
+STIM	Circles	--	15.3773	Testing
+STIM	Cleanup		15.9787	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:23:32
+
+START	9431.5027		0
+STIM	Paragraph	Press any key to begin.	0.040619
+STIM	Blank		0.6921
+STIM	Text	+	1.6944	Testing
+STIM	Blank		1.9951	Testing
+STIM	Circles	--	2.2958	Testing
+STIM	Blank		3.5988	Testing
+STIM	Text	+	3.8995	Testing
+STIM	Blank		4.2002	Testing
+STIM	Circles	--	4.5009	Testing
+STIM	Cleanup		4.8851	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:24:01
+
+START	9460.4011		0
+STIM	Paragraph	Press any key to begin.	0.042299
+STIM	Blank		0.81074
+STIM	Text	+	1.813	Testing
+STIM	Blank		2.1137	Testing
+STIM	Circles	--	2.4144	Testing
+STIM	Cleanup		8.562	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:24:47
+
+START	9506.7093		0
+STIM	Paragraph	Press any key to begin.	0.04109
+STIM	Blank		0.60906
+STIM	Text	+	1.6114	Testing
+STIM	Blank		1.9121	Testing
+STIM	Circles	--	2.2128	Testing
+STIM	Blank		3.0815	Testing
+STIM	Text	+	3.3822	Testing
+STIM	Blank		3.6828	Testing
+STIM	Circles	--	3.9835	Testing
+STIM	Cleanup		12.4698	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:25:47
+
+START	9566.4288		0
+STIM	Paragraph	Press any key to begin.	0.043023
+STIM	Blank		0.62769
+STIM	Text	+	3.5511	Testing
+STIM	Blank		3.8518	Testing
+STIM	Circles	--	4.1525	Testing
+STIM	Blank		5.6727	Testing
+STIM	Text	+	53.1491	Testing
+STIM	Blank		53.4498	Testing
+STIM	Circles	--	53.7505	Testing
+STIM	Cleanup		54.1514	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:26:59
+
+START	9638.1299		0
+STIM	Paragraph	Press any key to begin.	0.040878
+STIM	Blank		0.89284
+STIM	Text	+	1.8952	Testing
+STIM	Blank		2.1959	Testing
+STIM	Circles	--	2.4966	Testing
+STIM	Blank		3.265	Testing
+STIM	Text	+	3.5657	Testing
+STIM	Blank		3.8664	Testing
+STIM	Circles	--	4.1671	Testing
+STIM	Cleanup		4.7351	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:28:28
+
+START	9727.3674		0
+STIM	Paragraph	Press any key to begin.	0.042637
+STIM	Blank		1.3122
+STIM	Text	+	2.2979	Testing
+STIM	Blank		2.5819	Testing
+STIM	Circles	--	2.8659	Testing
+STIM	Blank		3.935	Testing
+STIM	Text	+	4.219	Testing
+STIM	Blank		4.503	Testing
+STIM	Circles	--	4.787	Testing
+STIM	Blank		4.9039	Testing
+STIM	Text	+	5.1879	Testing
+STIM	Blank		5.4719	Testing
+STIM	Circles	--	5.7559	Testing
+STIM	Cleanup		6.3739	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:29:22
+
+START	9781.3432		0
+STIM	Paragraph	Press any key to begin.	0.041938
+STIM	Blank		0.76024
+STIM	Text	+	1.7626	Testing
+STIM	Blank		2.0633	Testing
+STIM	Circles	--	2.364	Testing
+STIM	Blank		2.8317	Testing
+STIM	Text	+	3.1324	Testing
+STIM	Blank		3.4331	Testing
+STIM	Circles	--	3.7338	Testing
+STIM	Cleanup		4.1848	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:30:24
+
+START	9844.0556		0
+STIM	Paragraph	Press any key to begin.	0.041175
+STIM	Blank		0.7428
+STIM	Text	+	1.7451	Testing
+STIM	Blank		2.0458	Testing
+STIM	Circles	--	2.3465	Testing
+STIM	Blank		2.714	Testing
+STIM	Text	+	3.0147	Testing
+STIM	Blank		3.3154	Testing
+STIM	Circles	--	3.6161	Testing
+STIM	Blank		4.585	Testing
+STIM	Text	+	4.8857	Testing
+STIM	Blank		5.1864	Testing
+STIM	Circles	--	5.4871	Testing
+STIM	Blank		5.9715	Testing
+STIM	Text	+	6.2723	Testing
+STIM	Blank		6.5729	Testing
+STIM	Circles	--	6.8736	Testing
+STIM	Blank		7.3414	Testing
+STIM	Text	+	7.6421	Testing
+STIM	Blank		7.9428	Testing
+STIM	Circles	--	8.2435	Testing
+STIM	Blank		8.7112	Testing
+STIM	Text	+	9.0119	Testing
+STIM	Blank		9.3126	Testing
+STIM	Circles	--	9.6133	Testing
+STIM	Blank		9.9975	Testing
+STIM	Text	+	10.2982	Testing
+STIM	Blank		10.5989	Testing
+STIM	Circles	--	10.8996	Testing
+STIM	Blank		11.3674	Testing
+STIM	Text	+	11.6681	Testing
+STIM	Blank		11.9687	Testing
+STIM	Circles	--	12.2694	Testing
+STIM	Blank		12.7372	Testing
+STIM	Text	+	13.0379	Testing
+STIM	Blank		13.3386	Testing
+STIM	Circles	--	13.6393	Testing
+STIM	Cleanup		13.9233	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:31:57
+
+START	9936.8361		0
+STIM	Paragraph	Press any key to begin.	0.041693
+STIM	Blank		1.1275
+STIM	Text	+	2.1299	Testing
+STIM	Blank		2.4306	Testing
+STIM	Circles	--	2.7312	Testing
+STIM	Blank		3.0821	Testing
+STIM	Text	+	3.3827	Testing
+STIM	Blank		3.6835	Testing
+STIM	Circles	--	3.9842	Testing
+STIM	Blank		4.6858	Testing
+STIM	Text	+	4.9864	Testing
+STIM	Blank		5.2872	Testing
+STIM	Circles	--	5.5878	Testing
+STIM	Blank		5.9888	Testing
+STIM	Text	+	6.2895	Testing
+STIM	Blank		6.5902	Testing
+STIM	Circles	--	6.8909	Testing
+STIM	Blank		7.3753	Testing
+STIM	Text	+	7.676	Testing
+STIM	Blank		7.9767	Testing
+STIM	Circles	--	8.2774	Testing
+STIM	Blank		8.695	Testing
+STIM	Text	+	8.9957	Testing
+STIM	Blank		9.2964	Testing
+STIM	Circles	--	9.5971	Testing
+STIM	Blank		9.9479	Testing
+STIM	Text	+	10.2486	Testing
+STIM	Blank		10.5493	Testing
+STIM	Circles	--	10.85	Testing
+STIM	Blank		11.3011	Testing
+STIM	Text	+	11.6018	Testing
+STIM	Blank		11.9024	Testing
+STIM	Circles	--	12.2031	Testing
+STIM	Blank		12.5372	Testing
+STIM	Text	+	12.8379	Testing
+STIM	Blank		13.1386	Testing
+STIM	Circles	--	13.4393	Testing
+STIM	Blank		13.7567	Testing
+STIM	Text	+	14.0574	Testing
+STIM	Blank		14.3581	Testing
+STIM	Circles	--	14.6588	Testing
+STIM	Blank		14.9261	Testing
+STIM	Text	+	15.2268	Testing
+STIM	Blank		15.5275	Testing
+STIM	Circles	--	15.8282	Testing
+STIM	Blank		16.1122	Testing
+STIM	Text	+	16.4129	Testing
+STIM	Blank		16.7136	Testing
+STIM	Circles	--	17.0143	Testing
+STIM	Blank		17.2983	Testing
+STIM	Text	+	17.5989	Testing
+STIM	Blank		17.8996	Testing
+STIM	Circles	--	18.2003	Testing
+STIM	Blank		18.5846	Testing
+STIM	Text	+	18.8852	Testing
+STIM	Blank		19.1859	Testing
+STIM	Circles	--	19.4866	Testing
+STIM	Blank		19.7706	Testing
+STIM	Text	+	20.0713	Testing
+STIM	Blank		20.372	Testing
+STIM	Circles	--	20.6727	Testing
+STIM	Blank		21.0736	Testing
+STIM	Text	+	21.3743	Testing
+STIM	Blank		21.675	Testing
+STIM	Circles	--	21.9757	Testing
+STIM	Blank		22.2597	Testing
+STIM	Text	+	22.5604	Testing
+STIM	Blank		22.8611	Testing
+STIM	Circles	--	23.1618	Testing
+STIM	Blank		23.546	Testing
+STIM	Text	+	23.8467	Testing
+STIM	Blank		24.1474	Testing
+STIM	Circles	--	24.4481	Testing
+STIM	Blank		24.7655	Testing
+STIM	Text	+	25.0662	Testing
+STIM	Blank		25.3669	Testing
+STIM	Circles	--	25.6676	Testing
+STIM	Blank		26.1186	Testing
+STIM	Text	+	26.4193	Testing
+STIM	Blank		26.72	Testing
+STIM	Circles	--	27.0207	Testing
+STIM	Blank		27.1711	Testing
+STIM	Text	+	27.4718	Testing
+STIM	Blank		27.7725	Testing
+STIM	Circles	--	28.0731	Testing
+STIM	Cleanup		28.9084	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:32:41
+
+START	9980.9557		0
+STIM	Paragraph	Press any key to begin.	0.040775
+STIM	Blank		0.62546
+STIM	Text	+	1.6278	Testing
+STIM	Blank		1.9285	Testing
+STIM	Circles	--	2.2292	Testing
+STIM	Blank		2.5299	Testing
+STIM	Text	+	2.8305	Testing
+STIM	Blank		3.1312	Testing
+STIM	Circles	--	3.432	Testing
+STIM	Blank		3.7327	Testing
+STIM	Text	+	4.0333	Testing
+STIM	Blank		4.334	Testing
+STIM	Circles	--	4.6347	Testing
+STIM	Blank		4.9354	Testing
+STIM	Text	+	5.2361	Testing
+STIM	Blank		5.5368	Testing
+STIM	Circles	--	5.8375	Testing
+STIM	Blank		6.1382	Testing
+STIM	Text	+	6.4389	Testing
+STIM	Blank		6.7396	Testing
+STIM	Circles	--	7.0403	Testing
+STIM	Blank		7.341	Testing
+STIM	Text	+	7.6417	Testing
+STIM	Blank		7.9424	Testing
+STIM	Circles	--	8.2431	Testing
+STIM	Blank		8.5438	Testing
+STIM	Text	+	8.8444	Testing
+STIM	Blank		9.1452	Testing
+STIM	Circles	--	9.4459	Testing
+STIM	Blank		9.7465	Testing
+STIM	Text	+	10.0473	Testing
+STIM	Blank		10.3479	Testing
+STIM	Circles	--	10.6486	Testing
+STIM	Blank		10.9493	Testing
+STIM	Text	+	11.25	Testing
+STIM	Blank		11.5507	Testing
+STIM	Circles	--	11.8514	Testing
+STIM	Blank		12.1521	Testing
+STIM	Text	+	12.4528	Testing
+STIM	Blank		12.7535	Testing
+STIM	Circles	--	13.0542	Testing
+STIM	Blank		13.3549	Testing
+STIM	Text	+	13.6556	Testing
+STIM	Blank		13.9563	Testing
+STIM	Circles	--	14.257	Testing
+STIM	Blank		14.5577	Testing
+STIM	Text	+	14.8584	Testing
+STIM	Blank		15.1591	Testing
+STIM	Circles	--	15.4597	Testing
+STIM	Blank		15.7604	Testing
+STIM	Text	+	16.0611	Testing
+STIM	Blank		16.3618	Testing
+STIM	Circles	--	16.6625	Testing
+STIM	Blank		16.9632	Testing
+STIM	Text	+	17.2639	Testing
+STIM	Blank		17.5646	Testing
+STIM	Circles	--	17.8653	Testing
+STIM	Blank		18.166	Testing
+STIM	Text	+	18.4667	Testing
+STIM	Blank		18.7674	Testing
+STIM	Circles	--	19.0681	Testing
+STIM	Blank		19.3688	Testing
+STIM	Text	+	19.6695	Testing
+STIM	Blank		19.9702	Testing
+STIM	Circles	--	20.2709	Testing
+STIM	Blank		20.5716	Testing
+STIM	Text	+	20.8722	Testing
+STIM	Blank		21.173	Testing
+STIM	Circles	--	21.4736	Testing
+STIM	Blank		21.7743	Testing
+STIM	Text	+	22.075	Testing
+STIM	Blank		22.3757	Testing
+STIM	Circles	--	22.6764	Testing
+STIM	Blank		22.9771	Testing
+STIM	Text	+	23.2778	Testing
+STIM	Blank		23.5785	Testing
+STIM	Circles	--	23.8792	Testing
+STIM	Blank		24.1799	Testing
+STIM	Text	+	24.4806	Testing
+STIM	Blank		24.7813	Testing
+STIM	Circles	--	25.082	Testing
+STIM	Blank		25.3827	Testing
+STIM	Text	+	25.6834	Testing
+STIM	Blank		25.9841	Testing
+STIM	Circles	--	26.2848	Testing
+STIM	Blank		26.5855	Testing
+STIM	Text	+	26.8862	Testing
+STIM	Blank		27.1869	Testing
+STIM	Circles	--	27.4875	Testing
+STIM	Blank		27.7882	Testing
+STIM	Text	+	28.0889	Testing
+STIM	Blank		28.3896	Testing
+STIM	Circles	--	28.6903	Testing
+STIM	Blank		28.991	Testing
+STIM	Text	+	29.2917	Testing
+STIM	Blank		29.5924	Testing
+STIM	Circles	--	29.8931	Testing
+STIM	Blank		30.1938	Testing
+STIM	Text	+	30.4945	Testing
+STIM	Blank		30.7952	Testing
+STIM	Circles	--	31.0959	Testing
+STIM	Blank		31.3966	Testing
+STIM	Text	+	31.6973	Testing
+STIM	Blank		31.998	Testing
+STIM	Circles	--	32.2987	Testing
+STIM	Blank		32.5993	Testing
+STIM	Text	+	32.9001	Testing
+STIM	Blank		33.2007	Testing
+STIM	Circles	--	33.5014	Testing
+STIM	Blank		33.8021	Testing
+STIM	Text	+	34.1028	Testing
+STIM	Blank		34.4035	Testing
+STIM	Circles	--	34.7042	Testing
+STIM	Blank		35.0049	Testing
+STIM	Text	+	35.3056	Testing
+STIM	Blank		35.6063	Testing
+STIM	Circles	--	35.907	Testing
+STIM	Blank		36.2077	Testing
+STIM	Text	+	36.5084	Testing
+STIM	Blank		36.8091	Testing
+STIM	Circles	--	37.1098	Testing
+STIM	Blank		37.4105	Testing
+STIM	Text	+	37.7112	Testing
+STIM	Blank		38.0119	Testing
+STIM	Circles	--	38.3126	Testing
+STIM	Blank		38.6133	Testing
+STIM	Text	+	38.914	Testing
+STIM	Blank		39.2146	Testing
+STIM	Circles	--	39.5153	Testing
+STIM	Blank		39.816	Testing
+STIM	Text	+	40.1167	Testing
+STIM	Blank		40.4174	Testing
+STIM	Circles	--	40.7181	Testing
+STIM	Blank		41.0188	Testing
+STIM	Text	+	41.3195	Testing
+STIM	Blank		41.6202	Testing
+STIM	Circles	--	41.9209	Testing
+STIM	Blank		42.2216	Testing
+STIM	Text	+	42.5223	Testing
+STIM	Blank		42.823	Testing
+STIM	Circles	--	43.1237	Testing
+STIM	Blank		43.4244	Testing
+STIM	Text	+	43.7251	Testing
+STIM	Blank		44.0258	Testing
+STIM	Circles	--	44.3265	Testing
+STIM	Blank		44.6272	Testing
+STIM	Text	+	44.9278	Testing
+STIM	Blank		45.2285	Testing
+STIM	Circles	--	45.5293	Testing
+STIM	Blank		45.83	Testing
+STIM	Text	+	46.1306	Testing
+STIM	Blank		46.4313	Testing
+STIM	Circles	--	46.732	Testing
+STIM	Blank		47.0327	Testing
+STIM	Text	+	47.3334	Testing
+STIM	Blank		47.6341	Testing
+STIM	Circles	--	47.9348	Testing
+STIM	Blank		48.2355	Testing
+STIM	Text	+	48.5362	Testing
+STIM	Blank		48.8369	Testing
+STIM	Circles	--	49.1376	Testing
+STIM	Blank		49.4383	Testing
+STIM	Text	The experiment is now over.	49.739	Testing
+STIM	Blank		52.5622	Testing
+STIM	Cleanup		52.6624	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:34:22
+
+START	10081.8225		0
+STIM	Paragraph	Press any key to begin.	0.057073
+STIM	Blank		1.2933
+STIM	Text	+	2.2956	Testing
+STIM	Blank		2.5963	Testing
+STIM	Circles	--	2.897	Testing
+STIM	Blank		3.1977	Testing
+STIM	Text	+	3.4984	Testing
+STIM	Blank		3.7991	Testing
+STIM	Circles	--	4.0998	Testing
+STIM	Blank		4.4005	Testing
+STIM	Text	+	4.7011	Testing
+STIM	Blank		5.0018	Testing
+STIM	Circles	--	5.3025	Testing
+STIM	Blank		5.6032	Testing
+STIM	Text	+	5.9039	Testing
+STIM	Blank		6.2046	Testing
+STIM	Circles	--	6.5053	Testing
+STIM	Blank		6.806	Testing
+STIM	Text	+	7.1067	Testing
+STIM	Blank		7.4074	Testing
+STIM	Circles	--	7.7081	Testing
+STIM	Blank		8.0088	Testing
+STIM	Text	+	8.3095	Testing
+STIM	Blank		8.6102	Testing
+STIM	Circles	--	8.9109	Testing
+STIM	Blank		9.2116	Testing
+STIM	Text	+	9.5123	Testing
+STIM	Blank		9.813	Testing
+STIM	Circles	--	10.1137	Testing
+STIM	Blank		10.4143	Testing
+STIM	Text	+	10.7151	Testing
+STIM	Blank		11.0157	Testing
+STIM	Circles	--	11.3164	Testing
+STIM	Blank		11.6171	Testing
+STIM	Text	+	11.9178	Testing
+STIM	Blank		12.2185	Testing
+STIM	Circles	--	12.5192	Testing
+STIM	Blank		12.8199	Testing
+STIM	Text	+	13.1206	Testing
+STIM	Blank		13.4213	Testing
+STIM	Circles	--	13.722	Testing
+STIM	Blank		14.0227	Testing
+STIM	Text	+	14.3234	Testing
+STIM	Blank		14.6241	Testing
+STIM	Circles	--	14.9248	Testing
+STIM	Blank		15.2255	Testing
+STIM	Text	+	15.5261	Testing
+STIM	Blank		15.8269	Testing
+STIM	Circles	--	16.1276	Testing
+STIM	Blank		16.4283	Testing
+STIM	Text	+	16.729	Testing
+STIM	Blank		17.0297	Testing
+STIM	Circles	--	17.3303	Testing
+STIM	Blank		17.631	Testing
+STIM	Text	+	17.9317	Testing
+STIM	Blank		18.2324	Testing
+STIM	Circles	--	18.5331	Testing
+STIM	Blank		18.8338	Testing
+STIM	Text	+	19.1345	Testing
+STIM	Blank		19.4352	Testing
+STIM	Circles	--	19.7359	Testing
+STIM	Blank		20.0366	Testing
+STIM	Text	+	20.3373	Testing
+STIM	Blank		20.638	Testing
+STIM	Circles	--	20.9387	Testing
+STIM	Blank		21.2394	Testing
+STIM	Text	+	21.5401	Testing
+STIM	Blank		21.8408	Testing
+STIM	Circles	--	22.1414	Testing
+STIM	Blank		22.4421	Testing
+STIM	Text	+	22.7428	Testing
+STIM	Blank		23.0435	Testing
+STIM	Circles	--	23.3442	Testing
+STIM	Blank		23.6449	Testing
+STIM	Text	+	23.9456	Testing
+STIM	Blank		24.2463	Testing
+STIM	Circles	--	24.547	Testing
+STIM	Blank		24.8477	Testing
+STIM	Text	+	25.1484	Testing
+STIM	Blank		25.4491	Testing
+STIM	Circles	--	25.7498	Testing
+STIM	Blank		26.0505	Testing
+STIM	Text	+	26.3512	Testing
+STIM	Blank		26.6519	Testing
+STIM	Circles	--	26.9526	Testing
+STIM	Blank		27.2533	Testing
+STIM	Text	+	27.554	Testing
+STIM	Blank		27.8546	Testing
+STIM	Circles	--	28.1553	Testing
+STIM	Blank		28.4561	Testing
+STIM	Text	+	28.7567	Testing
+STIM	Blank		29.0574	Testing
+STIM	Circles	--	29.3581	Testing
+STIM	Blank		29.6588	Testing
+STIM	Text	+	29.9595	Testing
+STIM	Blank		30.2602	Testing
+STIM	Circles	--	30.5609	Testing
+STIM	Blank		30.8616	Testing
+STIM	Text	+	31.1623	Testing
+STIM	Blank		31.463	Testing
+STIM	Circles	--	31.7637	Testing
+STIM	Blank		32.0644	Testing
+STIM	Text	+	32.3651	Testing
+STIM	Blank		32.6658	Testing
+STIM	Circles	--	32.9665	Testing
+STIM	Blank		33.2672	Testing
+STIM	Text	+	33.5679	Testing
+STIM	Blank		33.8686	Testing
+STIM	Circles	--	34.1693	Testing
+STIM	Blank		34.47	Testing
+STIM	Text	+	34.7706	Testing
+STIM	Blank		35.0713	Testing
+STIM	Circles	--	35.372	Testing
+STIM	Blank		35.6727	Testing
+STIM	Text	+	35.9734	Testing
+STIM	Blank		36.2741	Testing
+STIM	Circles	--	36.5748	Testing
+STIM	Blank		36.8755	Testing
+STIM	Text	+	37.1762	Testing
+STIM	Blank		37.4769	Testing
+STIM	Circles	--	37.7776	Testing
+STIM	Blank		38.0783	Testing
+STIM	Text	+	38.379	Testing
+STIM	Blank		38.6797	Testing
+STIM	Circles	--	38.9804	Testing
+STIM	Blank		39.2811	Testing
+STIM	Text	+	39.5818	Testing
+STIM	Blank		39.8825	Testing
+STIM	Circles	--	40.1831	Testing
+STIM	Blank		40.4839	Testing
+STIM	Text	+	40.7845	Testing
+STIM	Blank		41.0852	Testing
+STIM	Circles	--	41.3859	Testing
+STIM	Blank		41.6866	Testing
+STIM	Text	+	41.9873	Testing
+STIM	Blank		42.288	Testing
+STIM	Circles	--	42.5887	Testing
+STIM	Blank		42.8894	Testing
+STIM	Text	+	43.1901	Testing
+STIM	Blank		43.4908	Testing
+STIM	Circles	--	43.7915	Testing
+STIM	Blank		44.0922	Testing
+STIM	Text	+	44.3929	Testing
+STIM	Blank		44.6936	Testing
+STIM	Circles	--	44.9943	Testing
+STIM	Blank		45.2949	Testing
+STIM	Text	+	45.5957	Testing
+STIM	Blank		45.8963	Testing
+STIM	Circles	--	46.197	Testing
+STIM	Blank		46.4977	Testing
+STIM	Text	+	46.7984	Testing
+STIM	Blank		47.0991	Testing
+STIM	Circles	--	47.3998	Testing
+STIM	Blank		47.7005	Testing
+STIM	Text	+	48.0012	Testing
+STIM	Blank		48.3019	Testing
+STIM	Circles	--	48.6026	Testing
+STIM	Blank		48.9033	Testing
+STIM	Text	+	49.204	Testing
+STIM	Blank		49.5047	Testing
+STIM	Circles	--	49.8054	Testing
+STIM	Blank		50.1061	Testing
+STIM	Text	The experiment is now over.	50.4068	Testing
+STIM	Blank		52.4782	Testing
+STIM	Cleanup		52.5785	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:40:45
+
+START	10464.2392		0
+STIM	Paragraph	Press any key to begin.	0.057524
+STIM	Blank		0.70901
+STIM	Text	+	1.7113	Testing
+STIM	Blank		2.012	Testing
+STIM	Circles	--	2.3127	Testing
+STIM	Blank		4.2171	Testing
+STIM	Text	+	4.5178	Testing
+STIM	Blank		4.8185	Testing
+STIM	Circles	--	5.1192	Testing
+STIM	Blank		10.0473	Testing
+STIM	Text	+	10.348	Testing
+STIM	Blank		10.6487	Testing
+STIM	Circles	--	10.9494	Testing
+STIM	Cleanup		17.1303	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:41:41
+
+START	10520.1011		0
+STIM	Paragraph	Press any key to begin.	0.04141
+STIM	Blank		0.60937
+STIM	Text	+	1.6117	Testing
+STIM	Blank		1.9124	Testing
+STIM	Circles	--	2.2131	Testing
+STIM	Blank		4.7523	Testing
+STIM	Text	+	5.053	Testing
+STIM	Blank		5.3537	Testing
+STIM	Circles	--	5.6544	Testing
+STIM	Blank		10.7996	Testing
+STIM	Text	+	11.1003	Testing
+STIM	Blank		11.401	Testing
+STIM	Circles	--	11.7017	Testing
+STIM	Cleanup		12.6038	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:42:03
+
+START	10542.9044		0
+STIM	Paragraph	Press any key to begin.	0.040828
+STIM	Blank		0.80926
+STIM	Text	+	1.8116	Testing
+STIM	Blank		2.1123	Testing
+STIM	Circles	--	2.413	Testing
+STIM	Cleanup		8.4101	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:42:41
+
+START	10580.8254		0
+STIM	Paragraph	Press any key to begin.	0.040784
+STIM	Blank		0.54193
+STIM	Text	+	1.5442	Testing
+STIM	Blank		1.8449	Testing
+STIM	Circles	--	2.1457	Testing
+STIM	Cleanup		2.3127	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:43:14
+
+START	10613.5821		0
+STIM	Paragraph	Press any key to begin.	0.042702
+STIM	Blank		4.4529
+STIM	Cleanup		10.567	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:43:30
+
+START	10629.6539		0
+STIM	Paragraph	Press any key to begin.	0.058488
+STIM	Blank		0.64317
+STIM	Text	+	1.6455	Testing
+STIM	Blank		1.9462	Testing
+STIM	Circles	--	2.2469	Testing
+STIM	Blank		2.8984	Testing
+STIM	Text	+	3.1991	Testing
+STIM	Blank		3.4998	Testing
+STIM	Circles	--	3.8005	Testing
+STIM	Blank		4.5689	Testing
+STIM	Text	+	4.8696	Testing
+STIM	Blank		5.1703	Testing
+STIM	Circles	--	5.471	Testing
+STIM	Blank		6.6738	Testing
+STIM	Text	+	6.9745	Testing
+STIM	Blank		7.2752	Testing
+STIM	Circles	--	7.5758	Testing
+STIM	Blank		8.4278	Testing
+STIM	Text	+	8.7285	Testing
+STIM	Blank		9.0292	Testing
+STIM	Circles	--	9.3299	Testing
+STIM	Blank		10.1318	Testing
+STIM	Text	+	10.4325	Testing
+STIM	Blank		10.7332	Testing
+STIM	Circles	--	11.0338	Testing
+STIM	Blank		12.4037	Testing
+STIM	Text	+	12.7044	Testing
+STIM	Blank		13.0051	Testing
+STIM	Circles	--	13.3058	Testing
+STIM	Blank		14.0408	Testing
+STIM	Text	+	14.3415	Testing
+STIM	Blank		14.6422	Testing
+STIM	Circles	--	14.9429	Testing
+STIM	Cleanup		15.6946	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:47:38
+
+START	10877.5947		0
+STIM	Paragraph	Press any key to begin.	0.040617
+STIM	Blank		0.64199
+STIM	Text	+	1.6443	Testing
+STIM	Blank		1.945	Testing
+STIM	Circles	--	2.2457	Testing
+STIM	Cleanup		3.4151	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:47:55
+
+START	10894.6155		0
+STIM	Paragraph	Press any key to begin.	0.04215
+STIM	Blank		4.7865
+STIM	Cleanup		8.4116	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:48:09
+
+START	10908.5318		0
+STIM	Paragraph	Press any key to begin.	0.05845
+STIM	Blank		1.044
+STIM	Text	+	2.0464	Testing
+STIM	Blank		2.3471	Testing
+STIM	Circles	--	2.6478	Testing
+STIM	Blank		5.4208	Testing
+STIM	Text	+	5.7215	Testing
+STIM	Blank		6.0222	Testing
+STIM	Circles	--	6.3229	Testing
+STIM	Cleanup		6.9243	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 00:49:21
+
+START	10980.8318		0
+STIM	Paragraph	Press any key to begin.	0.042092
+STIM	Blank		0.59338
+STIM	Text	+	1.5957	Testing
+STIM	Blank		1.8964	Testing
+STIM	Circles	--	2.1971	Testing
+STIM	Blank		2.9655	Testing
+STIM	Text	+	3.2662	Testing
+STIM	Blank		3.5669	Testing
+STIM	Circles	--	3.8676	Testing
+STIM	Cleanup		6.2064	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:02:31
+
+START	11770.3758		0
+STIM	Paragraph	Press any key to begin.	0.056196
+STIM	Blank		0.54066
+STIM	Text	+	1.543	Testing
+STIM	Blank		1.8437	Testing
+STIM	Circles	--	2.1444	Testing
+STIM	Blank		3.2135	Testing
+STIM	Text	+	3.5142	Testing
+STIM	Blank		3.8149	Testing
+STIM	Circles	--	4.1156	Testing
+STIM	Blank		5.1012	Testing
+STIM	Text	+	5.4019	Testing
+STIM	Blank		5.7026	Testing
+STIM	Circles	--	6.0033	Testing
+STIM	Blank		7.2896	Testing
+STIM	Text	+	7.5903	Testing
+STIM	Blank		7.891	Testing
+STIM	Circles	--	8.1917	Testing
+STIM	Blank		8.9267	Testing
+STIM	Text	+	9.2274	Testing
+STIM	Blank		9.5281	Testing
+STIM	Circles	--	9.8288	Testing
+STIM	Blank		20.6204	Testing
+STIM	Text	+	20.9211	Testing
+STIM	Blank		21.2218	Testing
+STIM	Circles	--	21.5225	Testing
+STIM	Blank		24.9638	Testing
+STIM	Text	+	25.2645	Testing
+STIM	Blank		25.5652	Testing
+STIM	Circles	--	25.8658	Testing
+STIM	Blank		28.3048	Testing
+STIM	Text	+	28.6055	Testing
+STIM	Blank		28.9062	Testing
+STIM	Circles	--	29.2069	Testing
+STIM	Blank		34.6862	Testing
+STIM	Text	+	34.9869	Testing
+STIM	Blank		35.2876	Testing
+STIM	Circles	--	35.5883	Testing
+STIM	Blank		37.8435	Testing
+STIM	Text	+	38.1442	Testing
+STIM	Blank		38.4449	Testing
+STIM	Circles	--	38.7456	Testing
+STIM	Blank		40.2825	Testing
+STIM	Text	+	40.5832	Testing
+STIM	Blank		40.8839	Testing
+STIM	Circles	--	41.1846	Testing
+STIM	Blank		41.6356	Testing
+STIM	Text	+	41.9363	Testing
+STIM	Blank		42.237	Testing
+STIM	Circles	--	42.5377	Testing
+STIM	Blank		43.3229	Testing
+STIM	Text	+	43.6236	Testing
+STIM	Blank		43.9242	Testing
+STIM	Circles	--	44.225	Testing
+STIM	Blank		48.986	Testing
+STIM	Text	+	49.2867	Testing
+STIM	Blank		49.5873	Testing
+STIM	Circles	--	49.888	Testing
+STIM	Blank		51.1409	Testing
+STIM	Text	+	51.4416	Testing
+STIM	Blank		51.7423	Testing
+STIM	Circles	--	52.043	Testing
+STIM	Blank		53.0286	Testing
+STIM	Text	+	53.3293	Testing
+STIM	Blank		53.63	Testing
+STIM	Circles	--	53.9307	Testing
+STIM	Cleanup		60.3622	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:03:56
+
+START	11855.8218		0
+STIM	Paragraph	Press any key to begin.	0.040968
+STIM	Blank		0.60893
+STIM	Text	+	1.6113	Testing
+STIM	Blank		1.912	Testing
+STIM	Circles	--	2.2126	Testing
+STIM	Blank		2.6637	Testing
+STIM	Text	+	2.9644	Testing
+STIM	Blank		3.2651	Testing
+STIM	Circles	--	3.5658	Testing
+STIM	Blank		4.0335	Testing
+STIM	Text	+	4.3342	Testing
+STIM	Blank		4.6349	Testing
+STIM	Circles	--	4.9356	Testing
+STIM	Blank		5.8711	Testing
+STIM	Text	+	6.1718	Testing
+STIM	Blank		6.4725	Testing
+STIM	Circles	--	6.7732	Testing
+STIM	Blank		7.5082	Testing
+STIM	Text	+	7.8089	Testing
+STIM	Blank		8.1096	Testing
+STIM	Circles	--	8.4103	Testing
+STIM	Blank		9.8637	Testing
+STIM	Text	+	10.1644	Testing
+STIM	Blank		10.4651	Testing
+STIM	Circles	--	10.7658	Testing
+STIM	Blank		11.6679	Testing
+STIM	Text	+	11.9685	Testing
+STIM	Blank		12.2692	Testing
+STIM	Circles	--	12.5699	Testing
+STIM	Blank		13.6892	Testing
+STIM	Text	+	13.9899	Testing
+STIM	Blank		14.2906	Testing
+STIM	Circles	--	14.5913	Testing
+STIM	Blank		16.2952	Testing
+STIM	Text	+	16.5959	Testing
+STIM	Blank		16.8966	Testing
+STIM	Circles	--	17.1973	Testing
+STIM	Blank		18.233	Testing
+STIM	Text	+	18.5337	Testing
+STIM	Blank		18.8344	Testing
+STIM	Circles	--	19.1351	Testing
+STIM	Blank		20.1708	Testing
+STIM	Text	+	20.4715	Testing
+STIM	Blank		20.7722	Testing
+STIM	Circles	--	21.0729	Testing
+STIM	Blank		21.7411	Testing
+STIM	Text	+	22.0418	Testing
+STIM	Blank		22.3425	Testing
+STIM	Circles	--	22.6432	Testing
+STIM	Blank		23.3281	Testing
+STIM	Text	+	23.6288	Testing
+STIM	Blank		23.9295	Testing
+STIM	Circles	--	24.2302	Testing
+STIM	Blank		25.2826	Testing
+STIM	Text	+	25.5833	Testing
+STIM	Blank		25.884	Testing
+STIM	Circles	--	26.1847	Testing
+STIM	Blank		27.1703	Testing
+STIM	Text	+	27.471	Testing
+STIM	Blank		27.7717	Testing
+STIM	Circles	--	28.0724	Testing
+STIM	Blank		29.2585	Testing
+STIM	Text	+	29.5592	Testing
+STIM	Blank		29.8599	Testing
+STIM	Circles	--	30.1606	Testing
+STIM	Cleanup		30.929	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:10:39
+
+START	12258.3685		0
+STIM	Paragraph	Press any key to begin.	0.041291
+STIM	Blank		0.62598
+STIM	Text	+	1.6283	Testing
+STIM	Blank		1.929	Testing
+STIM	Circles	--	2.2297	Testing
+STIM	Cleanup		5.9215	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:11:00
+
+START	12279.951		0
+STIM	Paragraph	Press any key to begin.	0.042012
+STIM	Blank		0.67679
+STIM	Text	+	1.6791	Testing
+STIM	Blank		1.9798	Testing
+STIM	Circles	--	2.2805	Testing
+STIM	Cleanup		5.2875	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:11:32
+
+START	12312.0245		0
+STIM	Paragraph	Press any key to begin.	0.042231
+STIM	Blank		0.82737
+STIM	Cleanup		16.0793	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:11:54
+
+START	12333.9594		0
+STIM	Paragraph	Press any key to begin.	0.058427
+STIM	Blank		0.84357
+STIM	Text	+	1.8459	Testing
+STIM	Blank		2.1466	Testing
+STIM	Circles	--	2.4473	Testing
+STIM	Blank		4.3684	Testing
+STIM	Text	+	4.6691	Testing
+STIM	Blank		4.9698	Testing
+STIM	Circles	--	5.2705	Testing
+STIM	Cleanup		7.6593	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:13:22
+
+START	12421.0443		0
+STIM	Paragraph	Press any key to begin.	0.041074
+STIM	Blank		0.54223
+STIM	Cleanup		3.5492	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:13:30
+
+START	12429.1635		0
+STIM	Paragraph	Press any key to begin.	0.057716
+STIM	Blank		0.57558
+STIM	Text	+	1.5779	Testing
+STIM	Blank		1.8786	Testing
+STIM	Circles	--	2.1793	Testing
+STIM	Blank		2.9644	Testing
+STIM	Text	+	3.2651	Testing
+STIM	Blank		3.5658	Testing
+STIM	Circles	--	3.8665	Testing
+STIM	Blank		4.6349	Testing
+STIM	Text	+	4.9356	Testing
+STIM	Blank		5.2364	Testing
+STIM	Circles	--	5.537	Testing
+STIM	Blank		6.4224	Testing
+STIM	Text	+	6.7231	Testing
+STIM	Blank		7.0238	Testing
+STIM	Circles	--	7.3245	Testing
+STIM	Blank		8.6609	Testing
+STIM	Text	+	8.9616	Testing
+STIM	Blank		9.2623	Testing
+STIM	Circles	--	9.563	Testing
+STIM	Blank		11.4674	Testing
+STIM	Text	+	11.7681	Testing
+STIM	Blank		12.0688	Testing
+STIM	Circles	--	12.3695	Testing
+STIM	Blank		13.2382	Testing
+STIM	Text	+	13.5389	Testing
+STIM	Blank		13.8396	Testing
+STIM	Circles	--	14.1402	Testing
+STIM	Blank		15.6939	Testing
+STIM	Text	+	15.9945	Testing
+STIM	Blank		16.2952	Testing
+STIM	Circles	--	16.5959	Testing
+STIM	Blank		19.9537	Testing
+STIM	Text	+	20.2544	Testing
+STIM	Blank		20.5551	Testing
+STIM	Circles	--	20.8558	Testing
+STIM	Blank		22.2256	Testing
+STIM	Text	+	22.5263	Testing
+STIM	Blank		22.827	Testing
+STIM	Circles	--	23.1277	Testing
+STIM	Cleanup		24.0966	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:14:13
+
+START	12472.2458		0
+STIM	Paragraph	Press any key to begin.	0.041616
+STIM	Blank		0.62629
+STIM	Text	+	1.6286	Testing
+STIM	Blank		1.9293	Testing
+STIM	Circles	--	2.23	Testing
+STIM	Blank		2.6643	Testing
+STIM	Text	+	2.965	Testing
+STIM	Blank		3.2657	Testing
+STIM	Circles	--	3.5664	Testing
+STIM	Blank		4.0676	Testing
+STIM	Text	+	4.3683	Testing
+STIM	Blank		4.669	Testing
+STIM	Circles	--	4.9697	Testing
+STIM	Blank		5.8216	Testing
+STIM	Text	+	6.1223	Testing
+STIM	Blank		6.423	Testing
+STIM	Circles	--	6.7237	Testing
+STIM	Blank		7.3585	Testing
+STIM	Text	+	7.6592	Testing
+STIM	Blank		7.9599	Testing
+STIM	Circles	--	8.2606	Testing
+STIM	Blank		8.9956	Testing
+STIM	Text	+	9.2963	Testing
+STIM	Blank		9.597	Testing
+STIM	Circles	--	9.8977	Testing
+STIM	Cleanup		10.2652	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:14:47
+
+START	12506.9253		0
+STIM	Paragraph	Press any key to begin.	0.042264
+STIM	Blank		1.1281
+STIM	Text	+	2.1305	Testing
+STIM	Blank		2.4311	Testing
+STIM	Circles	--	2.7318	Testing
+STIM	Blank		4.6696	Testing
+STIM	Text	+	4.9703	Testing
+STIM	Blank		5.271	Testing
+STIM	Circles	--	5.5717	Testing
+STIM	Blank		6.123	Testing
+STIM	Text	+	6.4237	Testing
+STIM	Blank		6.7244	Testing
+STIM	Circles	--	7.0251	Testing
+STIM	Blank		7.7935	Testing
+STIM	Text	+	8.0942	Testing
+STIM	Blank		8.3949	Testing
+STIM	Circles	--	8.6956	Testing
+STIM	Blank		9.3137	Testing
+STIM	Text	+	9.6144	Testing
+STIM	Blank		9.9151	Testing
+STIM	Circles	--	10.2158	Testing
+STIM	Blank		10.884	Testing
+STIM	Text	+	11.1847	Testing
+STIM	Blank		11.4854	Testing
+STIM	Circles	--	11.7861	Testing
+STIM	Blank		12.2705	Testing
+STIM	Text	+	12.5712	Testing
+STIM	Blank		12.8719	Testing
+STIM	Circles	--	13.1726	Testing
+STIM	Blank		13.7072	Testing
+STIM	Text	+	14.0079	Testing
+STIM	Blank		14.3086	Testing
+STIM	Circles	--	14.6093	Testing
+STIM	Blank		15.4445	Testing
+STIM	Text	+	15.7452	Testing
+STIM	Blank		16.0459	Testing
+STIM	Circles	--	16.3466	Testing
+STIM	Blank		16.7643	Testing
+STIM	Text	+	17.0649	Testing
+STIM	Blank		17.3656	Testing
+STIM	Circles	--	17.6663	Testing
+STIM	Blank		18.1842	Testing
+STIM	Text	+	18.4849	Testing
+STIM	Blank		18.7856	Testing
+STIM	Circles	--	19.0863	Testing
+STIM	Blank		19.671	Testing
+STIM	Text	+	19.9717	Testing
+STIM	Blank		20.2724	Testing
+STIM	Circles	--	20.5731	Testing
+STIM	Blank		21.709	Testing
+STIM	Text	+	22.0097	Testing
+STIM	Blank		22.3104	Testing
+STIM	Circles	--	22.6111	Testing
+STIM	Cleanup		22.9619	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:20:37
+
+START	12857.0193		0
+STIM	Paragraph	Press any key to begin.	0.040751
+STIM	Blank		0.85932
+STIM	Text	+	1.8616	Testing
+STIM	Blank		2.1623	Testing
+STIM	Circles	--	2.463	Testing
+STIM	Blank		3.6157	Testing
+STIM	Text	+	3.9164	Testing
+STIM	Blank		4.2171	Testing
+STIM	Circles	--	4.5178	Testing
+STIM	Blank		5.069	Testing
+STIM	Text	+	5.3697	Testing
+STIM	Blank		5.6704	Testing
+STIM	Circles	--	5.9711	Testing
+STIM	Blank		6.9567	Testing
+STIM	Text	+	7.2574	Testing
+STIM	Blank		7.5581	Testing
+STIM	Circles	--	7.8588	Testing
+STIM	Blank		8.36	Testing
+STIM	Text	+	8.6607	Testing
+STIM	Blank		8.9614	Testing
+STIM	Circles	--	9.2621	Testing
+STIM	Blank		9.9804	Testing
+STIM	Text	+	10.2811	Testing
+STIM	Blank		10.5818	Testing
+STIM	Circles	--	10.8825	Testing
+STIM	Blank		11.7178	Testing
+STIM	Text	+	12.0184	Testing
+STIM	Blank		12.3191	Testing
+STIM	Circles	--	12.6198	Testing
+STIM	Blank		16.3284	Testing
+STIM	Text	+	16.6291	Testing
+STIM	Blank		16.9298	Testing
+STIM	Circles	--	17.2305	Testing
+STIM	Blank		21.1061	Testing
+STIM	Text	+	21.4068	Testing
+STIM	Blank		21.7075	Testing
+STIM	Circles	--	22.0082	Testing
+STIM	Blank		25.6332	Testing
+STIM	Text	+	25.9339	Testing
+STIM	Blank		26.2346	Testing
+STIM	Circles	--	26.5353	Testing
+STIM	Blank		35.2388	Testing
+STIM	Text	+	35.5395	Testing
+STIM	Blank		35.8402	Testing
+STIM	Circles	--	36.1409	Testing
+STIM	Blank		37.1933	Testing
+STIM	Text	+	37.494	Testing
+STIM	Blank		37.7947	Testing
+STIM	Circles	--	38.0954	Testing
+STIM	Blank		38.5798	Testing
+STIM	Text	+	38.8805	Testing
+STIM	Blank		39.1812	Testing
+STIM	Circles	--	39.4819	Testing
+STIM	Cleanup		40.8518	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:21:40
+
+START	12919.4961		0
+STIM	Paragraph	Press any key to begin.	0.041637
+STIM	Blank		0.52609
+STIM	Text	+	1.5284	Testing
+STIM	Blank		1.8291	Testing
+STIM	Circles	--	2.1298	Testing
+STIM	Blank		2.4305	Testing
+STIM	Text	+	2.7312	Testing
+STIM	Blank		3.0319	Testing
+STIM	Circles	--	3.3326	Testing
+STIM	Blank		3.6333	Testing
+STIM	Text	+	3.934	Testing
+STIM	Blank		4.2347	Testing
+STIM	Circles	--	4.5354	Testing
+STIM	Blank		4.8361	Testing
+STIM	Text	+	5.1367	Testing
+STIM	Blank		5.4374	Testing
+STIM	Circles	--	5.7382	Testing
+STIM	Blank		6.0388	Testing
+STIM	Text	+	6.3395	Testing
+STIM	Blank		6.6402	Testing
+STIM	Circles	--	6.9409	Testing
+STIM	Blank		7.2416	Testing
+STIM	Text	+	7.5423	Testing
+STIM	Blank		7.843	Testing
+STIM	Circles	--	8.1437	Testing
+STIM	Blank		8.4444	Testing
+STIM	Text	+	8.7451	Testing
+STIM	Blank		9.0458	Testing
+STIM	Circles	--	9.3465	Testing
+STIM	Blank		9.6472	Testing
+STIM	Text	+	9.9479	Testing
+STIM	Blank		10.2486	Testing
+STIM	Circles	--	10.5493	Testing
+STIM	Blank		10.85	Testing
+STIM	Text	+	11.1506	Testing
+STIM	Blank		11.4514	Testing
+STIM	Circles	--	11.752	Testing
+STIM	Blank		12.0527	Testing
+STIM	Text	+	12.3534	Testing
+STIM	Blank		12.6541	Testing
+STIM	Circles	--	12.9548	Testing
+STIM	Blank		13.2555	Testing
+STIM	Text	+	13.5562	Testing
+STIM	Blank		13.8569	Testing
+STIM	Circles	--	14.1576	Testing
+STIM	Blank		14.4583	Testing
+STIM	Text	+	14.759	Testing
+STIM	Blank		15.0597	Testing
+STIM	Circles	--	15.3604	Testing
+STIM	Blank		15.6611	Testing
+STIM	Text	+	15.9618	Testing
+STIM	Blank		16.2625	Testing
+STIM	Circles	--	16.5632	Testing
+STIM	Blank		16.8639	Testing
+STIM	Text	+	17.1645	Testing
+STIM	Blank		17.4652	Testing
+STIM	Circles	--	17.7659	Testing
+STIM	Blank		18.0666	Testing
+STIM	Text	+	18.3673	Testing
+STIM	Blank		18.668	Testing
+STIM	Circles	--	18.9687	Testing
+STIM	Blank		19.2694	Testing
+STIM	Text	+	19.5701	Testing
+STIM	Blank		19.8708	Testing
+STIM	Circles	--	20.1715	Testing
+STIM	Blank		20.4722	Testing
+STIM	Text	+	20.7729	Testing
+STIM	Blank		21.0736	Testing
+STIM	Circles	--	21.3743	Testing
+STIM	Blank		21.675	Testing
+STIM	Text	+	21.9757	Testing
+STIM	Blank		22.2764	Testing
+STIM	Circles	--	22.5771	Testing
+STIM	Blank		22.8777	Testing
+STIM	Text	+	23.1784	Testing
+STIM	Blank		23.4791	Testing
+STIM	Circles	--	23.7798	Testing
+STIM	Blank		24.0805	Testing
+STIM	Text	+	24.3812	Testing
+STIM	Blank		24.6819	Testing
+STIM	Circles	--	24.9826	Testing
+STIM	Blank		25.2833	Testing
+STIM	Text	+	25.584	Testing
+STIM	Blank		25.8847	Testing
+STIM	Circles	--	26.1854	Testing
+STIM	Blank		26.4861	Testing
+STIM	Text	+	26.7868	Testing
+STIM	Blank		27.0875	Testing
+STIM	Circles	--	27.3882	Testing
+STIM	Blank		27.6889	Testing
+STIM	Text	+	27.9896	Testing
+STIM	Blank		28.2903	Testing
+STIM	Circles	--	28.5909	Testing
+STIM	Blank		28.8916	Testing
+STIM	Text	+	29.1923	Testing
+STIM	Blank		29.493	Testing
+STIM	Circles	--	29.7937	Testing
+STIM	Blank		30.0944	Testing
+STIM	Text	+	30.3951	Testing
+STIM	Blank		30.6958	Testing
+STIM	Circles	--	30.9965	Testing
+STIM	Blank		31.2972	Testing
+STIM	Text	+	31.5979	Testing
+STIM	Blank		31.8986	Testing
+STIM	Circles	--	32.1993	Testing
+STIM	Blank		32.5	Testing
+STIM	Text	+	32.8007	Testing
+STIM	Blank		33.1014	Testing
+STIM	Circles	--	33.4021	Testing
+STIM	Blank		33.7028	Testing
+STIM	Text	+	34.0035	Testing
+STIM	Blank		34.3041	Testing
+STIM	Circles	--	34.6048	Testing
+STIM	Cleanup		34.7719	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:29:08
+
+START	13367.228		0
+STIM	Paragraph	Press any key to begin.	0.04452
+STIM	Blank		0.71272
+STIM	Cleanup		1.7151	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:29:41
+
+START	13400.2257		0
+STIM	Paragraph	Press any key to begin.	0.039678
+STIM	Blank		0.44058
+STIM	Text	+	1.4429	Testing
+STIM	Blank		1.7436	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:30:18
+
+START	13437.995		0
+STIM	Paragraph	Press any key to begin.	0.041056
+STIM	Blank		0.52551
+STIM	Text	+	1.5278	Testing
+STIM	Blank		1.8285	Testing
+STIM	Circles	--	2.1292	Testing
+STIM	Blank		3.1148	Testing
+STIM	Text	+	3.4155	Testing
+STIM	Blank		3.7162	Testing
+STIM	Circles	--	4.0169	Testing
+STIM	Cleanup		5.0526	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:31:08
+
+START	13487.3084		0
+STIM	Paragraph	Press any key to begin.	0.041603
+STIM	Blank		0.67641
+STIM	Text	+	1.6787	Testing
+STIM	Blank		1.9794	Testing
+STIM	Circles	--	2.2801	Testing
+STIM	Blank		3.1989	Testing
+STIM	Text	+	3.4996	Testing
+STIM	Blank		3.8003	Testing
+STIM	Circles	--	4.101	Testing
+STIM	Cleanup		4.4852	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:36:27
+
+START	13806.2608		0
+STIM	Paragraph	Press any key to begin.	0.043071
+STIM	Blank		0.72797
+STIM	Text	+	1.7303	Testing
+STIM	Blank		2.031	Testing
+STIM	Circles	--	2.3317	Testing
+STIM	Blank		2.9498	Testing
+STIM	Text	+	3.2505	Testing
+STIM	Blank		3.5512	Testing
+STIM	Circles	--	3.8519	Testing
+STIM	Blank		4.4532	Testing
+STIM	Text	+	4.7539	Testing
+STIM	Blank		5.0546	Testing
+STIM	Circles	--	5.3553	Testing
+STIM	Blank		5.9734	Testing
+STIM	Text	+	6.2741	Testing
+STIM	Blank		6.5748	Testing
+STIM	Circles	--	6.8755	Testing
+STIM	Blank		7.5771	Testing
+STIM	Text	+	7.8945	Testing
+STIM	Blank		8.1953	Testing
+STIM	Circles	--	8.4959	Testing
+STIM	Blank		9.0305	Testing
+STIM	Text	+	9.3312	Testing
+STIM	Blank		9.6319	Testing
+STIM	Circles	--	9.9326	Testing
+STIM	Blank		10.417	Testing
+STIM	Text	+	10.7177	Testing
+STIM	Blank		11.0184	Testing
+STIM	Circles	--	11.3191	Testing
+STIM	Blank		11.9205	Testing
+STIM	Text	+	12.2212	Testing
+STIM	Blank		12.5219	Testing
+STIM	Circles	--	12.8226	Testing
+STIM	Blank		13.7748	Testing
+STIM	Text	+	14.0755	Testing
+STIM	Blank		14.3762	Testing
+STIM	Circles	--	14.6769	Testing
+STIM	Blank		15.2783	Testing
+STIM	Text	+	15.579	Testing
+STIM	Blank		15.8797	Testing
+STIM	Circles	--	16.1804	Testing
+STIM	Blank		16.7149	Testing
+STIM	Text	+	17.0156	Testing
+STIM	Blank		17.3163	Testing
+STIM	Circles	--	17.617	Testing
+STIM	Blank		18.1015	Testing
+STIM	Text	+	18.4021	Testing
+STIM	Blank		18.7029	Testing
+STIM	Circles	--	19.0035	Testing
+STIM	Blank		19.488	Testing
+STIM	Text	+	19.7887	Testing
+STIM	Blank		20.0894	Testing
+STIM	Circles	--	20.3901	Testing
+STIM	Blank		20.791	Testing
+STIM	Text	+	21.0917	Testing
+STIM	Blank		21.3924	Testing
+STIM	Circles	--	21.6931	Testing
+STIM	Blank		22.211	Testing
+STIM	Text	+	22.5116	Testing
+STIM	Blank		22.8123	Testing
+STIM	Circles	--	23.113	Testing
+STIM	Cleanup		23.5307	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:37:14
+
+START	13853.9563		0
+STIM	Paragraph	Press any key to begin.	0.041085
+STIM	Blank		0.62577
+STIM	Text	+	1.6281	Testing
+STIM	Blank		1.9288	Testing
+STIM_PREPARE	Circles	--	-13854.9563	Testing
+STIM	Circles	--	2.2295	Testing
+STIM	Blank		2.9812	Testing
+STIM	Text	+	3.2819	Testing
+STIM	Blank		3.5826	Testing
+STIM_PREPARE	Circles	--	-13854.9563	Testing
+STIM	Circles	--	3.8833	Testing
+STIM	Blank		4.5014	Testing
+STIM	Text	+	4.8021	Testing
+STIM	Blank		5.1028	Testing
+STIM_PREPARE	Circles	--	-13854.9563	Testing
+STIM	Circles	--	5.4035	Testing
+STIM	Blank		6.3557	Testing
+STIM	Text	+	6.6564	Testing
+STIM	Blank		6.9571	Testing
+STIM_PREPARE	Circles	--	-13854.9563	Testing
+STIM	Circles	--	7.2578	Testing
+STIM	Blank		7.8592	Testing
+STIM	Text	+	8.1598	Testing
+STIM	Blank		8.4605	Testing
+STIM_PREPARE	Circles	--	-13854.9563	Testing
+STIM	Circles	--	8.7612	Testing
+STIM	Cleanup		9.8972	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:37:33
+
+START	13872.6826		0
+STIM	Paragraph	Press any key to begin.	0.058047
+STIM	Blank		0.64273
+STIM	Text	+	1.6451	Testing
+STIM	Blank		1.9458	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	2.2464	Testing
+STIM	Blank		2.5471	Testing
+STIM	Text	+	2.8478	Testing
+STIM	Blank		3.1485	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	3.4492	Testing
+STIM	Blank		3.7499	Testing
+STIM	Text	+	4.0506	Testing
+STIM	Blank		4.3513	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	4.652	Testing
+STIM	Blank		4.9527	Testing
+STIM	Text	+	5.2534	Testing
+STIM	Blank		5.5541	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	5.8548	Testing
+STIM	Blank		6.1555	Testing
+STIM	Text	+	6.4562	Testing
+STIM	Blank		6.7569	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	7.0576	Testing
+STIM	Blank		7.3583	Testing
+STIM	Text	+	7.6589	Testing
+STIM	Blank		7.9597	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	8.2604	Testing
+STIM	Blank		8.561	Testing
+STIM	Text	+	8.8617	Testing
+STIM	Blank		9.1624	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	9.4631	Testing
+STIM	Blank		9.7638	Testing
+STIM	Text	+	10.0645	Testing
+STIM	Blank		10.3652	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	10.6659	Testing
+STIM	Blank		10.9666	Testing
+STIM	Text	+	11.2673	Testing
+STIM	Blank		11.568	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	11.8687	Testing
+STIM	Blank		12.1694	Testing
+STIM	Text	+	12.4701	Testing
+STIM	Blank		12.7708	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	13.0715	Testing
+STIM	Blank		13.3722	Testing
+STIM	Text	+	13.6728	Testing
+STIM	Blank		13.9735	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	14.2742	Testing
+STIM	Blank		14.5749	Testing
+STIM	Text	+	14.8756	Testing
+STIM	Blank		15.1763	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	15.477	Testing
+STIM	Blank		15.7777	Testing
+STIM	Text	+	16.0784	Testing
+STIM	Blank		16.3791	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	16.6798	Testing
+STIM	Blank		16.9805	Testing
+STIM	Text	+	17.2812	Testing
+STIM	Blank		17.5819	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	17.8826	Testing
+STIM	Blank		18.1833	Testing
+STIM	Text	+	18.484	Testing
+STIM	Blank		18.7847	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	19.0854	Testing
+STIM	Blank		19.3861	Testing
+STIM	Text	+	19.6868	Testing
+STIM	Blank		19.9875	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	20.2881	Testing
+STIM	Blank		20.5888	Testing
+STIM	Text	+	20.8895	Testing
+STIM	Blank		21.1902	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	21.4909	Testing
+STIM	Blank		21.7916	Testing
+STIM	Text	+	22.0923	Testing
+STIM	Blank		22.393	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	22.6937	Testing
+STIM	Blank		22.9944	Testing
+STIM	Text	+	23.2951	Testing
+STIM	Blank		23.5958	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	23.8965	Testing
+STIM	Blank		24.1972	Testing
+STIM	Text	+	24.4979	Testing
+STIM	Blank		24.7986	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	25.0993	Testing
+STIM	Blank		25.4	Testing
+STIM	Text	+	25.7006	Testing
+STIM	Blank		26.0013	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	26.3021	Testing
+STIM	Blank		26.6027	Testing
+STIM	Text	+	26.9034	Testing
+STIM	Blank		27.2041	Testing
+STIM_PREPARE	Circles	--	-13873.6826	Testing
+STIM	Circles	--	27.5048	Testing
+STIM	Cleanup		27.7888	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:47:41
+
+START	14480.7858		0
+STIM	Paragraph	Press any key to begin.	0.043564
+STIM	Blank		0.46117
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:49:04
+
+START	14563.1042		0
+STIM	Paragraph	Press any key to begin.	0.082153
+STIM	Blank		0.91742
+STIM	Text	+	1.9197	Testing
+STIM	Blank		2.2204	Testing
+STIM_PREPARE	Circles	--	-14564.1042	Testing
+STIM	Circles	--	2.5211	Testing
+STIM	Blank		2.8218	Testing
+STIM	Text	+	3.1392	Testing
+STIM	Blank		3.4399	Testing
+STIM_PREPARE	Circles	--	-14564.1042	Testing
+STIM	Circles	--	3.7406	Testing
+STIM	Blank		4.0413	Testing
+STIM	Text	+	4.342	Testing
+STIM	Blank		4.6427	Testing
+STIM_PREPARE	Circles	--	-14564.1042	Testing
+STIM	Circles	--	4.9434	Testing
+STIM	Blank		5.2441	Testing
+STIM	Text	+	5.5448	Testing
+STIM	Blank		5.8455	Testing
+STIM_PREPARE	Circles	--	-14564.1042	Testing
+STIM	Circles	--	6.1462	Testing
+STIM	Blank		6.4468	Testing
+STIM	Text	+	6.7476	Testing
+STIM	Blank		7.0482	Testing
+STIM_PREPARE	Circles	--	-14564.1042	Testing
+STIM	Circles	--	7.349	Testing
+STIM	Blank		7.6496	Testing
+STIM	Text	+	7.9503	Testing
+STIM	Blank		8.251	Testing
+STIM_PREPARE	Circles	--	-14564.1042	Testing
+STIM	Circles	--	8.5517	Testing
+STIM	Blank		8.8524	Testing
+STIM	Text	+	9.1531	Testing
+STIM	Blank		9.4538	Testing
+STIM_PREPARE	Circles	--	-14564.1042	Testing
+STIM	Circles	--	9.7545	Testing
+STIM	Blank		10.0552	Testing
+STIM	Text	+	10.3559	Testing
+STIM	Blank		10.6566	Testing
+STIM_PREPARE	Circles	--	-14564.1042	Testing
+STIM	Circles	--	10.9573	Testing
+STIM	Cleanup		11.258	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:49:26
+
+START	14585.7112		0
+STIM	Paragraph	Press any key to begin.	0.043975
+STIM	Blank		0.57855
+STIM	Text	+	1.5809	Testing
+STIM	Blank		1.8816	Testing
+STIM_PREPARE	Circles	--	-14586.7112	Testing
+STIM	Circles	--	2.1823	Testing
+STIM	Blank		2.8839	Testing
+STIM	Text	+	3.1846	Testing
+STIM	Blank		3.4853	Testing
+STIM_PREPARE	Circles	--	-14586.7112	Testing
+STIM	Circles	--	3.786	Testing
+STIM	Blank		4.6045	Testing
+STIM	Text	+	4.9052	Testing
+STIM	Blank		5.2059	Testing
+STIM_PREPARE	Circles	--	-14586.7112	Testing
+STIM	Circles	--	5.5066	Testing
+STIM	Cleanup		5.9242	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:51:11
+
+START	14690.9378		0
+STIM	Paragraph	Press any key to begin.	0.043902
+STIM	Blank		0.52835
+STIM	Text	+	1.5307	Testing
+STIM	Blank		1.8314	Testing
+STIM_PREPARE	Circles	--	-14691.9378	Testing
+STIM	Circles	--	2.1321	Testing
+STIM	Cleanup		5.4397	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:51:27
+
+START	14706.6452		0
+STIM	Paragraph	Press any key to begin.	0.056186
+STIM	Blank		1.1588
+STIM	Text	+	2.161	Testing
+STIM	Blank		2.4618	Testing
+STIM_PREPARE	Circles	--	-14707.6452	Testing
+STIM	Circles	--	2.7625	Testing
+STIM	Blank		3.698	Testing
+STIM	Text	+	3.9987	Testing
+STIM	Blank		4.2993	Testing
+STIM_PREPARE	Circles	--	-14707.6452	Testing
+STIM	Circles	--	4.6	Testing
+STIM	Blank		5.4854	Testing
+STIM	Text	+	5.7861	Testing
+STIM	Blank		6.0868	Testing
+STIM_PREPARE	Circles	--	-14707.6452	Testing
+STIM	Circles	--	6.3875	Testing
+STIM	Blank		7.2228	Testing
+STIM	Text	+	7.5235	Testing
+STIM	Blank		7.8242	Testing
+STIM_PREPARE	Circles	--	-14707.6452	Testing
+STIM	Circles	--	8.1248	Testing
+STIM	Cleanup		8.6427	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:52:03
+
+START	14742.2745		0
+STIM	Paragraph	Press any key to begin.	0.042557
+STIM	Blank		0.71076
+STIM	Text	+	1.7131	Testing
+STIM	Blank		2.0138	Testing
+STIM_PREPARE	Circles	--	-14743.2745	Testing
+STIM	Circles	--	2.3145	Testing
+STIM	Blank		3.25	Testing
+STIM	Text	+	3.5507	Testing
+STIM	Blank		3.8514	Testing
+STIM_PREPARE	Circles	--	-14743.2745	Testing
+STIM	Circles	--	4.152	Testing
+STIM	Blank		4.8035	Testing
+STIM	Text	+	5.1043	Testing
+STIM	Blank		5.4049	Testing
+STIM_PREPARE	Circles	--	-14743.2745	Testing
+STIM	Circles	--	5.7056	Testing
+STIM	Blank		6.3739	Testing
+STIM	Text	+	6.6745	Testing
+STIM	Blank		6.9753	Testing
+STIM_PREPARE	Circles	--	-14743.2745	Testing
+STIM	Circles	--	7.2759	Testing
+STIM	Blank		8.0444	Testing
+STIM	Text	+	8.3451	Testing
+STIM	Blank		8.6458	Testing
+STIM_PREPARE	Circles	--	-14743.2745	Testing
+STIM	Circles	--	8.9464	Testing
+STIM	Blank		9.6815	Testing
+STIM	Text	+	9.9822	Testing
+STIM	Blank		10.2829	Testing
+STIM_PREPARE	Circles	--	-14743.2745	Testing
+STIM	Circles	--	10.5836	Testing
+STIM	Cleanup		11.3019	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:53:15
+
+START	14814.523		0
+STIM	Paragraph	Press any key to begin.	0.044384
+STIM	Blank		0.79611
+STIM	Text	+	1.7984	Testing
+STIM	Blank		2.0991	Testing
+STIM_PREPARE	Circles	--	-14815.523	Testing
+STIM	Circles	--	2.3998	Testing
+STIM	Blank		3.0179	Testing
+STIM	Text	+	3.3186	Testing
+STIM	Blank		3.6193	Testing
+STIM_PREPARE	Circles	--	-14815.523	Testing
+STIM	Circles	--	3.92	Testing
+STIM	Blank		4.5882	Testing
+STIM	Text	+	4.8889	Testing
+STIM	Blank		5.1896	Testing
+STIM_PREPARE	Circles	--	-14815.523	Testing
+STIM	Circles	--	5.4903	Testing
+STIM	Blank		6.075	Testing
+STIM	Text	+	6.3757	Testing
+STIM	Blank		6.6764	Testing
+STIM_PREPARE	Circles	--	-14815.523	Testing
+STIM	Circles	--	6.9771	Testing
+STIM	Blank		7.4114	Testing
+STIM	Text	+	7.7121	Testing
+STIM	Blank		8.0128	Testing
+STIM_PREPARE	Circles	--	-14815.523	Testing
+STIM	Circles	--	8.3135	Testing
+STIM	Blank		8.8648	Testing
+STIM	Text	+	9.1655	Testing
+STIM	Blank		9.4662	Testing
+STIM_PREPARE	Circles	--	-14815.523	Testing
+STIM	Circles	--	9.7669	Testing
+STIM	Blank		10.7692	Testing
+STIM	Text	+	11.0699	Testing
+STIM	Blank		11.3705	Testing
+STIM_PREPARE	Circles	--	-14815.523	Testing
+STIM	Circles	--	11.6713	Testing
+STIM	Cleanup		12.1056	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:54:32
+
+START	14891.6164		0
+STIM	Paragraph	Press any key to begin.	0.028655
+STIM	Blank		1.2315
+STIM	Cleanup		4.489	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:54:41
+
+START	14900.8239		0
+STIM	Paragraph	Press any key to begin.	0.059663
+STIM	Blank		0.51067
+STIM	Text	+	1.513	Testing
+STIM	Blank		1.8137	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	2.1144	Testing
+STIM	Blank		2.6155	Testing
+STIM	Text	+	2.9162	Testing
+STIM	Blank		3.217	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	3.5177	Testing
+STIM	Blank		4.0355	Testing
+STIM	Text	+	4.3362	Testing
+STIM	Blank		4.6369	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	4.9376	Testing
+STIM	Blank		5.3552	Testing
+STIM	Text	+	5.6559	Testing
+STIM	Blank		5.9566	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	6.2573	Testing
+STIM	Blank		6.7251	Testing
+STIM	Text	+	7.0257	Testing
+STIM	Blank		7.3265	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	7.6271	Testing
+STIM	Blank		8.3288	Testing
+STIM	Text	+	8.6294	Testing
+STIM	Blank		8.9301	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	9.2308	Testing
+STIM	Blank		9.7988	Testing
+STIM	Text	+	10.0995	Testing
+STIM	Blank		10.4002	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	10.7009	Testing
+STIM	Blank		11.3858	Testing
+STIM	Text	+	11.6865	Testing
+STIM	Blank		11.9872	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	12.2879	Testing
+STIM	Blank		13.0229	Testing
+STIM	Text	+	13.3236	Testing
+STIM	Blank		13.6243	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	13.925	Testing
+STIM	Blank		14.8104	Testing
+STIM	Text	+	15.1111	Testing
+STIM	Blank		15.4118	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	15.7125	Testing
+STIM	Blank		16.8986	Testing
+STIM	Text	+	17.1993	Testing
+STIM	Blank		17.4999	Testing
+STIM_PREPARE	Circles	--	-14901.8239	Testing
+STIM	Circles	--	17.8007	Testing
+STIM	Cleanup		18.7696	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:57:24
+
+START	15063.4172		0
+STIM	Paragraph	Press any key to begin.	0.058687
+STIM	Blank		0.777
+STIM	Text	+	1.7793	Testing
+STIM	Blank		2.08	Testing
+STIM_PREPARE	Circles	--	-15064.4172	Testing
+STIM	Circles	--	2.3807	Testing
+STIM	Blank		2.932	Testing
+STIM	Text	+	3.2327	Testing
+STIM	Blank		3.5334	Testing
+STIM_PREPARE	Circles	--	-15064.4172	Testing
+STIM	Circles	--	3.8341	Testing
+STIM	Blank		4.3853	Testing
+STIM	Text	+	4.686	Testing
+STIM	Blank		4.9868	Testing
+STIM_PREPARE	Circles	--	-15064.4172	Testing
+STIM	Circles	--	5.2874	Testing
+STIM	Blank		5.8721	Testing
+STIM	Text	+	6.1728	Testing
+STIM	Blank		6.4735	Testing
+STIM_PREPARE	Circles	--	-15064.4172	Testing
+STIM	Circles	--	6.7742	Testing
+STIM	Blank		7.5761	Testing
+STIM	Text	+	7.8768	Testing
+STIM	Blank		8.1775	Testing
+STIM_PREPARE	Circles	--	-15064.4172	Testing
+STIM	Circles	--	8.4782	Testing
+STIM	Blank		9.1965	Testing
+STIM	Text	+	9.4972	Testing
+STIM	Blank		9.7979	Testing
+STIM_PREPARE	Circles	--	-15064.4172	Testing
+STIM	Circles	--	10.0986	Testing
+STIM	Blank		10.9672	Testing
+STIM	Text	+	11.2679	Testing
+STIM	Blank		11.5686	Testing
+STIM_PREPARE	Circles	--	-15064.4172	Testing
+STIM	Circles	--	11.8693	Testing
+STIM	Cleanup		12.9886	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:58:32
+
+START	15131.8769		0
+STIM	Paragraph	Press any key to begin.	0.040533
+STIM	Blank		0.44144
+STIM	Text	+	1.4438	Testing
+STIM	Blank		1.7445	Testing
+STIM_PREPARE	Circles	--	-15132.8769	Testing
+STIM	Circles	--	2.0452	Testing
+STIM	Blank		2.9306	Testing
+STIM	Text	+	3.2313	Testing
+STIM	Blank		3.5319	Testing
+STIM_PREPARE	Circles	--	-15132.8769	Testing
+STIM	Circles	--	3.8326	Testing
+STIM	Blank		4.434	Testing
+STIM	Text	+	4.7347	Testing
+STIM	Blank		5.0354	Testing
+STIM_PREPARE	Circles	--	-15132.8769	Testing
+STIM	Circles	--	5.3361	Testing
+STIM	Blank		6.756	Testing
+STIM	Text	+	7.0567	Testing
+STIM	Blank		7.3574	Testing
+STIM_PREPARE	Circles	--	-15132.8769	Testing
+STIM	Circles	--	7.6581	Testing
+STIM	Blank		8.9611	Testing
+STIM	Text	+	9.2618	Testing
+STIM	Blank		9.5625	Testing
+STIM_PREPARE	Circles	--	-15132.8769	Testing
+STIM	Circles	--	9.8632	Testing
+STIM	Blank		10.9992	Testing
+STIM	Text	+	11.2999	Testing
+STIM	Blank		11.6006	Testing
+STIM_PREPARE	Circles	--	-15132.8769	Testing
+STIM	Circles	--	11.9013	Testing
+STIM	Blank		12.7699	Testing
+STIM	Text	+	13.0706	Testing
+STIM	Blank		13.3713	Testing
+STIM_PREPARE	Circles	--	-15132.8769	Testing
+STIM	Circles	--	13.6721	Testing
+STIM	Blank		14.8581	Testing
+STIM	Text	+	15.1588	Testing
+STIM	Blank		15.4595	Testing
+STIM_PREPARE	Circles	--	-15132.8769	Testing
+STIM	Circles	--	15.7602	Testing
+STIM	Blank		16.4117	Testing
+STIM	Text	+	16.7124	Testing
+STIM	Blank		17.0131	Testing
+STIM_PREPARE	Circles	--	-15132.8769	Testing
+STIM	Circles	--	17.3138	Testing
+STIM	Blank		21.7741	Testing
+STIM	Text	+	22.0748	Testing
+STIM	Blank		22.3755	Testing
+STIM_PREPARE	Circles	--	-15132.8769	Testing
+STIM	Circles	--	22.6762	Testing
+STIM	Cleanup		23.7453	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 01:59:18
+
+START	15177.2117		0
+STIM	Paragraph	Press any key to begin.	0.043901
+STIM	Blank		0.99609
+STIM	Text	+	1.9984	Testing
+STIM	Blank		2.2991	Testing
+STIM_PREPARE	Circles	--	-15178.2117	Testing
+STIM	Circles	--	2.5998	Testing
+STIM	Blank		3.3516	Testing
+STIM	Text	+	3.6522	Testing
+STIM	Blank		3.9529	Testing
+STIM_PREPARE	Circles	--	-15178.2117	Testing
+STIM	Circles	--	4.2536	Testing
+STIM	Blank		4.9887	Testing
+STIM	Text	+	5.2894	Testing
+STIM	Blank		5.5901	Testing
+STIM_PREPARE	Circles	--	-15178.2117	Testing
+STIM	Circles	--	5.8908	Testing
+STIM	Blank		6.7427	Testing
+STIM	Text	+	7.0434	Testing
+STIM	Blank		7.3441	Testing
+STIM_PREPARE	Circles	--	-15178.2117	Testing
+STIM	Circles	--	7.6448	Testing
+STIM	Blank		8.4634	Testing
+STIM	Text	+	8.764	Testing
+STIM	Blank		9.0648	Testing
+STIM_PREPARE	Circles	--	-15178.2117	Testing
+STIM	Circles	--	9.3654	Testing
+STIM	Cleanup		10.0504	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:01:36
+
+START	15315.4306		0
+STIM	Paragraph	Press any key to begin.	0.044391
+STIM	Blank		0.89635
+STIM	Text	+	1.8987	Testing
+STIM	Blank		2.1994	Testing
+STIM_PREPARE	Circles	--	-15316.4306	Testing
+STIM	Circles	--	2.5001	Testing
+STIM	Blank		3.1349	Testing
+STIM	Text	+	3.4356	Testing
+STIM	Blank		3.7363	Testing
+STIM_PREPARE	Circles	--	-15316.4306	Testing
+STIM	Circles	--	4.037	Testing
+STIM	Blank		5.6574	Testing
+STIM	Text	+	5.9581	Testing
+STIM	Blank		6.2587	Testing
+STIM_PREPARE	Circles	--	-15316.4306	Testing
+STIM	Circles	--	6.5595	Testing
+STIM	Blank		8.6476	Testing
+STIM	Text	+	8.9483	Testing
+STIM	Blank		9.249	Testing
+STIM_PREPARE	Circles	--	-15316.4306	Testing
+STIM	Circles	--	9.5497	Testing
+STIM	Blank		11.7047	Testing
+STIM	Text	+	12.0054	Testing
+STIM	Blank		12.3061	Testing
+STIM_PREPARE	Circles	--	-15316.4306	Testing
+STIM	Circles	--	12.6068	Testing
+STIM	Blank		14.4276	Testing
+STIM	Text	+	14.7283	Testing
+STIM	Blank		15.029	Testing
+STIM_PREPARE	Circles	--	-15316.4306	Testing
+STIM	Circles	--	15.3297	Testing
+STIM	Cleanup		26.5724	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:09:11
+
+START	15770.7664		0
+STIM	Paragraph	Press any key to begin.	0.044287
+STIM	Blank		0.6791
+STIM	Text	+	1.6814	Testing
+STIM	Blank		1.9821	Testing
+STIM_PREPARE	Circles	--	-15771.7664	Testing
+STIM	Circles	--	2.2828	Testing
+STIM	Blank		6.7765	Testing
+STIM	Cleanup		7.0772	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:10:30
+
+START	15849.1479		0
+STIM	Paragraph	Press any key to begin.	0.043916
+STIM	Blank		0.79567
+STIM	Text	+	1.798	Testing
+STIM	Blank		2.0987	Testing
+STIM_PREPARE	Circles	--	-15850.1479	Testing
+STIM	Circles	--	2.3994	Testing
+STIM	Blank		15.5965	Testing
+STIM	Text	+	15.8972	Testing
+STIM	Blank		16.1979	Testing
+STIM_PREPARE	Circles	--	-15850.1479	Testing
+STIM	Circles	--	16.4986	Testing
+STIM	Cleanup		22.1951	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:14:56
+
+START	16115.6325		0
+STIM	Paragraph	Press any key to begin.	0.041798
+STIM	Blank		3.9174
+STIM	Text	+	4.9198	Testing
+STIM	Blank		5.2204	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	5.5212	Testing
+STIM	Blank		6.3063	Testing
+STIM	Text	+	6.6069	Testing
+STIM	Blank		6.9077	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	7.2082	Testing
+STIM	Blank		7.8933	Testing
+STIM	Text	+	8.194	Testing
+STIM	Blank		8.4947	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	8.7954	Testing
+STIM	Blank		9.3132	Testing
+STIM	Text	+	9.6139	Testing
+STIM	Blank		9.9146	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	10.2153	Testing
+STIM	Blank		12.7211	Testing
+STIM	Text	+	13.0218	Testing
+STIM	Blank		13.3224	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	13.6232	Testing
+STIM	Blank		14.5587	Testing
+STIM	Text	+	14.8595	Testing
+STIM	Blank		15.1601	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	15.4608	Testing
+STIM	Blank		17.2984	Testing
+STIM	Text	+	17.5991	Testing
+STIM	Blank		17.8997	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	18.284	Testing
+STIM	Blank		18.8519	Testing
+STIM	Text	+	19.1527	Testing
+STIM	Blank		19.4533	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	19.754	Testing
+STIM	Blank		22.0426	Testing
+STIM	Text	+	22.3434	Testing
+STIM	Blank		22.644	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	22.9447	Testing
+STIM	Blank		24.8157	Testing
+STIM	Text	+	25.1164	Testing
+STIM	Blank		25.4171	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	25.7178	Testing
+STIM	Blank		26.7201	Testing
+STIM	Text	+	27.0208	Testing
+STIM	Blank		27.3215	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	27.6222	Testing
+STIM	Blank		28.3406	Testing
+STIM	Text	+	28.6412	Testing
+STIM	Blank		28.942	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	29.2426	Testing
+STIM	Blank		31.4477	Testing
+STIM	Text	+	31.7484	Testing
+STIM	Blank		32.0491	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	32.3498	Testing
+STIM	Blank		33.3688	Testing
+STIM	Text	+	33.6695	Testing
+STIM	Blank		33.9702	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	34.2709	Testing
+STIM	Blank		35.9582	Testing
+STIM	Text	+	36.2589	Testing
+STIM	Blank		36.5595	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	36.8602	Testing
+STIM	Blank		37.5284	Testing
+STIM	Text	+	37.8291	Testing
+STIM	Blank		38.1298	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	38.4305	Testing
+STIM	Blank		38.915	Testing
+STIM	Text	+	39.2157	Testing
+STIM	Blank		39.5164	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	39.8171	Testing
+STIM	Blank		40.3683	Testing
+STIM	Text	+	40.669	Testing
+STIM	Blank		40.9697	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	41.2704	Testing
+STIM	Blank		41.6714	Testing
+STIM	Text	+	41.9721	Testing
+STIM	Blank		42.2728	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	42.5734	Testing
+STIM	Blank		43.5256	Testing
+STIM	Text	+	43.8263	Testing
+STIM	Blank		44.127	Testing
+STIM_PREPARE	Circles	--	-16116.6325	Testing
+STIM	Circles	--	44.4277	Testing
+STIM	Cleanup		45.3298	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:16:15
+
+START	16194.8642		0
+STIM	Paragraph	Press any key to begin.	0.043218
+STIM	Blank		2.6325
+STIM	Text	+	3.6349	Testing
+STIM	Blank		3.9356	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	4.2362	Testing
+STIM	Blank		4.7875	Testing
+STIM	Text	+	5.0882	Testing
+STIM	Blank		5.3889	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	5.6896	Testing
+STIM	Blank		6.1239	Testing
+STIM	Text	+	6.4246	Testing
+STIM	Blank		6.7253	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	7.026	Testing
+STIM	Blank		7.6608	Testing
+STIM	Text	+	7.9615	Testing
+STIM	Blank		8.2622	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	8.5629	Testing
+STIM	Blank		9.0474	Testing
+STIM	Text	+	9.3481	Testing
+STIM	Blank		9.6488	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	9.9494	Testing
+STIM	Blank		10.3504	Testing
+STIM	Text	+	10.6511	Testing
+STIM	Blank		10.9518	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	11.2525	Testing
+STIM	Blank		11.8204	Testing
+STIM	Text	+	12.1211	Testing
+STIM	Blank		12.4218	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	12.7225	Testing
+STIM	Blank		13.4576	Testing
+STIM	Text	+	13.7582	Testing
+STIM	Blank		14.0589	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	14.3596	Testing
+STIM	Blank		15.4789	Testing
+STIM	Text	+	15.7796	Testing
+STIM	Blank		16.0803	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	16.381	Testing
+STIM	Blank		16.8821	Testing
+STIM	Text	+	17.1828	Testing
+STIM	Blank		17.4835	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	17.7842	Testing
+STIM	Blank		18.2186	Testing
+STIM	Text	+	18.5193	Testing
+STIM	Blank		18.8199	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	19.1206	Testing
+STIM	Blank		19.6719	Testing
+STIM	Text	+	19.9726	Testing
+STIM	Blank		20.2733	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	20.574	Testing
+STIM	Blank		21.4093	Testing
+STIM	Text	+	21.71	Testing
+STIM	Blank		22.0107	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	22.3114	Testing
+STIM	Blank		23.0464	Testing
+STIM	Text	+	23.3471	Testing
+STIM	Blank		23.6478	Testing
+STIM_PREPARE	Circles	--	-16195.8642	Testing
+STIM	Circles	--	23.9485	Testing
+STIM	Cleanup		24.9174	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:23:56
+
+START	16655.0609		0
+STIM	Paragraph	Press any key to begin.	0.043418
+STIM	Blank		0.51117
+STIM	Text	+	1.5135	Testing
+STIM	Blank		1.8142	Testing
+STIM_PREPARE	Circles	--	-16656.0609	Testing
+STIM	Circles	--	2.1149	Testing
+STIM	Blank		3.635	Testing
+STIM	Text	+	3.9358	Testing
+STIM	Blank		4.2365	Testing
+STIM_PREPARE	Circles	--	-16656.0609	Testing
+STIM	Circles	--	4.5371	Testing
+STIM	Cleanup		6.074	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:24:42
+
+START	16701.6672		0
+STIM	Paragraph	Press any key to begin.	0.044901
+STIM	Blank		0.51265
+STIM	Text	+	1.515	Testing
+STIM	Blank		1.8157	Testing
+STIM_PREPARE	Circles	--	-16702.6672	Testing
+STIM	Circles	--	2.1164	Testing
+STIM	Blank		2.6676	Testing
+STIM	Text	+	2.9683	Testing
+STIM	Blank		3.269	Testing
+STIM_PREPARE	Circles	--	-16702.6672	Testing
+STIM	Circles	--	3.5697	Testing
+STIM	Blank		4.1878	Testing
+STIM	Text	+	4.4885	Testing
+STIM	Blank		4.7892	Testing
+STIM_PREPARE	Circles	--	-16702.6672	Testing
+STIM	Circles	--	5.0899	Testing
+STIM	Cleanup		5.4908	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 02:25:20
+
+START	16739.7963		0
+STIM	Paragraph	Press any key to begin.	0.053872
+STIM	Blank		0.53834
+STIM	Text	+	1.5407	Testing
+STIM	Blank		1.8414	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	2.142	Testing
+STIM	Blank		2.4427	Testing
+STIM	Text	+	2.7434	Testing
+STIM	Blank		3.0441	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	3.3448	Testing
+STIM	Blank		3.6455	Testing
+STIM	Text	+	3.9462	Testing
+STIM	Blank		4.2469	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	4.5476	Testing
+STIM	Blank		4.8483	Testing
+STIM	Text	+	5.149	Testing
+STIM	Blank		5.4497	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	5.7504	Testing
+STIM	Blank		6.0511	Testing
+STIM	Text	+	6.3518	Testing
+STIM	Blank		6.6525	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	6.9532	Testing
+STIM	Blank		7.2539	Testing
+STIM	Text	+	7.5546	Testing
+STIM	Blank		7.8553	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	8.156	Testing
+STIM	Blank		8.4566	Testing
+STIM	Text	+	8.7573	Testing
+STIM	Blank		9.058	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	9.3587	Testing
+STIM	Blank		9.6594	Testing
+STIM	Text	+	9.9601	Testing
+STIM	Blank		10.2608	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	10.5615	Testing
+STIM	Blank		10.8622	Testing
+STIM	Text	+	11.1629	Testing
+STIM	Blank		11.4636	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	11.7643	Testing
+STIM	Blank		12.065	Testing
+STIM	Text	+	12.3657	Testing
+STIM	Blank		12.6664	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	12.9671	Testing
+STIM	Blank		13.2678	Testing
+STIM	Text	+	13.5685	Testing
+STIM	Blank		13.8691	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	14.1698	Testing
+STIM	Blank		14.4705	Testing
+STIM	Text	+	14.7712	Testing
+STIM	Blank		15.0719	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	15.3726	Testing
+STIM	Blank		15.6733	Testing
+STIM	Text	+	15.974	Testing
+STIM	Blank		16.2747	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	16.5754	Testing
+STIM	Blank		16.8761	Testing
+STIM	Text	+	17.1768	Testing
+STIM	Blank		17.4775	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	17.7782	Testing
+STIM	Blank		18.0789	Testing
+STIM	Text	+	18.3796	Testing
+STIM	Blank		18.6803	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	18.981	Testing
+STIM	Blank		19.2817	Testing
+STIM	Text	+	19.5823	Testing
+STIM	Blank		19.883	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	20.1837	Testing
+STIM	Blank		20.4844	Testing
+STIM	Text	+	20.7851	Testing
+STIM	Blank		21.0858	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	21.3865	Testing
+STIM	Blank		21.6872	Testing
+STIM	Text	+	21.9879	Testing
+STIM	Blank		22.2886	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	22.5893	Testing
+STIM	Blank		22.89	Testing
+STIM	Text	+	23.1907	Testing
+STIM	Blank		23.4914	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	23.7921	Testing
+STIM	Blank		24.0928	Testing
+STIM	Text	+	24.3935	Testing
+STIM	Blank		24.6942	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	24.9949	Testing
+STIM	Blank		25.2956	Testing
+STIM	Text	+	25.5962	Testing
+STIM	Blank		25.897	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	26.1976	Testing
+STIM	Blank		26.4983	Testing
+STIM	Text	+	26.799	Testing
+STIM	Blank		27.0997	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	27.4004	Testing
+STIM	Blank		27.7011	Testing
+STIM	Text	+	28.0018	Testing
+STIM	Blank		28.3025	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	28.6032	Testing
+STIM	Blank		28.9039	Testing
+STIM	Text	+	29.2046	Testing
+STIM	Blank		29.5053	Testing
+STIM_PREPARE	Circles	--	-16740.7963	Testing
+STIM	Circles	--	29.806	Testing
+STIM	Cleanup		30.09	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 12:40:35
+
+START	2242.6609		0
+STIM	Paragraph	Press any key to begin.	0.25657
+STIM	Blank		1.6097
+STIM	Text	+	2.612	Testing
+STIM	Blank		2.9127	Testing
+STIM_PREPARE	Circles	--	-2243.6609	Testing
+STIM	Circles	--	3.2134	Testing
+STIM	Blank		3.5141	Testing
+STIM	Text	+	3.8148	Testing
+STIM	Blank		4.1155	Testing
+STIM_PREPARE	Circles	--	-2243.6609	Testing
+STIM	Circles	--	4.4162	Testing
+STIM	Blank		4.7169	Testing
+STIM	Text	+	5.0176	Testing
+STIM	Blank		5.3183	Testing
+STIM_PREPARE	Circles	--	-2243.6609	Testing
+STIM	Circles	--	5.619	Testing
+STIM	Blank		5.9197	Testing
+STIM	Text	+	6.2204	Testing
+STIM	Blank		6.5211	Testing
+STIM_PREPARE	Circles	--	-2243.6609	Testing
+STIM	Circles	--	6.8218	Testing
+STIM	Blank		7.1224	Testing
+STIM	Text	+	7.4231	Testing
+STIM	Blank		7.7238	Testing
+STIM_PREPARE	Circles	--	-2243.6609	Testing
+STIM	Circles	--	8.0245	Testing
+STIM	Blank		8.3252	Testing
+STIM	Text	+	8.6259	Testing
+STIM	Blank		8.9266	Testing
+STIM_PREPARE	Circles	--	-2243.6609	Testing
+STIM	Circles	--	9.2273	Testing
+STIM	Blank		9.528	Testing
+STIM	Text	+	9.8287	Testing
+STIM	Blank		10.1294	Testing
+STIM_PREPARE	Circles	--	-2243.6609	Testing
+STIM	Circles	--	10.4301	Testing
+STIM	Cleanup		10.6472	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 13:18:26
+
+START	3378.0148		0
+STIM	Paragraph	Press any key to begin.	0.041655
+STIM	Blank		0.64302
+STIM	Cleanup		1.6453	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 13:18:45
+
+START	3396.4555		0
+STIM	Paragraph	Press any key to begin.	0.043497
+STIM	Blank		0.89546
+STIM	Text	+	1.8978	Testing
+STIM	Blank		2.1985	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	2.4992	Testing
+STIM	Blank		2.7999	Testing
+STIM	Text	+	3.1006	Testing
+STIM	Blank		3.4013	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	3.702	Testing
+STIM	Blank		4.0026	Testing
+STIM	Text	+	4.3033	Testing
+STIM	Blank		4.604	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	4.9047	Testing
+STIM	Blank		5.2054	Testing
+STIM	Text	+	5.5061	Testing
+STIM	Blank		5.8068	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	6.1075	Testing
+STIM	Blank		6.4082	Testing
+STIM	Text	+	6.7089	Testing
+STIM	Blank		7.0096	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	7.3103	Testing
+STIM	Blank		7.611	Testing
+STIM	Text	+	7.9117	Testing
+STIM	Blank		8.2124	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	8.5131	Testing
+STIM	Blank		8.8138	Testing
+STIM	Text	+	9.1145	Testing
+STIM	Blank		9.4152	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	9.7159	Testing
+STIM	Blank		10.0165	Testing
+STIM	Text	+	10.3173	Testing
+STIM	Blank		10.618	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	10.9186	Testing
+STIM	Blank		11.2193	Testing
+STIM	Text	+	11.52	Testing
+STIM	Blank		11.8207	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	12.1214	Testing
+STIM	Blank		12.4221	Testing
+STIM	Text	+	12.7228	Testing
+STIM	Blank		13.0235	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	13.3242	Testing
+STIM	Blank		13.6249	Testing
+STIM	Text	+	13.9256	Testing
+STIM	Blank		14.2263	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	14.527	Testing
+STIM	Blank		14.8277	Testing
+STIM	Text	+	15.1284	Testing
+STIM	Blank		15.4291	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	15.7297	Testing
+STIM	Blank		16.0305	Testing
+STIM	Text	+	16.3311	Testing
+STIM	Blank		16.6319	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	16.9325	Testing
+STIM	Blank		17.2332	Testing
+STIM	Text	+	17.5339	Testing
+STIM	Blank		17.8346	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	18.1353	Testing
+STIM	Blank		18.436	Testing
+STIM	Text	+	18.7367	Testing
+STIM	Blank		19.0374	Testing
+STIM_PREPARE	Circles	--	-3397.4555	Testing
+STIM	Circles	--	19.3381	Testing
+STIM	Cleanup		19.572	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 13:20:54
+
+START	3525.5706		0
+STIM	Paragraph	Press any key to begin.	0.043458
+STIM	Blank		1.2629
+STIM	Cleanup		2.2653	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 13:21:25
+
+START	3556.8457		0
+STIM	Paragraph	Press any key to begin.	0.040697
+STIM	Blank		0.62537
+STIM	Text	+	1.6277	Testing
+STIM	Blank		1.9284	Testing
+STIM_PREPARE	Circles	--	-3557.8457	Testing
+STIM	Circles	--	2.2291	Testing
+STIM	Blank		2.5298	Testing
+STIM	Text	+	2.8305	Testing
+STIM	Blank		3.1312	Testing
+STIM_PREPARE	Circles	--	-3557.8457	Testing
+STIM	Circles	--	3.4319	Testing
+STIM	Blank		3.7326	Testing
+STIM	Text	+	4.0333	Testing
+STIM	Blank		4.334	Testing
+STIM_PREPARE	Circles	--	-3557.8457	Testing
+STIM	Circles	--	4.6346	Testing
+STIM	Blank		4.9354	Testing
+STIM	Text	+	5.236	Testing
+STIM	Blank		5.5367	Testing
+STIM_PREPARE	Circles	--	-3557.8457	Testing
+STIM	Circles	--	5.8374	Testing
+STIM	Blank		6.1381	Testing
+STIM	Text	+	6.4388	Testing
+STIM	Blank		6.7395	Testing
+STIM_PREPARE	Circles	--	-3557.8457	Testing
+STIM	Circles	--	7.0402	Testing
+STIM	Blank		7.3409	Testing
+STIM	Text	+	7.6416	Testing
+STIM	Blank		7.9423	Testing
+STIM_PREPARE	Circles	--	-3557.8457	Testing
+STIM	Circles	--	8.243	Testing
+STIM	Blank		8.5437	Testing
+STIM	Text	+	8.8444	Testing
+STIM	Blank		9.1451	Testing
+STIM_PREPARE	Circles	--	-3557.8457	Testing
+STIM	Circles	--	9.4458	Testing
+STIM	Cleanup		9.5126	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 13:22:01
+
+START	3592.7777		0
+STIM	Paragraph	Press any key to begin.	0.041649
+STIM	Blank		0.8435
+STIM	Text	+	1.8459	Testing
+STIM	Blank		2.1465	Testing
+STIM_PREPARE	Circles	--	-3593.7777	Testing
+STIM	Circles	--	2.4472	Testing
+STIM	Blank		2.7479	Testing
+STIM	Text	+	3.0486	Testing
+STIM	Blank		3.3493	Testing
+STIM_PREPARE	Circles	--	-3593.7777	Testing
+STIM	Circles	--	3.65	Testing
+STIM	Blank		3.9507	Testing
+STIM	Text	+	4.2514	Testing
+STIM	Blank		4.5521	Testing
+STIM_PREPARE	Circles	--	-3593.7777	Testing
+STIM	Circles	--	4.8528	Testing
+STIM	Blank		5.1535	Testing
+STIM	Text	+	5.4542	Testing
+STIM	Blank		5.7549	Testing
+STIM_PREPARE	Circles	--	-3593.7777	Testing
+STIM	Circles	--	6.0556	Testing
+STIM	Blank		6.3562	Testing
+STIM	Text	+	6.657	Testing
+STIM	Blank		6.9576	Testing
+STIM_PREPARE	Circles	--	-3593.7777	Testing
+STIM	Circles	--	7.2584	Testing
+STIM	Blank		7.559	Testing
+STIM	Text	+	7.8597	Testing
+STIM	Blank		8.1604	Testing
+STIM_PREPARE	Circles	--	-3593.7777	Testing
+STIM	Circles	--	8.4611	Testing
+STIM	Blank		8.7618	Testing
+STIM	Text	+	9.0625	Testing
+STIM	Blank		9.3632	Testing
+STIM_PREPARE	Circles	--	-3593.7777	Testing
+STIM	Circles	--	9.6639	Testing
+STIM	Blank		9.9646	Testing
+STIM	Text	+	10.2653	Testing
+STIM	Blank		10.566	Testing
+STIM_PREPARE	Circles	--	-3593.7777	Testing
+STIM	Circles	--	10.8667	Testing
+STIM	Blank		11.1674	Testing
+STIM	Text	+	11.4681	Testing
+STIM	Blank		11.7688	Testing
+STIM_PREPARE	Circles	--	-3593.7777	Testing
+STIM	Circles	--	12.0695	Testing
+STIM	Blank		12.3701	Testing
+STIM	Text	+	12.6708	Testing
+STIM	Blank		12.9716	Testing
+STIM_PREPARE	Circles	--	-3593.7777	Testing
+STIM	Circles	--	13.2723	Testing
+STIM	Cleanup		13.3892	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:37:53
+
+START	3995.8309		0
+STIM	Paragraph	Press any key to begin.	0.042515
+STIM	Blank		0.71071
+STIM	Text	+	1.713	Testing
+STIM	Blank		2.0137	Testing
+STIM_PREPARE	Circles	--	-3996.8309	Testing
+STIM	Circles	--	2.3144	Testing
+STIM	Blank		2.6151	Testing
+STIM	Text	+	2.9158	Testing
+STIM	Blank		3.2165	Testing
+STIM_PREPARE	Circles	--	-3996.8309	Testing
+STIM	Circles	--	3.5172	Testing
+STIM	Blank		3.8179	Testing
+STIM	Text	+	4.1186	Testing
+STIM	Blank		4.4193	Testing
+STIM_PREPARE	Circles	--	-3996.8309	Testing
+STIM	Circles	--	4.72	Testing
+STIM	Blank		5.0207	Testing
+STIM	Text	+	5.3214	Testing
+STIM	Blank		5.6221	Testing
+STIM_PREPARE	Circles	--	-3996.8309	Testing
+STIM	Circles	--	5.9228	Testing
+STIM	Blank		6.2234	Testing
+STIM	Text	+	6.5242	Testing
+STIM	Blank		6.8249	Testing
+STIM_PREPARE	Circles	--	-3996.8309	Testing
+STIM	Circles	--	7.1256	Testing
+STIM	Blank		7.4262	Testing
+STIM	Text	+	7.7269	Testing
+STIM	Blank		8.0276	Testing
+STIM_PREPARE	Circles	--	-3996.8309	Testing
+STIM	Circles	--	8.3283	Testing
+STIM	Blank		8.629	Testing
+STIM	Text	+	8.9297	Testing
+STIM	Blank		9.2304	Testing
+STIM_PREPARE	Circles	--	-3996.8309	Testing
+STIM	Circles	--	9.5311	Testing
+STIM	Blank		9.8318	Testing
+STIM	Text	+	10.1325	Testing
+STIM	Blank		10.4332	Testing
+STIM_PREPARE	Circles	--	-3996.8309	Testing
+STIM	Circles	--	10.7339	Testing
+STIM	Blank		11.0346	Testing
+STIM	Text	+	11.3353	Testing
+STIM	Blank		11.636	Testing
+STIM_PREPARE	Circles	--	-3996.8309	Testing
+STIM	Circles	--	11.9367	Testing
+STIM	Cleanup		12.1371	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:38:20
+
+START	4023.6128		0
+STIM	Paragraph	Press any key to begin.	0.041449
+STIM	Blank		1.3946
+STIM	Text	+	2.3969	Testing
+STIM	Blank		2.6976	Testing
+STIM_PREPARE	Circles	--	-4024.6128	Testing
+STIM	Circles	--	2.9983	Testing
+STIM	Blank		3.299	Testing
+STIM	Text	+	3.5997	Testing
+STIM	Blank		3.9004	Testing
+STIM_PREPARE	Circles	--	-4024.6128	Testing
+STIM	Circles	--	4.2011	Testing
+STIM	Blank		4.5018	Testing
+STIM	Text	+	4.8025	Testing
+STIM	Blank		5.1031	Testing
+STIM_PREPARE	Circles	--	-4024.6128	Testing
+STIM	Circles	--	5.4039	Testing
+STIM	Blank		5.7045	Testing
+STIM	Text	+	6.0052	Testing
+STIM	Blank		6.3059	Testing
+STIM_PREPARE	Circles	--	-4024.6128	Testing
+STIM	Circles	--	6.6066	Testing
+STIM	Blank		6.9073	Testing
+STIM	Text	+	7.208	Testing
+STIM	Blank		7.5087	Testing
+STIM_PREPARE	Circles	--	-4024.6128	Testing
+STIM	Circles	--	7.8094	Testing
+STIM	Blank		8.1101	Testing
+STIM	Text	+	8.4108	Testing
+STIM	Blank		8.7115	Testing
+STIM_PREPARE	Circles	--	-4024.6128	Testing
+STIM	Circles	--	9.0122	Testing
+STIM	Cleanup		9.2293	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:46:30
+
+START	4512.96		0
+STIM	Paragraph	Press any key to begin.	0.041845
+STIM	Blank		0.86039
+STIM	Text	+	1.8627	Testing
+STIM	Blank		2.1634	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	2.2135	Testing
+STIM	Blank		2.7147	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	2.7481	Testing
+STIM	Blank		3.4998	Testing
+STIM	Text	+	4.001	Testing
+STIM	Blank		4.3017	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	4.3351	Testing
+STIM	Blank		4.8363	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	4.8697	Testing
+STIM	Blank		5.5713	Testing
+STIM	Text	+	6.0724	Testing
+STIM	Blank		6.3731	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	6.4066	Testing
+STIM	Blank		6.9077	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	6.9411	Testing
+STIM	Blank		7.5592	Testing
+STIM	Text	+	8.0604	Testing
+STIM	Blank		8.3611	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	8.3945	Testing
+STIM	Blank		8.8956	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	8.9291	Testing
+STIM	Blank		9.7142	Testing
+STIM	Text	+	10.2154	Testing
+STIM	Blank		10.5161	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	10.5495	Testing
+STIM	Blank		11.0506	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	11.084	Testing
+STIM	Blank		11.7188	Testing
+STIM	Text	+	12.22	Testing
+STIM	Blank		12.5207	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	12.5541	Testing
+STIM	Blank		13.0553	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	13.0887	Testing
+STIM	Blank		13.7235	Testing
+STIM	Text	+	14.2246	Testing
+STIM	Blank		14.5253	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	14.5587	Testing
+STIM	Blank		15.0599	Testing
+STIM_PREPARE	Circles	--	-4513.96	Testing
+STIM	Circles	--	15.0933	Testing
+STIM	Cleanup		15.9954	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:48:58
+
+START	4661.3699		0
+STIM	Paragraph	Press any key to begin.	0.041604
+STIM	Blank		0.62626
+STIM	Text	+	1.6286	Testing
+STIM	Blank		1.9293	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	2.23	Testing
+STIM	Blank		2.7312	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	3.0318	Testing
+STIM	Blank		3.984	Testing
+STIM	Text	+	4.4852	Testing
+STIM	Blank		4.7859	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	5.0866	Testing
+STIM	Blank		5.5877	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	5.8884	Testing
+STIM	Blank		6.8072	Testing
+STIM	Text	+	7.3084	Testing
+STIM	Blank		7.6091	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	7.9098	Testing
+STIM	Blank		8.4109	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	8.7116	Testing
+STIM	Blank		10.0815	Testing
+STIM	Text	+	10.5826	Testing
+STIM	Blank		10.8833	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	11.184	Testing
+STIM	Blank		11.6852	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	11.9859	Testing
+STIM	Blank		12.771	Testing
+STIM	Text	+	13.2722	Testing
+STIM	Blank		13.5729	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	13.8736	Testing
+STIM	Blank		14.3747	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	14.6754	Testing
+STIM	Blank		15.2434	Testing
+STIM	Text	+	15.7446	Testing
+STIM	Blank		16.0452	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	16.3459	Testing
+STIM	Blank		16.8471	Testing
+STIM_PREPARE	Circles	--	-4662.3699	Testing
+STIM	Circles	--	17.1478	Testing
+STIM	Cleanup		17.649	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:52:17
+
+START	4860.4784		0
+STIM	Paragraph	Press any key to begin.	0.04329
+STIM	Blank		0.57786
+STIM	Text	+	1.5802	Testing
+STIM	Blank		1.8809	Testing
+STIM_PREPARE	Circles	--	-4861.4784	Testing
+STIM	Circles	--	2.1816	Testing
+STIM	Blank		2.6827	Testing
+STIM_PREPARE	Circles	--	-4861.4784	Testing
+STIM	Circles	--	2.9834	Testing
+STIM	Blank		3.5347	Testing
+STIM	Text	+	4.0359	Testing
+STIM	Blank		4.3365	Testing
+STIM_PREPARE	Circles	--	-4861.4784	Testing
+STIM	Circles	--	4.6372	Testing
+STIM	Blank		5.1384	Testing
+STIM_PREPARE	Circles	--	-4861.4784	Testing
+STIM	Circles	--	5.4391	Testing
+STIM	Blank		5.9736	Testing
+STIM	Text	+	6.4748	Testing
+STIM	Blank		6.7755	Testing
+STIM_PREPARE	Circles	--	-4861.4784	Testing
+STIM	Circles	--	7.0762	Testing
+STIM	Blank		7.5774	Testing
+STIM_PREPARE	Circles	--	-4861.4784	Testing
+STIM	Circles	--	7.878	Testing
+STIM	Cleanup		8.3959	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 16:56:37
+
+START	5120.0126		0
+STIM	Paragraph	Press any key to begin.	0.042238
+STIM	Blank		0.62692
+STIM	Text	+	1.6292	Testing
+STIM	Blank		1.9299	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	2.2306	Testing
+STIM	Blank		2.7318	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	3.0325	Testing
+STIM	Blank		3.8009	Testing
+STIM	Text	+	4.3021	Testing
+STIM	Blank		4.6028	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	4.9035	Testing
+STIM	Blank		5.4046	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	5.7053	Testing
+STIM	Blank		6.29	Testing
+STIM	Text	+	6.7912	Testing
+STIM	Blank		7.0919	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	7.3926	Testing
+STIM	Blank		7.8937	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	8.1944	Testing
+STIM	Blank		8.7624	Testing
+STIM	Text	+	9.2635	Testing
+STIM	Blank		9.5642	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	9.8649	Testing
+STIM	Blank		10.3661	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	10.6668	Testing
+STIM	Blank		11.335	Testing
+STIM	Text	+	11.8362	Testing
+STIM	Blank		12.1369	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	12.4376	Testing
+STIM	Blank		12.9387	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	13.2394	Testing
+STIM	Blank		13.8742	Testing
+STIM	Text	+	14.3754	Testing
+STIM	Blank		14.6761	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	14.9768	Testing
+STIM	Blank		15.4779	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	15.7786	Testing
+STIM	Blank		16.6139	Testing
+STIM	Text	+	17.115	Testing
+STIM	Blank		17.4157	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	17.7164	Testing
+STIM	Blank		18.2176	Testing
+STIM_PREPARE	Circles	--	-5121.0126	Testing
+STIM	Circles	--	18.5183	Testing
+STIM	Cleanup		18.9693	Testing
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 17:25:59
+
+START	6881.6823		0
+STIM	Paragraph	Press any key to begin.	0.043919
+STIM	Blank		0.67871
+STIM	Paragraph	Press any key to begin.	1.681
+STIM	Text	+	2.9506	1	4	0	6	30
+STIM	Blank		3.2513	1	4	0	6	30
+STIM_PREPARE	Circles	--	-6882.6823	1	4	0	6	30
+STIM	Circles	--	3.552	1	4	0	6	30
+STIM	Blank		4.0532	1	4	0	6	30
+STIM_PREPARE	Circles	--	-6882.6823	1	4	0	6	30
+STIM	Circles	--	4.3539	1	4	0	6	30
+STIM	Blank		4.9887	1	4	0	6	30
+STIM	Text	+	5.4564	2	4	30	6	0
+STIM	Blank		5.7571	2	4	30	6	0
+STIM_PREPARE	Circles	--	-6882.6823	2	4	30	6	0
+STIM	Circles	--	6.0578	2	4	30	6	0
+STIM	Blank		6.559	2	4	30	6	0
+STIM_PREPARE	Circles	--	-6882.6823	2	4	30	6	0
+STIM	Circles	--	6.8597	2	4	30	6	0
+STIM	Blank		7.745	2	4	30	6	0
+STIM	Text	+	8.1961	3	6	0	4	30
+STIM	Blank		8.4968	3	6	0	4	30
+STIM_PREPARE	Circles	--	-6882.6823	3	6	0	4	30
+STIM	Circles	--	8.7975	3	6	0	4	30
+STIM	Blank		9.2986	3	6	0	4	30
+STIM_PREPARE	Circles	--	-6882.6823	3	6	0	4	30
+STIM	Circles	--	9.5993	3	6	0	4	30
+STIM	Blank		10.2341	3	6	0	4	30
+STIM	Text	+	10.7353	4	6	30	4	0
+STIM	Blank		11.036	4	6	30	4	0
+STIM_PREPARE	Circles	--	-6882.6823	4	6	30	4	0
+STIM	Circles	--	11.3367	4	6	30	4	0
+STIM	Blank		11.8378	4	6	30	4	0
+STIM_PREPARE	Circles	--	-6882.6823	4	6	30	4	0
+STIM	Circles	--	12.1385	4	6	30	4	0
+STIM	Blank		12.7232	4	6	30	4	0
+STIM	Text	+	13.3413	5	10	0	16	30
+STIM	Blank		13.642	5	10	0	16	30
+STIM_PREPARE	Circles	--	-6882.6823	5	10	0	16	30
+STIM	Circles	--	13.9427	5	10	0	16	30
+STIM	Blank		14.4439	5	10	0	16	30
+STIM_PREPARE	Circles	--	-6882.6823	5	10	0	16	30
+STIM	Circles	--	14.7446	5	10	0	16	30
+STIM	Blank		15.2791	5	10	0	16	30
+STIM	Text	+	15.5297	6	10	30	16	0
+STIM	Blank		15.8304	6	10	30	16	0
+STIM_PREPARE	Circles	--	-6882.6823	6	10	30	16	0
+STIM	Circles	--	16.1311	6	10	30	16	0
+STIM	Blank		16.6323	6	10	30	16	0
+STIM_PREPARE	Circles	--	-6882.6823	6	10	30	16	0
+STIM	Circles	--	16.933	6	10	30	16	0
+STIM	Blank		17.3339	6	10	30	16	0
+STIM	Text	+	17.8851	7	16	0	10	30
+STIM	Blank		18.1859	7	16	0	10	30
+STIM_PREPARE	Circles	--	-6882.6823	7	16	0	10	30
+STIM	Circles	--	18.4865	7	16	0	10	30
+STIM	Blank		18.9877	7	16	0	10	30
+STIM_PREPARE	Circles	--	-6882.6823	7	16	0	10	30
+STIM	Circles	--	19.2884	7	16	0	10	30
+STIM	Blank		20.1236	7	16	0	10	30
+STIM	Text	+	20.5246	8	16	30	10	0
+STIM	Blank		20.8253	8	16	30	10	0
+STIM_PREPARE	Circles	--	-6882.6823	8	16	30	10	0
+STIM	Circles	--	21.126	8	16	30	10	0
+STIM	Blank		21.6271	8	16	30	10	0
+STIM_PREPARE	Circles	--	-6882.6823	8	16	30	10	0
+STIM	Circles	--	21.9278	8	16	30	10	0
+STIM	Blank		22.4791	8	16	30	10	0
+STIM	Text	+	23.0805	9	20	0	34	30
+STIM	Blank		23.3812	9	20	0	34	30
+STIM_PREPARE	Circles	--	-6882.6823	9	20	0	34	30
+STIM	Circles	--	23.6819	9	20	0	34	30
+STIM	Blank		24.183	9	20	0	34	30
+STIM_PREPARE	Circles	--	-6882.6823	9	20	0	34	30
+STIM	Circles	--	24.4837	9	20	0	34	30
+STIM	Blank		24.9181	9	20	0	34	30
+STIM	Text	+	25.1686	10	20	30	34	0
+STIM	Blank		25.4694	10	20	30	34	0
+STIM_PREPARE	Circles	--	-6882.6823	10	20	30	34	0
+STIM	Circles	--	25.77	10	20	30	34	0
+STIM	Blank		26.2712	10	20	30	34	0
+STIM_PREPARE	Circles	--	-6882.6823	10	20	30	34	0
+STIM	Circles	--	26.5719	10	20	30	34	0
+STIM	Blank		26.9895	10	20	30	34	0
+STIM	Text	+	27.474	11	34	0	20	30
+STIM	Blank		27.7747	11	34	0	20	30
+STIM_PREPARE	Circles	--	-6882.6823	11	34	0	20	30
+STIM	Circles	--	28.0754	11	34	0	20	30
+STIM	Blank		28.5765	11	34	0	20	30
+STIM_PREPARE	Circles	--	-6882.6823	11	34	0	20	30
+STIM	Circles	--	28.8772	11	34	0	20	30
+STIM	Blank		29.4285	11	34	0	20	30
+STIM	Text	+	29.9296	12	34	30	20	0
+STIM	Blank		30.2304	12	34	30	20	0
+STIM_PREPARE	Circles	--	-6882.6823	12	34	30	20	0
+STIM	Circles	--	30.531	12	34	30	20	0
+STIM	Blank		31.0322	12	34	30	20	0
+STIM_PREPARE	Circles	--	-6882.6823	12	34	30	20	0
+STIM	Circles	--	31.3329	12	34	30	20	0
+STIM	Blank		31.951	12	34	30	20	0
+STIM	Text	+	32.402	13	40	0	60	30
+STIM	Blank		32.7027	13	40	0	60	30
+STIM_PREPARE	Circles	--	-6882.6823	13	40	0	60	30
+STIM	Circles	--	33.0034	13	40	0	60	30
+STIM	Blank		33.5046	13	40	0	60	30
+STIM_PREPARE	Circles	--	-6882.6823	13	40	0	60	30
+STIM	Circles	--	33.8053	13	40	0	60	30
+STIM	Blank		34.3732	13	40	0	60	30
+STIM	Text	+	34.8577	14	40	30	60	0
+STIM	Blank		35.1584	14	40	30	60	0
+STIM_PREPARE	Circles	--	-6882.6823	14	40	30	60	0
+STIM	Circles	--	35.4591	14	40	30	60	0
+STIM	Blank		35.9602	14	40	30	60	0
+STIM_PREPARE	Circles	--	-6882.6823	14	40	30	60	0
+STIM	Circles	--	36.2609	14	40	30	60	0
+STIM	Blank		36.7955	14	40	30	60	0
+STIM	Text	+	37.1463	15	60	0	40	30
+STIM	Blank		37.447	15	60	0	40	30
+STIM_PREPARE	Circles	--	-6882.6823	15	60	0	40	30
+STIM	Circles	--	37.7477	15	60	0	40	30
+STIM	Blank		38.2489	15	60	0	40	30
+STIM_PREPARE	Circles	--	-6882.6823	15	60	0	40	30
+STIM	Circles	--	38.5496	15	60	0	40	30
+STIM	Blank		39.0674	15	60	0	40	30
+STIM	Text	+	39.4516	16	60	30	40	0
+STIM	Blank		39.7524	16	60	30	40	0
+STIM_PREPARE	Circles	--	-6882.6823	16	60	30	40	0
+STIM	Circles	--	40.053	16	60	30	40	0
+STIM	Blank		40.5542	16	60	30	40	0
+STIM_PREPARE	Circles	--	-6882.6823	16	60	30	40	0
+STIM	Circles	--	40.8549	16	60	30	40	0
+STIM	Cleanup		41.3393	16	60	30	40	0
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 17:58:25
+
+START	8827.9146		0
+STIM	Paragraph	Press any key to begin.	0.042924
+STIM	Blank		1.2624
+STIM	Paragraph	Press any key to begin.	2.2647
+STIM	Text	+	3.1167	1	10	0	16	30
+STIM	Blank		3.4174	1	10	0	16	30
+STIM_PREPARE	Circles	--	-8828.9146	1	10	0	16	30
+STIM	Circles	--	3.7181	1	10	0	16	30
+STIM	Blank		4.2192	1	10	0	16	30
+STIM_PREPARE	Circles	--	-8828.9146	1	10	0	16	30
+STIM	Circles	--	4.5199	1	10	0	16	30
+STIM	Blank		5.0378	1	10	0	16	30
+STIM	Text	+	5.5724	2	60	30	40	30
+STIM	Blank		5.873	2	60	30	40	30
+STIM_PREPARE	Circles	--	-8828.9146	2	60	30	40	30
+STIM	Circles	--	6.1738	2	60	30	40	30
+STIM	Blank		6.6749	2	60	30	40	30
+STIM_PREPARE	Circles	--	-8828.9146	2	60	30	40	30
+STIM	Circles	--	6.9756	2	60	30	40	30
+STIM	Blank		7.5937	2	60	30	40	30
+STIM	Text	+	8.1951	3	16	10	10	30
+STIM	Blank		8.4958	3	16	10	10	30
+STIM_PREPARE	Circles	--	-8828.9146	3	16	10	10	30
+STIM	Circles	--	8.7965	3	16	10	10	30
+STIM	Blank		9.2976	3	16	10	10	30
+STIM_PREPARE	Circles	--	-8828.9146	3	16	10	10	30
+STIM	Circles	--	9.5983	3	16	10	10	30
+STIM	Blank		10.7844	3	16	10	10	30
+STIM	Text	+	11.2856	4	16	30	10	10
+STIM	Blank		11.5863	4	16	30	10	10
+STIM_PREPARE	Circles	--	-8828.9146	4	16	30	10	10
+STIM	Circles	--	11.887	4	16	30	10	10
+STIM	Blank		12.3881	4	16	30	10	10
+STIM_PREPARE	Circles	--	-8828.9146	4	16	30	10	10
+STIM	Circles	--	12.6888	4	16	30	10	10
+STIM	Blank		13.2067	4	16	30	10	10
+STIM	Text	+	13.6076	5	4	30	6	15
+STIM	Blank		13.9083	5	4	30	6	15
+STIM_PREPARE	Circles	--	-8828.9146	5	4	30	6	15
+STIM	Circles	--	14.209	5	4	30	6	15
+STIM	Blank		14.7102	5	4	30	6	15
+STIM_PREPARE	Circles	--	-8828.9146	5	4	30	6	15
+STIM	Circles	--	15.0108	5	4	30	6	15
+STIM	Blank		15.4786	5	4	30	6	15
+STIM	Text	+	15.9965	6	34	30	20	0
+STIM	Blank		16.2971	6	34	30	20	0
+STIM_PREPARE	Circles	--	-8828.9146	6	34	30	20	0
+STIM	Circles	--	16.5979	6	34	30	20	0
+STIM	Blank		17.099	6	34	30	20	0
+STIM_PREPARE	Circles	--	-8828.9146	6	34	30	20	0
+STIM	Circles	--	17.3997	6	34	30	20	0
+STIM	Blank		18.0512	6	34	30	20	0
+STIM	Text	+	18.5858	7	34	4	20	30
+STIM	Blank		18.8865	7	34	4	20	30
+STIM_PREPARE	Circles	--	-8828.9146	7	34	4	20	30
+STIM	Circles	--	19.1872	7	34	4	20	30
+STIM	Blank		19.6883	7	34	4	20	30
+STIM_PREPARE	Circles	--	-8828.9146	7	34	4	20	30
+STIM	Circles	--	19.989	7	34	4	20	30
+STIM	Blank		20.5069	7	34	4	20	30
+STIM	Text	+	21.0749	8	60	30	40	0
+STIM	Blank		21.3756	8	60	30	40	0
+STIM_PREPARE	Circles	--	-8828.9146	8	60	30	40	0
+STIM	Circles	--	21.6763	8	60	30	40	0
+STIM	Blank		22.1774	8	60	30	40	0
+STIM_PREPARE	Circles	--	-8828.9146	8	60	30	40	0
+STIM	Circles	--	22.4781	8	60	30	40	0
+STIM	Blank		23.0294	8	60	30	40	0
+STIM	Text	+	23.5138	9	10	30	16	30
+STIM	Blank		23.8145	9	10	30	16	30
+STIM_PREPARE	Circles	--	-8828.9146	9	10	30	16	30
+STIM	Circles	--	24.1152	9	10	30	16	30
+STIM	Blank		24.6164	9	10	30	16	30
+STIM_PREPARE	Circles	--	-8828.9146	9	10	30	16	30
+STIM	Circles	--	24.9171	9	10	30	16	30
+STIM	Blank		25.5018	9	10	30	16	30
+STIM	Text	+	26.0363	10	10	15	16	30
+STIM	Blank		26.337	10	10	15	16	30
+STIM_PREPARE	Circles	--	-8828.9146	10	10	15	16	30
+STIM	Circles	--	26.6377	10	10	15	16	30
+STIM	Blank		27.1389	10	10	15	16	30
+STIM_PREPARE	Circles	--	-8828.9146	10	10	15	16	30
+STIM	Circles	--	27.4396	10	10	15	16	30
+STIM	Blank		27.9574	10	10	15	16	30
+STIM	Text	+	28.5755	11	40	15	60	30
+STIM	Blank		28.8762	11	40	15	60	30
+STIM_PREPARE	Circles	--	-8828.9146	11	40	15	60	30
+STIM	Circles	--	29.1769	11	40	15	60	30
+STIM	Blank		29.6781	11	40	15	60	30
+STIM_PREPARE	Circles	--	-8828.9146	11	40	15	60	30
+STIM	Circles	--	29.9788	11	40	15	60	30
+STIM	Blank		30.6637	11	40	15	60	30
+STIM	Text	+	31.2484	12	4	15	6	30
+STIM	Blank		31.5491	12	4	15	6	30
+STIM_PREPARE	Circles	--	-8828.9146	12	4	15	6	30
+STIM	Circles	--	31.8498	12	4	15	6	30
+STIM	Blank		32.3509	12	4	15	6	30
+STIM_PREPARE	Circles	--	-8828.9146	12	4	15	6	30
+STIM	Circles	--	32.6516	12	4	15	6	30
+STIM	Cleanup		33.1194	12	4	15	6	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:09:23
+
+START	9485.6679		0
+STIM	Paragraph	Press any key to begin.	0.043094
+STIM	Blank		2.2983
+STIM	Paragraph	Press any key to begin.	3.3006
+STIM	Text	+	4.1359	1	40	30	60	4
+STIM	Blank		4.4366	1	40	30	60	4
+STIM_PREPARE	Circles	--	-9486.6679	1	40	30	60	4
+STIM	Circles	--	4.7373	1	40	30	60	4
+STIM	Blank		5.2384	1	40	30	60	4
+STIM_PREPARE	Circles	--	-9486.6679	1	40	30	60	4
+STIM	Circles	--	5.5391	1	40	30	60	4
+STIM	Blank		7.0426	1	40	30	60	4
+STIM	Text	+	7.6273	2	16	0	10	30
+STIM	Blank		7.928	2	16	0	10	30
+STIM_PREPARE	Circles	--	-9486.6679	2	16	0	10	30
+STIM	Circles	--	8.2287	2	16	0	10	30
+STIM	Blank		8.7298	2	16	0	10	30
+STIM_PREPARE	Circles	--	-9486.6679	2	16	0	10	30
+STIM	Circles	--	9.0305	2	16	0	10	30
+STIM	Blank		10.534	2	16	0	10	30
+STIM	Text	+	11.1855	3	60	30	40	4
+STIM	Blank		11.4862	3	60	30	40	4
+STIM_PREPARE	Circles	--	-9486.6679	3	60	30	40	4
+STIM	Circles	--	11.7869	3	60	30	40	4
+STIM	Blank		12.2881	3	60	30	40	4
+STIM_PREPARE	Circles	--	-9486.6679	3	60	30	40	4
+STIM	Circles	--	12.5888	3	60	30	40	4
+STIM	Blank		14.0922	3	60	30	40	4
+STIM	Text	+	14.727	4	4	10	6	30
+STIM	Blank		15.0277	4	4	10	6	30
+STIM_PREPARE	Circles	--	-9486.6679	4	4	10	6	30
+STIM	Circles	--	15.3284	4	4	10	6	30
+STIM	Blank		15.8296	4	4	10	6	30
+STIM_PREPARE	Circles	--	-9486.6679	4	4	10	6	30
+STIM	Circles	--	16.1303	4	4	10	6	30
+STIM	Blank		17.2495	4	4	10	6	30
+STIM	Text	+	17.6003	5	34	30	20	4
+STIM	Blank		17.901	5	34	30	20	4
+STIM_PREPARE	Circles	--	-9486.6679	5	34	30	20	4
+STIM	Circles	--	18.2017	5	34	30	20	4
+STIM	Blank		18.7029	5	34	30	20	4
+STIM_PREPARE	Circles	--	-9486.6679	5	34	30	20	4
+STIM	Circles	--	19.0036	5	34	30	20	4
+STIM	Blank		19.5047	5	34	30	20	4
+STIM	Text	+	20.2398	6	34	30	20	15
+STIM	Blank		20.5405	6	34	30	20	15
+STIM_PREPARE	Circles	--	-9486.6679	6	34	30	20	15
+STIM	Circles	--	20.8412	6	34	30	20	15
+STIM	Blank		21.3423	6	34	30	20	15
+STIM_PREPARE	Circles	--	-9486.6679	6	34	30	20	15
+STIM	Circles	--	21.643	6	34	30	20	15
+STIM	Cleanup		22.1442	6	34	30	20	15
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:15:13
+
+START	9836.0624		0
+STIM	Paragraph	Press any key to begin.	0.041708
+STIM	Blank		0.65981
+STIM	Paragraph	Press any key to begin.	1.6621
+STIM	Cleanup		5.521	1	40	30	60	4
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:16:00
+
+START	9883.3049		0
+STIM	Paragraph	Press any key to begin.	0.041726
+STIM	Blank		0.91039
+STIM	Paragraph	Press any key to begin.	1.9127
+STIM	Text	+	2.8482	1	40	30	60	4
+STIM	Blank		3.1489	1	40	30	60	4
+STIM_PREPARE	Circles	--	-9884.3049	1	40	30	60	4
+STIM	Circles	--	3.4496	1	40	30	60	4
+STIM	Blank		3.9508	1	40	30	60	4
+STIM_PREPARE	Circles	--	-9884.3049	1	40	30	60	4
+STIM	Circles	--	4.2514	1	40	30	60	4
+STIM	Blank		5.1201	1	40	30	60	4
+STIM	Text	+	5.7048	2	16	0	10	30
+STIM	Blank		6.0055	2	16	0	10	30
+STIM_PREPARE	Circles	--	-9884.3049	2	16	0	10	30
+STIM	Circles	--	6.3062	2	16	0	10	30
+STIM	Blank		6.8074	2	16	0	10	30
+STIM_PREPARE	Circles	--	-9884.3049	2	16	0	10	30
+STIM	Circles	--	7.108	2	16	0	10	30
+STIM	Blank		7.6927	2	16	0	10	30
+STIM	Text	+	8.3442	3	60	30	40	4
+STIM	Blank		8.6449	3	60	30	40	4
+STIM_PREPARE	Circles	--	-9884.3049	3	60	30	40	4
+STIM	Circles	--	8.9456	3	60	30	40	4
+STIM	Blank		9.4468	3	60	30	40	4
+STIM_PREPARE	Circles	--	-9884.3049	3	60	30	40	4
+STIM	Circles	--	9.7475	3	60	30	40	4
+STIM	Blank		11.251	3	60	30	40	4
+STIM	Text	Please respond faster.	11.8858	3	60	30	40	4
+STIM	Blank		12.8881	3	60	30	40	4
+STIM	Text	+	13.5229	4	4	10	6	30
+STIM	Blank		13.8236	4	4	10	6	30
+STIM_PREPARE	Circles	--	-9884.3049	4	4	10	6	30
+STIM	Circles	--	14.1243	4	4	10	6	30
+STIM	Blank		14.6254	4	4	10	6	30
+STIM_PREPARE	Circles	--	-9884.3049	4	4	10	6	30
+STIM	Circles	--	14.9261	4	4	10	6	30
+STIM	Blank		16.4296	4	4	10	6	30
+STIM	Text	Please respond faster.	16.7804	4	4	10	6	30
+STIM	Blank		17.7827	4	4	10	6	30
+STIM	Text	+	18.1335	5	34	30	20	4
+STIM	Blank		18.4342	5	34	30	20	4
+STIM_PREPARE	Circles	--	-9884.3049	5	34	30	20	4
+STIM	Circles	--	18.7349	5	34	30	20	4
+STIM	Blank		19.2361	5	34	30	20	4
+STIM_PREPARE	Circles	--	-9884.3049	5	34	30	20	4
+STIM	Circles	--	19.5368	5	34	30	20	4
+STIM	Blank		20.1215	5	34	30	20	4
+STIM	Text	+	20.8565	6	34	30	20	15
+STIM	Blank		21.1572	6	34	30	20	15
+STIM_PREPARE	Circles	--	-9884.3049	6	34	30	20	15
+STIM	Circles	--	21.4579	6	34	30	20	15
+STIM	Blank		21.959	6	34	30	20	15
+STIM_PREPARE	Circles	--	-9884.3049	6	34	30	20	15
+STIM	Circles	--	22.2597	6	34	30	20	15
+STIM	Blank		22.9447	6	34	30	20	15
+STIM	Text	+	23.5126	7	10	30	16	0
+STIM	Blank		23.8133	7	10	30	16	0
+STIM_PREPARE	Circles	--	-9884.3049	7	10	30	16	0
+STIM	Circles	--	24.114	7	10	30	16	0
+STIM	Blank		24.6152	7	10	30	16	0
+STIM_PREPARE	Circles	--	-9884.3049	7	10	30	16	0
+STIM	Circles	--	24.9159	7	10	30	16	0
+STIM	Blank		25.417	7	10	30	16	0
+STIM	Text	+	26.0017	8	10	15	16	30
+STIM	Blank		26.3024	8	10	15	16	30
+STIM_PREPARE	Circles	--	-9884.3049	8	10	15	16	30
+STIM	Circles	--	26.6031	8	10	15	16	30
+STIM	Blank		27.1043	8	10	15	16	30
+STIM_PREPARE	Circles	--	-9884.3049	8	10	15	16	30
+STIM	Circles	--	27.405	8	10	15	16	30
+STIM	Blank		28.0565	8	10	15	16	30
+STIM	Text	+	28.591	9	34	30	20	30
+STIM	Blank		28.8917	9	34	30	20	30
+STIM_PREPARE	Circles	--	-9884.3049	9	34	30	20	30
+STIM	Circles	--	29.1924	9	34	30	20	30
+STIM	Blank		29.6936	9	34	30	20	30
+STIM_PREPARE	Circles	--	-9884.3049	9	34	30	20	30
+STIM	Circles	--	29.9943	9	34	30	20	30
+STIM	Blank		30.5288	9	34	30	20	30
+STIM	Text	+	31.0634	10	34	30	20	30
+STIM	Blank		31.3641	10	34	30	20	30
+STIM_PREPARE	Circles	--	-9884.3049	10	34	30	20	30
+STIM	Circles	--	31.6648	10	34	30	20	30
+STIM	Blank		32.166	10	34	30	20	30
+STIM_PREPARE	Circles	--	-9884.3049	10	34	30	20	30
+STIM	Circles	--	32.4667	10	34	30	20	30
+STIM	Blank		32.9511	10	34	30	20	30
+STIM	Text	+	33.6026	11	10	30	16	30
+STIM	Blank		33.9033	11	10	30	16	30
+STIM_PREPARE	Circles	--	-9884.3049	11	10	30	16	30
+STIM	Circles	--	34.204	11	10	30	16	30
+STIM	Blank		34.7052	11	10	30	16	30
+STIM_PREPARE	Circles	--	-9884.3049	11	10	30	16	30
+STIM	Circles	--	35.0059	11	10	30	16	30
+STIM	Blank		36.5093	11	10	30	16	30
+STIM	Text	Please respond faster.	37.0272	11	10	30	16	30
+STIM	Blank		38.0295	11	10	30	16	30
+STIM	Text	+	38.5474	12	16	30	10	15
+STIM	Blank		38.8481	12	16	30	10	15
+STIM_PREPARE	Circles	--	-9884.3049	12	16	30	10	15
+STIM	Circles	--	39.1488	12	16	30	10	15
+STIM	Blank		39.6499	12	16	30	10	15
+STIM_PREPARE	Circles	--	-9884.3049	12	16	30	10	15
+STIM	Circles	--	39.9506	12	16	30	10	15
+STIM	Cleanup		40.4184	12	16	30	10	15
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:17:04
+
+START	9947.0529		0
+STIM	Paragraph	Press any key to begin.	0.041008
+STIM	Blank		0.99321
+STIM	Paragraph	Press any key to begin.	1.9955
+STIM	Text	+	2.7807	1	40	30	60	4
+STIM	Blank		3.0814	1	40	30	60	4
+STIM_PREPARE	Circles	--	-9948.0529	1	40	30	60	4
+STIM	Circles	--	3.3821	1	40	30	60	4
+STIM	Blank		3.8832	1	40	30	60	4
+STIM_PREPARE	Circles	--	-9948.0529	1	40	30	60	4
+STIM	Circles	--	4.1839	1	40	30	60	4
+STIM	Blank		4.8855	1	40	30	60	4
+STIM	Text	+	5.4702	2	16	0	10	30
+STIM	Blank		5.7709	2	16	0	10	30
+STIM_PREPARE	Circles	--	-9948.0529	2	16	0	10	30
+STIM	Circles	--	6.0716	2	16	0	10	30
+STIM	Blank		6.5728	2	16	0	10	30
+STIM_PREPARE	Circles	--	-9948.0529	2	16	0	10	30
+STIM	Circles	--	6.8735	2	16	0	10	30
+STIM	Blank		8.377	2	16	0	10	30
+STIM	Text	Please respond faster.	9.0284	2	16	0	10	30
+STIM	Text	Please respond faster.	11.0331	2	16	0	10	30
+STIM	Blank		11.2335	2	16	0	10	30
+STIM	Text	+	11.885	3	60	30	40	4
+STIM	Blank		12.1858	3	60	30	40	4
+STIM_PREPARE	Circles	--	-9948.0529	3	60	30	40	4
+STIM	Circles	--	12.4864	3	60	30	40	4
+STIM	Blank		12.9876	3	60	30	40	4
+STIM_PREPARE	Circles	--	-9948.0529	3	60	30	40	4
+STIM	Circles	--	13.2883	3	60	30	40	4
+STIM	Blank		13.8061	3	60	30	40	4
+STIM	Text	+	14.441	4	4	10	6	30
+STIM	Blank		14.7417	4	4	10	6	30
+STIM_PREPARE	Circles	--	-9948.0529	4	4	10	6	30
+STIM	Circles	--	15.0423	4	4	10	6	30
+STIM	Blank		15.5435	4	4	10	6	30
+STIM_PREPARE	Circles	--	-9948.0529	4	4	10	6	30
+STIM	Circles	--	15.8442	4	4	10	6	30
+STIM	Blank		17.3477	4	4	10	6	30
+STIM	Text	Please respond faster.	17.6985	4	4	10	6	30
+STIM	Text	Please respond faster.	19.7031	4	4	10	6	30
+STIM	Blank		20.0539	4	4	10	6	30
+STIM	Text	+	20.4047	5	34	30	20	4
+STIM	Blank		20.7054	5	34	30	20	4
+STIM_PREPARE	Circles	--	-9948.0529	5	34	30	20	4
+STIM	Circles	--	21.0061	5	34	30	20	4
+STIM	Blank		21.5073	5	34	30	20	4
+STIM_PREPARE	Circles	--	-9948.0529	5	34	30	20	4
+STIM	Circles	--	21.808	5	34	30	20	4
+STIM	Blank		22.3258	5	34	30	20	4
+STIM	Text	+	23.0609	6	34	30	20	15
+STIM	Blank		23.3616	6	34	30	20	15
+STIM_PREPARE	Circles	--	-9948.0529	6	34	30	20	15
+STIM	Circles	--	23.6623	6	34	30	20	15
+STIM	Blank		24.1634	6	34	30	20	15
+STIM_PREPARE	Circles	--	-9948.0529	6	34	30	20	15
+STIM	Circles	--	24.4641	6	34	30	20	15
+STIM	Cleanup		24.865	6	34	30	20	15
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:25:32
+
+START	10455.1122		0
+STIM	Paragraph	Press any key to begin.	0.05598
+STIM	Blank		1.0082
+STIM	Paragraph	Press any key to begin.	2.0105
+STIM	Text	+	2.662	1	40	30	60	4
+STIM	Blank		2.9627	1	40	30	60	4
+STIM	Cleanup		3.2634	1	40	30	60	4
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:25:54
+
+START	10477.2281		0
+STIM	Paragraph	Press any key to begin.	0.041125
+STIM	Blank		0.75944
+STIM	Paragraph	Press any key to begin.	1.7618
+STIM	Text	+	2.3298	1	40	30	60	4
+STIM	Blank		2.6304	1	40	30	60	4
+STIM_PREPARE	Circles	--	-10478.2281	1	40	30	60	4
+STIM	Circles	--	2.9311	1	40	30	60	4
+STIM	Blank		3.4323	1	40	30	60	4
+STIM_PREPARE	Circles	--	-10478.2281	1	40	30	60	4
+STIM	Circles	--	3.733	1	40	30	60	4
+STIM	Blank		4.5348	1	40	30	60	4
+STIM	Text	+	5.1195	2	16	0	10	30
+STIM	Blank		5.4202	2	16	0	10	30
+STIM_PREPARE	Circles	--	-10478.2281	2	16	0	10	30
+STIM	Circles	--	5.7209	2	16	0	10	30
+STIM	Blank		6.2221	2	16	0	10	30
+STIM_PREPARE	Circles	--	-10478.2281	2	16	0	10	30
+STIM	Circles	--	6.5228	2	16	0	10	30
+STIM	Blank		7.0741	2	16	0	10	30
+STIM	Text	+	7.7256	3	60	30	40	4
+STIM	Blank		8.0262	3	60	30	40	4
+STIM_PREPARE	Circles	--	-10478.2281	3	60	30	40	4
+STIM	Circles	--	8.3269	3	60	30	40	4
+STIM	Blank		8.8281	3	60	30	40	4
+STIM_PREPARE	Circles	--	-10478.2281	3	60	30	40	4
+STIM	Circles	--	9.1288	3	60	30	40	4
+STIM	Blank		9.7803	3	60	30	40	4
+STIM	Text	+	10.4151	4	4	10	6	30
+STIM	Blank		10.7158	4	4	10	6	30
+STIM_PREPARE	Circles	--	-10478.2281	4	4	10	6	30
+STIM	Circles	--	11.0165	4	4	10	6	30
+STIM	Blank		11.5176	4	4	10	6	30
+STIM_PREPARE	Circles	--	-10478.2281	4	4	10	6	30
+STIM	Circles	--	11.8183	4	4	10	6	30
+STIM	Blank		12.3195	4	4	10	6	30
+STIM	Text	+	12.6703	5	34	30	20	4
+STIM	Blank		12.971	5	34	30	20	4
+STIM_PREPARE	Circles	--	-10478.2281	5	34	30	20	4
+STIM	Circles	--	13.2717	5	34	30	20	4
+STIM	Blank		13.7729	5	34	30	20	4
+STIM_PREPARE	Circles	--	-10478.2281	5	34	30	20	4
+STIM	Circles	--	14.0735	5	34	30	20	4
+STIM	Blank		14.6582	5	34	30	20	4
+STIM	Text	+	15.3933	6	34	30	20	15
+STIM	Blank		15.6939	6	34	30	20	15
+STIM_PREPARE	Circles	--	-10478.2281	6	34	30	20	15
+STIM	Circles	--	15.9946	6	34	30	20	15
+STIM	Blank		16.4958	6	34	30	20	15
+STIM_PREPARE	Circles	--	-10478.2281	6	34	30	20	15
+STIM	Circles	--	16.7965	6	34	30	20	15
+STIM	Blank		17.3812	6	34	30	20	15
+STIM	Text	+	17.9492	7	10	30	16	0
+STIM	Blank		18.2499	7	10	30	16	0
+STIM_PREPARE	Circles	--	-10478.2281	7	10	30	16	0
+STIM	Circles	--	18.5506	7	10	30	16	0
+STIM	Blank		19.0517	7	10	30	16	0
+STIM_PREPARE	Circles	--	-10478.2281	7	10	30	16	0
+STIM	Circles	--	19.3524	7	10	30	16	0
+STIM	Blank		19.8369	7	10	30	16	0
+STIM	Text	+	20.4215	8	10	15	16	30
+STIM	Blank		20.7222	8	10	15	16	30
+STIM_PREPARE	Circles	--	-10478.2281	8	10	15	16	30
+STIM	Circles	--	21.0229	8	10	15	16	30
+STIM	Blank		21.5241	8	10	15	16	30
+STIM_PREPARE	Circles	--	-10478.2281	8	10	15	16	30
+STIM	Circles	--	21.8248	8	10	15	16	30
+STIM	Cleanup		22.3092	8	10	15	16	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:26:46
+
+START	10528.9138		0
+STIM	Paragraph	Press any key to begin.	0.041539
+STIM	Blank		0.47587
+STIM	Paragraph	Press any key to begin.	1.4782
+STIM	Text	+	1.7288	1	40	30	60	4
+STIM	Blank		2.0295	1	40	30	60	4
+STIM_PREPARE	Circles	--	-10529.9138	1	40	30	60	4
+STIM	Circles	--	2.3302	1	40	30	60	4
+STIM	Blank		5.5042	1	40	30	60	4
+STIM_PREPARE	Circles	--	-10529.9138	1	40	30	60	4
+STIM	Circles	--	5.8049	1	40	30	60	4
+STIM	Blank		8.177	1	40	30	60	4
+STIM	Text	+	8.7617	2	16	0	10	30
+STIM	Blank		9.0624	2	16	0	10	30
+STIM_PREPARE	Circles	--	-10529.9138	2	16	0	10	30
+STIM	Circles	--	9.3631	2	16	0	10	30
+STIM	Blank		11.067	2	16	0	10	30
+STIM_PREPARE	Circles	--	-10529.9138	2	16	0	10	30
+STIM	Circles	--	11.3677	2	16	0	10	30
+STIM	Blank		12.5037	2	16	0	10	30
+STIM	Text	+	13.1552	3	60	30	40	4
+STIM	Blank		13.4559	3	60	30	40	4
+STIM_PREPARE	Circles	--	-10529.9138	3	60	30	40	4
+STIM	Circles	--	13.7566	3	60	30	40	4
+STIM	Blank		15.7612	3	60	30	40	4
+STIM_PREPARE	Circles	--	-10529.9138	3	60	30	40	4
+STIM	Circles	--	16.0619	3	60	30	40	4
+STIM	Blank		17.3148	3	60	30	40	4
+STIM	Text	+	17.9496	4	4	10	6	30
+STIM	Blank		18.2503	4	4	10	6	30
+STIM_PREPARE	Circles	--	-10529.9138	4	4	10	6	30
+STIM	Circles	--	18.551	4	4	10	6	30
+STIM	Blank		19.2192	4	4	10	6	30
+STIM_PREPARE	Circles	--	-10529.9138	4	4	10	6	30
+STIM	Circles	--	19.5199	4	4	10	6	30
+STIM	Blank		20.3886	4	4	10	6	30
+STIM	Text	+	20.7394	5	34	30	20	4
+STIM	Blank		21.0401	5	34	30	20	4
+STIM_PREPARE	Circles	--	-10529.9138	5	34	30	20	4
+STIM	Circles	--	21.3408	5	34	30	20	4
+STIM	Blank		22.4266	5	34	30	20	4
+STIM_PREPARE	Circles	--	-10529.9138	5	34	30	20	4
+STIM	Circles	--	22.7273	5	34	30	20	4
+STIM	Blank		23.3788	5	34	30	20	4
+STIM	Text	+	24.1139	6	34	30	20	15
+STIM	Blank		24.4146	6	34	30	20	15
+STIM_PREPARE	Circles	--	-10529.9138	6	34	30	20	15
+STIM	Circles	--	24.7152	6	34	30	20	15
+STIM	Cleanup		25.3668	6	34	30	20	15
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:28:40
+
+START	10643.1942		0
+STIM	Paragraph	Press any key to begin.	0.041942
+STIM	Blank		0.45958
+STIM	Paragraph	Press any key to begin.	1.4619
+STIM	Text	+	1.7292	1	40	30	60	4
+STIM	Blank		2.0299	1	40	30	60	4
+STIM_PREPARE	Circles	--	-10644.1942	1	40	30	60	4
+STIM	Circles	--	2.3306	1	40	30	60	4
+STIM	Blank		2.8317	1	40	30	60	4
+STIM_PREPARE	Circles	--	-10644.1942	1	40	30	60	4
+STIM	Circles	--	3.1324	1	40	30	60	4
+STIM	Blank		4.0345	1	40	30	60	4
+STIM	Text	+	4.6192	2	16	0	10	30
+STIM	Blank		4.9199	2	16	0	10	30
+STIM_PREPARE	Circles	--	-10644.1942	2	16	0	10	30
+STIM	Circles	--	5.2206	2	16	0	10	30
+STIM	Blank		5.7217	2	16	0	10	30
+STIM_PREPARE	Circles	--	-10644.1942	2	16	0	10	30
+STIM	Circles	--	6.0224	2	16	0	10	30
+STIM	Blank		6.6907	2	16	0	10	30
+STIM	Text	+	7.3422	3	60	30	40	4
+STIM	Blank		7.6429	3	60	30	40	4
+STIM_PREPARE	Circles	--	-10644.1942	3	60	30	40	4
+STIM	Circles	--	7.9435	3	60	30	40	4
+STIM	Blank		8.4447	3	60	30	40	4
+STIM_PREPARE	Circles	--	-10644.1942	3	60	30	40	4
+STIM	Circles	--	8.7454	3	60	30	40	4
+STIM	Blank		9.3301	3	60	30	40	4
+STIM	Text	+	9.9649	4	4	10	6	30
+STIM	Blank		10.2656	4	4	10	6	30
+STIM_PREPARE	Circles	--	-10644.1942	4	4	10	6	30
+STIM	Circles	--	10.5663	4	4	10	6	30
+STIM	Blank		11.0674	4	4	10	6	30
+STIM_PREPARE	Circles	--	-10644.1942	4	4	10	6	30
+STIM	Circles	--	11.3681	4	4	10	6	30
+STIM	Blank		11.9194	4	4	10	6	30
+STIM	Text	+	12.2702	5	34	30	20	4
+STIM	Blank		12.5709	5	34	30	20	4
+STIM_PREPARE	Circles	--	-10644.1942	5	34	30	20	4
+STIM	Circles	--	12.8716	5	34	30	20	4
+STIM	Blank		13.3728	5	34	30	20	4
+STIM_PREPARE	Circles	--	-10644.1942	5	34	30	20	4
+STIM	Circles	--	13.6734	5	34	30	20	4
+STIM	Blank		14.2915	5	34	30	20	4
+STIM	Text	+	15.0266	6	34	30	20	15
+STIM	Blank		15.3273	6	34	30	20	15
+STIM_PREPARE	Circles	--	-10644.1942	6	34	30	20	15
+STIM	Circles	--	15.628	6	34	30	20	15
+STIM	Blank		16.1291	6	34	30	20	15
+STIM_PREPARE	Circles	--	-10644.1942	6	34	30	20	15
+STIM	Circles	--	16.4298	6	34	30	20	15
+STIM	Cleanup		16.5802	6	34	30	20	15
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:30:01
+
+START	10723.8818		0
+STIM	Paragraph	Press any key to begin.	0.040816
+STIM	Blank		0.65891
+STIM	Paragraph	Press any key to begin.	1.6612
+STIM	Text	+	2.012	1	40	30	60	4
+STIM	Blank		2.3127	1	40	30	60	4
+STIM_PREPARE	Circles	--	-10724.8818	1	40	30	60	4
+STIM	Circles	--	2.6134	1	40	30	60	4
+STIM	Blank		3.1146	1	40	30	60	4
+STIM_PREPARE	Circles	--	-10724.8818	1	40	30	60	4
+STIM	Circles	--	3.4153	1	40	30	60	4
+STIM	Blank		4.0835	1	40	30	60	4
+STIM	Text	+	4.6682	2	16	0	10	30
+STIM	Blank		4.9689	2	16	0	10	30
+STIM_PREPARE	Circles	--	-10724.8818	2	16	0	10	30
+STIM	Circles	--	5.2696	2	16	0	10	30
+STIM	Blank		5.7707	2	16	0	10	30
+STIM_PREPARE	Circles	--	-10724.8818	2	16	0	10	30
+STIM	Circles	--	6.0714	2	16	0	10	30
+STIM	Blank		6.9735	2	16	0	10	30
+STIM	Text	+	7.625	3	60	30	40	4
+STIM	Blank		7.9257	3	60	30	40	4
+STIM_PREPARE	Circles	--	-10724.8818	3	60	30	40	4
+STIM	Circles	--	8.2264	3	60	30	40	4
+STIM	Blank		8.7276	3	60	30	40	4
+STIM_PREPARE	Circles	--	-10724.8818	3	60	30	40	4
+STIM	Circles	--	9.0282	3	60	30	40	4
+STIM	Cleanup		9.5461	3	60	30	40	4
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:36:21
+
+START	11104.4923		0
+STIM	Paragraph	Press any key to begin.	0.043306
+STIM	Cleanup		0.46094
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 18:36:58
+
+START	11140.7095		0
+STIM	Paragraph	Press any key to begin.	0.043146
+STIM	Blank		1.0789
+STIM	Paragraph	Press any key to begin.	2.0812
+STIM	Text	+	4.3197	1	16	30	10	30
+STIM	Blank		4.6204	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11141.7095	1	16	30	10	30
+STIM	Circles	--	4.9211	1	16	30	10	30
+STIM	Blank		5.4223	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11141.7095	1	16	30	10	30
+STIM	Circles	--	5.7229	1	16	30	10	30
+STIM	Blank		6.2742	1	16	30	10	30
+STIM	Text	+	6.7252	2	60	30	40	10
+STIM	Blank		7.026	2	60	30	40	10
+STIM_PREPARE	Circles	--	-11141.7095	2	60	30	40	10
+STIM	Circles	--	7.3267	2	60	30	40	10
+STIM	Blank		7.8278	2	60	30	40	10
+STIM_PREPARE	Circles	--	-11141.7095	2	60	30	40	10
+STIM	Circles	--	8.1285	2	60	30	40	10
+STIM	Blank		8.7132	2	60	30	40	10
+STIM	Text	+	9.1141	3	60	30	40	0
+STIM	Blank		9.4148	3	60	30	40	0
+STIM_PREPARE	Circles	--	-11141.7095	3	60	30	40	0
+STIM	Circles	--	9.7155	3	60	30	40	0
+STIM	Blank		10.2167	3	60	30	40	0
+STIM_PREPARE	Circles	--	-11141.7095	3	60	30	40	0
+STIM	Circles	--	10.5174	3	60	30	40	0
+STIM	Blank		11.219	3	60	30	40	0
+STIM	Text	+	11.7201	4	4	10	6	30
+STIM	Blank		12.0208	4	4	10	6	30
+STIM_PREPARE	Circles	--	-11141.7095	4	4	10	6	30
+STIM	Circles	--	12.3215	4	4	10	6	30
+STIM	Blank		12.8227	4	4	10	6	30
+STIM_PREPARE	Circles	--	-11141.7095	4	4	10	6	30
+STIM	Circles	--	13.1234	4	4	10	6	30
+STIM	Blank		13.658	4	4	10	6	30
+STIM	Text	+	14.2259	5	34	30	20	4
+STIM	Blank		14.5266	5	34	30	20	4
+STIM_PREPARE	Circles	--	-11141.7095	5	34	30	20	4
+STIM	Circles	--	14.8273	5	34	30	20	4
+STIM	Blank		15.3285	5	34	30	20	4
+STIM_PREPARE	Circles	--	-11141.7095	5	34	30	20	4
+STIM	Circles	--	15.6292	5	34	30	20	4
+STIM	Blank		16.7484	5	34	30	20	4
+STIM	Text	+	17.0992	6	40	30	60	10
+STIM	Blank		17.3999	6	40	30	60	10
+STIM_PREPARE	Circles	--	-11141.7095	6	40	30	60	10
+STIM	Circles	--	17.7006	6	40	30	60	10
+STIM	Blank		18.2018	6	40	30	60	10
+STIM_PREPARE	Circles	--	-11141.7095	6	40	30	60	10
+STIM	Circles	--	18.5025	6	40	30	60	10
+STIM	Blank		18.8867	6	40	30	60	10
+STIM	Text	+	19.4547	7	40	30	60	30
+STIM	Blank		19.7554	7	40	30	60	30
+STIM_PREPARE	Circles	--	-11141.7095	7	40	30	60	30
+STIM	Circles	--	20.0561	7	40	30	60	30
+STIM	Blank		20.5572	7	40	30	60	30
+STIM_PREPARE	Circles	--	-11141.7095	7	40	30	60	30
+STIM	Circles	--	20.8579	7	40	30	60	30
+STIM	Blank		21.4259	7	40	30	60	30
+STIM	Text	+	22.0273	8	4	30	6	30
+STIM	Blank		22.328	8	4	30	6	30
+STIM_PREPARE	Circles	--	-11141.7095	8	4	30	6	30
+STIM	Circles	--	22.6287	8	4	30	6	30
+STIM	Blank		23.1299	8	4	30	6	30
+STIM_PREPARE	Circles	--	-11141.7095	8	4	30	6	30
+STIM	Circles	--	23.4306	8	4	30	6	30
+STIM	Blank		24.1489	8	4	30	6	30
+STIM	Text	+	24.65	9	40	10	60	30
+STIM	Blank		24.9507	9	40	10	60	30
+STIM_PREPARE	Circles	--	-11141.7095	9	40	10	60	30
+STIM	Circles	--	25.2514	9	40	10	60	30
+STIM	Blank		25.7526	9	40	10	60	30
+STIM_PREPARE	Circles	--	-11141.7095	9	40	10	60	30
+STIM	Circles	--	26.0533	9	40	10	60	30
+STIM	Blank		26.4375	9	40	10	60	30
+STIM	Text	+	26.9386	10	20	30	34	30
+STIM	Blank		27.2393	10	20	30	34	30
+STIM_PREPARE	Circles	--	-11141.7095	10	20	30	34	30
+STIM	Circles	--	27.5401	10	20	30	34	30
+STIM	Blank		28.0412	10	20	30	34	30
+STIM_PREPARE	Circles	--	-11141.7095	10	20	30	34	30
+STIM	Circles	--	28.3419	10	20	30	34	30
+STIM	Blank		28.7762	10	20	30	34	30
+STIM	Paragraph	Press any key to continue.	29.3108	10	20	30	34	30
+STIM	Text	The experiment is now over.	30.3799	10	20	30	34	30
+STIM	Blank		30.8811	10	20	30	34	30
+STIM	Cleanup		30.9813	10	20	30	34	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 21:41:08
+
+START	3502.7101		0
+STIM	Paragraph	Press any key to begin.	0.21726
+STIM	Blank		0.85345
+STIM	Paragraph	Press any key to begin.	1.858
+STIM	Text	+	2.3937	1	16	30	10	30
+STIM	Blank		2.695	1	16	30	10	30
+STIM_PREPARE	Circles	--	-3503.7101	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:02:08
+
+START	4762.2063		0
+STIM	Paragraph	Press any key to begin.	0.046205
+STIM	Blank		1.2684
+STIM	Paragraph	Press any key to begin.	2.2729
+STIM	Matrix	TTest	2.6077
+STIM	Cleanup		9.7731	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:02:24
+
+START	4778.6652		0
+STIM	Paragraph	Press any key to begin.	0.044319
+STIM	Blank		0.49633
+STIM	Paragraph	Press any key to begin.	1.5008
+STIM	Matrix	TTest	1.7185
+STIM	Text	+	3.4429	1	16	30	10	30
+STIM	Blank		3.7442	1	16	30	10	30
+STIM_PREPARE	Circles	--	-4779.6652	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:02:54
+
+START	4807.8453		0
+STIM	Paragraph	Press any key to begin.	0.044955
+STIM	Blank		0.66439
+STIM	Paragraph	Press any key to begin.	1.6689
+STIM	Matrix	TTest	2.0205
+STIM	Cleanup		11.1949	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:03:33
+
+START	4847.0883		0
+STIM	Paragraph	Press any key to begin.	0.044443
+STIM	Blank		0.5467
+STIM	Paragraph	Press any key to begin.	1.5512
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:03:49
+
+START	4862.941		0
+STIM	Paragraph	Press any key to begin.	0.02894
+STIM	Blank		0.66513
+STIM	Cleanup		4.1976
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:04:12
+
+START	4886.7492		0
+STIM	Paragraph	Press any key to begin.	0.044574
+STIM	Blank		0.59705
+STIM	Paragraph	Press any key to begin.	1.6016
+STIM	Matrix	TTest	1.8694
+STIM	Cleanup		3.9119	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:04:38
+
+START	4912.0787		0
+STIM	Paragraph	Press any key to begin.	0.02812
+STIM	Blank		0.5471
+STIM	Cleanup		3.0417
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:04:45
+
+START	4919.7972		0
+STIM	Paragraph	Press any key to begin.	0.061403
+STIM	Blank		0.9152
+STIM	Paragraph	Press any key to begin.	1.9197
+STIM	Matrix	TTest	2.288
+STIM	Cleanup		5.3015	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:08:45
+
+START	5159.3889		0
+STIM	Paragraph	Press any key to begin.	0.042916
+STIM	Blank		0.57862
+STIM	Paragraph	Press any key to begin.	1.5831
+STIM	Cleanup		1.6334
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:08:59
+
+START	5173.5193		0
+STIM	Paragraph	Press any key to begin.	0.042533
+STIM	Blank		0.46107
+STIM	Paragraph	Press any key to begin.	1.4656
+STIM	Matrix	TTest	1.7669
+STIM	Cleanup		5.4836	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:09:28
+
+START	5202.4651		0
+STIM	Paragraph	Press any key to begin.	0.043086
+STIM	Blank		0.84668
+STIM	Paragraph	Press any key to begin.	1.8512
+STIM	Cleanup		1.9014
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:09:57
+
+START	5231.1755		0
+STIM	Paragraph	Press any key to begin.	0.044584
+STIM	Blank		0.58034
+STIM	Paragraph	Press any key to begin.	1.5848
+STIM	Matrix	TTest	1.9196
+STIM	Cleanup		3.4264	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:27:25
+
+START	6279.0164		0
+STIM	Paragraph	Press any key to begin.	0.030938
+STIM	Blank		1.1694
+STIM	Cleanup		4.5177
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:27:34
+
+START	6288.2486		0
+STIM	Paragraph	Press any key to begin.	0.057229
+STIM	Blank		0.6599
+STIM	Paragraph	Press any key to begin.	1.6644
+STIM_PREPARE	Matrix	TTest	-6289.2486
+STIM	Matrix	TTest	1.949
+STIM	Cleanup		9.9013	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:28:02
+
+START	6316.774		0
+STIM	Paragraph	Press any key to begin.	0.042886
+STIM	Blank		0.54511
+STIM	Paragraph	Press any key to begin.	1.5496
+STIM_PREPARE	Matrix	TTest	-6317.774
+STIM	Matrix	TTest	1.8008
+STIM	Cleanup		4.2953	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:32:54
+
+START	6608.7122		0
+STIM	Paragraph	Press any key to begin.	0.04589
+STIM	Blank		0.53139
+STIM	Paragraph	Press any key to begin.	1.5359
+STIM_PREPARE	Matrix	TTest	-6609.7122
+STIM	Matrix	TTest	1.8372
+STIM	Cleanup		5.4367	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:33:20
+
+START	6634.7813		0
+STIM	Paragraph	Press any key to begin.	0.043607
+STIM	Blank		0.66304
+STIM	Paragraph	Press any key to begin.	1.6675
+STIM_PREPARE	Matrix	TTest	-6635.7813
+STIM	Matrix	TTest	1.9354
+STIM	Cleanup		3.3919	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:34:16
+
+START	6690.2491		0
+STIM	Paragraph	Press any key to begin.	0.040947
+STIM	Blank		0.5097
+STIM	Paragraph	Press any key to begin.	1.5142
+STIM	Matrix	TTest	1.7821
+STIM	Cleanup		3.3391	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:36:25
+
+START	6818.8044		0
+STIM	Paragraph	Press any key to begin.	0.044958
+STIM	Blank		0.68113
+STIM	Paragraph	Press any key to begin.	1.6856
+STIM	Matrix	TTest	1.9702
+STIM	Cleanup		3.3598	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:39:39
+
+START	7012.9279		0
+STIM	Paragraph	Press any key to begin.	0.041051
+STIM	Blank		0.44284
+STIM	Paragraph	Press any key to begin.	1.4473
+STIM	Matrix	TTest	1.9329
+STIM	Cleanup		2.6193	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:43:53
+
+START	7267.2329		0
+STIM	Paragraph	Press any key to begin.	0.041998
+STIM	Blank		0.49399
+STIM	Paragraph	Press any key to begin.	1.4985
+STIM	Matrix	TTest	1.7998
+STIM	Cleanup		15.6787	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:45:30
+
+START	7364.1015		0
+STIM	Paragraph	Press any key to begin.	0.040673
+STIM	Blank		0.50943
+STIM	Paragraph	Press any key to begin.	1.5139
+STIM	Matrix	TTest	1.8488
+STIM	Cleanup		59.3564	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 22:52:36
+
+START	7789.9254		0
+STIM	Paragraph	Press any key to begin.	0.041222
+STIM	Blank		0.7276
+STIM	Paragraph	Press any key to begin.	1.7321
+STIM	Matrix	TTest	2.2009
+STIM	Cleanup		18.3733	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:00:59
+
+START	8293.3314		0
+STIM	Paragraph	Press any key to begin.	0.040443
+STIM	Blank		0.77704
+STIM	Paragraph	Press any key to begin.	1.7816
+STIM	Matrix	TTest	2.267
+STIM	Cleanup		42.1625	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:01:53
+
+START	8346.7863		0
+STIM	Paragraph	Press any key to begin.	0.04173
+STIM	Blank		0.5942
+STIM	Paragraph	Press any key to begin.	1.5987
+STIM	Matrix	TTest	1.9168
+STIM	Cleanup		6.4203	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:02:10
+
+START	8364.4479		0
+STIM	Paragraph	Press any key to begin.	0.042564
+STIM	Blank		1.248
+STIM	Paragraph	Press any key to begin.	2.2525
+STIM	Matrix	TTest	2.7547
+STIM	Cleanup		14.2395	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:04:08
+
+START	8482.0743		0
+STIM	Paragraph	Press any key to begin.	0.04315
+STIM	Blank		0.61238
+STIM	Paragraph	Press any key to begin.	1.6169
+STIM	Matrix	TTest	2.0019
+STIM	Cleanup		3.8937	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:04:39
+
+START	8513.2797		0
+STIM	Paragraph	Press any key to begin.	0.044224
+STIM	Blank		0.61345
+STIM	Paragraph	Press any key to begin.	1.618
+STIM	Matrix	TTest	2.07
+STIM	Cleanup		11.663	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:05:01
+
+START	8535.1955		0
+STIM	Paragraph	Press any key to begin.	0.043323
+STIM	Blank		0.57903
+STIM	Paragraph	Press any key to begin.	1.5835
+STIM	Matrix	TTest	1.9686
+STIM	Cleanup		11.277	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:05:30
+
+START	8563.824		0
+STIM	Paragraph	Press any key to begin.	0.043079
+STIM	Blank		0.79645
+STIM	Paragraph	Press any key to begin.	1.8009
+STIM	Matrix	TTest	2.5208
+STIM	Cleanup		46.1329	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:06:31
+
+START	8625.7348		0
+STIM	Paragraph	Press any key to begin.	0.042915
+STIM	Blank		0.5619
+STIM	Paragraph	Press any key to begin.	1.5664
+STIM	Matrix	TTest	1.918
+STIM	Cleanup		4.1781	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:07:33
+
+START	8687.3593		0
+STIM	Paragraph	Press any key to begin.	0.044528
+STIM	Blank		0.74766
+STIM	Paragraph	Press any key to begin.	1.7522
+STIM	Matrix	TTest	2.1874
+STIM	Cleanup		4.9833	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:07:47
+
+START	8701.5052		0
+STIM	Paragraph	Press any key to begin.	0.045302
+STIM	Blank		0.61452
+STIM	Paragraph	Press any key to begin.	1.619
+STIM	Matrix	TTest	2.0711
+STIM	Cleanup		8.0646	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:12:47
+
+START	9001.2172		0
+STIM	Paragraph	Press any key to begin.	0.042697
+STIM	Blank		0.69561
+STIM	Paragraph	Press any key to begin.	1.7001
+STIM	Matrix	TTest	2.0349
+STIM	Cleanup		3.4915	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:13:15
+
+START	9029.3593		0
+STIM	Paragraph	Press any key to begin.	0.060044
+STIM	Blank		1.5166
+STIM	Paragraph	Press any key to begin.	2.5211
+STIM	Matrix	TTest	3.0066
+STIM	Cleanup		9.2512	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:13:46
+
+START	9059.9266		0
+STIM	Paragraph	Press any key to begin.	0.046262
+STIM	Blank		0.66572
+STIM	Paragraph	Press any key to begin.	1.6702
+STIM	Matrix	TTest	2.0385
+STIM	Cleanup		14.8459	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:14:09
+
+START	9083.2671		0
+STIM	Paragraph	Press any key to begin.	0.043724
+STIM	Blank		0.96453
+STIM	Paragraph	Press any key to begin.	1.969
+STIM	Matrix	TTest	2.3039
+STIM	Cleanup		5.0662	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:14:37
+
+START	9111.6413		0
+STIM	Paragraph	Press any key to begin.	0.029499
+STIM	Blank		1.4023
+STIM	Cleanup		6.7262
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:14:49
+
+START	9123.3474		0
+STIM	Paragraph	Press any key to begin.	0.059694
+STIM	Blank		0.74611
+STIM	Paragraph	Press any key to begin.	1.7506
+STIM	Matrix	TTest	2.1524
+STIM	Cleanup		8.5645	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:15:12
+
+START	9145.7648		0
+STIM	Paragraph	Press any key to begin.	0.042607
+STIM	Blank		0.81274
+STIM	Paragraph	Press any key to begin.	1.8172
+STIM	Matrix	TTest	2.1353
+STIM	Cleanup		17.3535	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:16:05
+
+START	9198.8166		0
+STIM	Paragraph	Press any key to begin.	0.02805
+STIM	Blank		0.7312
+STIM	Cleanup		4.046
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:16:14
+
+START	9208.5962		0
+STIM	Paragraph	Press any key to begin.	0.059491
+STIM	Blank		0.96354
+STIM	Paragraph	Press any key to begin.	1.968
+STIM	Matrix	TTest	2.2861
+STIM	Cleanup		6.0865	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:16:44
+
+START	9238.1274		0
+STIM	Paragraph	Press any key to begin.	0.043812
+STIM	Blank		0.71348
+STIM	Paragraph	Press any key to begin.	1.718
+STIM	Matrix	TTest	2.0863
+STIM	Cleanup		9.5866	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:19:33
+
+START	9407.3532		0
+STIM	Paragraph	Press any key to begin.	0.042808
+STIM	Blank		0.51156
+STIM	Paragraph	Press any key to begin.	1.5161
+STIM	Matrix	TTest	1.8342
+STIM	Cleanup		4.3957	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:21:37
+
+START	9531.6751		0
+STIM	Paragraph	Press any key to begin.	0.027595
+STIM	Blank		0.21163
+STIM	Cleanup		2.455
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:21:44
+
+START	9538.6722		0
+STIM	Paragraph	Press any key to begin.	0.061901
+STIM	Blank		0.22931
+STIM	Paragraph	Press any key to begin.	1.2171
+STIM	Matrix	TTest	1.937
+STIM	Cleanup		3.7619	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:22:01
+
+START	9555.096		0
+STIM	Paragraph	Press any key to begin.	0.028194
+STIM	Cleanup		14.945
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:22:29
+
+START	9583.7072		0
+STIM	Paragraph	Press any key to begin.	0.02846
+STIM	Cleanup		1.5017
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:22:36
+
+START	9590.0717		0
+STIM	Paragraph	Press any key to begin.	0.059696
+STIM	Blank		0.66238
+STIM	Paragraph	Press any key to begin.	1.6669
+STIM	Matrix	TTest	2.0017
+STIM	Cleanup		3.8098	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:28:47
+
+START	9961.3674		0
+STIM	Paragraph	Press any key to begin.	0.043957
+STIM	Blank		0.5462
+STIM	Paragraph	Press any key to begin.	1.5507
+STIM	Cleanup		1.6009
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:29:33
+
+START	10007.2733		0
+STIM	Paragraph	Press any key to begin.	0.043678
+STIM	Blank		1.45
+STIM	Paragraph	Press any key to begin.	2.4545
+STIM	Cleanup		33.4098
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:30:29
+
+START	10063.6074		0
+STIM	Paragraph	Press any key to begin.	0.028249
+STIM	Blank		0.71466
+STIM	Cleanup		3.8286
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:30:38
+
+START	10072.735		0
+STIM	Paragraph	Press any key to begin.	0.058721
+STIM	Blank		1.0632
+STIM	Paragraph	Press any key to begin.	2.0677
+STIM	Matrix	TTest	7.4585
+STIM	Cleanup		10.3549	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:31:19
+
+START	10113.6669		0
+STIM	Paragraph	Press any key to begin.	0.043464
+STIM	Blank		0.56245
+STIM	Paragraph	Press any key to begin.	1.567
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:31:52
+
+START	10145.7779		0
+STIM	Paragraph	Press any key to begin.	0.042967
+STIM	Blank		0.72936
+STIM	Paragraph	Press any key to begin.	1.7339
+STIM	Matrix	TTest	2.0352
+STIM	Cleanup		7.3591	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:32:12
+
+START	10166.4699		0
+STIM	Paragraph	Press any key to begin.	0.043607
+STIM	Blank		0.49562
+STIM	Paragraph	Press any key to begin.	1.5001
+STIM	Matrix	TTest	1.835
+STIM	Cleanup		3.844	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:41:35
+
+START	10729.559		0
+STIM	Paragraph	Press any key to begin.	0.043829
+STIM	Blank		0.62976
+STIM	Paragraph	Press any key to begin.	1.6343
+STIM	Matrix	TTest	2.103
+STIM	Cleanup		3.9111	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:43:46
+
+START	10860.2941		0
+STIM	Paragraph	Press any key to begin.	0.044493
+STIM	Blank		0.58022
+STIM	Paragraph	Press any key to begin.	1.5847
+STIM	Matrix	TTest	2.405
+STIM	Cleanup		6.4063	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:44:44
+
+START	10918.1196		0
+STIM	Paragraph	Press any key to begin.	0.044659
+STIM	Blank		0.68083
+STIM	Paragraph	Press any key to begin.	1.6853
+STIM	Matrix	TTest	2.1541
+STIM	Cleanup		12.986	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:52:40
+
+START	11394.6735		0
+STIM	Paragraph	Press any key to begin.	0.042391
+STIM	Blank		0.69531
+STIM	Paragraph	Press any key to begin.	1.6998
+STIM	Text	+	2.2858	1	16	30	10	30
+STIM	Blank		2.5871	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11395.6735	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 04-Feb-2010 23:53:04
+
+START	11418.3281		0
+STIM	Paragraph	Press any key to begin.	0.043784
+STIM	Blank		0.56276
+STIM	Paragraph	Press any key to begin.	1.5673
+STIM	Text	+	1.9021	1	16	30	10	30
+STIM	Blank		2.2034	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11419.3281	1	16	30	10	30
+STIM	Circles	--	2.5048	1	16	30	10	30
+STIM	Matrix	TTest	3.7269	1	16	30	10	30
+STIM	Cleanup		14.4081	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:00:20
+
+START	11854.0801		0
+STIM	Paragraph	Press any key to begin.	0.04396
+STIM	Blank		0.5127
+STIM	Paragraph	Press any key to begin.	1.5172
+STIM	Text	+	1.9357	1	16	30	10	30
+STIM	Blank		2.2371	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11855.0801	1	16	30	10	30
+STIM	Matrix	TTest	2.5385	1	16	30	10	30
+STIM	Blank		7.8456	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11855.0801	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:00:59
+
+START	11892.9871		0
+STIM	Paragraph	Press any key to begin.	0.044621
+STIM	Blank		0.51337
+STIM	Paragraph	Press any key to begin.	1.5179
+STIM	Text	+	4.5481	1	16	30	10	30
+STIM	Blank		4.8495	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11893.9871	1	16	30	10	30
+STIM	Matrix	TTest	5.1508	1	16	30	10	30
+STIM	Blank		6.239	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11893.9871	1	16	30	10	30
+STIM	Cleanup		6.5404	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:01:28
+
+START	11922.5704		0
+STIM	Paragraph	Press any key to begin.	0.04382
+STIM	Blank		1.4836
+STIM	Paragraph	Press any key to begin.	2.4881
+STIM	Text	+	3.0238	1	16	30	10	30
+STIM	Blank		3.3252	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11923.5704	1	16	30	10	30
+STIM	Matrix	TTest	3.6265	1	16	30	10	30
+STIM	Blank		4.2292	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11923.5704	1	16	30	10	30
+STIM	Cleanup		4.5306	1	16	30	10	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:02:03
+
+START	11957.5094		0
+STIM	Paragraph	Press any key to begin.	0.044673
+STIM	Blank		0.44648
+STIM	Paragraph	Press any key to begin.	1.451
+STIM	Text	+	1.836	1	16	30	10	30
+STIM	Blank		2.1374	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11958.5094	1	16	30	10	30
+STIM	Matrix	TTest	2.4387	1	16	30	10	30
+STIM	Blank		2.9912	1	16	30	10	30
+STIM_PREPARE	Circles	--	-11958.5094	1	16	30	10	30
+STIM	Matrix	TTest	3.2926	1	16	30	10	30
+STIM	Blank		4.364	1	16	30	10	30
+STIM	Text	+	4.8161	2	60	30	40	10
+STIM	Blank		5.1174	2	60	30	40	10
+STIM_PREPARE	Circles	--	-11958.5094	2	60	30	40	10
+STIM	Matrix	TTest	5.4188	2	60	30	40	10
+STIM	Blank		6.2224	2	60	30	40	10
+STIM_PREPARE	Circles	--	-11958.5094	2	60	30	40	10
+STIM	Matrix	TTest	6.5237	2	60	30	40	10
+STIM	Blank		7.3943	2	60	30	40	10
+STIM	Text	+	7.7961	3	60	30	40	0
+STIM	Blank		8.0974	3	60	30	40	0
+STIM_PREPARE	Circles	--	-11958.5094	3	60	30	40	0
+STIM	Matrix	TTest	8.3988	3	60	30	40	0
+STIM	Blank		9.7883	3	60	30	40	0
+STIM_PREPARE	Circles	--	-11958.5094	3	60	30	40	0
+STIM	Matrix	TTest	10.0897	3	60	30	40	0
+STIM	Blank		11.7136	3	60	30	40	0
+STIM	Text	+	12.2159	4	4	10	6	30
+STIM	Blank		12.5172	4	4	10	6	30
+STIM_PREPARE	Circles	--	-11958.5094	4	4	10	6	30
+STIM	Matrix	TTest	12.8186	4	4	10	6	30
+STIM	Blank		13.371	4	4	10	6	30
+STIM_PREPARE	Circles	--	-11958.5094	4	4	10	6	30
+STIM	Matrix	TTest	13.6724	4	4	10	6	30
+STIM	Blank		14.4425	4	4	10	6	30
+STIM	Text	+	15.0117	5	34	30	20	4
+STIM	Blank		15.3131	5	34	30	20	4
+STIM_PREPARE	Circles	--	-11958.5094	5	34	30	20	4
+STIM	Matrix	TTest	15.6144	5	34	30	20	4
+STIM	Blank		16.1502	5	34	30	20	4
+STIM_PREPARE	Circles	--	-11958.5094	5	34	30	20	4
+STIM	Matrix	TTest	16.4515	5	34	30	20	4
+STIM	Blank		17.1881	5	34	30	20	4
+STIM	Text	+	17.5397	6	40	30	60	10
+STIM	Blank		17.8411	6	40	30	60	10
+STIM_PREPARE	Circles	--	-11958.5094	6	40	30	60	10
+STIM	Matrix	TTest	18.1424	6	40	30	60	10
+STIM	Cleanup		18.4438	6	40	30	60	10
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:03:47
+
+START	12060.8901		0
+STIM	Paragraph	Press any key to begin.	0.043748
+STIM	Blank		0.57947
+STIM	Paragraph	Press any key to begin.	1.584
+STIM	Text	+	1.9858	1	16	30	10	30
+STIM	Blank		2.2871	1	16	30	10	30
+STIM_PREPARE	Circles	--	-12061.8901	1	16	30	10	30
+STIM	Matrix	TTest	2.5885	1	16	30	10	30
+STIM	Blank		3.0907	1	16	30	10	30
+STIM_PREPARE	Circles	--	-12061.8901	1	16	30	10	30
+STIM	Matrix	TTest	3.3921	1	16	30	10	30
+STIM	Blank		4.2124	1	16	30	10	30
+STIM	Text	+	4.6645	2	60	30	40	10
+STIM	Blank		4.9658	2	60	30	40	10
+STIM_PREPARE	Circles	--	-12061.8901	2	60	30	40	10
+STIM	Matrix	TTest	5.2672	2	60	30	40	10
+STIM	Blank		5.7694	2	60	30	40	10
+STIM_PREPARE	Circles	--	-12061.8901	2	60	30	40	10
+STIM	Matrix	TTest	6.0707	2	60	30	40	10
+STIM	Blank		6.6902	2	60	30	40	10
+STIM	Text	+	7.092	3	60	30	40	0
+STIM	Blank		7.3933	3	60	30	40	0
+STIM_PREPARE	Circles	--	-12061.8901	3	60	30	40	0
+STIM	Matrix	TTest	7.6947	3	60	30	40	0
+STIM	Blank		8.1969	3	60	30	40	0
+STIM_PREPARE	Circles	--	-12061.8901	3	60	30	40	0
+STIM	Matrix	TTest	8.4983	3	60	30	40	0
+STIM	Blank		9.1512	3	60	30	40	0
+STIM	Text	+	9.6535	4	4	10	6	30
+STIM	Blank		9.9548	4	4	10	6	30
+STIM_PREPARE	Circles	--	-12061.8901	4	4	10	6	30
+STIM	Matrix	TTest	10.2562	4	4	10	6	30
+STIM	Blank		10.7584	4	4	10	6	30
+STIM_PREPARE	Circles	--	-12061.8901	4	4	10	6	30
+STIM	Matrix	TTest	11.0598	4	4	10	6	30
+STIM	Blank		12.5665	4	4	10	6	30
+STIM	Text	Please respond faster.	13.1357	4	4	10	6	30
+STIM	Text	Please respond faster.	15.1447	4	4	10	6	30
+STIM	Cleanup		15.2954	4	4	10	6	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:06:44
+
+START	12238.3179		0
+STIM	Paragraph	Press any key to begin.	0.044171
+STIM	Blank		0.56316
+STIM	Paragraph	Press any key to begin.	1.5677
+STIM	Text	+	2.2038	1	16	30	10	30
+STIM	Blank		2.5052	1	16	30	10	30
+STIM_PREPARE	Circles	--	-12239.3179	1	16	30	10	30
+STIM	Matrix	TTest	2.8065	1	16	30	10	30
+STIM	Blank		3.3088	1	16	30	10	30
+STIM_PREPARE	Circles	--	-12239.3179	1	16	30	10	30
+STIM	Matrix	TTest	3.6102	1	16	30	10	30
+STIM	Blank		4.8992	1	16	30	10	30
+STIM	Text	+	5.3513	2	60	30	40	10
+STIM	Blank		5.6526	2	60	30	40	10
+STIM_PREPARE	Circles	--	-12239.3179	2	60	30	40	10
+STIM	Matrix	TTest	5.954	2	60	30	40	10
+STIM	Blank		6.4562	2	60	30	40	10
+STIM_PREPARE	Circles	--	-12239.3179	2	60	30	40	10
+STIM	Matrix	TTest	6.7576	2	60	30	40	10
+STIM	Blank		7.31	2	60	30	40	10
+STIM	Text	+	7.7119	3	60	30	40	0
+STIM	Blank		8.0132	3	60	30	40	0
+STIM_PREPARE	Circles	--	-12239.3179	3	60	30	40	0
+STIM	Matrix	TTest	8.3145	3	60	30	40	0
+STIM	Blank		8.8168	3	60	30	40	0
+STIM_PREPARE	Circles	--	-12239.3179	3	60	30	40	0
+STIM	Matrix	TTest	9.1182	3	60	30	40	0
+STIM	Blank		9.6204	3	60	30	40	0
+STIM	Text	+	10.1227	4	4	10	6	30
+STIM	Blank		10.424	4	4	10	6	30
+STIM_PREPARE	Circles	--	-12239.3179	4	4	10	6	30
+STIM	Matrix	TTest	10.7254	4	4	10	6	30
+STIM	Blank		11.2276	4	4	10	6	30
+STIM_PREPARE	Circles	--	-12239.3179	4	4	10	6	30
+STIM	Matrix	TTest	11.5289	4	4	10	6	30
+STIM	Blank		11.914	4	4	10	6	30
+STIM	Text	+	12.4832	5	34	30	20	4
+STIM	Blank		12.7846	5	34	30	20	4
+STIM_PREPARE	Circles	--	-12239.3179	5	34	30	20	4
+STIM	Matrix	TTest	13.0859	5	34	30	20	4
+STIM	Blank		13.5882	5	34	30	20	4
+STIM_PREPARE	Circles	--	-12239.3179	5	34	30	20	4
+STIM	Matrix	TTest	13.8895	5	34	30	20	4
+STIM	Blank		14.442	5	34	30	20	4
+STIM	Text	+	14.7936	6	40	30	60	10
+STIM	Blank		15.0949	6	40	30	60	10
+STIM_PREPARE	Circles	--	-12239.3179	6	40	30	60	10
+STIM	Matrix	TTest	15.3963	6	40	30	60	10
+STIM	Blank		15.8985	6	40	30	60	10
+STIM_PREPARE	Circles	--	-12239.3179	6	40	30	60	10
+STIM	Matrix	TTest	16.1999	6	40	30	60	10
+STIM	Cleanup		16.5682	6	40	30	60	10
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:08:41
+
+START	12355.5594		0
+STIM	Paragraph	Press any key to begin.	0.044624
+STIM	Blank		0.58033
+STIM	Paragraph	Press any key to begin.	1.5848
+STIM	Text	+	2.0369	1	16	30	10	30
+STIM	Blank		2.3382	1	16	30	10	30
+STIM_PREPARE	Circles	--	-12356.5594	1	16	30	10	30
+STIM	Matrix	TTest	2.6396	1	16	30	10	30
+STIM	Blank		3.1418	1	16	30	10	30
+STIM_PREPARE	Circles	--	-12356.5594	1	16	30	10	30
+STIM	Matrix	TTest	3.4432	1	16	30	10	30
+STIM	Blank		4.5314	1	16	30	10	30
+STIM	Text	+	4.9834	2	60	30	40	10
+STIM	Blank		5.2848	2	60	30	40	10
+STIM_PREPARE	Circles	--	-12356.5594	2	60	30	40	10
+STIM	Matrix	TTest	5.5861	2	60	30	40	10
+STIM	Blank		6.0884	2	60	30	40	10
+STIM_PREPARE	Circles	--	-12356.5594	2	60	30	40	10
+STIM	Matrix	TTest	6.3897	2	60	30	40	10
+STIM	Blank		7.2435	2	60	30	40	10
+STIM	Text	+	7.6453	3	60	30	40	0
+STIM	Blank		7.9467	3	60	30	40	0
+STIM_PREPARE	Circles	--	-12356.5594	3	60	30	40	0
+STIM	Matrix	TTest	8.248	3	60	30	40	0
+STIM	Blank		8.7503	3	60	30	40	0
+STIM_PREPARE	Circles	--	-12356.5594	3	60	30	40	0
+STIM	Matrix	TTest	9.0516	3	60	30	40	0
+STIM	Blank		9.7548	3	60	30	40	0
+STIM	Text	+	10.257	4	4	10	6	30
+STIM	Blank		10.5584	4	4	10	6	30
+STIM_PREPARE	Circles	--	-12356.5594	4	4	10	6	30
+STIM	Matrix	TTest	10.8597	4	4	10	6	30
+STIM	Blank		11.362	4	4	10	6	30
+STIM_PREPARE	Circles	--	-12356.5594	4	4	10	6	30
+STIM	Matrix	TTest	11.6633	4	4	10	6	30
+STIM	Blank		12.1154	4	4	10	6	30
+STIM	Text	+	12.6846	5	34	30	20	4
+STIM	Blank		12.9859	5	34	30	20	4
+STIM_PREPARE	Circles	--	-12356.5594	5	34	30	20	4
+STIM	Matrix	TTest	13.2873	5	34	30	20	4
+STIM	Blank		13.7895	5	34	30	20	4
+STIM_PREPARE	Circles	--	-12356.5594	5	34	30	20	4
+STIM	Matrix	TTest	14.0909	5	34	30	20	4
+STIM	Cleanup		14.9112	5	34	30	20	4
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:09:49
+
+START	12422.8127		0
+STIM	Paragraph	Press any key to begin.	0.042621
+STIM	Blank		0.72904
+STIM	Paragraph	Press any key to begin.	1.7335
+STIM	Text	+	2.0684	1	16	30	10	30
+STIM	Blank		2.3697	1	16	30	10	30
+STIM_PREPARE	Circles	--	-12423.8127	1	16	30	10	30
+STIM	Matrix	TTest	2.6711	1	16	30	10	30
+STIM	Blank		3.1733	1	16	30	10	30
+STIM_PREPARE	Circles	--	-12423.8127	1	16	30	10	30
+STIM	Matrix	TTest	3.4747	1	16	30	10	30
+STIM	Blank		4.0271	1	16	30	10	30
+STIM	Text	+	4.4792	2	60	30	40	10
+STIM	Blank		4.7805	2	60	30	40	10
+STIM_PREPARE	Circles	--	-12423.8127	2	60	30	40	10
+STIM	Matrix	TTest	5.0819	2	60	30	40	10
+STIM	Blank		5.5841	2	60	30	40	10
+STIM_PREPARE	Circles	--	-12423.8127	2	60	30	40	10
+STIM	Matrix	TTest	5.8855	2	60	30	40	10
+STIM	Blank		6.6723	2	60	30	40	10
+STIM	Text	+	7.0741	3	60	30	40	0
+STIM	Blank		7.3755	3	60	30	40	0
+STIM_PREPARE	Circles	--	-12423.8127	3	60	30	40	0
+STIM	Matrix	TTest	7.6768	3	60	30	40	0
+STIM	Blank		8.1791	3	60	30	40	0
+STIM_PREPARE	Circles	--	-12423.8127	3	60	30	40	0
+STIM	Matrix	TTest	8.4804	3	60	30	40	0
+STIM	Blank		9.1836	3	60	30	40	0
+STIM	Text	+	9.6858	4	4	10	6	30
+STIM	Blank		9.9872	4	4	10	6	30
+STIM_PREPARE	Circles	--	-12423.8127	4	4	10	6	30
+STIM	Matrix	TTest	10.2885	4	4	10	6	30
+STIM	Blank		10.7908	4	4	10	6	30
+STIM_PREPARE	Circles	--	-12423.8127	4	4	10	6	30
+STIM	Matrix	TTest	11.0921	4	4	10	6	30
+STIM	Blank		11.7785	4	4	10	6	30
+STIM	Text	+	12.3478	5	34	30	20	4
+STIM	Blank		12.6491	5	34	30	20	4
+STIM_PREPARE	Circles	--	-12423.8127	5	34	30	20	4
+STIM	Matrix	TTest	12.9505	5	34	30	20	4
+STIM	Blank		13.4527	5	34	30	20	4
+STIM_PREPARE	Circles	--	-12423.8127	5	34	30	20	4
+STIM	Matrix	TTest	13.7541	5	34	30	20	4
+STIM	Blank		14.3567	5	34	30	20	4
+STIM	Text	+	14.7083	6	40	30	60	10
+STIM	Blank		15.0097	6	40	30	60	10
+STIM_PREPARE	Circles	--	-12423.8127	6	40	30	60	10
+STIM	Matrix	TTest	15.311	6	40	30	60	10
+STIM	Blank		15.8133	6	40	30	60	10
+STIM_PREPARE	Circles	--	-12423.8127	6	40	30	60	10
+STIM	Matrix	TTest	16.1146	6	40	30	60	10
+STIM	Blank		16.6336	6	40	30	60	10
+STIM	Text	+	17.2028	7	40	30	60	30
+STIM	Blank		17.5042	7	40	30	60	30
+STIM_PREPARE	Circles	--	-12423.8127	7	40	30	60	30
+STIM	Matrix	TTest	17.8055	7	40	30	60	30
+STIM	Blank		18.3078	7	40	30	60	30
+STIM_PREPARE	Circles	--	-12423.8127	7	40	30	60	30
+STIM	Matrix	TTest	18.6091	7	40	30	60	30
+STIM	Cleanup		19.2286	7	40	30	60	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:11:14
+
+START	12507.7065		0
+STIM	Paragraph	Press any key to begin.	0.045817
+STIM	Blank		0.54807
+STIM	Paragraph	Press any key to begin.	1.5526
+STIM	Text	+	2.1385	1	16	30	10	30
+STIM	Blank		2.4399	1	16	30	10	30
+STIM_PREPARE	Circles	--	-12508.7065	1	16	30	10	30
+STIM	Matrix	TTest	2.7412	1	16	30	10	30
+STIM	Blank		3.2435	1	16	30	10	30
+STIM_PREPARE	Circles	--	-12508.7065	1	16	30	10	30
+STIM	Matrix	TTest	3.5448	1	16	30	10	30
+STIM	Blank		5.0516	1	16	30	10	30
+STIM	Text	Please respond faster.	5.5036	1	16	30	10	30
+STIM	Text	Please respond faster.	7.5126	1	16	30	10	30
+STIM	Blank		8.4669	1	16	30	10	30
+STIM	Text	+	8.9189	2	60	30	40	10
+STIM	Blank		9.2203	2	60	30	40	10
+STIM_PREPARE	Circles	--	-12508.7065	2	60	30	40	10
+STIM	Matrix	TTest	9.5216	2	60	30	40	10
+STIM	Blank		10.0239	2	60	30	40	10
+STIM_PREPARE	Circles	--	-12508.7065	2	60	30	40	10
+STIM	Matrix	TTest	10.3252	2	60	30	40	10
+STIM	Blank		10.8275	2	60	30	40	10
+STIM	Text	+	11.2293	3	60	30	40	0
+STIM	Blank		11.5306	3	60	30	40	0
+STIM_PREPARE	Circles	--	-12508.7065	3	60	30	40	0
+STIM	Matrix	TTest	11.832	3	60	30	40	0
+STIM	Blank		12.3342	3	60	30	40	0
+STIM_PREPARE	Circles	--	-12508.7065	3	60	30	40	0
+STIM	Matrix	TTest	12.6356	3	60	30	40	0
+STIM	Cleanup		13.0206	3	60	30	40	0
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:17:05
+
+START	12858.9979		0
+STIM	Paragraph	Press any key to begin.	0.044775
+STIM	Blank		1.0325
+STIM	Paragraph	Press any key to begin.	2.0371
+STIM	Text	+	2.556	1	16	30	10	30
+STIM	Blank		2.8574	1	16	30	10	30
+STIM_PREPARE	Lines			-12859.9979	1	16	30	10	30
+STIM	Matrix	TTest	3.1588	1	16	30	10	30
+STIM	Blank		3.661	1	16	30	10	30
+STIM_PREPARE	Lines			-12859.9979	1	16	30	10	30
+STIM	Matrix	TTest	3.9623	1	16	30	10	30
+STIM	Blank		4.4311	1	16	30	10	30
+STIM	Text	+	4.8831	2	60	30	40	10
+STIM	Blank		5.1845	2	60	30	40	10
+STIM_PREPARE	Lines			-12859.9979	2	60	30	40	10
+STIM	Matrix	TTest	5.4858	2	60	30	40	10
+STIM	Blank		5.9881	2	60	30	40	10
+STIM_PREPARE	Lines			-12859.9979	2	60	30	40	10
+STIM	Matrix	TTest	6.2894	2	60	30	40	10
+STIM	Blank		6.7582	2	60	30	40	10
+STIM	Text	+	7.16	3	60	30	40	0
+STIM	Blank		7.4614	3	60	30	40	0
+STIM_PREPARE	Lines			-12859.9979	3	60	30	40	0
+STIM	Matrix	TTest	7.7627	3	60	30	40	0
+STIM	Blank		8.265	3	60	30	40	0
+STIM_PREPARE	Lines			-12859.9979	3	60	30	40	0
+STIM	Matrix	TTest	8.5663	3	60	30	40	0
+STIM	Blank		9.0853	3	60	30	40	0
+STIM	Text	+	9.5875	4	4	10	6	30
+STIM	Blank		9.8889	4	4	10	6	30
+STIM_PREPARE	Lines			-12859.9979	4	4	10	6	30
+STIM	Matrix	TTest	10.1902	4	4	10	6	30
+STIM	Blank		10.6925	4	4	10	6	30
+STIM_PREPARE	Lines			-12859.9979	4	4	10	6	30
+STIM	Matrix	TTest	10.9939	4	4	10	6	30
+STIM	Blank		11.3956	4	4	10	6	30
+STIM	Text	+	11.9649	5	34	30	20	4
+STIM	Blank		12.2662	5	34	30	20	4
+STIM_PREPARE	Lines			-12859.9979	5	34	30	20	4
+STIM	Matrix	TTest	12.5676	5	34	30	20	4
+STIM	Blank		13.0698	5	34	30	20	4
+STIM_PREPARE	Lines			-12859.9979	5	34	30	20	4
+STIM	Matrix	TTest	13.3712	5	34	30	20	4
+STIM	Blank		13.7897	5	34	30	20	4
+STIM	Text	+	14.1413	6	40	30	60	10
+STIM	Blank		14.4426	6	40	30	60	10
+STIM_PREPARE	Lines			-12859.9979	6	40	30	60	10
+STIM	Matrix	TTest	14.744	6	40	30	60	10
+STIM	Blank		15.2462	6	40	30	60	10
+STIM_PREPARE	Lines			-12859.9979	6	40	30	60	10
+STIM	Matrix	TTest	15.5476	6	40	30	60	10
+STIM	Blank		15.9829	6	40	30	60	10
+STIM	Text	+	16.5521	7	40	30	60	30
+STIM	Blank		16.8534	7	40	30	60	30
+STIM_PREPARE	Lines			-12859.9979	7	40	30	60	30
+STIM	Matrix	TTest	17.1548	7	40	30	60	30
+STIM	Blank		17.657	7	40	30	60	30
+STIM_PREPARE	Lines			-12859.9979	7	40	30	60	30
+STIM	Matrix	TTest	17.9584	7	40	30	60	30
+STIM	Blank		18.3769	7	40	30	60	30
+STIM	Text	+	18.9796	8	4	30	6	30
+STIM	Blank		19.281	8	4	30	6	30
+STIM_PREPARE	Lines			-12859.9979	8	4	30	6	30
+STIM	Matrix	TTest	19.5823	8	4	30	6	30
+STIM	Blank		20.0846	8	4	30	6	30
+STIM_PREPARE	Lines			-12859.9979	8	4	30	6	30
+STIM	Matrix	TTest	20.3859	8	4	30	6	30
+STIM	Blank		21.0556	8	4	30	6	30
+STIM	Text	+	21.5411	9	40	10	60	30
+STIM	Blank		21.8424	9	40	10	60	30
+STIM_PREPARE	Lines			-12859.9979	9	40	10	60	30
+STIM	Matrix	TTest	22.1438	9	40	10	60	30
+STIM	Blank		22.646	9	40	10	60	30
+STIM_PREPARE	Lines			-12859.9979	9	40	10	60	30
+STIM	Matrix	TTest	22.9474	9	40	10	60	30
+STIM	Blank		23.3492	9	40	10	60	30
+STIM	Text	+	23.8514	10	20	30	34	30
+STIM	Blank		24.1528	10	20	30	34	30
+STIM_PREPARE	Lines			-12859.9979	10	20	30	34	30
+STIM	Matrix	TTest	24.4541	10	20	30	34	30
+STIM	Blank		24.9564	10	20	30	34	30
+STIM_PREPARE	Lines			-12859.9979	10	20	30	34	30
+STIM	Matrix	TTest	25.2577	10	20	30	34	30
+STIM	Blank		25.8772	10	20	30	34	30
+STIM	Paragraph	Press any key to continue.	26.4129	10	20	30	34	30
+STIM	Text	The experiment is now over.	27.6351	10	20	30	34	30
+STIM	Blank		28.1708	10	20	30	34	30
+STIM	Cleanup		28.2713	10	20	30	34	30
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:28:31
+
+START	13545.5268		0
+STIM	Paragraph	Press any key to begin.	0.041597
+STIM	Blank		0.9624
+STIM	Paragraph	Press any key to begin.	1.9669
+STIM	Text	+	2.7203	1	16	30	10	15				
+STIM	Blank		3.0216	1	16	30	10	15				
+STIM_PREPARE	Lines			-13546.5268	1	16	30	10	15				
+STIM	Matrix	TTest	3.323	1	16	30	10	15				
+STIM	Blank		3.8252	1	16	30	10	15				
+STIM_PREPARE	Lines			-13546.5268	1	16	30	10	15				
+STIM	Matrix	TTest	4.1266	1	16	30	10	15				
+STIM	Blank		4.5786	1	16	30	10	15				
+STIM	Text	+	5.1311	2	16	4	10	30				
+STIM	Blank		5.4324	2	16	4	10	30				
+STIM_PREPARE	Lines			-13546.5268	2	16	4	10	30				
+STIM	Matrix	TTest	5.7338	2	16	4	10	30				
+STIM	Blank		6.236	2	16	4	10	30				
+STIM_PREPARE	Lines			-13546.5268	2	16	4	10	30				
+STIM	Matrix	TTest	6.5374	2	16	4	10	30				
+STIM	Blank		7.2238	2	16	4	10	30				
+STIM	Text	+	7.726	3	60	30	40	10				
+STIM	Blank		8.0274	3	60	30	40	10				
+STIM_PREPARE	Lines			-13546.5268	3	60	30	40	10				
+STIM	Matrix	TTest	8.3287	3	60	30	40	10				
+STIM	Blank		8.831	3	60	30	40	10				
+STIM_PREPARE	Lines			-13546.5268	3	60	30	40	10				
+STIM	Matrix	TTest	9.1323	3	60	30	40	10				
+STIM	Blank		9.869	3	60	30	40	10				
+STIM	Text	+	10.3377	4	34	30	20	30				
+STIM	Blank		10.6391	4	34	30	20	30				
+STIM_PREPARE	Lines			-13546.5268	4	34	30	20	30				
+STIM	Matrix	TTest	10.9404	4	34	30	20	30				
+STIM	Blank		11.4427	4	34	30	20	30				
+STIM_PREPARE	Lines			-13546.5268	4	34	30	20	30				
+STIM	Matrix	TTest	11.744	4	34	30	20	30				
+STIM	Blank		12.263	4	34	30	20	30				
+STIM	Text	+	12.9159	5	4	30	6	30				
+STIM	Blank		13.2172	5	4	30	6	30				
+STIM_PREPARE	Lines			-13546.5268	5	4	30	6	30				
+STIM	Matrix	TTest	13.5186	5	4	30	6	30				
+STIM	Blank		14.0208	5	4	30	6	30				
+STIM_PREPARE	Lines			-13546.5268	5	4	30	6	30				
+STIM	Matrix	TTest	14.3222	5	4	30	6	30				
+STIM	Blank		14.657	5	4	30	6	30				
+STIM	Text	+	15.3434	6	34	30	20	30				
+STIM	Blank		15.6448	6	34	30	20	30				
+STIM_PREPARE	Lines			-13546.5268	6	34	30	20	30				
+STIM	Matrix	TTest	15.9461	6	34	30	20	30				
+STIM	Blank		16.4484	6	34	30	20	30				
+STIM_PREPARE	Lines			-13546.5268	6	34	30	20	30				
+STIM	Matrix	TTest	16.7497	6	34	30	20	30				
+STIM	Blank		17.252	6	34	30	20	30				
+STIM	Text	+	17.704	7	10	0	16	30				
+STIM	Blank		18.0054	7	10	0	16	30				
+STIM_PREPARE	Lines			-13546.5268	7	10	0	16	30				
+STIM	Matrix	TTest	18.3067	7	10	0	16	30				
+STIM	Blank		18.809	7	10	0	16	30				
+STIM_PREPARE	Lines			-13546.5268	7	10	0	16	30				
+STIM	Matrix	TTest	19.1103	7	10	0	16	30				
+STIM	Blank		19.5456	7	10	0	16	30				
+STIM	Text	+	20.0646	8	40	4	60	30				
+STIM	Blank		20.3659	8	40	4	60	30				
+STIM_PREPARE	Lines			-13546.5268	8	40	4	60	30				
+STIM	Matrix	TTest	20.6673	8	40	4	60	30				
+STIM	Blank		21.1695	8	40	4	60	30				
+STIM_PREPARE	Lines			-13546.5268	8	40	4	60	30				
+STIM	Matrix	TTest	21.4709	8	40	4	60	30				
+STIM	Blank		22.0736	8	40	4	60	30				
+STIM	Text	+	22.4921	9	60	30	40	4				
+STIM	Blank		22.7935	9	60	30	40	4				
+STIM_PREPARE	Lines			-13546.5268	9	60	30	40	4				
+STIM	Matrix	TTest	23.0948	9	60	30	40	4				
+STIM	Blank		23.5971	9	60	30	40	4				
+STIM_PREPARE	Lines			-13546.5268	9	60	30	40	4				
+STIM	Matrix	TTest	23.8984	9	60	30	40	4				
+STIM	Blank		24.3337	9	60	30	40	4				
+STIM	Text	+	24.9029	10	4	30	6	10				
+STIM	Blank		25.2043	10	4	30	6	10				
+STIM_PREPARE	Lines			-13546.5268	10	4	30	6	10				
+STIM	Matrix	TTest	25.5056	10	4	30	6	10				
+STIM	Blank		26.0079	10	4	30	6	10				
+STIM_PREPARE	Lines			-13546.5268	10	4	30	6	10				
+STIM	Matrix	TTest	26.3093	10	4	30	6	10				
+STIM	Blank		26.8282	10	4	30	6	10				
+STIM	Paragraph	Press any key to continue.	27.0961	10	4	30	6	10				
+STIM	Text	The experiment is now over.	27.8495	10	4	30	6	10				
+STIM	Blank		28.2178	10	4	30	6	10				
+STIM	Cleanup		28.3182	10	4	30	6	10				
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:30:05
+
+START	13638.7763		0
+STIM	Paragraph	Press any key to begin.	0.059863
+STIM	Blank		0.42818
+STIM	Paragraph	Press any key to begin.	1.4327
+STIM	Text	+	1.6838	1	16	30	10	15				
+STIM	Blank		1.9852	1	16	30	10	15				
+STIM_PREPARE	Lines			-13639.7763	1	16	30	10	15				
+STIM	Matrix	TTest	2.2865	1	16	30	10	15				
+STIM	Blank		2.7888	1	16	30	10	15				
+STIM_PREPARE	Lines			-13639.7763	1	16	30	10	15				
+STIM	Matrix	TTest	3.0901	1	16	30	10	15				
+STIM	Blank		3.7263	1	16	30	10	15				
+STIM	Text	+	4.2788	2	16	4	10	30				
+STIM	Blank		4.5802	2	16	4	10	30				
+STIM_PREPARE	Lines			-13639.7763	2	16	4	10	30				
+STIM	Matrix	TTest	4.8815	2	16	4	10	30				
+STIM	Blank		5.3837	2	16	4	10	30				
+STIM_PREPARE	Lines			-13639.7763	2	16	4	10	30				
+STIM	Matrix	TTest	5.6851	2	16	4	10	30				
+STIM	Cleanup		5.953	2	16	4	10	30				
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:31:16
+
+START	13710.4988		0
+STIM	Paragraph	Press any key to begin.	0.041967
+STIM	Blank		0.96274
+STIM	Paragraph	Press any key to begin.	1.9673
+STIM	Text	+	10.2377	1	16	30	10	15				
+STIM	Blank		10.539	1	16	30	10	15				
+STIM_PREPARE	Lines			-13711.4988	1	16	30	10	15				
+STIM	Matrix	TTest	10.8403	1	16	30	10	15				
+STIM	Blank		11.3426	1	16	30	10	15				
+STIM_PREPARE	Lines			-13711.4988	1	16	30	10	15				
+STIM	Matrix	TTest	11.6439	1	16	30	10	15				
+STIM	Blank		13.1506	1	16	30	10	15				
+STIM	Text	Please respond faster.	13.7031	1	16	30	10	15				
+STIM	Text	Please respond faster.	15.7121	1	16	30	10	15				
+STIM	Blank		17.2524	1	16	30	10	15				
+STIM	Text	+	46.6507	2	16	4	10	30				
+STIM	Blank		46.9521	2	16	4	10	30				
+STIM_PREPARE	Lines			-13711.4988	2	16	4	10	30				
+STIM	Matrix	TTest	47.2534	2	16	4	10	30				
+STIM	Blank		47.7557	2	16	4	10	30				
+STIM_PREPARE	Lines			-13711.4988	2	16	4	10	30				
+STIM	Matrix	TTest	48.057	2	16	4	10	30				
+STIM	Cleanup		48.4253	2	16	4	10	30				
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:32:39
+
+START	13792.8005		0
+STIM	Paragraph	Press any key to begin.	0.042314
+STIM	Blank		0.62828
+STIM	Paragraph	Press any key to begin.	1.6328
+STIM	Text	+	1.9843	1	16	30	10	15				
+STIM	Blank		2.2857	1	16	30	10	15				
+STIM_PREPARE	Lines			-13793.8005	1	16	30	10	15				
+STIM	Matrix	TTest	2.5871	1	16	30	10	15				
+STIM	Blank		3.0893	1	16	30	10	15				
+STIM_PREPARE	Lines			-13793.8005	1	16	30	10	15				
+STIM	Matrix	TTest	3.3907	1	16	30	10	15				
+STIM	Blank		4.8974	1	16	30	10	15				
+STIM	Text	Please respond faster.	5.4499	1	16	30	10	15				
+STIM	Text	Please respond faster.	7.4588	1	16	30	10	15				
+STIM	Cleanup		9.7189	1	16	30	10	15				
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:32:58
+
+START	13812.3502		0
+STIM	Paragraph	Press any key to begin.	0.029731
+STIM	Blank		4.7676
+STIM	Cleanup		10.1752
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:33:20
+
+START	13834.0835		0
+STIM	Paragraph	Press any key to begin.	0.061035
+STIM	Blank		0.93163
+STIM	Paragraph	Press any key to begin.	1.9361
+STIM	Text	+	31.8534	1	16	30	10	15				
+STIM	Blank		32.1548	1	16	30	10	15				
+STIM_PREPARE	Lines			-13835.0835	1	16	30	10	15				
+STIM	Matrix	TTest	32.4561	1	16	30	10	15				
+STIM	Blank		32.9584	1	16	30	10	15				
+STIM_PREPARE	Lines			-13835.0835	1	16	30	10	15				
+STIM	Matrix	TTest	33.2597	1	16	30	10	15				
+STIM	Cleanup		33.6113	1	16	30	10	15				
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:37:07
+
+START	14061.1525		0
+STIM	Paragraph	Press any key to begin.	0.042561
+STIM	Blank		0.86291
+STIM	Paragraph	Press any key to begin.	1.8674
+STIM	Text	+	2.2692	1	40	30	60	10	3	1	2	
+STIM	Blank		2.5706	1	40	30	60	10	3	1	2	
+STIM_PREPARE	Lines			-14062.1525	1	40	30	60	10	3	1	2	
+STIM	Matrix	TTest	2.8719	1	40	30	60	10	3	1	2	
+STIM	Blank		3.3742	1	40	30	60	10	3	1	2	
+STIM_PREPARE	Lines			-14062.1525	1	40	30	60	10	3	1	2	
+STIM	Matrix	TTest	3.6755	1	40	30	60	10	3	1	2	
+STIM	Cleanup		4.7302	1	40	30	60	10	3	1	2	
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:40:18
+
+START	14252.4107		0
+STIM	Paragraph	Press any key to begin.	0.041141
+STIM	Blank		0.84469
+STIM	Paragraph	Press any key to begin.	1.8492
+STIM	Text	+	2.385	1	16	30	10	10	2	3	2	2
+STIM	Blank		2.6863	1	16	30	10	10	2	3	2	2
+STIM_PREPARE	Lines			-14253.4107	1	16	30	10	10	2	3	2	2
+STIM	Matrix	TTest	2.9876	1	16	30	10	10	2	3	2	2
+STIM	Blank		3.4899	1	16	30	10	10	2	3	2	2
+STIM_PREPARE	Lines			-14253.4107	1	16	30	10	10	2	3	2	2
+STIM	Matrix	TTest	3.7913	1	16	30	10	10	2	3	2	2
+STIM	Blank		4.394	1	16	30	10	10	2	3	2	2
+STIM	Text	+	4.8962	2	60	30	40	30	4	5	2	1
+STIM	Blank		5.1976	2	60	30	40	30	4	5	2	1
+STIM_PREPARE	Lines			-14253.4107	2	60	30	40	30	4	5	2	1
+STIM	Matrix	TTest	5.4989	2	60	30	40	30	4	5	2	1
+STIM	Blank		6.0012	2	60	30	40	30	4	5	2	1
+STIM_PREPARE	Lines			-14253.4107	2	60	30	40	30	4	5	2	1
+STIM	Matrix	TTest	6.3025	2	60	30	40	30	4	5	2	1
+STIM	Cleanup		6.8048	2	60	30	40	30	4	5	2	1
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:41:19
+
+START	14312.7819		0
+STIM	Paragraph	Press any key to begin.	0.040436
+STIM	Blank		1.2291
+STIM	Paragraph	Press any key to begin.	2.2336
+STIM	Text	+	2.5852	1	16	30	10	10	2	3	2	2
+STIM	Blank		2.8865	1	16	30	10	10	2	3	2	2
+STIM_PREPARE	Lines			-14313.7819	1	16	30	10	10	2	3	2	2
+STIM	Matrix	TTest	3.1879	1	16	30	10	10	2	3	2	2
+STIM	Blank		3.6901	1	16	30	10	10	2	3	2	2
+STIM_PREPARE	Lines			-14313.7819	1	16	30	10	10	2	3	2	2
+STIM	Matrix	TTest	3.9914	1	16	30	10	10	2	3	2	2
+STIM	Blank		4.6109	1	16	30	10	10	2	3	2	2
+STIM	Text	+	5.1132	2	60	30	40	30	4	5	2	1
+STIM	Blank		5.4145	2	60	30	40	30	4	5	2	1
+STIM_PREPARE	Lines			-14313.7819	2	60	30	40	30	4	5	2	1
+STIM	Matrix	TTest	5.7159	2	60	30	40	30	4	5	2	1
+STIM	Blank		6.2181	2	60	30	40	30	4	5	2	1
+STIM_PREPARE	Lines			-14313.7819	2	60	30	40	30	4	5	2	1
+STIM	Matrix	TTest	6.5195	2	60	30	40	30	4	5	2	1
+STIM	Blank		6.9547	2	60	30	40	30	4	5	2	1
+STIM	Text	+	7.4737	3	60	10	40	30	4	3	2	1
+STIM	Blank		7.7751	3	60	10	40	30	4	3	2	1
+STIM_PREPARE	Lines			-14313.7819	3	60	10	40	30	4	3	2	1
+STIM	Matrix	TTest	8.0764	3	60	10	40	30	4	3	2	1
+STIM	Blank		8.5787	3	60	10	40	30	4	3	2	1
+STIM_PREPARE	Lines			-14313.7819	3	60	10	40	30	4	3	2	1
+STIM	Matrix	TTest	8.88	3	60	10	40	30	4	3	2	1
+STIM	Blank		9.466	3	60	10	40	30	4	3	2	1
+STIM	Text	+	10.0519	4	60	30	40	15	4	4	2	2
+STIM	Blank		10.3533	4	60	30	40	15	4	4	2	2
+STIM_PREPARE	Lines			-14313.7819	4	60	30	40	15	4	4	2	2
+STIM	Matrix	TTest	10.6546	4	60	30	40	15	4	4	2	2
+STIM	Blank		11.1569	4	60	30	40	15	4	4	2	2
+STIM_PREPARE	Lines			-14313.7819	4	60	30	40	15	4	4	2	2
+STIM	Matrix	TTest	11.4582	4	60	30	40	15	4	4	2	2
+STIM	Blank		11.8935	4	60	30	40	15	4	4	2	2
+STIM	Text	+	12.4125	5	20	15	34	30	3	4	1	1
+STIM	Blank		12.7139	5	20	15	34	30	3	4	1	1
+STIM_PREPARE	Lines			-14313.7819	5	20	15	34	30	3	4	1	1
+STIM	Matrix	TTest	13.0152	5	20	15	34	30	3	4	1	1
+STIM	Blank		13.5174	5	20	15	34	30	3	4	1	1
+STIM_PREPARE	Lines			-14313.7819	5	20	15	34	30	3	4	1	1
+STIM	Matrix	TTest	13.8188	5	20	15	34	30	3	4	1	1
+STIM	Blank		14.2708	5	20	15	34	30	3	4	1	1
+STIM	Text	+	14.84	6	10	30	16	15	2	4	1	2
+STIM	Blank		15.1414	6	10	30	16	15	2	4	1	2
+STIM_PREPARE	Lines			-14313.7819	6	10	30	16	15	2	4	1	2
+STIM	Matrix	TTest	15.4427	6	10	30	16	15	2	4	1	2
+STIM	Blank		15.945	6	10	30	16	15	2	4	1	2
+STIM_PREPARE	Lines			-14313.7819	6	10	30	16	15	2	4	1	2
+STIM	Matrix	TTest	16.2463	6	10	30	16	15	2	4	1	2
+STIM	Blank		16.7151	6	10	30	16	15	2	4	1	2
+STIM	Text	+	17.2676	7	34	30	20	10	3	3	2	2
+STIM	Blank		17.5689	7	34	30	20	10	3	3	2	2
+STIM_PREPARE	Lines			-14313.7819	7	34	30	20	10	3	3	2	2
+STIM	Matrix	TTest	17.8702	7	34	30	20	10	3	3	2	2
+STIM	Blank		18.3725	7	34	30	20	10	3	3	2	2
+STIM_PREPARE	Lines			-14313.7819	7	34	30	20	10	3	3	2	2
+STIM	Matrix	TTest	18.6738	7	34	30	20	10	3	3	2	2
+STIM	Blank		19.1259	7	34	30	20	10	3	3	2	2
+STIM	Text	+	19.6449	8	60	4	40	30	4	2	2	1
+STIM	Blank		19.9462	8	60	4	40	30	4	2	2	1
+STIM_PREPARE	Lines			-14313.7819	8	60	4	40	30	4	2	2	1
+STIM	Matrix	TTest	20.2476	8	60	4	40	30	4	2	2	1
+STIM	Blank		20.7498	8	60	4	40	30	4	2	2	1
+STIM_PREPARE	Lines			-14313.7819	8	60	4	40	30	4	2	2	1
+STIM	Matrix	TTest	21.0512	8	60	4	40	30	4	2	2	1
+STIM	Blank		21.8548	8	60	4	40	30	4	2	2	1
+STIM	Text	+	22.3905	9	4	30	6	0	1	1	1	2
+STIM	Blank		22.6919	9	4	30	6	0	1	1	1	2
+STIM_PREPARE	Lines			-14313.7819	9	4	30	6	0	1	1	1	2
+STIM	Matrix	TTest	22.9932	9	4	30	6	0	1	1	1	2
+STIM	Blank		23.4955	9	4	30	6	0	1	1	1	2
+STIM_PREPARE	Lines			-14313.7819	9	4	30	6	0	1	1	1	2
+STIM	Matrix	TTest	23.7968	9	4	30	6	0	1	1	1	2
+STIM	Blank		24.1651	9	4	30	6	0	1	1	1	2
+STIM	Text	+	24.5669	10	60	0	40	30	4	1	2	1
+STIM	Blank		24.8683	10	60	0	40	30	4	1	2	1
+STIM_PREPARE	Lines			-14313.7819	10	60	0	40	30	4	1	2	1
+STIM	Matrix	TTest	25.1696	10	60	0	40	30	4	1	2	1
+STIM	Blank		25.6719	10	60	0	40	30	4	1	2	1
+STIM_PREPARE	Lines			-14313.7819	10	60	0	40	30	4	1	2	1
+STIM	Matrix	TTest	25.9732	10	60	0	40	30	4	1	2	1
+STIM	Blank		26.4587	10	60	0	40	30	4	1	2	1
+STIM	Paragraph	Press any key to continue.	26.8605	10	60	0	40	30	4	1	2	1
+STIM	Text	The experiment is now over.	27.7813	10	60	0	40	30	4	1	2	1
+STIM	Blank		28.2166	10	60	0	40	30	4	1	2	1
+STIM	Cleanup		28.3171	10	60	0	40	30	4	1	2	1
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:46:32
+
+START	14625.6963		0
+STIM	Paragraph	Press any key to begin.	0.061187
+STIM	Blank		0.86476
+STIM	Paragraph	Press any key to begin.	1.8525
+STIM	Text	+	2.6561	1	16	30	10	10	2	3	2	2
+STIM	Blank		2.9406	1	16	30	10	10	2	3	2	2
+STIM_PREPARE	Lines			-14626.6963	1	16	30	10	10	2	3	2	2
+STIM	Matrix	TTest	3.2253	1	16	30	10	10	2	3	2	2
+STIM	Blank		3.7107	1	16	30	10	10	2	3	2	2
+STIM_PREPARE	Lines			-14626.6963	1	16	30	10	10	2	3	2	2
+STIM	Matrix	TTest	3.9953	1	16	30	10	10	2	3	2	2
+STIM	Blank		4.7823	1	16	30	10	10	2	3	2	2
+STIM	Text	+	5.2677	2	60	30	40	30	4	5	2	1
+STIM	Blank		5.5523	2	60	30	40	30	4	5	2	1
+STIM_PREPARE	Lines			-14626.6963	2	60	30	40	30	4	5	2	1
+STIM	Matrix	TTest	5.8369	2	60	30	40	30	4	5	2	1
+STIM	Blank		6.3224	2	60	30	40	30	4	5	2	1
+STIM_PREPARE	Lines			-14626.6963	2	60	30	40	30	4	5	2	1
+STIM	Matrix	TTest	6.607	2	60	30	40	30	4	5	2	1
+STIM	Blank		7.1428	2	60	30	40	30	4	5	2	1
+STIM	Text	+	7.645	3	60	10	40	30	4	3	2	1
+STIM	Blank		7.9296	3	60	10	40	30	4	3	2	1
+STIM_PREPARE	Lines			-14626.6963	3	60	10	40	30	4	3	2	1
+STIM	Matrix	TTest	8.2311	3	60	10	40	30	4	3	2	1
+STIM	Blank		8.7165	3	60	10	40	30	4	3	2	1
+STIM_PREPARE	Lines			-14626.6963	3	60	10	40	30	4	3	2	1
+STIM	Matrix	TTest	9.0011	3	60	10	40	30	4	3	2	1
+STIM	Blank		9.7378	3	60	10	40	30	4	3	2	1
+STIM	Text	+	10.3238	4	60	30	40	15	4	4	2	2
+STIM	Blank		10.6084	4	60	30	40	15	4	4	2	2
+STIM_PREPARE	Lines			-14626.6963	4	60	30	40	15	4	4	2	2
+STIM	Matrix	TTest	10.893	4	60	30	40	15	4	4	2	2
+STIM	Blank		11.3784	4	60	30	40	15	4	4	2	2
+STIM_PREPARE	Lines			-14626.6963	4	60	30	40	15	4	4	2	2
+STIM	Matrix	TTest	11.663	4	60	30	40	15	4	4	2	2
+STIM	Blank		12.2658	4	60	30	40	15	4	4	2	2
+STIM	Text	+	12.7847	5	20	15	34	30	3	4	1	1
+STIM	Blank		13.0694	5	20	15	34	30	3	4	1	1
+STIM_PREPARE	Lines			-14626.6963	5	20	15	34	30	3	4	1	1
+STIM	Matrix	TTest	13.354	5	20	15	34	30	3	4	1	1
+STIM	Blank		13.8396	5	20	15	34	30	3	4	1	1
+STIM_PREPARE	Lines			-14626.6963	5	20	15	34	30	3	4	1	1
+STIM	Matrix	TTest	14.1241	5	20	15	34	30	3	4	1	1
+STIM	Blank		14.6263	5	20	15	34	30	3	4	1	1
+STIM	Text	+	15.1957	6	10	30	16	15	2	4	1	2
+STIM	Blank		15.4802	6	10	30	16	15	2	4	1	2
+STIM_PREPARE	Lines			-14626.6963	6	10	30	16	15	2	4	1	2
+STIM	Matrix	TTest	15.7647	6	10	30	16	15	2	4	1	2
+STIM	Blank		16.2503	6	10	30	16	15	2	4	1	2
+STIM_PREPARE	Lines			-14626.6963	6	10	30	16	15	2	4	1	2
+STIM	Matrix	TTest	16.5349	6	10	30	16	15	2	4	1	2
+STIM	Blank		17.0874	6	10	30	16	15	2	4	1	2
+STIM	Text	+	17.6231	7	34	30	20	10	3	3	2	2
+STIM	Blank		17.9077	7	34	30	20	10	3	3	2	2
+STIM_PREPARE	Lines			-14626.6963	7	34	30	20	10	3	3	2	2
+STIM	Matrix	TTest	18.1923	7	34	30	20	10	3	3	2	2
+STIM	Blank		18.6778	7	34	30	20	10	3	3	2	2
+STIM_PREPARE	Lines			-14626.6963	7	34	30	20	10	3	3	2	2
+STIM	Matrix	TTest	18.9625	7	34	30	20	10	3	3	2	2
+STIM	Blank		19.5149	7	34	30	20	10	3	3	2	2
+STIM	Text	+	20.0171	8	60	4	40	30	4	2	2	1
+STIM	Blank		20.3017	8	60	4	40	30	4	2	2	1
+STIM_PREPARE	Lines			-14626.6963	8	60	4	40	30	4	2	2	1
+STIM	Matrix	TTest	20.5864	8	60	4	40	30	4	2	2	1
+STIM	Blank		21.072	8	60	4	40	30	4	2	2	1
+STIM_PREPARE	Lines			-14626.6963	8	60	4	40	30	4	2	2	1
+STIM	Matrix	TTest	21.3565	8	60	4	40	30	4	2	2	1
+STIM	Blank		22.0094	8	60	4	40	30	4	2	2	1
+STIM	Text	+	22.5284	9	4	30	6	0	1	1	1	2
+STIM	Blank		22.8131	9	4	30	6	0	1	1	1	2
+STIM_PREPARE	Lines			-14626.6963	9	4	30	6	0	1	1	1	2
+STIM	Matrix	TTest	23.0976	9	4	30	6	0	1	1	1	2
+STIM	Blank		23.5832	9	4	30	6	0	1	1	1	2
+STIM_PREPARE	Lines			-14626.6963	9	4	30	6	0	1	1	1	2
+STIM	Matrix	TTest	23.8678	9	4	30	6	0	1	1	1	2
+STIM	Blank		24.2695	9	4	30	6	0	1	1	1	2
+STIM	Text	+	24.6713	10	60	0	40	30	4	1	2	1
+STIM	Blank		24.9559	10	60	0	40	30	4	1	2	1
+STIM_PREPARE	Lines			-14626.6963	10	60	0	40	30	4	1	2	1
+STIM	Matrix	TTest	25.2406	10	60	0	40	30	4	1	2	1
+STIM	Blank		25.7262	10	60	0	40	30	4	1	2	1
+STIM_PREPARE	Lines			-14626.6963	10	60	0	40	30	4	1	2	1
+STIM	Matrix	TTest	26.0106	10	60	0	40	30	4	1	2	1
+STIM	Blank		26.6971	10	60	0	40	30	4	1	2	1
+STIM	Paragraph	Press any key to continue.	27.0989	10	60	0	40	30	4	1	2	1
+STIM	Text	The experiment is now over.	27.9694	10	60	0	40	30	4	1	2	1
+STIM	Blank		28.4383	10	60	0	40	30	4	1	2	1
+STIM	Cleanup		28.5388	10	60	0	40	30	4	1	2	1
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 00:47:32
+
+START	14685.9501		0
+STIM	Paragraph	Press any key to begin.	0.060572
+STIM	Blank		0.51272
+STIM	Paragraph	Press any key to begin.	1.5004
+STIM	Text	+	2.0697	1	4	30	6	15	1	4	1	2
+STIM	Blank		2.3542	1	4	30	6	15	1	4	1	2
+STIM_PREPARE	Lines			-14686.9501	1	4	30	6	15	1	4	1	2
+STIM	Matrix	TTest	2.6388	1	4	30	6	15	1	4	1	2
+STIM	Blank		3.1243	1	4	30	6	15	1	4	1	2
+STIM_PREPARE	Lines			-14686.9501	1	4	30	6	15	1	4	1	2
+STIM	Matrix	TTest	3.409	1	4	30	6	15	1	4	1	2
+STIM	Blank		3.9279	1	4	30	6	15	1	4	1	2
+STIM	Text	+	4.514	2	20	30	34	30	3	5	1	1
+STIM	Blank		4.7985	2	20	30	34	30	3	5	1	1
+STIM_PREPARE	Lines			-14686.9501	2	20	30	34	30	3	5	1	1
+STIM	Matrix	TTest	5.0831	2	20	30	34	30	3	5	1	1
+STIM	Blank		5.5687	2	20	30	34	30	3	5	1	1
+STIM_PREPARE	Lines			-14686.9501	2	20	30	34	30	3	5	1	1
+STIM	Matrix	TTest	5.8532	2	20	30	34	30	3	5	1	1
+STIM	Blank		6.4057	2	20	30	34	30	3	5	1	1
+STIM	Text	+	6.7239	3	4	30	6	0	1	1	1	2
+STIM	Blank		7.0085	3	4	30	6	0	1	1	1	2
+STIM_PREPARE	Lines			-14686.9501	3	4	30	6	0	1	1	1	2
+STIM	Matrix	TTest	7.2931	3	4	30	6	0	1	1	1	2
+STIM	Blank		7.7785	3	4	30	6	0	1	1	1	2
+STIM_PREPARE	Lines			-14686.9501	3	4	30	6	0	1	1	1	2
+STIM	Matrix	TTest	8.0631	3	4	30	6	0	1	1	1	2
+STIM	Blank		8.599	3	4	30	6	0	1	1	1	2
+STIM	Text	+	8.9839	4	6	10	4	30	1	3	2	1
+STIM	Blank		9.2684	4	6	10	4	30	1	3	2	1
+STIM_PREPARE	Lines			-14686.9501	4	6	10	4	30	1	3	2	1
+STIM	Matrix	TTest	9.5531	4	6	10	4	30	1	3	2	1
+STIM	Blank		10.0387	4	6	10	4	30	1	3	2	1
+STIM_PREPARE	Lines			-14686.9501	4	6	10	4	30	1	3	2	1
+STIM	Matrix	TTest	10.3232	4	6	10	4	30	1	3	2	1
+STIM	Blank		10.7251	4	6	10	4	30	1	3	2	1
+STIM	Text	+	11.1436	5	6	0	4	30	1	1	2	1
+STIM	Blank		11.4283	5	6	0	4	30	1	1	2	1
+STIM_PREPARE	Lines			-14686.9501	5	6	0	4	30	1	1	2	1
+STIM	Matrix	TTest	11.7129	5	6	0	4	30	1	1	2	1
+STIM	Blank		12.1983	5	6	0	4	30	1	1	2	1
+STIM_PREPARE	Lines			-14686.9501	5	6	0	4	30	1	1	2	1
+STIM	Matrix	TTest	12.4829	5	6	0	4	30	1	1	2	1
+STIM	Blank		12.9685	5	6	0	4	30	1	1	2	1
+STIM	Text	+	13.3367	6	34	30	20	10	3	3	2	2
+STIM	Blank		13.6214	6	34	30	20	10	3	3	2	2
+STIM_PREPARE	Lines			-14686.9501	6	34	30	20	10	3	3	2	2
+STIM	Matrix	TTest	13.906	6	34	30	20	10	3	3	2	2
+STIM	Blank		14.3914	6	34	30	20	10	3	3	2	2
+STIM_PREPARE	Lines			-14686.9501	6	34	30	20	10	3	3	2	2
+STIM	Matrix	TTest	14.676	6	34	30	20	10	3	3	2	2
+STIM	Blank		15.0946	6	34	30	20	10	3	3	2	2
+STIM	Text	+	15.6471	7	34	30	20	0	3	1	2	2
+STIM	Blank		15.9317	7	34	30	20	0	3	1	2	2
+STIM_PREPARE	Lines			-14686.9501	7	34	30	20	0	3	1	2	2
+STIM	Matrix	TTest	16.2163	7	34	30	20	0	3	1	2	2
+STIM	Blank		16.7018	7	34	30	20	0	3	1	2	2
+STIM_PREPARE	Lines			-14686.9501	7	34	30	20	0	3	1	2	2
+STIM	Matrix	TTest	16.9864	7	34	30	20	0	3	1	2	2
+STIM	Blank		18.0413	7	34	30	20	0	3	1	2	2
+STIM	Text	+	18.5602	8	40	30	60	4	4	2	1	2
+STIM	Blank		18.8448	8	40	30	60	4	4	2	1	2
+STIM_PREPARE	Lines			-14686.9501	8	40	30	60	4	4	2	1	2
+STIM	Matrix	TTest	19.1461	8	40	30	60	4	4	2	1	2
+STIM	Blank		19.6316	8	40	30	60	4	4	2	1	2
+STIM_PREPARE	Lines			-14686.9501	8	40	30	60	4	4	2	1	2
+STIM	Matrix	TTest	19.9162	8	40	30	60	4	4	2	1	2
+STIM	Blank		20.6362	8	40	30	60	4	4	2	1	2
+STIM	Text	+	21.2053	9	40	30	60	10	4	3	1	2
+STIM	Blank		21.49	9	40	30	60	10	4	3	1	2
+STIM_PREPARE	Lines			-14686.9501	9	40	30	60	10	4	3	1	2
+STIM	Matrix	TTest	21.7746	9	40	30	60	10	4	3	1	2
+STIM	Blank		22.2601	9	40	30	60	10	4	3	1	2
+STIM_PREPARE	Lines			-14686.9501	9	40	30	60	10	4	3	1	2
+STIM	Matrix	TTest	22.5447	9	40	30	60	10	4	3	1	2
+STIM	Blank		22.9466	9	40	30	60	10	4	3	1	2
+STIM	Text	+	23.5994	10	60	10	40	30	4	3	2	1
+STIM	Blank		23.884	10	60	10	40	30	4	3	2	1
+STIM_PREPARE	Lines			-14686.9501	10	60	10	40	30	4	3	2	1
+STIM	Matrix	TTest	24.1687	10	60	10	40	30	4	3	2	1
+STIM	Blank		24.6541	10	60	10	40	30	4	3	2	1
+STIM_PREPARE	Lines			-14686.9501	10	60	10	40	30	4	3	2	1
+STIM	Matrix	TTest	24.9554	10	60	10	40	30	4	3	2	1
+STIM	Blank		25.5415	10	60	10	40	30	4	3	2	1
+STIM	Text	+	26.1108	11	20	10	34	30	3	3	1	1
+STIM	Blank		26.3953	11	20	10	34	30	3	3	1	1
+STIM_PREPARE	Lines			-14686.9501	11	20	10	34	30	3	3	1	1
+STIM	Matrix	TTest	26.6798	11	20	10	34	30	3	3	1	1
+STIM	Blank		27.1654	11	20	10	34	30	3	3	1	1
+STIM_PREPARE	Lines			-14686.9501	11	20	10	34	30	3	3	1	1
+STIM	Matrix	TTest	27.4499	11	20	10	34	30	3	3	1	1
+STIM	Blank		27.8685	11	20	10	34	30	3	3	1	1
+STIM	Text	+	28.5718	12	10	10	16	30	2	3	1	1
+STIM	Blank		28.8564	12	10	10	16	30	2	3	1	1
+STIM_PREPARE	Lines			-14686.9501	12	10	10	16	30	2	3	1	1
+STIM	Matrix	TTest	29.1409	12	10	10	16	30	2	3	1	1
+STIM	Blank		29.6264	12	10	10	16	30	2	3	1	1
+STIM_PREPARE	Lines			-14686.9501	12	10	10	16	30	2	3	1	1
+STIM	Matrix	TTest	29.911	12	10	10	16	30	2	3	1	1
+STIM	Blank		30.363	12	10	10	16	30	2	3	1	1
+STIM	Text	+	30.8318	13	34	10	20	30	3	3	2	1
+STIM	Blank		31.1165	13	34	10	20	30	3	3	2	1
+STIM_PREPARE	Lines			-14686.9501	13	34	10	20	30	3	3	2	1
+STIM	Matrix	TTest	31.401	13	34	10	20	30	3	3	2	1
+STIM	Blank		31.8866	13	34	10	20	30	3	3	2	1
+STIM_PREPARE	Lines			-14686.9501	13	34	10	20	30	3	3	2	1
+STIM	Matrix	TTest	32.1712	13	34	10	20	30	3	3	2	1
+STIM	Blank		32.8073	13	34	10	20	30	3	3	2	1
+STIM	Text	+	33.3264	14	6	0	4	30	1	1	2	1
+STIM	Blank		33.611	14	6	0	4	30	1	1	2	1
+STIM_PREPARE	Lines			-14686.9501	14	6	0	4	30	1	1	2	1
+STIM	Matrix	TTest	33.8956	14	6	0	4	30	1	1	2	1
+STIM	Blank		34.381	14	6	0	4	30	1	1	2	1
+STIM_PREPARE	Lines			-14686.9501	14	6	0	4	30	1	1	2	1
+STIM	Matrix	TTest	34.6656	14	6	0	4	30	1	1	2	1
+STIM	Blank		35.101	14	6	0	4	30	1	1	2	1
+STIM	Text	+	35.6702	15	10	30	16	4	2	2	1	2
+STIM	Blank		35.9547	15	10	30	16	4	2	2	1	2
+STIM_PREPARE	Lines			-14686.9501	15	10	30	16	4	2	2	1	2
+STIM	Matrix	TTest	36.2393	15	10	30	16	4	2	2	1	2
+STIM	Blank		36.7248	15	10	30	16	4	2	2	1	2
+STIM_PREPARE	Lines			-14686.9501	15	10	30	16	4	2	2	1	2
+STIM	Matrix	TTest	37.0095	15	10	30	16	4	2	2	1	2
+STIM	Blank		37.5285	15	10	30	16	4	2	2	1	2
+STIM	Text	+	38.1814	16	60	30	40	4	4	2	2	2
+STIM	Blank		38.466	16	60	30	40	4	4	2	2	2
+STIM_PREPARE	Lines			-14686.9501	16	60	30	40	4	4	2	2	2
+STIM	Matrix	TTest	38.7506	16	60	30	40	4	4	2	2	2
+STIM	Blank		39.2361	16	60	30	40	4	4	2	2	2
+STIM_PREPARE	Lines			-14686.9501	16	60	30	40	4	4	2	2	2
+STIM	Matrix	TTest	39.5207	16	60	30	40	4	4	2	2	2
+STIM	Blank		39.9561	16	60	30	40	4	4	2	2	2
+STIM	Text	+	40.4751	17	6	30	4	30	1	5	2	1
+STIM	Blank		40.7596	17	6	30	4	30	1	5	2	1
+STIM_PREPARE	Lines			-14686.9501	17	6	30	4	30	1	5	2	1
+STIM	Matrix	TTest	41.0443	17	6	30	4	30	1	5	2	1
+STIM	Blank		41.5297	17	6	30	4	30	1	5	2	1
+STIM_PREPARE	Lines			-14686.9501	17	6	30	4	30	1	5	2	1
+STIM	Matrix	TTest	41.8143	17	6	30	4	30	1	5	2	1
+STIM	Blank		42.2329	17	6	30	4	30	1	5	2	1
+STIM	Text	+	42.7518	18	34	30	20	4	3	2	2	2
+STIM	Blank		43.0366	18	34	30	20	4	3	2	2	2
+STIM_PREPARE	Lines			-14686.9501	18	34	30	20	4	3	2	2	2
+STIM	Matrix	TTest	43.3211	18	34	30	20	4	3	2	2	2
+STIM	Blank		43.8067	18	34	30	20	4	3	2	2	2
+STIM_PREPARE	Lines			-14686.9501	18	34	30	20	4	3	2	2	2
+STIM	Matrix	TTest	44.0912	18	34	30	20	4	3	2	2	2
+STIM	Blank		44.627	18	34	30	20	4	3	2	2	2
+STIM	Text	+	45.213	19	20	30	34	30	3	5	1	1
+STIM	Blank		45.4975	19	20	30	34	30	3	5	1	1
+STIM_PREPARE	Lines			-14686.9501	19	20	30	34	30	3	5	1	1
+STIM	Matrix	TTest	45.7822	19	20	30	34	30	3	5	1	1
+STIM	Blank		46.2676	19	20	30	34	30	3	5	1	1
+STIM_PREPARE	Lines			-14686.9501	19	20	30	34	30	3	5	1	1
+STIM	Matrix	TTest	46.5523	19	20	30	34	30	3	5	1	1
+STIM	Blank		47.0546	19	20	30	34	30	3	5	1	1
+STIM	Text	+	47.5066	20	4	15	6	30	1	4	1	1
+STIM	Blank		47.791	20	4	15	6	30	1	4	1	1
+STIM_PREPARE	Lines			-14686.9501	20	4	15	6	30	1	4	1	1
+STIM	Matrix	TTest	48.0758	20	4	15	6	30	1	4	1	1
+STIM	Blank		48.5612	20	4	15	6	30	1	4	1	1
+STIM_PREPARE	Lines			-14686.9501	20	4	15	6	30	1	4	1	1
+STIM	Matrix	TTest	48.8459	20	4	15	6	30	1	4	1	1
+STIM	Blank		49.4151	20	4	15	6	30	1	4	1	1
+STIM	Text	+	49.8839	21	20	10	34	30	3	3	1	1
+STIM	Blank		50.1685	21	20	10	34	30	3	3	1	1
+STIM_PREPARE	Lines			-14686.9501	21	20	10	34	30	3	3	1	1
+STIM	Matrix	TTest	50.4531	21	20	10	34	30	3	3	1	1
+STIM	Blank		50.9386	21	20	10	34	30	3	3	1	1
+STIM_PREPARE	Lines			-14686.9501	21	20	10	34	30	3	3	1	1
+STIM	Matrix	TTest	51.2232	21	20	10	34	30	3	3	1	1
+STIM	Blank		51.6418	21	20	10	34	30	3	3	1	1
+STIM	Text	+	52.0938	22	10	10	16	30	2	3	1	1
+STIM	Blank		52.3783	22	10	10	16	30	2	3	1	1
+STIM_PREPARE	Lines			-14686.9501	22	10	10	16	30	2	3	1	1
+STIM	Matrix	TTest	52.663	22	10	10	16	30	2	3	1	1
+STIM	Blank		53.1485	22	10	10	16	30	2	3	1	1
+STIM_PREPARE	Lines			-14686.9501	22	10	10	16	30	2	3	1	1
+STIM	Matrix	TTest	53.4331	22	10	10	16	30	2	3	1	1
+STIM	Blank		53.8684	22	10	10	16	30	2	3	1	1
+STIM	Text	+	54.471	23	6	30	4	0	1	1	2	2
+STIM	Blank		54.7557	23	6	30	4	0	1	1	2	2
+STIM_PREPARE	Lines			-14686.9501	23	6	30	4	0	1	1	2	2
+STIM	Matrix	TTest	55.0403	23	6	30	4	0	1	1	2	2
+STIM	Blank		55.5258	23	6	30	4	0	1	1	2	2
+STIM_PREPARE	Lines			-14686.9501	23	6	30	4	0	1	1	2	2
+STIM	Matrix	TTest	55.8104	23	6	30	4	0	1	1	2	2
+STIM	Blank		56.1955	23	6	30	4	0	1	1	2	2
+STIM	Text	+	56.6139	24	16	10	10	30	2	3	2	1
+STIM	Blank		56.8985	24	16	10	10	30	2	3	2	1
+STIM_PREPARE	Lines			-14686.9501	24	16	10	10	30	2	3	2	1
+STIM	Matrix	TTest	57.1832	24	16	10	10	30	2	3	2	1
+STIM	Blank		57.6687	24	16	10	10	30	2	3	2	1
+STIM_PREPARE	Lines			-14686.9501	24	16	10	10	30	2	3	2	1
+STIM	Matrix	TTest	57.9533	24	16	10	10	30	2	3	2	1
+STIM	Blank		58.9076	24	16	10	10	30	2	3	2	1
+STIM	Text	+	59.4769	25	16	30	10	4	2	2	2	2
+STIM	Blank		59.7614	25	16	30	10	4	2	2	2	2
+STIM_PREPARE	Lines			-14686.9501	25	16	30	10	4	2	2	2	2
+STIM	Matrix	TTest	60.0628	25	16	30	10	4	2	2	2	2
+STIM	Blank		60.5483	25	16	30	10	4	2	2	2	2
+STIM_PREPARE	Lines			-14686.9501	25	16	30	10	4	2	2	2	2
+STIM	Matrix	TTest	60.8329	25	16	30	10	4	2	2	2	2
+STIM	Blank		61.3519	25	16	30	10	4	2	2	2	2
+STIM	Text	+	61.8709	26	60	4	40	30	4	2	2	1
+STIM	Blank		62.1554	26	60	4	40	30	4	2	2	1
+STIM_PREPARE	Lines			-14686.9501	26	60	4	40	30	4	2	2	1
+STIM	Matrix	TTest	62.4401	26	60	4	40	30	4	2	2	1
+STIM	Blank		62.9256	26	60	4	40	30	4	2	2	1
+STIM_PREPARE	Lines			-14686.9501	26	60	4	40	30	4	2	2	1
+STIM	Matrix	TTest	63.2102	26	60	4	40	30	4	2	2	1
+STIM	Cleanup		63.6623	26	60	4	40	30	4	2	2	1
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:18:08
+
+START	16522.4431		0
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:21:44
+
+START	16737.942		0
+STIM	Paragraph	Press any key to begin.	0.044831
+STIM	Cleanup		1.2839
+
+----------------------------------------------------------------------------
+Started at: 05-Feb-2010 01:22:04
+
+START	16757.9034		0
+STIM	Paragraph	Press any key to begin.	0.03969
+STIM	Blank		1.7306
+STIM	Paragraph	Press any key to begin.	2.7351
+STIM	Text	+	4.5264	1	34	0	20	30	3	1	2	1
+STIM	Blank		4.8278	1	34	0	20	30	3	1	2	1
+STIM_PREPARE	Lines			-16758.9034	1	34	0	20	30	3	1	2	1
+STIM	Matrix	TTest	5.1292	1	34	0	20	30	3	1	2	1
+STIM	Blank		5.6314	1	34	0	20	30	3	1	2	1
+STIM_PREPARE	Lines			-16758.9034	1	34	0	20	30	3	1	2	1
+STIM	Matrix	TTest	5.9327	1	34	0	20	30	3	1	2	1
+STIM	Cleanup		6.5689	1	34	0	20	30	3	1	2	1
+
+----------------------------------------------------------------------------
+Started at: 06-Feb-2010 00:09:23
+
+START	74090.7697		0
+STIM	Paragraph	Press any key to begin.	0.043447
+STIM	Blank		0.72834
+STIM	Paragraph	Press any key to begin.	1.7307
+STIM	Text	+	2.5993	1	34	0	20	30	3	1	2	1
+STIM	Blank		2.9	1	34	0	20	30	3	1	2	1
+STIM_PREPARE	Lines			-74091.7697	1	34	0	20	30	3	1	2	1
+STIM	Matrix	TTest	3.2007	1	34	0	20	30	3	1	2	1
+STIM	Blank		3.7019	1	34	0	20	30	3	1	2	1
+STIM_PREPARE	Lines			-74091.7697	1	34	0	20	30	3	1	2	1
+STIM	Matrix	TTest	4.0026	1	34	0	20	30	3	1	2	1
+STIM	Blank		4.6207	1	34	0	20	30	3	1	2	1
+STIM	Text	+	5.2054	2	6	30	4	30	1	5	2	1
+STIM	Blank		5.5061	2	6	30	4	30	1	5	2	1
+STIM_PREPARE	Lines			-74091.7697	2	6	30	4	30	1	5	2	1
+STIM	Matrix	TTest	5.8068	2	6	30	4	30	1	5	2	1
+STIM	Blank		6.3079	2	6	30	4	30	1	5	2	1
+STIM_PREPARE	Lines			-74091.7697	2	6	30	4	30	1	5	2	1
+STIM	Matrix	TTest	6.6086	2	6	30	4	30	1	5	2	1
+STIM	Blank		7.0429	2	6	30	4	30	1	5	2	1
+STIM	Text	+	7.5775	3	20	4	34	30	3	2	1	1
+STIM	Blank		7.8782	3	20	4	34	30	3	2	1	1
+STIM_PREPARE	Lines			-74091.7697	3	20	4	34	30	3	2	1	1
+STIM	Matrix	TTest	8.1789	3	20	4	34	30	3	2	1	1
+STIM	Blank		8.6801	3	20	4	34	30	3	2	1	1
+STIM_PREPARE	Lines			-74091.7697	3	20	4	34	30	3	2	1	1
+STIM	Matrix	TTest	8.9808	3	20	4	34	30	3	2	1	1
+STIM	Blank		9.7492	3	20	4	34	30	3	2	1	1
+STIM	Text	+	10.1668	4	4	30	6	15	1	4	1	2
+STIM	Blank		10.4675	4	4	30	6	15	1	4	1	2
+STIM_PREPARE	Lines			-74091.7697	4	4	30	6	15	1	4	1	2
+STIM	Matrix	TTest	10.7682	4	4	30	6	15	1	4	1	2
+STIM	Blank		11.2694	4	4	30	6	15	1	4	1	2
+STIM_PREPARE	Lines			-74091.7697	4	4	30	6	15	1	4	1	2
+STIM	Matrix	TTest	11.5701	4	4	30	6	15	1	4	1	2
+STIM	Blank		12.2049	4	4	30	6	15	1	4	1	2
+STIM	Text	+	12.539	5	10	30	16	0	2	1	1	2
+STIM	Blank		12.8397	5	10	30	16	0	2	1	1	2
+STIM_PREPARE	Lines			-74091.7697	5	10	30	16	0	2	1	1	2
+STIM	Matrix	TTest	13.1404	5	10	30	16	0	2	1	1	2
+STIM	Blank		13.6415	5	10	30	16	0	2	1	1	2
+STIM_PREPARE	Lines			-74091.7697	5	10	30	16	0	2	1	1	2
+STIM	Matrix	TTest	13.9422	5	10	30	16	0	2	1	1	2
+STIM	Cleanup		14.4935	5	10	30	16	0	2	1	1	2
+
+----------------------------------------------------------------------------
+Started at: 06-Feb-2010 00:10:45
+
+START	74172.7607		0
+STIM	Paragraph	Press any key to begin.	0.041669
+STIM	Blank		0.91035
+STIM	Paragraph	Press any key to begin.	1.896
+STIM	Text	+	2.5642	1	34	0	20	30	3	1	2	1
+STIM	Blank		2.8481	1	34	0	20	30	3	1	2	1
+STIM_PREPARE	Lines			-74173.7607	1	34	0	20	30	3	1	2	1
+STIM	Matrix	TTest	3.1321	1	34	0	20	30	3	1	2	1
+STIM	Blank		3.6166	1	34	0	20	30	3	1	2	1
+STIM_PREPARE	Lines			-74173.7607	1	34	0	20	30	3	1	2	1
+STIM	Matrix	TTest	3.9006	1	34	0	20	30	3	1	2	1
+STIM	Blank		4.6858	1	34	0	20	30	3	1	2	1
+STIM	Text	+	5.2537	2	6	30	4	30	1	5	2	1
+STIM	Blank		5.5377	2	6	30	4	30	1	5	2	1
+STIM_PREPARE	Lines			-74173.7607	2	6	30	4	30	1	5	2	1
+STIM	Matrix	TTest	5.8384	2	6	30	4	30	1	5	2	1
+STIM	Blank		6.3228	2	6	30	4	30	1	5	2	1
+STIM_PREPARE	Lines			-74173.7607	2	6	30	4	30	1	5	2	1
+STIM	Matrix	TTest	6.6069	2	6	30	4	30	1	5	2	1
+STIM	Blank		7.1247	2	6	30	4	30	1	5	2	1
+STIM	Text	+	7.6593	3	20	4	34	30	3	2	1	1
+STIM	Blank		7.9434	3	20	4	34	30	3	2	1	1
+STIM_PREPARE	Lines			-74173.7607	3	20	4	34	30	3	2	1	1
+STIM	Matrix	TTest	8.244	3	20	4	34	30	3	2	1	1
+STIM	Blank		8.7284	3	20	4	34	30	3	2	1	1
+STIM_PREPARE	Lines			-74173.7607	3	20	4	34	30	3	2	1	1
+STIM	Matrix	TTest	9.0291	3	20	4	34	30	3	2	1	1
+STIM	Cleanup		9.5971	3	20	4	34	30	3	2	1	1
