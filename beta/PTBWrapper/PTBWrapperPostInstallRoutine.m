@@ -259,7 +259,7 @@ end
 
 % Special case handling for different Matlab releases on MS-Windoze:
 if IsWin & ~IsOctave
-	error('Shouldn''t get here either.');
+	error('Only Mac is supported at the present time. Exiting, (though the functions have been downloaded...)');
     rc = 0;
     try
         % Remove DLL folders from path:
