@@ -157,15 +157,15 @@ isOSX=strcmp(computer,'MAC') | strcmp(computer,'MACI') | ~isempty(findstr(comput
 isLinux=strcmp(computer,'GLNX86') | ~isempty(findstr(computer, 'linux-gnu'));
 
 % Only Mac OSX for now
-if ~isOSX
-    os=computer;
-    if strcmp(os,'MAC2')
-        os='Mac OS9';
-    end
-    fprintf('Sorry, this installer doesn''t support your operating system: %s.\n',os);
-    fprintf([mfilename ' can only install on macs for now.\n']);
-    error(['Your operating system is not supported by ' mfilename '.']);
-end
+% if ~isOSX
+%     os=computer;
+%     if strcmp(os,'MAC2')
+%         os='Mac OS9';
+%     end
+%     fprintf('Sorry, this installer doesn''t support your operating system: %s.\n',os);
+%     fprintf([mfilename ' can only install on macs for now.\n']);
+%     error(['Your operating system is not supported by ' mfilename '.']);
+% end
 
 if nargin < 1
     targetdirectory = [];
@@ -224,43 +224,43 @@ if length(flavor) < 10
     flavor = lower(flavor);
 end
 
-% switch (flavor)
-%     % 'current' is a synonym for 'beta'.
-%     case 'beta'
-%     case 'current'
-%         flavor = 'beta';
-%     case 'stable'
-%         fprintf('\n\n\nYou request download of the "stable" flavor of Psychtoolbox.\n');
-%         fprintf('The "stable" flavor is no longer available, it has been renamed to "unsupported".\n');
-%         fprintf('If you really want to use the former "stable" flavor, please retry the download\n');
-%         fprintf('under the new name "unsupported".\n\n');
-%         error('Flavor "stable" requested. This is no longer available.');
-%     case 'unsupported'
-%         % Very bad choice! Give user a chance to reconsider...
-%         fprintf('\n\n\nYou request download of the "unsupported" flavor of Psychtoolbox.\n');
-%         fprintf('Use of the "unsupported" flavor is strongly discouraged! It is outdated and contains\n');
-%         fprintf('many bugs and deficiencies that have been fixed in the recommended "beta" flavor years ago.\n');
-%         fprintf('"unsupported" is no longer maintained and you will not get any support if you have problems with it.\n');
-%         fprintf('Please choose "beta" unless you have very good reasons not to do so.\n\n');
-%         fprintf('If you answer "no" to the following question, i will download the recommended "beta" flavor instead.\n');
-%         answer=input('Do you want to continue download of "unsupported" flavor despite the warnings (yes or no)? ','s');
-%         if ~strcmp(answer,'yes')
-%             flavor = 'beta';
-%             fprintf('Download of "unsupported" flavor cancelled, will download recommended "beta" flavor instead...\n');
-%         else
-%             fprintf('Download of "unsupported" flavor proceeds. You are in for quite a bit of pain...\n');            
-%         end
-% 
-%         fprintf('\n\nPress any key to continue...\n');
-%         pause;
-%         
-%     otherwise
-%         fprintf('\n\n\nHmm, requested flavor is the unusual flavor: %s\n',flavor);
-%         fprintf('Either you request something exotic, or you made a typo?\n');
-%         fprintf('We will see. If you get an error, this might be the first thing to check.\n');
-%         fprintf('Press any key to continue...\n');
-%         pause;
-% end
+switch (flavor)
+    % 'current' is a synonym for 'beta'.
+    case 'beta'
+    case 'current'
+        flavor = 'beta';
+    case 'stable'
+        fprintf('\n\n\nYou request download of the "stable" flavor of Psychtoolbox.\n');
+        fprintf('The "stable" flavor is no longer available, it has been renamed to "unsupported".\n');
+        fprintf('If you really want to use the former "stable" flavor, please retry the download\n');
+        fprintf('under the new name "unsupported".\n\n');
+        error('Flavor "stable" requested. This is no longer available.');
+    case 'unsupported'
+        % Very bad choice! Give user a chance to reconsider...
+        fprintf('\n\n\nYou request download of the "unsupported" flavor of Psychtoolbox.\n');
+        fprintf('Use of the "unsupported" flavor is strongly discouraged! It is outdated and contains\n');
+        fprintf('many bugs and deficiencies that have been fixed in the recommended "beta" flavor years ago.\n');
+        fprintf('"unsupported" is no longer maintained and you will not get any support if you have problems with it.\n');
+        fprintf('Please choose "beta" unless you have very good reasons not to do so.\n\n');
+        fprintf('If you answer "no" to the following question, i will download the recommended "beta" flavor instead.\n');
+        answer=input('Do you want to continue download of "unsupported" flavor despite the warnings (yes or no)? ','s');
+        if ~strcmp(answer,'yes')
+            flavor = 'beta';
+            fprintf('Download of "unsupported" flavor cancelled, will download recommended "beta" flavor instead...\n');
+        else
+            fprintf('Download of "unsupported" flavor proceeds. You are in for quite a bit of pain...\n');            
+        end
+
+        fprintf('\n\nPress any key to continue...\n');
+        pause;
+        
+    otherwise
+        fprintf('\n\n\nHmm, requested flavor is the unusual flavor: %s\n',flavor);
+        fprintf('Either you request something exotic, or you made a typo?\n');
+        fprintf('We will see. If you get an error, this might be the first thing to check.\n');
+        fprintf('Press any key to continue...\n');
+        pause;
+end
 
 fprintf('DownloadPTBWrapper(''%s'',''%s'')\n',targetdirectory, flavor);
 fprintf('Requested flavor is: %s\n',flavor);
@@ -406,7 +406,6 @@ while (exist('PTBWrapper','dir') | exist(fullfile(targetdirectory,'PTBWrapper'),
 	
 	% Hmm... Not sure what the Contents file is yet...
     if ~exist(fullfile(p,'Contents.m'))
-		error('	Hmm... Not sure what the Contents file is yet...'); 
         fprintf(['WARNING: Your old Psychtoolbox folder lacks a Contents.m file. \n'...
             'Maybe it contains stuff you want to keep. Here''s a DIR:\n']);
         dir(p)
