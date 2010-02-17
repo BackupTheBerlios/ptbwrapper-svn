@@ -48,6 +48,9 @@
 %	- PTBAudioStimulus: 1 if there is a visual stimulus to display.
 %   - PTBTriggerLength: The length of triggers sent to the MEG DAQs.
 %	- PTBUSBBoxInitialized: 1 if USBBox has been initialized.
+%	- PTBDisableTimeOut: 1 if want to collect a key press over multiple displays
+%		* REMEMBER to set this back to 0 afterwards.
+%	- PTBAddedResponseTime: Used internally when time out is disabled.
 %
 % Author: Doug Bemis
 % Date: 7/3/09
@@ -125,6 +128,16 @@ end
 global PTBTriggerLength;
 if isempty(PTBTriggerLength)
     PTBTriggerLength = 0.01;
+end
+
+% Set to default for timeout
+global PTBDisableTimeOut;
+if isempty(PTBDisableTimeOut)
+	PTBDisableTimeOut = 0;
+end
+global PTBAddedResponseTime;
+if isempty(PTBAddedResponseTime)
+	PTBAddedResponseTime = 0;
 end
 
 % Make sure we don't error

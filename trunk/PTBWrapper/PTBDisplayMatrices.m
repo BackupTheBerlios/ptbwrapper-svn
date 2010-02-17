@@ -1,13 +1,16 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBDisplayMatrices.m
 %
-% Displays matrices to the screen. Allows arbitarily 
-% created images to be displayed.
+% Displays pixel arrays (matrices) to the screen. Allows 
+%	arbitarily created images to be displayed.
 %
 % Args:
 %	- matrices: The matrices to display
+%		* nxmx4 arrays of 0-255 color values. [RGBA]
 %	- positions: The position to display them
+%		* Either 'center' or x,y coordinates of the center.
 %	- duration: The length to display
+%	- tag: A label to tag this display with in the log file.
 %	- trigger: A trigger to send (optional)
 %
 % Usage: PTBDisplayMatrices(matrices, {[100 100],'center'},{'any'})
@@ -18,7 +21,7 @@
 
 % TODO: Take variable args and parse.
 % TODO: Error checking.
-function PTBDisplayMatrices(matrices, positions, duration, varargin)
+function PTBDisplayMatrices(matrices, positions, duration, tag, varargin)
 
 % Parse any optional arguments
 if length(varargin) < 1
@@ -74,4 +77,4 @@ global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Matrix', 'TTest', trigger);
+PTBPresentStimulus(duration, 'Matrix', tag, trigger);
