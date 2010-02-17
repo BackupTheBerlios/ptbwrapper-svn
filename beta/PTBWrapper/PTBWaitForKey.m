@@ -19,6 +19,8 @@ global PTBNextPresentationTime;
 global PTBExitKey;
 global PTBLastKeyPressTime;
 global PTBLastKeyPress;
+global PTBDisableTimeOut;
+global PTBAddedResponseTime;
 
 % For now, just waiting for any key.
 % TODO: Error check and extend.
@@ -32,7 +34,7 @@ while pressed == 0
 	timeOutCheck = GetSecs;
 	if timeOutCheck > PTBNextPresentationTime
 	
-		% TODO: Slight change that a button 
+		% TODO: Slight chance that a button 
 		% was pressed during the last loop. 
 		% Should probably check...
 		pressed = -1;
@@ -53,8 +55,11 @@ if pressed > 0
 	PTBLastKeyPressTime = firstPress(firstKey);
   	PTBLastKeyPress = KbName(firstKey);
 		
+	% Get response time
+	RT = PTBAddedResponseTime + PTBLastKeyPressTime - PTBLastPresentationTime;
+	
 	% Make a record
-	PTBWriteLog(PTBDataFileID, 'KEY', PTBLastKeyPress, num2str(PTBLastKeyPressTime - PTBLastPresentationTime), PTBLastKeyPressTime);
+	PTBWriteLog(PTBDataFileID, 'KEY', PTBLastKeyPress, num2str(RT), PTBLastKeyPressTime);
 	
 	% For now, always clear when get a key
 	PTBNextPresentationTime = 0;
@@ -64,11 +69,37 @@ if pressed > 0
 		error('Exit key pressed.');
 	end
 
+	% Just stop listening for now
+	KbQueueStop;
+
+	% Reset the flag.
+	PTBWaitingForKey = 0;
+	
+	% No more added time
+	PTBAddedResponseTime = 0;
+
 % ...or timed out.
 else
-	PTBLastKeyPress = 'TIMEOUT';
-	PTBLastKeyPressTime = -1;
-	PTBWriteLog(PTBDataFileID, 'TIMEOUT','', '', timeOutCheck);
+	
+	%  Only record if we're not disabled
+	if ~PTBDisableTimeOut
+		PTBLastKeyPress = 'TIMEOUT';
+		PTBLastKeyPressTime = -1;
+		PTBWriteLog(PTBDataFileID, 'TIMEOUT','', '', timeOutCheck);
+
+		% Just stop listening for now
+		KbQueueStop;
+
+		% Reset the flag.
+		PTBWaitingForKey = 0;
+		
+		% No more added time
+		PTBAddedResponseTime = 0;
+
+	% Need to keep this running
+	else
+		PTBAddedResponseTime = PTBAddedResponseTime + PTBNextPresentationTime - PTBLastPresentationTime;
+	end
 end
 
 % Done with this now.
@@ -76,9 +107,3 @@ end
 % crash randomly. Can just kep calling KbQueueCreate
 % to change options.
 % KbQueueRelease;
-
-% Just stop listening for now
-KbQueueStop;
-
-% Reset the flag.
-PTBWaitingForKey = 0;
