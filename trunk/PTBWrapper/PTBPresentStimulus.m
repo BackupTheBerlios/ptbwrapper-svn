@@ -52,7 +52,9 @@ global PTBKeyQueue;
 if ~isempty(key_condition)
 	
 	% Set the relevant values for later and return
-	for i = 1:length(PTBKeyQueue)
+	% NOTE: Go from the back forward to add multiple displays
+	% for key
+	for i = length(PTBKeyQueue):-1:1
 		if strcmp(PTBKeyQueue{i}{1}, key_condition)
 			
 			% NOTE: First two are key and window pointer
@@ -77,33 +79,54 @@ global PTBLastKeyPress;
 global PTBEventQueue;
 global PTBTheScreenNumber;
 if PTBWaitingForKey
+	
+	% Wait until we get it
 	PTBWaitForKey;
 	
 	% See if we've got a queue to check
+	tmpScreen = {};
 	for i = 1:length(PTBKeyQueue)
 		
 		% If we get one, move the current display to the
 		% last one.
 		if strcmp(PTBKeyQueue{i}{1}, PTBLastKeyPress)
 			
-			% Make a new window to store the current display
-			ptr = PTBCreateScreen(PTBTheScreenNumber,0);
-			Screen('CopyWindow',PTBTheWindowPtr,ptr);
-			PTBEventQueue{end+1} = {ptr, duration, type, tag, trigger, PTBVisualStimulus, PTBAudioStimulus};
+			% If this is the first, put it on the screen to display
+			if isempty(tmpScreen)
 			
-			% Now, copy the queued display to show and the parameters
-			Screen('CopyWindow',PTBKeyQueue{i}{2},PTBTheWindowPtr);
-			duration = PTBKeyQueue{i}{3};
-			type = PTBKeyQueue{i}{4};
-			tag = PTBKeyQueue{i}{5};
-			trigger = PTBKeyQueue{i}{6};
-			PTBVisualStimulus = PTBKeyQueue{i}{7};
-			PTBAudioStimulus = PTBKeyQueue{i}{8};
+				% First, keep the current screen
+				ptr = PTBCreateScreen(PTBTheScreenNumber,0);
+				Screen('CopyWindow',PTBTheWindowPtr,ptr);
+				tmpScreen = {ptr, duration, type, tag, trigger, PTBVisualStimulus, PTBAudioStimulus};			
+
+				% Now, copy the queued display to show and the parameters
+				Screen('CopyWindow',PTBKeyQueue{i}{2},PTBTheWindowPtr);
+				duration = PTBKeyQueue{i}{3};
+				type = PTBKeyQueue{i}{4};
+				tag = PTBKeyQueue{i}{5};
+				trigger = PTBKeyQueue{i}{6};
+				PTBVisualStimulus = PTBKeyQueue{i}{7};
+				PTBAudioStimulus = PTBKeyQueue{i}{8};
+	
+				% And done with the old one
+				Screen('Close',PTBKeyQueue{i}{2});
 			
+			% Otherwise, put in the queue
+			else
+				PTBEventQueue{end+1} = {PTBKeyQueue{i}{2}, PTBKeyQueue{i}{3}, PTBKeyQueue{i}{4}, ...
+					PTBKeyQueue{i}{5}, PTBKeyQueue{i}{6}, PTBKeyQueue{i}{7}, PTBKeyQueue{i}{8}};
+			end
+
+		% Otherwise, not going to use it
+		else
+			Screen('Close',PTBKeyQueue{i}{2});
 		end
 		
-		% Close the screen out
-		Screen('Close',PTBKeyQueue{i}{2});
+	end
+	
+	% Move the current to the end of the queue, if we have one
+	if ~isempty(tmpScreen)
+		PTBEventQueue{end+1} = tmpScreen;
 	end
 	
 	% Reset the queue
@@ -143,7 +166,7 @@ PTBVisualStimulus = 0;
 PTBWriteLog(PTBLogFileID, 'STIM', type, tag, PTBLastPresentationTime);
 
 % Set the next screen
-PTBSetDuration(duration);
+PTBSetDuration(duration, tag, type);
 
 % If we've got an event queue, just loop through
 if ~isempty(PTBEventQueue)

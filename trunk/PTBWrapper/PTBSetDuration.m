@@ -16,7 +16,7 @@
 % Date: 7/4/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function PTBSetDuration(duration)
+function PTBSetDuration(duration, tag, type)
 
 global PTBLastPresentationTime;
 global PTBNextPresentationTime;
@@ -24,6 +24,8 @@ global PTBTheWindowPtr;
 global PTBWaitingForKey;
 global PTBExitKey;
 global PTBInputDevice;
+global PTBKeyTag;
+global PTBKeyType;
 
 % Make sure we can parse
 if ~iscell(duration)
@@ -114,5 +116,10 @@ if sum(PTBKeysOfInterest) > 0
     
 	% Mark that we're waiting
 	PTBWaitingForKey = 1;
+	
+	% And record what we're waiting at
+	PTBKeyTag = tag;
+	PTBKeyType = type;
+	
 end
 

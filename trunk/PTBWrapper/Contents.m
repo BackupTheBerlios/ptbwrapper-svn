@@ -1,5 +1,5 @@
 % PTBWrapper.
-% Version 1.0.1       1 March 2010
+% Version 1.1.0       1 March 2010
 % 
 % The PTB Wrapper is a collection of Matlab functions that 
 % attempt to make experimental development easier

@@ -16,9 +16,11 @@
 function PTBDisplayBlank(duration, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition] = PTBParseDisplayArguments(varargin);
+[trigger key_condition wPtr] = PTBParseDisplayArguments(varargin);
 
-% Just display the empty back buffer here.
+% Clear it
+global PTBBackgroundColor;
+Screen('FillRect', wPtr, PTBBackgroundColor);
 
 % Set the type...
 global PTBVisualStimulus;

@@ -23,6 +23,8 @@ global PTBDisableTimeOut;
 global PTBAddedResponseTime;
 global PTBCurrComputerSpecs;
 global PTBKeysOfInterest;
+global PTBKeyTag;
+global PTBKeyType;
 
 % For now, just waiting for any key.
 % TODO: Error check and extend.
@@ -99,7 +101,7 @@ if pressed > 0
 	RT = PTBAddedResponseTime + PTBLastKeyPressTime - PTBLastPresentationTime;
 	
 	% Make a record
-	PTBWriteLog(PTBDataFileID, 'KEY', PTBLastKeyPress, num2str(RT), PTBLastKeyPressTime);
+	PTBWriteLog(PTBDataFileID, 'KEY', PTBLastKeyPress, num2str(RT), PTBLastKeyPressTime, PTBKeyType, PTBKeyTag);
 	
 	% For now, always clear when get a key
 	PTBNextPresentationTime = 0;
@@ -122,7 +124,7 @@ else
 	if ~PTBDisableTimeOut
 		PTBLastKeyPress = 'TIMEOUT';
 		PTBLastKeyPressTime = -1;
-		PTBWriteLog(PTBDataFileID, 'TIMEOUT','', '', timeOutCheck);
+		PTBWriteLog(PTBDataFileID, 'TIMEOUT','', '', timeOutCheck, PTBKeyType, PTBKeyTag);
 
 		% Just stop listening for now
         if PTBCurrComputerSpecs.osx
