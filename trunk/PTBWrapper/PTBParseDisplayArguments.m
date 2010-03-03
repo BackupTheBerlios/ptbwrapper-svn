@@ -14,7 +14,7 @@
 % Date: 3/2/10
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function [trigger key_condition wPtr] = PTBParseDisplayArguments(args)
+function [trigger key_condition wPtr] = PTBParseDisplayArguments(duration, args)
 
 % Default if none
 trigger = [];
@@ -37,9 +37,21 @@ end
 global PTBTheWindowPtr;
 global PTBKeyQueue;
 global PTBTheScreenNumber;
-if isempty(key_condition)
+global PTBLastWindowPtr;
+
+if ~isempty(PTBLastWindowPtr)
+	wPtr = PTBLastWindowPtr;
+elseif isempty(key_condition)
 	wPtr = PTBTheWindowPtr;
 else
 	wPtr = PTBCreateScreen(PTBTheScreenNumber,0);
 	PTBKeyQueue{end+1} = {key_condition, wPtr};
 end
+
+% Might want to keep using the pointer next time
+if duration{1} == -1
+	PTBLastWindowPtr = wPtr;
+else
+	PTBLastWindowPtr = [];
+end
+

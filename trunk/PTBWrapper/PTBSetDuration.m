@@ -26,6 +26,7 @@ global PTBExitKey;
 global PTBInputDevice;
 global PTBKeyTag;
 global PTBKeyType;
+global PTBDisableKbQueue;
 
 % Make sure we can parse
 if ~iscell(duration)
@@ -77,10 +78,8 @@ for i = 1:length(duration)
 	end
 end
 
-% Need this to know if we can use queues
-global PTBCurrComputerSpecs;
-
 % Set up the queue, if waiting for a key
+global PTBDisableTimeOut;
 if sum(PTBKeysOfInterest) > 0
 	
 	% Add the exit key, if needed
@@ -91,8 +90,9 @@ if sum(PTBKeysOfInterest) > 0
 	% before timing out. Or move to PTBWaitForKey.
 	% i.e. nextDisplayTime = nextDisplayTime - 0.015.
 	
-    % Queue functions only work for windows
-    if PTBCurrComputerSpecs.osx
+    % Queue functions only work for mac and then, 
+	% only sometimes
+    if ~PTBDisableKbQueue
 
         % TODO: Figure out deviceNumbers.
         % NOTE: Do NOT call KbQueueRelease, unless 
@@ -108,12 +108,15 @@ if sum(PTBKeysOfInterest) > 0
 
         % Start up the queue and keep going.
         KbQueueStart;	
-    else
-        
-        % Is this good enough to clear?
-        FlushEvents();
-    end
-    
+	else
+
+		% Wait for all keys to be released, if we're not
+		% holding over
+		if ~PTBDisableTimeOut
+			KbWait(PTBInputDevice,1);
+	  end
+	end
+	
 	% Mark that we're waiting
 	PTBWaitingForKey = 1;
 	

@@ -51,8 +51,10 @@
 %	- PTBDisableTimeOut: 1 if want to collect a key press over multiple displays
 %		* REMEMBER to set this back to 0 afterwards.
 %	- PTBAddedResponseTime: Used internally when time out is disabled.
-%	- PTBKeyQueue: A list of screens to show depending on a key press outcome.\
+%	- PTBKeyQueue: A list of screens to show depending on a key press outcome.
 %	- PTBTheScreenNumber: The screen number we're displaying to.
+%	- PTBDisableKbQueue: 1 if queue needs to be disabled.
+%		* This is always disabled in windows.
 %
 % Author: Doug Bemis
 % Date: 7/3/09
@@ -162,6 +164,17 @@ AssertOpenGL;
 % Get some computer info
 global PTBCurrComputerSpecs;
 PTBCurrComputerSpecs = Screen('Computer');
+
+% Set the queue. Only works in mac for now.
+global PTBDisableKbQueue;
+if isempty(PTBDisableKbQueue) 
+	if PTBCurrComputerSpecs.osx
+		PTBDisableKbQueue = 0;
+	else
+		PTBDisableKbQueue = 1;
+	end
+end
+
 
 % Don't want the keypresses, but only for actual running, because
 % need to reenable afterwards.

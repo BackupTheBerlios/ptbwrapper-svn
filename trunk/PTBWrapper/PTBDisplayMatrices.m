@@ -24,9 +24,10 @@
 function PTBDisplayMatrices(matrices, positions, duration, tag, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition wPtr] = PTBParseDisplayArguments(varargin);
+[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % Place each matrix
+global PTBTheWindowPtr;
 for i = 1:length(matrices)
 
 	% TODO: Allow setting of size, orientation, position, etc.
@@ -34,7 +35,7 @@ for i = 1:length(matrices)
 	% A texture is a GL texture that renders quickly
 	% TODO: Check for pict bigger than screen. No checking in MakeTexture.
 	% TODO: Check optimizations, i.e. for rotating.
-	m_tex = Screen('MakeTexture', wPtr, matrices{i});
+	m_tex = Screen('MakeTexture', PTBTheWindowPtr, matrices{i});
 
 	% TODO: See how this works and how effective it is at 
 	% saving time.

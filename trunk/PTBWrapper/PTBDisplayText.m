@@ -21,7 +21,7 @@
 function PTBDisplayText(text, position, duration, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition wPtr] = PTBParseDisplayArguments(varargin);
+[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % Need the current window size for centering
 global PTBScreenRes;

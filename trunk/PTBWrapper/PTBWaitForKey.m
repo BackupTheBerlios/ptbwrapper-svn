@@ -21,10 +21,11 @@ global PTBLastKeyPressTime;
 global PTBLastKeyPress;
 global PTBDisableTimeOut;
 global PTBAddedResponseTime;
-global PTBCurrComputerSpecs;
 global PTBKeysOfInterest;
 global PTBKeyTag;
 global PTBKeyType;
+global PTBDisableKbQueue;
+global PTBInputDevice;
 
 % For now, just waiting for any key.
 % TODO: Error check and extend.
@@ -32,7 +33,7 @@ pressed = 0;
 while pressed == 0
 
     % Use the good stuff for mac...
-    if PTBCurrComputerSpecs.osx
+    if ~PTBDisableKbQueue
 
         % Grab the key, and record
         [pressed, firstPress] = KbQueueCheck;
@@ -40,8 +41,8 @@ while pressed == 0
      % ...otherwise, the bad stuff
     else
         
-        % Check
-    	[keyIsDown, timeSecs, keyCode] = KbCheck;
+        % Check the current input device
+    	[keyIsDown, timeSecs, keyCode] = KbCheck(PTBInputDevice);
         
         % See if we got one we wanted
         if keyIsDown && (sum(PTBKeysOfInterest & keyCode) > 0)
@@ -68,7 +69,7 @@ if pressed > 0
 
  
     % Handle queue responses
-    if PTBCurrComputerSpecs.osx
+    if ~PTBDisableKbQueue
 
         % Find the first key press
         % TODO: There's probably a better way to do this.
@@ -94,7 +95,6 @@ if pressed > 0
         % Record the time and press
         PTBLastKeyPressTime = timeSecs;
         PTBLastKeyPress = KbName(firstKey);
-
     end
 
 	% Get response time
@@ -127,10 +127,13 @@ else
 		PTBWriteLog(PTBDataFileID, 'TIMEOUT','', '', timeOutCheck, PTBKeyType, PTBKeyTag);
 
 		% Just stop listening for now
-        if PTBCurrComputerSpecs.osx
+        if ~PTBDisableKbQueue
         	KbQueueStop;
-        end
-        
+		end
+        		
+		% And clear
+		FlushEvents();
+
 		% Reset the flag.
 		PTBWaitingForKey = 0;
 		
@@ -139,6 +142,7 @@ else
 
 	% Need to keep this running
 	else
+		PTBLastKeyPress = 'TIMEOUT';
 		PTBAddedResponseTime = PTBAddedResponseTime + PTBNextPresentationTime - PTBLastPresentationTime;
 	end
 end

@@ -20,7 +20,7 @@
 function PTBDisplayCircles(positions, size, duration, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition wPtr] = PTBParseDisplayArguments(varargin);
+[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % TODO: Allow setting of font, size, color
 %Screen('TextFont', PTBTheWindowPtr, 'Courier');
