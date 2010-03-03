@@ -46,7 +46,10 @@ if ~isempty(PTBOldVisualDebugLevel)
 end
 
 % TODO: Look into garbage collection here.
-KbQueueRelease;
+global PTBCurrComputerSpecs;
+if PTBCurrComputerSpecs.osx
+    KbQueueRelease;
+end
 Priority(0);
 ListenChar(0);
 ShowCursor

@@ -90,6 +90,12 @@ if isempty(PTBInputDevice)
 	PTBInputDevice = -1;
 end
 
+% Storage for the keys we're wating for now
+global PTBKeysOfInterest
+if isempty(PTBKeysOfInterest)
+    PTBKeysOfInterest = zeros(1,256);
+end
+
 % Set the sound flags
 global PTBSoundInitialized;
 PTBSoundInitialized = 1;
@@ -154,13 +160,6 @@ AssertOpenGL;
 % Get some computer info
 global PTBCurrComputerSpecs;
 PTBCurrComputerSpecs = Screen('Computer');
-
-% Aiming for cross-platformness, at some point...
-% The main problem right now is that KbQueue functions
-% are the best for timing and only work for mac.
-if (~PTBCurrComputerSpecs.osx)
-	error('Sorry. Only Mac supported for now...')
-end
 
 % Don't want the keypresses, but only for actual running, because
 % need to reenable afterwards.

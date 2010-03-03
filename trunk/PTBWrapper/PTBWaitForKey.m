@@ -21,40 +21,80 @@ global PTBLastKeyPressTime;
 global PTBLastKeyPress;
 global PTBDisableTimeOut;
 global PTBAddedResponseTime;
+global PTBCurrComputerSpecs;
+global PTBKeysOfInterest;
 
 % For now, just waiting for any key.
 % TODO: Error check and extend.
 pressed = 0;
 while pressed == 0
 
-	% Grab the key, and record
-	[pressed, firstPress] = KbQueueCheck;
+    % Use the good stuff for mac...
+    if PTBCurrComputerSpecs.osx
 
-	% See if we've timed out
-	timeOutCheck = GetSecs;
-	if timeOutCheck > PTBNextPresentationTime
-	
-		% TODO: Slight chance that a button 
-		% was pressed during the last loop. 
-		% Should probably check...
-		pressed = -1;
-		break;
-	end
+        % Grab the key, and record
+        [pressed, firstPress] = KbQueueCheck;
+        
+     % ...otherwise, the bad stuff
+    else
+        
+        % Check
+    	[keyIsDown, timeSecs, keyCode] = KbCheck;
+        
+        % See if we got one we wanted
+        if keyIsDown && (sum(PTBKeysOfInterest & keyCode) > 0)
+            pressed = 1;
+        end
+    end
+    
+    % See if we've timed out
+    timeOutCheck = GetSecs;
+    if timeOutCheck > PTBNextPresentationTime
+
+        % TODO: Slight chance that a button 
+        % was pressed during the last loop. 
+        % Should probably check...
+        pressed = -1;
+        break;
+    end
+
 end
 
 % Either got a press...
 global PTBDataFileID;
 if pressed > 0
 
-	% Find the first key press
-	% TODO: There's probably a better way to do this.
-	% If only one key press, can do away with most of this.
-	firstKey = find(firstPress == min(firstPress(find(firstPress > 0))));
+ 
+    % Handle queue responses
+    if PTBCurrComputerSpecs.osx
 
-	% Record the time and press
-	PTBLastKeyPressTime = firstPress(firstKey);
-  	PTBLastKeyPress = KbName(firstKey);
-		
+        % Find the first key press
+        % TODO: There's probably a better way to do this.
+        % If only one key press, can do away with most of this.
+        firstKey = find(firstPress == min(firstPress(find(firstPress > 0))));
+
+        % Record the time and press
+        PTBLastKeyPressTime = firstPress(firstKey);
+        PTBLastKeyPress = KbName(firstKey);
+
+        % Just stop listening for now
+        KbQueueStop;
+       
+    % Or Windows responses
+    else
+        
+        % Get the pressed key
+        % TODO: This will wrongly record if two
+        % of the response keys are pressed at the same
+        % time...
+        firstKey = min(find(PTBKeysOfInterest & keyCode > 0));
+        
+        % Record the time and press
+        PTBLastKeyPressTime = timeSecs;
+        PTBLastKeyPress = KbName(firstKey);
+
+    end
+
 	% Get response time
 	RT = PTBAddedResponseTime + PTBLastKeyPressTime - PTBLastPresentationTime;
 	
@@ -68,9 +108,6 @@ if pressed > 0
 	if KbName(PTBExitKey) == firstKey
 		error('Exit key pressed.');
 	end
-
-	% Just stop listening for now
-	KbQueueStop;
 
 	% Reset the flag.
 	PTBWaitingForKey = 0;
@@ -88,8 +125,10 @@ else
 		PTBWriteLog(PTBDataFileID, 'TIMEOUT','', '', timeOutCheck);
 
 		% Just stop listening for now
-		KbQueueStop;
-
+        if PTBCurrComputerSpecs.osx
+        	KbQueueStop;
+        end
+        
 		% Reset the flag.
 		PTBWaitingForKey = 0;
 		
