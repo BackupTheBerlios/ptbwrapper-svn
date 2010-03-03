@@ -20,21 +20,17 @@
 % TODO: Error checking.
 function PTBDisplayText(text, position, duration, varargin)
 
-% Parse any optional arguments
-if length(varargin) < 1
-    trigger = [];
-else
-    trigger = varargin{1};
-end
+% Parse any optional arguments and get the correct window
+[trigger key_condition wPtr] = PTBParseDisplayArguments(varargin);
 
-% Need the current window
-global PTBTheWindowPtr;
+% Need the current window size for centering
 global PTBScreenRes;
+global PTBTheScreenNumber;
 
 % TODO: Allow setting of font, size, color
-Screen('TextFont', PTBTheWindowPtr, 'Courier');
-Screen('TextSize', PTBTheWindowPtr, 30);
-tColor = WhiteIndex(PTBTheWindowPtr);
+Screen('TextFont', wPtr, 'Courier');
+Screen('TextSize', wPtr, 30);
+tColor = WhiteIndex(PTBTheScreenNumber);
 
 % Need to check
 % TODO: Possibly turn these check off if not debugging?
@@ -47,7 +43,7 @@ if iscell(position)
 	if strcmpi(position{1},'center')
 		
 		% Get the bounds of the text
-		bounds = Screen('TextBounds', PTBTheWindowPtr, text);
+		bounds = Screen('TextBounds', wPtr, text);
 		
 		% Set the centered position
 		p = [PTBScreenRes.width/2 - bounds(3)/2 PTBScreenRes.height/2 - bounds(4)/2];
@@ -65,11 +61,11 @@ if iscell(position)
 elseif ~isnumeric(position)
 	error('Bad position argument.');
 end
-Screen('DrawText', PTBTheWindowPtr, text, position(1), position(2), tColor);
+Screen('DrawText', wPtr, text, position(1), position(2), tColor);
 
 % Set the type...
 global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Text', text, trigger);
+PTBPresentStimulus(duration, 'Text', text, trigger, key_condition);

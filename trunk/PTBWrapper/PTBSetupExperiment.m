@@ -51,6 +51,8 @@
 %	- PTBDisableTimeOut: 1 if want to collect a key press over multiple displays
 %		* REMEMBER to set this back to 0 afterwards.
 %	- PTBAddedResponseTime: Used internally when time out is disabled.
+%	- PTBKeyQueue: A list of screens to show depending on a key press outcome.\
+%	- PTBTheScreenNumber: The screen number we're displaying to.
 %
 % Author: Doug Bemis
 % Date: 7/3/09
@@ -193,18 +195,27 @@ KbName('UnifyKeyNames');
 
 % Need the window
 global PTBTheWindowPtr;
+global PTBTheScreenNumber;
 
 % NOTE: The use of max screens sets the display to be any
 % secondary screen, if it exists.
 % TODO: Allow configurability.
 screens = Screen('Screens');
-screenNumber = max(screens);
+PTBTheScreenNumber = max(screens);
 
 % These will store the usable drawing area of the screen
 % we're about to use.
 % TODO: Allow configurability.
 global PTBScreenRes;
-PTBScreenRes=Screen('Resolution', screenNumber);
+PTBScreenRes=Screen('Resolution', PTBTheScreenNumber);
+
+% Clear the key queue
+global PTBKeyQueue;
+PTBKeyQueue = {};
+
+% This is for internal use to store events that need to be displayed
+global PTBEventQueue;
+PTBEventQueue = {};
 
 % TODO: Do we want the ability to change this here?
 % If so, Screen('Resolutions', screenNumber) will list the
@@ -215,22 +226,8 @@ PTBScreenRes=Screen('Resolution', screenNumber);
 % WhiteIndex(theWindowPtr)
 % BlackIndex(theWindowPtr)
 
-
-% For now, keep double-buffered and default pixel depth, and 
-% open with black color.
-% Also, make a smaller screen for debugging, and always a
-% full screen for running.
-if (PTBIsDebugging)
-	PTBScreenRes.width = PTBScreenRes.width*.75;
-	PTBScreenRes.height = PTBScreenRes.height*.75;
-	PTBTheWindowPtr = Screen('OpenWindow', screenNumber, PTBBackgroundColor, [0 0  PTBScreenRes.width PTBScreenRes.height]);
-else
-	PTBTheWindowPtr = Screen('OpenWindow', screenNumber, PTBBackgroundColor);
-end
-
-% Set alpha blending on, just in case we want it
-% TODO: Does this break anything?
-Screen(PTBTheWindowPtr,'BlendFunction',GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+% Grab the screen
+PTBTheWindowPtr = PTBCreateScreen(PTBTheScreenNumber,1);
 
 % This prevents the OS from getting in the way.
 % TODO: Allow configurability.

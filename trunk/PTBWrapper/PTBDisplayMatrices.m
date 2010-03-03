@@ -23,15 +23,8 @@
 % TODO: Error checking.
 function PTBDisplayMatrices(matrices, positions, duration, tag, varargin)
 
-% Parse any optional arguments
-if length(varargin) < 1
-    trigger = [];
-else
-    trigger = varargin{1};
-end
-
-% Need the current window
-global PTBTheWindowPtr;
+% Parse any optional arguments and get the correct window
+[trigger key_condition wPtr] = PTBParseDisplayArguments(varargin);
 
 % Place each matrix
 for i = 1:length(matrices)
@@ -41,7 +34,7 @@ for i = 1:length(matrices)
 	% A texture is a GL texture that renders quickly
 	% TODO: Check for pict bigger than screen. No checking in MakeTexture.
 	% TODO: Check optimizations, i.e. for rotating.
-	m_tex = Screen('MakeTexture', PTBTheWindowPtr, matrices{i});
+	m_tex = Screen('MakeTexture', wPtr, matrices{i});
 
 	% TODO: See how this works and how effective it is at 
 	% saving time.
@@ -61,7 +54,7 @@ for i = 1:length(matrices)
 	end
 	
 	% And draw to the buffer
-	Screen('DrawTexture', PTBTheWindowPtr, m_tex, [], pos);
+	Screen('DrawTexture', wPtr, m_tex, [], pos);
 
 	% TODO: Look into reusing textures.
 	Screen('Close',m_tex);
@@ -77,4 +70,4 @@ global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Matrix', tag, trigger);
+PTBPresentStimulus(duration, 'Matrix', tag, trigger, key_condition);

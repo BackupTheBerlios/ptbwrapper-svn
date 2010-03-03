@@ -19,15 +19,8 @@
 % TODO: Error checking.
 function PTBDisplayLines(positions, size, duration, varargin)
 
-% Parse any optional arguments
-if length(varargin) < 1
-    trigger = [];
-else
-    trigger = varargin{1};
-end
-
-% Need the current window
-global PTBTheWindowPtr;
+% Parse any optional arguments and get the correct window
+[trigger key_condition wPtr] = PTBParseDisplayArguments(varargin);
 
 % TODO: Allow setting of font, size, color
 %Screen('TextFont', PTBTheWindowPtr, 'Courier');
@@ -41,11 +34,11 @@ global PTBTheWindowPtr;
 quality = 0;
 center = [0 0];
 color = 255;
-Screen('DrawLines', PTBTheWindowPtr, positions, size, color, center, quality);
+Screen('DrawLines', wPtr, positions, size, color, center, quality);
 
 % Set the type...
 global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Lines', '\t', trigger);
+PTBPresentStimulus(duration, 'Lines', '\t', trigger, key_condition);

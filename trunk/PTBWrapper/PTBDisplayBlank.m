@@ -15,12 +15,8 @@
 
 function PTBDisplayBlank(duration, varargin)
 
-% Parse any optional arguments
-if length(varargin) < 1
-    trigger = [];
-else
-    trigger = varargin{1};
-end
+% Parse any optional arguments and get the correct window
+[trigger key_condition] = PTBParseDisplayArguments(varargin);
 
 % Just display the empty back buffer here.
 
@@ -30,4 +26,4 @@ PTBVisualStimulus = 1;
 
 % TODO: Maybe provide color option.
 % TODO: Check to see if back buffer is actually empty.
-PTBPresentStimulus(duration, 'Blank','',trigger);
+PTBPresentStimulus(duration, 'Blank','',trigger, key_condition);

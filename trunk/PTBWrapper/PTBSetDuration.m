@@ -97,7 +97,7 @@ if sum(PTBKeysOfInterest) > 0
         % you really feel it's necessary. This should 
         % act to change the parameters of the queue
         % and KbQueueRelease causes crashes.
-        KbQueueCreate(PTBInputDevice, keysOfInterest);
+        KbQueueCreate(PTBInputDevice, PTBKeysOfInterest);
 
         % Clear it here.
         % TODO: Figure out how much funcationality
