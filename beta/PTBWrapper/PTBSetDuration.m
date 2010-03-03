@@ -36,7 +36,10 @@ end
 slack = Screen('GetFlipInterval', PTBTheWindowPtr);
 
 % The keys that we'll be waiting for
-keysOfInterest=zeros(1,256);
+global PTBKeysOfInterest;
+if ~PTBWaitingForKey
+    PTBKeysOfInterest=zeros(1,256);
+end
 
 % Set for no time out, if no duration set
 % An hour should do it.
@@ -64,40 +67,51 @@ for i = 1:length(duration)
 		
 	% Special 'anykey'
 	elseif strcmpi(duration{i}, 'any')
-		keysOfInterest = ones(1,256);
+		PTBKeysOfInterest = ones(1,256);
 
 	% Set a response key
 	else
-		keysOfInterest(KbName(duration{i}))=1;
+		PTBKeysOfInterest(KbName(duration{i}))=1;
 	end
 end
-	
+
+% Need this to know if we can use queues
+global PTBCurrComputerSpecs;
+
 % Set up the queue, if waiting for a key
-if sum(keysOfInterest) > 0
+if sum(PTBKeysOfInterest) > 0
 	
 	% Add the exit key, if needed
-	keysOfInterest(KbName(PTBExitKey)) = 1;
+	PTBKeysOfInterest(KbName(PTBExitKey)) = 1;
 	
 	% TODO: Should probably build for the
 	% delay associated with checking the key
 	% before timing out. Or move to PTBWaitForKey.
 	% i.e. nextDisplayTime = nextDisplayTime - 0.015.
 	
-	% TODO: Figure out deviceNumbers.
-	% NOTE: Do NOT call KbQueueRelease, unless 
-	% you really feel it's necessary. This should 
-	% act to change the parameters of the queue
-	% and KbQueueRelease causes crashes.
-	KbQueueCreate(PTBInputDevice, keysOfInterest);
-	
-	% Clear it here.
-	% TODO: Figure out how much funcationality
-	% we want here.
-	KbQueueFlush;
-	
-	% Start up the queue and keep going.
-	KbQueueStart;	
-	
+    % Queue functions only work for windows
+    if PTBCurrComputerSpecs.osx
+
+        % TODO: Figure out deviceNumbers.
+        % NOTE: Do NOT call KbQueueRelease, unless 
+        % you really feel it's necessary. This should 
+        % act to change the parameters of the queue
+        % and KbQueueRelease causes crashes.
+        KbQueueCreate(PTBInputDevice, keysOfInterest);
+
+        % Clear it here.
+        % TODO: Figure out how much funcationality
+        % we want here.
+        KbQueueFlush;
+
+        % Start up the queue and keep going.
+        KbQueueStart;	
+    else
+        
+        % Is this good enough to clear?
+        FlushEvents();
+    end
+    
 	% Mark that we're waiting
 	PTBWaitingForKey = 1;
 end

@@ -52,7 +52,7 @@ isOSX=strcmp(computer,'MAC') | strcmp(computer,'MACI') | ~isempty(findstr(comput
 isLinux=strcmp(computer,'GLNX86') | ~isempty(findstr(computer, 'linux-gnu'));
 
 % Only Mac OSX for now
-if ~isOSX %#ok<AND2>
+if ~isOSX & ~isWin %#ok<AND2>
     os=computer;
 
     if strcmp(os,'MAC2')
