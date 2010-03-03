@@ -13,16 +13,14 @@
 % Date: 7/4/09
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function PTBDisplayBlank(duration, varargin)
+function PTBDisplayBlank(duration, tag, varargin)
 
-% Parse any optional arguments
-if length(varargin) < 1
-    trigger = [];
-else
-    trigger = varargin{1};
-end
+% Parse any optional arguments and get the correct window
+[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
-% Just display the empty back buffer here.
+% Clear it
+global PTBBackgroundColor;
+Screen('FillRect', wPtr, PTBBackgroundColor);
 
 % Set the type...
 global PTBVisualStimulus;
@@ -30,4 +28,4 @@ PTBVisualStimulus = 1;
 
 % TODO: Maybe provide color option.
 % TODO: Check to see if back buffer is actually empty.
-PTBPresentStimulus(duration, 'Blank','',trigger);
+PTBPresentStimulus(duration, 'Blank', tag, trigger, key_condition);

@@ -27,14 +27,18 @@ PTBCloseSoundPort;
 % if there is one.
 global PTBNextPresentationTime;
 global PTBVisualStimulus;
+global PTBEventQueue;
+global PTBKeyQueue;
 if ~isempty(Screen('Windows'))
 	
 	% And clear
+	PTBEventQueue = {};
+	PTBKeyQueue = {};
 	if PTBNextPresentationTime - GetSecs > 1000
 		PTBNextPresentationTime = 0;
 	end
 	PTBVisualStimulus = 1;
-	PTBPresentStimulus({0},'Cleanup', '',[]);
+	PTBPresentStimulus({0},'Cleanup', '',[],'');
 end
 
 % Restore preferences

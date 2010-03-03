@@ -19,21 +19,16 @@
 % TODO: Error checking.
 function PTBDisplayParagraph(lines, positions, duration, varargin)
 
-% Parse any optional arguments
-if length(varargin) < 1
-    trigger = [];
-else
-    trigger = varargin{1};
-end
+% Parse any optional arguments and get the correct window
+[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % Need the current window
-global PTBTheWindowPtr;
 global PTBScreenRes;
 
 % TODO: Allow setting of font, size, color
-Screen('TextFont', PTBTheWindowPtr, 'Courier');
-Screen('TextSize', PTBTheWindowPtr, 30);
-tColor = WhiteIndex(PTBTheWindowPtr);
+Screen('TextFont', wPtr, 'Courier');
+Screen('TextSize', wPtr, 30);
+tColor = WhiteIndex(wPtr);
 
 % Support centering
 if ischar(positions{1})
@@ -46,7 +41,7 @@ if ischar(positions{1})
 		for i = 1:length(lines)
 
 			% Get the bounds
-			bounds = Screen('TextBounds', PTBTheWindowPtr, lines{i});
+			bounds = Screen('TextBounds', wPtr, lines{i});
 
 			% Set the first position
 			positions{i}(1) = PTBScreenRes.width/2 - bounds(3)/2;
@@ -78,7 +73,7 @@ end
 
 % Draw each line
 for i = 1:length(lines)
-	Screen('DrawText', PTBTheWindowPtr, lines{i}, positions{i}(1), positions{i}(2), tColor);
+	Screen('DrawText', wPtr, lines{i}, positions{i}(1), positions{i}(2), tColor);
 end
 
 % Set the type...
@@ -86,4 +81,4 @@ global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Paragraph', lines{i}, trigger);
+PTBPresentStimulus(duration, 'Paragraph', lines{i}, trigger, key_condition);
