@@ -126,13 +126,9 @@ PTBAudio = 2;
 
 % Initialize the stimuli
 global PTBVisualStimulus;
-if isempty(PTBVisualStimulus)
-	PTBVisualStimulus = 0;
-end
+PTBVisualStimulus = 0;
 global PTBAudioStimulus;
-if isempty(PTBAudioStimulus)
-	PTBAudioStimulus = 0;
-end
+PTBAudioStimulus = 0;
 
 % Initialize the trigger length
 global PTBTriggerLength;

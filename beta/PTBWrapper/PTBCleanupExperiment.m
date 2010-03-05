@@ -27,6 +27,7 @@ PTBCloseSoundPort;
 % if there is one.
 global PTBNextPresentationTime;
 global PTBVisualStimulus;
+global PTBAudioStimulus;
 global PTBEventQueue;
 global PTBKeyQueue;
 if ~isempty(Screen('Windows'))
@@ -38,6 +39,7 @@ if ~isempty(Screen('Windows'))
 		PTBNextPresentationTime = 0;
 	end
 	PTBVisualStimulus = 1;
+	PTBAudioStimulus = 0;
 	PTBPresentStimulus({0},'Cleanup', '',[],'');
 end
 

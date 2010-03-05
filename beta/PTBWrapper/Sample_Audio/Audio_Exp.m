@@ -39,7 +39,7 @@ PTBSetLogFiles([subject '_log.txt'], [subject '_data.txt']);
 
 % NOTE: Might need this, if you run from the
 % debugger (i.e. Fn+F5)
-%Screen('Preference', 'SkipSyncTests', 1);
+Screen('Preference', 'SkipSyncTests', 1);
 
 % Let's try our experiment
 try
@@ -101,7 +101,7 @@ end
 function performBlock(stim_file,mode)
 
 % Just put a blank screen up for now
-PTBDisplayBlank({.1});
+PTBDisplayBlank({.1},'');
 
 % Open up the stimulus file
 fid = fopen(stim_file);
@@ -123,7 +123,7 @@ while 1
 	[condition item_num wavefile ITI] = strread(line,'%s%f%s%f');
 
 	% Want to know the trial type
-	PTBSetLogAppend(condition{1},num2str(item_num));
+	PTBSetLogAppend(1,'clear',{condition{1},num2str(item_num)});
 	
 	% Do the next trial
 	performTrial(wavefile{1},condition{1},ITI,mode);
@@ -168,6 +168,6 @@ if mode == 1
 end
 
 % And wait for the ITI to end.
-PTBDisplayBlank({ITI});
+PTBDisplayBlank({ITI},'');
 
     

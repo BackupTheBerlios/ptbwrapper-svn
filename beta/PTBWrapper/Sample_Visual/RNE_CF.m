@@ -1,37 +1,80 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: RNE_CF.m
 %
-% Runs a rapid enumeration script.
+% Runs a rapid enumeration script. 
+% NOTE: This script is set to automatically create new stimulus files to use.
 %
 % Args:
-%	- subject: The subject id.
-%	- stim_lists: The stimulus lists to use.
-%	- mode: The mode to run in
-%		- 0: Real experiment
-%		- 1: Practice
+%	- subject: The subject id, can be any string.
+%		* This will be prepended to the log and data files.
 %
-% Usage: RNE_CF('TestSubj',{'stim_list_1.txt','stim_list_2.txt'})
+% Usage: RNE_CF('Subj_Label')
 %
 % Author: Doug Bemis
-% Date: 2/5/10
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function RNE_CF(subject, stim_lists)
+function RNE_CF(subject)
+
+% Make sure we're compatible
+PTBVersionCheck(1,1,0,'at least');
 
 % Set to debug, if we want to.
-% Makes the screen smaller, so we
-% can recover from crashes.
 PTBSetIsDebugging(0);
+
+% The queue doesn't seem to work
+% when we're waiting over two screens, so
+% disable for now.
+PTBSetDisableKbQueue(1);
+
+% Set the exit key.
+PTBSetExitKey('ESCAPE');
+
+% Where to write out the logs.
+% NOTE: Set the keyfile name in order to log all the TRs
+PTBSetLogFiles([subject '_log.txt'], [subject '_data.txt']);
+
 
 % Experiment parameters
 
+% Number of repetitions through the complete set
+% of conditions.
+% This will create num_reps*length(set_sizes)*length(separations)*2*2
+% The last 2s are: 
+%	- smaller / larger number first
+%	- first / second display connected
+num_reps = 3;
+
+% Number of blocks to use.
+% NOTE: The number of trials does not
+% need to be divisible by this number.
+num_blocks = 5;
+
+% Number of practice trials
+num_practice_trials = 20;
+
+% The different separation values
+% NOTE: The last separation value
+% serves as the "unconnected" control.
+% These values are how far we rotate
+% each line segment away from connected.
+separations = [0 2 7 22 50];
+
+% The different set size pairs.
+% Each 
+set_sizes = {[6 8], [10 14], [20 26], [32 40]};
+
+% Control of the ITIs
+ITI_mean = 0.500;
+ITI_std = 0.100;
+
+
 % Diameter in pixels of the dots
 global GL_dot_size;
-GL_dot_size = 20;
+GL_dot_size = 15;
 
 % For changing the pattern of the dots
 global GL_pattern_width;
-GL_pattern_width = 15;
+GL_pattern_width = 10;
 
 % The width of the connecting lines
 global GL_line_width;
@@ -48,11 +91,11 @@ GL_screen_buffer = 30;
 
 % Smallest separation allowed between dots.
 global GL_min_separation;
-GL_min_separation = 40;
+GL_min_separation = 25;
 
 % Largest separation allowed between dots.
 global GL_max_separation;
-GL_max_separation = 200;
+GL_max_separation = 95;
 
 %  Closest that lines can get to 
 % vertical or horizontal
@@ -63,28 +106,32 @@ GL_min_rotation = 5;
 global GL_fixation_time;
 GL_fixation_time = 0.300;
 global GL_ISI;
-GL_ISI = 0.300;
+GL_ISI = 0.150;
 global GL_screen_time;
-GL_screen_time = 0.500;
+GL_screen_time = 0.450;
 global GL_time_out;
-GL_time_out = 1.500;
+GL_time_out = 0.800;
 global GL_more_key;
-GL_more_key = 'l';
+GL_more_key = 'm';
 global GL_less_key;
-GL_less_key = 'm';
+GL_less_key = 'l';
+
+% First, make the stim lists
+disp('Creating stim lists...');
+createRNEStimLists(separations, set_sizes, num_reps, num_blocks, ITI_mean, ITI_std, num_practice_trials);
+disp('Done.');
+
+% Define the stimulus lists to use
+stim_lists = {'practice_list.txt'};
+for i = 1:num_blocks
+	stim_lists{i+1} = ['stim_list_' num2str(i) '.txt'];
+end
 
 % Set the background color to gray
 PTBSetBackgroundColor(0);
 
 % Don't use the start screen for now
 PTBSetUseStartScreen(1);
-
-% Set the exit key.
-PTBSetExitKey('ESCAPE');
-
-% Where to write out the logs.
-% NOTE: Set the keyfile name in order to log all the TRs
-PTBSetLogFiles([subject '_log.txt'], [subject '_data.txt']);
 
 % NOTE: Might need this, if you run from the
 % debugger (i.e. Fn+F5)
@@ -105,17 +152,24 @@ try
     % First, prepare everything to go
     PTBSetupExperiment('RNE_CF');
 	PTBDisplayParagraph({'The experiment is about to begin.', 'Press any key to begin.'}, {'center', 30}, {'any'});
-
+	
 	% This gives time to get the program up and going
 	init_blank_time = 1;
-	PTBDisplayBlank({init_blank_time});
+	PTBDisplayBlank({init_blank_time},'');
 	
-	% Show each list
+	% Show each stimulus list
+	% NOTE: First one is practice
  	for i = 1:length(stim_lists)
 
 		% Show the start of the block
-		PTBDisplayParagraph({['Block ' num2str(i) ' of ' num2str(length(stim_lists)) ' is about to begin.'], 'Press any key to begin.'}, {'center', 30}, {'any'});
-
+		if i == 1
+			PTBDisplayParagraph({['The practice is about to begin.'], 'Press any key to begin.'}, {'center', 30}, {'any'});
+			b_label = 'practice';
+		else
+			PTBDisplayParagraph({['Block ' num2str(i-1) ' of ' num2str(length(stim_lists)-1) ' is about to begin.'], 'Press any key to begin.'}, {'center', 30}, {'any'});
+			b_label = 'experiment';
+		end
+		
 		fid = fopen(stim_lists{i});
 		while 1
 			line = fgetl(fid);
@@ -125,21 +179,25 @@ try
 			
 			% Read in the next trial
 			[item_num num_dots_1 sep_1 num_dots_2 sep_2 ITI set_size separation fewer connected] = strread(line,'%f%f%f%f%f%f%f%f%f%f');
-			PTBSetLogAppend(num2str(item_num), num2str(num_dots_1), num2str(sep_1), num2str(num_dots_2), num2str(sep_2), ...
-				num2str(set_size), num2str(separation), num2str(fewer), num2str(connected));
+			PTBSetLogAppend(1,'clear',{num2str(item_num), num2str(num_dots_1), num2str(sep_1), num2str(num_dots_2), num2str(sep_2), ...
+				num2str(set_size), num2str(separation), num2str(fewer), num2str(connected), b_label});
 			performTrial(num_dots_1, sep_1, num_dots_2, sep_2, ITI);
 		end
 		fclose(fid);
 		
 		% Show the end of the block
-		PTBDisplayParagraph({['Block ' num2str(i) ' of ' num2str(length(stim_lists)) ' is now over.'], 'Press any key to continue.'}, {'center', 30}, {'any'});
+		if i == 1
+			PTBDisplayParagraph({['The practice is now over.'], 'Press any key to continue.'}, {'center', 30}, {'any'});
+		else
+			PTBDisplayParagraph({['Block ' num2str(i-1) ' of ' num2str(length(stim_lists)-1) ' is now over.'], 'Press any key to continue.'}, {'center', 30}, {'any'});
+		end
  	end
     
 	% The end screens 
 	PTBDisplayText('The experiment is now over.',{'center'},{'any'});	
 
 	% Quick blank to make sure the last screen stays on
-	PTBDisplayBlank({.1});
+	PTBDisplayBlank({.1},'');
 	
 	% And finish up
     PTBCleanupExperiment;
@@ -163,12 +221,13 @@ global GL_screen_time;
 global GL_time_out;
 global GL_more_key;
 global GL_less_key;
+global PTBLastKeyPress;
 
 % Show a cross first
 PTBDisplayText('+',{'center'},{GL_fixation_time});	
 
 % Then a blank
-PTBDisplayBlank({GL_ISI});
+PTBDisplayBlank({GL_ISI},'');
 
 % Get the positions
 [d_positions l_positions] = calculatePositions(num_dots_1, sep_1);
@@ -181,10 +240,10 @@ end
 
 % The first screen
 PTBDisplayLines(l_positions, GL_line_width, {-1})
-PTBDisplayMatrices(dots,d_positions,{GL_screen_time});
+PTBDisplayMatrices(dots,d_positions,{GL_screen_time},'First Screen');
 
 % Then a blank
-PTBDisplayBlank({GL_ISI});
+PTBDisplayBlank({GL_ISI},'');
 
 % Get the positions
 [d_positions l_positions] = calculatePositions(num_dots_2, sep_2);
@@ -195,20 +254,40 @@ for i = 1:num_dots_2
 	dots{i} = GL_dot_matrices{ceil(rand*length(GL_dot_matrices))};
 end
 
-% The second screen
+% We want to allow key presses over the next 
+% couple of screens...
+global PTBDisableTimeOut;
+PTBDisableTimeOut = 1;
+
+% The second screen.
 PTBDisplayLines(l_positions, GL_line_width, {-1})
-PTBDisplayMatrices(dots,d_positions,{GL_time_out, GL_more_key, GL_less_key});
+PTBDisplayMatrices(dots,d_positions,{GL_screen_time, GL_more_key, GL_less_key},'Trial');
+
+% Then a mask
+num_mask_dots = 300;
+[d_positions l_positions] = makeMask(num_mask_dots);
+dots = {};
+for i = 1:num_mask_dots
+	dots{i} = GL_dot_matrices{ceil(rand*length(GL_dot_matrices))};
+end
+PTBDisplayLines(l_positions, GL_line_width, {-1}, 'Trial','TIMEOUT')
+PTBDisplayMatrices(dots,d_positions,{GL_time_out, GL_more_key, GL_less_key},'Trial','TIMEOUT');
+	
+% This should clear the last response
+PTBDisplayBlank({.1},'Trial');
+
+% Want to time out now
+% TODO: Allow this to occur earlier.
+PTBDisableTimeOut = 0;
+
+% Prompt if responded too slowly
+if strcmp(PTBLastKeyPress, 'TIMEOUT')
+	PTBDisplayText('Please respond faster.',{'center'},{2},'TIMEOUT');
+	PTBDisplayText('Please respond faster.',{'center'},{'any'},'TIMEOUT');
+end
 
 % And wait for the ITI to end.
-PTBDisplayBlank({ITI});
-
-% Handle a timeout
-global PTBLastKeyPress;
-if strcmp(PTBLastKeyPress, 'TIMEOUT')
-	PTBDisplayText('Please respond faster.',{'center'},{2});
-	PTBDisplayText('Please respond faster.',{'center'},{'any'});
-	PTBDisplayBlank({ITI});
-end
+PTBDisplayBlank({ITI},'');
 
 
 % Helper to place the dots and lines
@@ -224,6 +303,28 @@ for i = 1:num_dots/2
 end
 
 
+% Quick helper to make the mask
+function [d_positions l_positions] = makeMask(num_mask_dots)
+
+global PTBScreenRes;
+global GL_screen_buffer;
+global GL_min_separation;
+global GL_max_separation
+
+% Just place randomly
+d_positions = {};
+for i = 1:num_mask_dots
+	d_positions{i} = [floor((PTBScreenRes.width-2*GL_screen_buffer)*rand)+GL_screen_buffer ...
+		floor((PTBScreenRes.height-2*GL_screen_buffer)*rand)+GL_screen_buffer];
+end
+
+avg_sep = (GL_max_separation + GL_min_separation) / 2;
+l_positions = [];
+for i = 1:num_mask_dots/2
+	l_positions(1:2,2*i-1) = [floor((PTBScreenRes.width-2*GL_screen_buffer)*rand)+GL_screen_buffer ...
+		floor((PTBScreenRes.height-2*GL_screen_buffer)*rand)+GL_screen_buffer];
+	l_positions(1:2,2*i) = [l_positions(1,2*i-1) + randn*avg_sep l_positions(2,2*i-1) + randn*avg_sep];
+end
 
 % Help to place within a cell
 % positions should be [x1 y1; x2 y2]'
