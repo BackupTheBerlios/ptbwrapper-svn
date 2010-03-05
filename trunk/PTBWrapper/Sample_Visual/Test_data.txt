@@ -2194,3 +2194,11 @@ KEY	l	0.77857	4.6791	1	34	0	20	30	3	1	2	1
 KEY	l	0.5042	7.1111	2	6	30	4	30	1	5	2	1
 KEY	ESCAPE	0.55417	9.5833	3	20	4	34	30	3	2	1	1
 TIMEOUT			9.5925	3	20	4	34	30	3	2	1	1
+
+----------------------------------------------------------------------------
+Started at: 03-Mar-2010 02:02:10
+
+START	38048.3303		0
+KEY	Return	0.79788	0.83594	Paragraph	Press any key to begin.
+KEY	Return	1.2648	3.1071	Paragraph	Press any key to begin.	1	10	50	14	50	2	5	1	1	practice
+KEY	ESCAPE	0.37495	4.5393	Matrix	Trial	1	10	50	14	50	2	5	1	1	practice

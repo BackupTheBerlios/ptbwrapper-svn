@@ -18,12 +18,8 @@
 % TODO: Error checking.
 function PTBPlaySoundFile(soundfile, duration, varargin)
 
-% Parse any optional arguments
-if length(varargin) < 1
-    trigger = [];
-else
-    trigger = varargin{1};
-end
+% Parse any optional arguments and get the correct window
+[trigger key_condition] = PTBParseDisplayArguments(duration, varargin);
 
 % Perform basic initialization of the sound driver, to be sure
 PTBInitSound(1);
@@ -54,4 +50,4 @@ global PTBAudioStimulus;
 PTBAudioStimulus = 1;
 
 % And go...
-PTBPresentStimulus(duration, 'Soundfile', soundfile, trigger);
+PTBPresentStimulus(duration, 'Soundfile', soundfile, trigger, key_condition);

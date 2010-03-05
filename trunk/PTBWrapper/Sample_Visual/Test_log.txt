@@ -5880,3 +5880,20 @@ STIM	Blank		8.7284	3	20	4	34	30	3	2	1	1
 STIM_PREPARE	Lines			-74173.7607	3	20	4	34	30	3	2	1	1
 STIM	Matrix	TTest	9.0291	3	20	4	34	30	3	2	1	1
 STIM	Cleanup		9.5971	3	20	4	34	30	3	2	1	1
+
+----------------------------------------------------------------------------
+Started at: 03-Mar-2010 02:02:10
+
+START	38048.3303		0
+STIM	Paragraph	Press any key to begin.	0.038054
+STIM	Blank		0.8567
+STIM	Paragraph	Press any key to begin.	1.8423
+STIM	Text	+	3.1287	1	10	50	14	50	2	5	1	1	practice
+STIM	Blank		3.4293	1	10	50	14	50	2	5	1	1	practice
+STIM_PREPARE	Lines			-38049.3303	1	10	50	14	50	2	5	1	1	practice
+STIM	Matrix	First Screen	3.5797	1	10	50	14	50	2	5	1	1	practice
+STIM	Blank		4.014	1	10	50	14	50	2	5	1	1	practice
+STIM_PREPARE	Lines			-38049.3303	1	10	50	14	50	2	5	1	1	practice
+STIM	Matrix	Trial	4.1643	1	10	50	14	50	2	5	1	1	practice
+STIM_PREPARE	Lines			-38049.3303	1	10	50	14	50	2	5	1	1	practice
+STIM	Cleanup		4.5653	1	10	50	14	50	2	5	1	1	practice

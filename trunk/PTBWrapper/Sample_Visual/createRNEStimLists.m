@@ -8,29 +8,7 @@
 % Author: Doug Bemis
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function createRNEStimLists
-
-% The different separation values
-% NOTE: The last separation value
-% serves as the "unconnected" control
-separations = [0 4 10 15 30];
-
-% The different set sizes
-set_sizes = {[4 6], [10 16], [20 34], [40 60]};
-
-% Number of repetitions
-% This will create num_reps*length(set_sizes)*length(separations)*2*2
-% The last 2s are: 
-%	- smaller / larger number first
-%	- first / second display connected
-num_reps = 3;
-
-% Number of blocks to use
-num_blocks = 5;
-
-% Control of the ITIs
-ITI_mean = 0.500;
-ITI_std = 0.100;
+function createRNEStimLists(separations, set_sizes, num_reps, num_blocks, ITI_mean, ITI_std, num_practice_trials)
 
 % Make each trial
 trials = {};
@@ -91,7 +69,7 @@ end
 fclose(fid);
 
 % Create a quick practice list
-num_practice = 10;
+num_practice = num_practice_trials;
 fid = fopen('practice_list.txt','w');
 for i = 1:num_practice
 	ITI = randn*ITI_std + ITI_mean;
