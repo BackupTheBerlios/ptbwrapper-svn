@@ -251,6 +251,10 @@ global PTBTextSize;
 if isempty(PTBTextSize)
 	PTBTextSize = 30;
 end
+global PTBTextColor;
+if isempty(PTBTextColor)
+	PTBTextColor = [255 255 255];
+end
 
 % Show a start message
 % TODO: Think about whether this is needed, or
@@ -264,12 +268,12 @@ if isempty(PTBUseStartScreen)
 	PTBUseStartScreen = 1;
 end
 if PTBUseStartScreen
-	Screen('DrawText', PTBTheWindowPtr, title, 50, 100, [255 255 255 255]);
+	Screen('DrawText', PTBTheWindowPtr, title, 50, 100, PTBTextColor);
 	Screen('DrawText', PTBTheWindowPtr, ['Powered by PTB wrapper version: ' num2str(PTBWrapper.major)...
-		'.' num2str(PTBWrapper.minor) '.' num2str(PTBWrapper.point)], 50, 180, [255 255 255 255]);
+		'.' num2str(PTBWrapper.minor) '.' num2str(PTBWrapper.point)], 50, 180, PTBTextColor);
 	if (PTBIsDebugging)
 		Screen('TextSize', PTBTheWindowPtr, 25);
-		 Screen('DrawText', PTBTheWindowPtr, 'Currently Debugging', 50, 260, [255 255 255 255]);
+		 Screen('DrawText', PTBTheWindowPtr, 'Currently Debugging', 50, 260, PTBTextColor);
 	end
 end
 

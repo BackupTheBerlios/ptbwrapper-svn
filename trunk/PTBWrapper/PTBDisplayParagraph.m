@@ -24,11 +24,13 @@ function PTBDisplayParagraph(lines, positions, duration, varargin)
 
 % Need the current window
 global PTBScreenRes;
+global PTBTextFont;
+global PTBTextSize;
+global PTBTextColor;
 
-% TODO: Allow setting of font, size, color
-Screen('TextFont', wPtr, 'Courier');
-Screen('TextSize', wPtr, 30);
-tColor = WhiteIndex(wPtr);
+% Set text parameters
+Screen('TextFont', wPtr, PTBTextFont);
+Screen('TextSize', wPtr, PTBTextSize);
 
 % Support centering
 if ischar(positions{1})
@@ -73,7 +75,7 @@ end
 
 % Draw each line
 for i = 1:length(lines)
-	Screen('DrawText', wPtr, lines{i}, positions{i}(1), positions{i}(2), tColor);
+	Screen('DrawText', wPtr, lines{i}, positions{i}(1), positions{i}(2), PTBTextColor);
 end
 
 % Set the type...

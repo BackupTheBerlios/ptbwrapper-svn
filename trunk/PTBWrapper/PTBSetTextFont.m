@@ -17,8 +17,3 @@ function PTBSetTextFont(value)
 % Set
 global PTBTextFont;
 PTBTextFont = value;
-
-global PTBTheWindowPtr;
-if ~isempty(PTBTheWindowPtr)
-	Screen('TextFont', PTBTheWindowPtr, 'Courier');
-end
