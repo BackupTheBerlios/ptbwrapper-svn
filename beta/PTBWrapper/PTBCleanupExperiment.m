@@ -40,6 +40,7 @@ if ~isempty(Screen('Windows'))
 	end
 	PTBVisualStimulus = 1;
 	PTBAudioStimulus = 0;
+	PTBSetLogAppend(0,'clear',{});
 	PTBPresentStimulus({0},'Cleanup', '',[],'');
 end
 
@@ -53,8 +54,10 @@ end
 
 % TODO: Look into garbage collection here.
 global PTBCurrComputerSpecs;
-if PTBCurrComputerSpecs.osx
-    KbQueueRelease;
+if ~isempty(PTBCurrComputerSpecs)
+	if PTBCurrComputerSpecs.osx
+		KbQueueRelease;
+	end
 end
 Priority(0);
 ListenChar(0);

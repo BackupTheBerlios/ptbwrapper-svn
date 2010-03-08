@@ -17,8 +17,3 @@ function PTBSetTextSize(value)
 % Set
 global PTBTextSize;
 PTBTextSize = value;
-
-global PTBTheWindowPtr;
-if ~isempty(PTBTheWindowPtr)
-	Screen('TextSize', PTBTheWindowPtr, 30);
-end

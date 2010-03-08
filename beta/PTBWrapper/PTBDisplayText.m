@@ -25,12 +25,13 @@ function PTBDisplayText(text, position, duration, varargin)
 
 % Need the current window size for centering
 global PTBScreenRes;
-global PTBTheScreenNumber;
+global PTBTextFont;
+global PTBTextSize;
+global PTBTextColor;
 
-% TODO: Allow setting of font, size, color
-Screen('TextFont', wPtr, 'Courier');
-Screen('TextSize', wPtr, 30);
-tColor = WhiteIndex(PTBTheScreenNumber);
+% Set text parameters
+Screen('TextFont', wPtr, PTBTextFont);
+Screen('TextSize', wPtr, PTBTextSize);
 
 % Need to check
 % TODO: Possibly turn these check off if not debugging?
@@ -61,7 +62,7 @@ if iscell(position)
 elseif ~isnumeric(position)
 	error('Bad position argument.');
 end
-Screen('DrawText', wPtr, text, position(1), position(2), tColor);
+Screen('DrawText', wPtr, text, position(1), position(2), PTBTextColor);
 
 % Set the type...
 global PTBVisualStimulus;
