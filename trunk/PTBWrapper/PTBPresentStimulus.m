@@ -152,7 +152,7 @@ end
 
 % Send the trigger here, if necessary
 if ~isempty(trigger)
-    PTBSendTrigger(trigger);
+    PTBSendTrigger(trigger, trigger_delay);
 end
 
 % Reset here

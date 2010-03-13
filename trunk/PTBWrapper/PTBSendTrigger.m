@@ -12,7 +12,7 @@
 % Date: 2/3/10
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function PTBSendTrigger(value)
+function PTBSendTrigger(value, trigger_delay)
 
 % Check
 global PTBUSBBoxInitialized;
@@ -20,11 +20,6 @@ if ~PTBUSBBoxInitialized
 	disp('WARNING: No trigger sent.');
 	return;
 end
-
-% Trigger seems to get there too fast.
-% Despite the fact that the flip and trigger times are
-% the same
-trigger_delay = 0.016;
 
 % Send the trigger
 global PTBUSBBoxDeviceID;
@@ -34,8 +29,6 @@ trig_time = GetSecs;
 PsychHID('SetReport', PTBUSBBoxDeviceID, 2, hex2dec('32'), uint8(zeros(1,2)+value));
 pause(PTBTriggerLength);
 PsychHID('SetReport', PTBUSBBoxDeviceID, 2, hex2dec('32'), uint8(zeros(1,2)));
-
-trig_time_2 = GetSecs;
 
 
 % Want to record

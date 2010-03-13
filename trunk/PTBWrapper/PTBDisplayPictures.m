@@ -4,12 +4,17 @@
 % Displays a picture to the screen.
 %
 % Args:
-%	- picture: The picture file to display
+%	- pictures: The picture files to display.
+%	- positions: The positions to put the pictures.
+%	- scales: The scales to show the pictures at.
+%		- Can be a single numeric value
+%		- Or [num_rows num_cols]. 
+%			- Either can be NaN, which will keep the aspect ratio.
 %	- duration: The length to display for.
 %   - tag: A label to print out with the picture.
 %	- trigger: A trigger to send (optional)
 %
-% Usage: PTBDisplayPicture('Test.jpg',{.3})
+% Usage: PTBDisplayPictures({'Test.jpg'}, {'center'}, {.3})
 %
 % Author: Doug Bemis
 % Date: 7/4/09
@@ -17,7 +22,7 @@
 
 % TODO: Take variable args and parse.
 % TODO: Error checking.
-function PTBDisplayPicture(picture, position, duration, tag, varargin)
+function PTBDisplayPictures(pictures, positions, scales, duration, tag, varargin)
 
 % TODO: Figure out best way to pass through varargin.
 % Right now, it becomes wrapped in too many {}s
@@ -36,8 +41,20 @@ end
 % TODO: Is imread the best thing to use here?
 % TODO: Can also explicitly add format to this function, if needed.
 imdata = {};
-imdata{1} = imread(picture);
+for i = 1:length(pictures)
+	imdata{i} = imread(pictures{i});
+	
+	% Might not have it (it's in a toolbox)
+	if length(scales{i}) ~= 1 || scales{i} ~= 1
+		try
+			imdata{i} = imresize(imdata{i}, scales{i});
+		catch
+			err = lasterror;
+			disp(['WARNING: Resizing not possible: ' err.message]);
+		end		
+	end
+end
 
 % Lean on the matrices routine
-PTBDisplayMatrices(imdata, {'center'}, duration, tag, arg);
+PTBDisplayMatrices(imdata, positions, duration, tag, arg);
 

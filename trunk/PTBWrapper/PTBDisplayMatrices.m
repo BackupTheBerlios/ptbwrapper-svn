@@ -50,8 +50,8 @@ for i = 1:length(matrices)
 			error('Unknown position. Exiting...');
 		end
 	else
-		pos = [positions{i}(1) - size(matrices{i},1)/2 positions{i}(2) - size(matrices{i},2)/2 ...
-			positions{i}(1) + size(matrices{i},1)/2 positions{i}(2) + size(matrices{i},2)/2];
+		pos = [positions{i}(1) - size(matrices{i},2)/2 positions{i}(2) - size(matrices{i},1)/2 ...
+			positions{i}(1) + size(matrices{i},2)/2 positions{i}(2) + size(matrices{i},1)/2];
 	end
 	
 	% And draw to the buffer
