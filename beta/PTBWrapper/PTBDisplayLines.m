@@ -20,7 +20,7 @@
 function PTBDisplayLines(positions, size, color, duration, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
+[trigger  trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % TODO: Allow setting of font, size, color
 %Screen('TextFont', PTBTheWindowPtr, 'Courier');
@@ -40,4 +40,4 @@ global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Lines', '\t', trigger, key_condition);
+PTBPresentStimulus(duration, 'Lines', '\t', trigger,  trigger_delay, key_condition);

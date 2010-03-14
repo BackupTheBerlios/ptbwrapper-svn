@@ -12,7 +12,7 @@
 % Date: 2/3/10
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function PTBSendTrigger(value)
+function PTBSendTrigger(value, trigger_delay)
 
 % Check
 global PTBUSBBoxInitialized;
@@ -24,10 +24,19 @@ end
 % Send the trigger
 global PTBUSBBoxDeviceID;
 global PTBTriggerLength;
+
+% Sometimes need to delay, because it gets there before the screen
+pause(trigger_delay);
+
+% Send the trigger
+trig_time = GetSecs;
 PsychHID('SetReport', PTBUSBBoxDeviceID, 2, hex2dec('32'), uint8(zeros(1,2)+value));
 pause(PTBTriggerLength);
 PsychHID('SetReport', PTBUSBBoxDeviceID, 2, hex2dec('32'), uint8(zeros(1,2)));
 
+
 % Want to record
-global PTBLogAppend;
-PTBLogAppend{end+1} = num2str(value);
+global PTBLogFileID;
+PTBWriteLog(PTBLogFileID, 'TRIGGER', 'USBBox', num2str(value), trig_time);	
+
+    

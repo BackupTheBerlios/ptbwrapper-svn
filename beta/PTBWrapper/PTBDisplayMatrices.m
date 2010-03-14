@@ -24,7 +24,7 @@
 function PTBDisplayMatrices(matrices, positions, duration, tag, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
+[trigger trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % Place each matrix
 global PTBTheWindowPtr;
@@ -50,8 +50,8 @@ for i = 1:length(matrices)
 			error('Unknown position. Exiting...');
 		end
 	else
-		pos = [positions{i}(1) - size(matrices{i},1)/2 positions{i}(2) - size(matrices{i},2)/2 ...
-			positions{i}(1) + size(matrices{i},1)/2 positions{i}(2) + size(matrices{i},2)/2];
+		pos = [positions{i}(1) - size(matrices{i},2)/2 positions{i}(2) - size(matrices{i},1)/2 ...
+			positions{i}(1) + size(matrices{i},2)/2 positions{i}(2) + size(matrices{i},1)/2];
 	end
 	
 	% And draw to the buffer
@@ -71,4 +71,4 @@ global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Matrix', tag, trigger, key_condition);
+PTBPresentStimulus(duration, 'Matrix', tag, trigger,  trigger_delay, key_condition);

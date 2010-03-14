@@ -19,7 +19,7 @@
 function PTBPlaySoundFile(soundfile, duration, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition] = PTBParseDisplayArguments(duration, varargin);
+[trigger  trigger_delay key_condition] = PTBParseDisplayArguments(duration, varargin);
 
 % Perform basic initialization of the sound driver, to be sure
 PTBInitSound(1);
@@ -50,4 +50,4 @@ global PTBAudioStimulus;
 PTBAudioStimulus = 1;
 
 % And go...
-PTBPresentStimulus(duration, 'Soundfile', soundfile, trigger, key_condition);
+PTBPresentStimulus(duration, 'Soundfile', soundfile, trigger,  trigger_delay, key_condition);

@@ -21,7 +21,7 @@
 function PTBDisplayText(text, position, duration, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
+[trigger  trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % Need the current window size for centering
 global PTBScreenRes;
@@ -69,4 +69,4 @@ global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Text', text, trigger, key_condition);
+PTBPresentStimulus(duration, 'Text', text, trigger,  trigger_delay, key_condition);

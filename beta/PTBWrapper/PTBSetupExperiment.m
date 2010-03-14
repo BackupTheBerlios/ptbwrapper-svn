@@ -148,7 +148,9 @@ end
 
 % Make sure we don't error
 global PTBUSBBoxInitialized;
-PTBUSBBoxInitialized = 0;
+if isempty(PTBUSBBoxInitialized)
+    PTBUSBBoxInitialized = 0;
+end
 
 % This is how long the start screen is on for.
 startScreenTime = 1;

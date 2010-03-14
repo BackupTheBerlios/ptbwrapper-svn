@@ -41,7 +41,7 @@ if ~isempty(Screen('Windows'))
 	PTBVisualStimulus = 1;
 	PTBAudioStimulus = 0;
 	PTBSetLogAppend(0,'clear',{});
-	PTBPresentStimulus({0},'Cleanup', '',[],'');
+	PTBPresentStimulus({0},'Cleanup', '',[],[],'');
 end
 
 % Restore preferences

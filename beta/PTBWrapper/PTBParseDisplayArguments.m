@@ -14,22 +14,33 @@
 % Date: 3/2/10
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function [trigger key_condition wPtr] = PTBParseDisplayArguments(duration, args)
+function [trigger trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, args)
 
 % Default if none
 trigger = [];
+trigger_delay = [];
 key_condition = '';
 
 % Parse any we have
 for i = 1:length(args)
-	
-	% Take all numbers to be triggers
-	if isnumeric(args{i})
-		trigger = args{i};
-	
-	% Take all strings to be key conditions
-	elseif ischar(args{i})
-		key_condition = args{i};
+	if ~isempty(args{i})
+
+		% Take all numbers to be triggers
+		if isnumeric(args{i})
+			trigger = args{i};
+
+			% Second argument could be a delay
+			trigger_delay = 0;
+			if length(args) > i
+				if isnumeric(args{i+1})
+					trigger_delay = args{i+1};
+					args{1+1} = '';
+				end				
+			end
+		% Take all strings to be key conditions
+		elseif ischar(args{i})
+			key_condition = args{i};
+		end
 	end
 end
 
