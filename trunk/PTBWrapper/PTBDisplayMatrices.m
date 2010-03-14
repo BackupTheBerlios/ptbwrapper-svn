@@ -24,7 +24,7 @@
 function PTBDisplayMatrices(matrices, positions, duration, tag, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
+[trigger trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % Place each matrix
 global PTBTheWindowPtr;
@@ -71,4 +71,4 @@ global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Matrix', tag, trigger, key_condition);
+PTBPresentStimulus(duration, 'Matrix', tag, trigger,  trigger_delay, key_condition);

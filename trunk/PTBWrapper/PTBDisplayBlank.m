@@ -16,7 +16,7 @@
 function PTBDisplayBlank(duration, tag, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
+[trigger trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % Clear it
 global PTBBackgroundColor;
@@ -28,4 +28,4 @@ PTBVisualStimulus = 1;
 
 % TODO: Maybe provide color option.
 % TODO: Check to see if back buffer is actually empty.
-PTBPresentStimulus(duration, 'Blank', tag, trigger, key_condition);
+PTBPresentStimulus(duration, 'Blank', tag, trigger, trigger_delay, key_condition);

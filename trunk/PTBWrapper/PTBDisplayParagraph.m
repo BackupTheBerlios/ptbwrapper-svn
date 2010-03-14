@@ -20,7 +20,7 @@
 function PTBDisplayParagraph(lines, positions, duration, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
+[trigger  trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % Need the current window
 global PTBScreenRes;
@@ -83,4 +83,4 @@ global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Paragraph', lines{i}, trigger, key_condition);
+PTBPresentStimulus(duration, 'Paragraph', lines{i}, trigger,  trigger_delay, key_condition);

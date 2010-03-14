@@ -24,15 +24,8 @@
 % TODO: Error checking.
 function PTBDisplayPictures(pictures, positions, scales, duration, tag, varargin)
 
-% TODO: Figure out best way to pass through varargin.
-% Right now, it becomes wrapped in too many {}s
-if length(varargin) > 1
-    error('Too many varargs for now. Exiting...');
-end
-arg = '';
-if ~isempty(varargin) > 0
-    arg = varargin{1};
-end
+% Parse any optional arguments and get the correct window
+[trigger trigger_delay key_condition] = PTBParseDisplayArguments(duration, varargin);
 
 % TODO: Allow setting of size, orientation, position, etc.
 
@@ -56,5 +49,5 @@ for i = 1:length(pictures)
 end
 
 % Lean on the matrices routine
-PTBDisplayMatrices(imdata, positions, duration, tag, arg);
+PTBDisplayMatrices(imdata, positions, duration, tag, trigger, trigger_delay, key_condition);
 

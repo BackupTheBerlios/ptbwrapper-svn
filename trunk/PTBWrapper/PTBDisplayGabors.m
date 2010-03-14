@@ -21,7 +21,7 @@
 function PTBDisplayGabors(sizes, positions, tilts, duration, tag, varargin)
 
 % Parse any optional arguments and get the correct window
-[trigger key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
+[trigger trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
 
 % TODO: Look into settings for gabors
 res = 1*[323 323];
@@ -61,5 +61,5 @@ global PTBVisualStimulus;
 PTBVisualStimulus = 1;
 
 % And, ready to go
-PTBPresentStimulus(duration, 'Gabor', tag, trigger, key_condition);
+PTBPresentStimulus(duration, 'Gabor', tag, trigger,  trigger_delay, key_condition);
 

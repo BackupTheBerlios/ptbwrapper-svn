@@ -20,7 +20,7 @@
 
 % TODO: Take variable args and parse.
 % TODO: Error checking.
-function PTBPresentStimulus(duration, type, tag, trigger, key_condition)
+function PTBPresentStimulus(duration, type, tag, trigger, trigger_delay, key_condition)
 
 % Wait until we want to display
 global PTBTheWindowPtr;
@@ -62,8 +62,9 @@ if ~isempty(key_condition)
 			PTBKeyQueue{i}{4} = type;
 			PTBKeyQueue{i}{5} = tag;
 			PTBKeyQueue{i}{6} = trigger;
-			PTBKeyQueue{i}{7} = PTBVisualStimulus;
-			PTBKeyQueue{i}{8} = PTBAudioStimulus;
+			PTBKeyQueue{i}{7} = trigger_delay;
+			PTBKeyQueue{i}{8} = PTBVisualStimulus;
+			PTBKeyQueue{i}{9} = PTBAudioStimulus;
 			
 			break;
 		end
@@ -97,7 +98,7 @@ if PTBWaitingForKey
 				% First, keep the current screen
 				ptr = PTBCreateScreen(PTBTheScreenNumber,0);
 				Screen('CopyWindow',PTBTheWindowPtr,ptr);
-				tmpScreen = {ptr, duration, type, tag, trigger, PTBVisualStimulus, PTBAudioStimulus};			
+				tmpScreen = {ptr, duration, type, tag, trigger, trigger_delay, PTBVisualStimulus, PTBAudioStimulus};			
 
 				% Now, copy the queued display to show and the parameters
 				Screen('CopyWindow',PTBKeyQueue{i}{2},PTBTheWindowPtr);
@@ -105,8 +106,9 @@ if PTBWaitingForKey
 				type = PTBKeyQueue{i}{4};
 				tag = PTBKeyQueue{i}{5};
 				trigger = PTBKeyQueue{i}{6};
-				PTBVisualStimulus = PTBKeyQueue{i}{7};
-				PTBAudioStimulus = PTBKeyQueue{i}{8};
+				trigger_delay = PTBKeyQueue{i}{7};
+				PTBVisualStimulus = PTBKeyQueue{i}{8};
+				PTBAudioStimulus = PTBKeyQueue{i}{9};
 	
 				% And done with the old one
 				Screen('Close',PTBKeyQueue{i}{2});
@@ -181,8 +183,9 @@ if ~isempty(PTBEventQueue)
 			type = PTBEventQueue{i}{3};
 			tag = PTBEventQueue{i}{4};
 			trigger = PTBEventQueue{i}{5};
-			PTBVisualStimulus = PTBEventQueue{i}{6};
-			PTBAudioStimulus = PTBEventQueue{i}{7};
+			trigger_delay = PTBEventQueue{i}{6};
+			PTBVisualStimulus = PTBEventQueue{i}{7};
+			PTBAudioStimulus = PTBEventQueue{i}{8};
 			
 			% Close the window down
 			Screen('Close',PTBEventQueue{i}{1});
@@ -200,7 +203,7 @@ if ~isempty(PTBEventQueue)
 	end
 
 	% Recursively call (Shouldn't cause too much problems...)
-	PTBPresentStimulus(duration, type, tag, trigger, '')
+	PTBPresentStimulus(duration, type, tag, trigger, trigger_delay, '')
 end
 
 
