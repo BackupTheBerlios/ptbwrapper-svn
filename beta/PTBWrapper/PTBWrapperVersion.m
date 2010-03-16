@@ -61,6 +61,24 @@ PTBWrapper.major = str2num(version(1:delim(1)-1));
 PTBWrapper.minor = str2num(version(delim(1)+1:delim(2)-1));
 PTBWrapper.point = str2num(version(delim(2)+1:end));
 PTBWrapper.date = [num2str(day) ' ' month{1} ' ' num2str(year)];
+
+% Get past versions
+line = fgetl(fid);
+line = fgetl(fid);
+PTBWrapper.past_versions = {};
+if isempty(findstr('Past versions:', line))
+	error('Bad contents file. Exiting...');
+end
+while 1
+	line = fgetl(fid);
+	[perc line] = strtok(line);
+	[v line] = strtok(line);
+	if isempty(v) || ~isnumeric(str2num(v))
+		break;
+	end
+	PTBWrapper.past_versions{end+1} = strtok(v);
+end
+
 fclose(fid);
 return;
 

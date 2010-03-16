@@ -78,8 +78,33 @@ end
 
 % Might have errored
 if value < 0	
-	error(['Version is no good. Need ' mode ' ' num2str(version(1)) '.' ...
+	
+	% Show that we errored
+	disp(' ');
+	disp(['Version is no good. Need ' mode ' ' num2str(version(1)) '.' ...
 		num2str(version(2)) '.' num2str(version(3)) '. Found ' num2str(info.major) '.' ...
-		num2str(info.minor) '.' num2str(info.point) '. Try running UpdatePTBWrapper.']);
+		num2str(info.minor) '.' num2str(info.point) '.']);
+	disp(' ');
+	
+	% Give a (hopefully) useful message
+	
+	if strcmpi(mode, 'at least') || strcmpi(mode, 'more than')
+		disp('Try running the command UpdatePTBWrapper.');
+	elseif strcmpi(mode, 'exactly') || strcmpi(mode, 'no more than')
+		disp(['Try running the command UpdatePTBWrapper([], ' num2str(version(1)) '.' ...
+		num2str(version(2)) '.' num2str(version(3)) ').']);
+	else
+		disp('Try running the command UpdatePTBWrapper([], VERSION).');
+		disp(' ');
+		d_str = 'Where VERSION is one of the following: ';
+		for i = 1:length(info.past_versions)
+			d_str = [d_str '; ' info.past_versions{i}];
+		end
+		disp(d_str);
+	end
+	disp(' ');
+	
+	% Error us out
+	error('Bad version.');
 end
 
