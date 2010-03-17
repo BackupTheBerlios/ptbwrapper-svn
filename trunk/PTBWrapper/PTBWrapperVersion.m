@@ -76,7 +76,9 @@ while 1
 	if isempty(v) || ~isnumeric(str2num(v))
 		break;
 	end
-	PTBWrapper.past_versions{end+1} = strtok(v);
+	PTBWrapper.past_versions{end+1} = {};
+	PTBWrapper.past_versions{end}{1} = strtok(v);
+	PTBWrapper.past_versions{end}{2} = strtok(line);
 end
 
 fclose(fid);
