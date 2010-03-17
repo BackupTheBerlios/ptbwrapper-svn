@@ -126,7 +126,7 @@ if value < 0
 
 		% If so, print out a message
 		if is_good
-			disp(['Try running the command UpdatePTBWrapper([], ' info.past_versions{i}{2} ').']);
+			disp(['Try running the command: UpdatePTBWrapper([], ''' info.past_versions{i}{2} ''').']);
 			disp(' ');
 			error('Bad version');
 		end
