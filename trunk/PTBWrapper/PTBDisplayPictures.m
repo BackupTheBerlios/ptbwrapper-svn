@@ -35,7 +35,18 @@ function PTBDisplayPictures(pictures, positions, scales, duration, tag, varargin
 % TODO: Can also explicitly add format to this function, if needed.
 imdata = {};
 for i = 1:length(pictures)
-	imdata{i} = imread(pictures{i});
+	
+	% Load the data
+	[data map alpha] = imread(pictures{i});
+
+	% Add the alpha if necessary
+	if isempty(alpha)
+		imdata{i} = data;
+	else
+		imdata{i} = zeros(size(data,1),size(data,2),4);
+		imdata{i}(:,:,1:3) = data;
+		imdata{i}(:,:,4) = alpha;
+	end
 	
 	% Might not have it (it's in a toolbox)
 	if length(scales{i}) ~= 1 || scales{i} ~= 1
