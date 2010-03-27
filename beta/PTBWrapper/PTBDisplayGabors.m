@@ -10,7 +10,7 @@
 %   - tag: A label to print out with the picture.
 %	- trigger: A trigger to send (optional)
 %
-% Usage: PTBDisplayGabors({[50 50]}, {'center'}, {.3}, 'Gabor')
+% Usage: PTBDisplayGabors({[50 50]}, {'center'}, [45 -45], [200 200], {.3}, 'Gabor')
 %
 % Author: Doug Bemis
 % Date: 3/13/10
@@ -18,7 +18,7 @@
 
 % TODO: Take variable args and parse.
 % TODO: Error checking.
-function PTBDisplayGabors(sizes, positions, tilts, duration, tag, varargin)
+function PTBDisplayGabors(sizes, positions, tilts, contrasts, duration, tag, varargin)
 
 % Parse any optional arguments and get the correct window
 [trigger trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
@@ -28,7 +28,6 @@ res = 1*[323 323];
 phase = 0;
 sc = 50.0;
 freq = .1;
-contrast = 100.0;
 aspectratio = 1.0;
 tw = res(1);
 th = res(2);
@@ -52,7 +51,7 @@ for i = 1:length(sizes)
 	% Draw the gabor once, just to make sure the gfx-hardware is ready for the
 	% benchmark run below and doesn't do one time setup work inside the
 	% benchmark loop: See below for explanation of parameters...
-	Screen('DrawTexture', wPtr, gabortex, [], pos, 90+tilts(i), [], [], [], [], kPsychDontDoRotation, [phase+180, freq, sc, contrast, aspectratio, 0, 0, 0]);
+	Screen('DrawTexture', wPtr, gabortex, [], pos, 90+tilts(i), [], [], [], [], kPsychDontDoRotation, [phase+180, freq, sc, contrasts(i), aspectratio, 0, 0, 0]);
 end
 
 
