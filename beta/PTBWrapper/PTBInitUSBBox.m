@@ -22,9 +22,16 @@ results = find(devices_id == 6588);
 if isempty(results)
 	PTBUSBBoxDeviceID = -1;
 	PTBUSBBoxInitialized = 0;
+	
+	% Show to the console
     disp('WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!');
 	disp('BBox not found. No triggers will be sent.');
     disp('WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!');
+
+	% And to the screen
+	PTBDisplayParagraph({'WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!',...
+		'BBox not found. No triggers will be sent.','WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!'},{'center',30},{'any'})	
+	PTBDisplayBlank({.1},'Trigger warning');
 	return;
 end;
 

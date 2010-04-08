@@ -5,11 +5,12 @@
 %
 % Args:
 %	- lines: The lines to display.
-%	- positions: Their positions
+%	- positions: Their positions, the second argument is
+%		the line spacing.
 %	- duration: How long to display for.
 %	- trigger: A trigger to send (optional)
 %
-% Usage: PTBDisplayParagraph({'Hello.','line 2'},'center',{.3})
+% Usage: PTBDisplayParagraph({'Hello.','line 2'},{'center',30},{.3})
 %
 % Author: Doug Bemis
 % Date: 7/5/09

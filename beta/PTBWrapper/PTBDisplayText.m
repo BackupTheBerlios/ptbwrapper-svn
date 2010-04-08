@@ -5,6 +5,7 @@
 % Args:
 %	- text: The text to display.
 %	- position: Either 'center' to center the text or [x y].
+%		- Center can also be followed by a [x_offset y_offset] pair
 %	- duration: How long to show the the text.
 %
 % NOTE: Position is the top of the text.

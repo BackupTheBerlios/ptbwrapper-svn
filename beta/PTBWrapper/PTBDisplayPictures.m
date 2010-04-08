@@ -14,7 +14,7 @@
 %   - tag: A label to print out with the picture.
 %	- trigger: A trigger to send (optional)
 %
-% Usage: PTBDisplayPictures({'Test.jpg'}, {'center'}, {.3})
+% Usage: PTBDisplayPictures({'Test.jpg'}, {'center'}, {1}, {.3},'Stim')
 %
 % Author: Doug Bemis
 % Date: 7/4/09

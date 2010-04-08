@@ -21,6 +21,10 @@ kbs = GetKeyboardIndices;
 if device_num > length(kbs)
 	disp('WARNING: Fewer inputs than expected. Defaulting...');
 	value = kbs(1);
+
+% Allow special arguments
+elseif device_num < 0
+    value = device_num;
 else
 	value = kbs(device_num);
 end

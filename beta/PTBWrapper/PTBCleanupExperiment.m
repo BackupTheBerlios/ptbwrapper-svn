@@ -30,18 +30,21 @@ global PTBVisualStimulus;
 global PTBAudioStimulus;
 global PTBEventQueue;
 global PTBKeyQueue;
+global PTBWaitingForKey;
 if ~isempty(Screen('Windows'))
 	
 	% And clear
 	PTBEventQueue = {};
 	PTBKeyQueue = {};
+    KbQueueRelease;
 	if PTBNextPresentationTime - GetSecs > 1000
 		PTBNextPresentationTime = 0;
 	end
 	PTBVisualStimulus = 1;
 	PTBAudioStimulus = 0;
 	PTBSetLogAppend(0,'clear',{});
-	PTBPresentStimulus({0},'Cleanup', '',[],[],'');
+    PTBWaitingForKey = 0;
+    PTBPresentStimulus({0},'Cleanup', '',[],[],'');
 end
 
 % Restore preferences

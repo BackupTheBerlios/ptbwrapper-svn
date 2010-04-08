@@ -53,8 +53,7 @@
 %	- PTBAddedResponseTime: Used internally when time out is disabled.
 %	- PTBKeyQueue: A list of screens to show depending on a key press outcome.
 %	- PTBTheScreenNumber: The screen number we're displaying to.
-%	- PTBDisableKbQueue: 1 if queue needs to be disabled.
-%		* This is always disabled in windows.
+%	- PTBInputCollection: How the input is collected. See PTBSetInputCollection
 %
 % Author: Doug Bemis
 % Date: 7/3/09
@@ -163,13 +162,13 @@ AssertOpenGL;
 global PTBCurrComputerSpecs;
 PTBCurrComputerSpecs = Screen('Computer');
 
-% Set the queue. Only works in mac for now.
-global PTBDisableKbQueue;
-if isempty(PTBDisableKbQueue) 
+% Set the input collection. Default as high as possible.
+global PTBInputCollection;
+if isempty(PTBInputCollection) 
 	if PTBCurrComputerSpecs.osx
-		PTBDisableKbQueue = 0;
+		PTBInputCollection = 'Queue';
 	else
-		PTBDisableKbQueue = 1;
+		PTBInputCollection = 'Check';
 	end
 end
 
