@@ -5,9 +5,10 @@
 %
 % Args:
 %	- duration: The length to display
+%	- tag: The label to put in the log file.
 %	- trigger: A trigger to send (optional)
 %
-% Usage: PTBDisplayBlank({.3})
+% Usage: PTBDisplayBlank({.3},'ITI')
 %
 % Author: Doug Bemis
 % Date: 7/4/09

@@ -26,7 +26,7 @@ global PTBExitKey;
 global PTBInputDevice;
 global PTBKeyTag;
 global PTBKeyType;
-global PTBDisableKbQueue;
+global PTBInputCollection;
 
 % Make sure we can parse
 if ~iscell(duration)
@@ -92,7 +92,7 @@ if sum(PTBKeysOfInterest) > 0
 	
     % Queue functions only work for mac and then, 
 	% only sometimes
-    if ~PTBDisableKbQueue
+    if strcmp(PTBInputCollection, 'Queue')
 
         % TODO: Figure out deviceNumbers.
         % NOTE: Do NOT call KbQueueRelease, unless 
@@ -108,13 +108,21 @@ if sum(PTBKeysOfInterest) > 0
 
         % Start up the queue and keep going.
         KbQueueStart;	
-	else
+		
+	% Otherwise, wait for the input to clear
+	elseif strcmp(PTBInputCollection, 'Check')
 
 		% Wait for all keys to be released, if we're not
 		% holding over
 		if ~PTBDisableTimeOut
 			KbWait(PTBInputDevice,1);
-	  end
+		end
+		
+	% Or, simply clear
+	else
+		if ~PTBDisableTimeOut
+			FlushEvents('KeyDown');
+		end
 	end
 	
 	% Mark that we're waiting

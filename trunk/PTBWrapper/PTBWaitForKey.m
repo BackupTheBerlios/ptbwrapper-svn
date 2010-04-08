@@ -24,7 +24,7 @@ global PTBAddedResponseTime;
 global PTBKeysOfInterest;
 global PTBKeyTag;
 global PTBKeyType;
-global PTBDisableKbQueue;
+global PTBInputCollection;
 global PTBInputDevice;
 
 % For now, just waiting for any key.
@@ -33,13 +33,13 @@ pressed = 0;
 while pressed == 0
 
     % Use the good stuff for mac...
-    if ~PTBDisableKbQueue
+    if strcmp(PTBInputCollection, 'Queue')
 
         % Grab the key, and record
         [pressed, firstPress] = KbQueueCheck;
         
      % ...otherwise, the bad stuff
-    else
+	elseif strcmp(PTBInputCollection, 'Check')
         
         % Check the current input device
     	[keyIsDown, timeSecs, keyCode] = KbCheck(PTBInputDevice);
@@ -47,7 +47,31 @@ while pressed == 0
         % See if we got one we wanted
         if keyIsDown && (sum(PTBKeysOfInterest & keyCode) > 0)
             pressed = 1;
-        end
+		end
+		
+	% ...or the really bad stuff
+	elseif strcmp(PTBInputCollection, 'Char')
+
+		% Check for a character
+		while CharAvail
+			
+			% See if we wanted it
+			[ch when] = GetChar;
+			
+			% TODO: Fix errors from control keys
+			try
+				if PTBKeysOfInterest(KbName(ch)) > 0
+					pressed = 1;
+
+					% NOTE: The 'when' is really bad, so, just
+					% do was well as we can.
+					char_press_time = GetSecs;
+					break;
+				end
+			catch
+				% Just keep going for now...
+			end
+		end
     end
     
     % See if we've timed out
@@ -67,9 +91,9 @@ end
 global PTBDataFileID;
 if pressed > 0
 
- 
     % Handle queue responses
-    if ~PTBDisableKbQueue
+	% Need to set PTBLastKeyPressTime and PTBLastKeyPress
+    if strcmp(PTBInputCollection, 'Queue')
 
         % Find the first key press
         % TODO: There's probably a better way to do this.
@@ -82,9 +106,10 @@ if pressed > 0
 
         % Just stop listening for now
         KbQueueStop;
+        KbQueueRelease;
        
     % Or Windows responses
-    else
+	elseif strcmp(PTBInputCollection, 'Check')
         
         % Get the pressed key
         % TODO: This will wrongly record if two
@@ -95,6 +120,13 @@ if pressed > 0
         % Record the time and press
         PTBLastKeyPressTime = timeSecs;
         PTBLastKeyPress = KbName(firstKey);
+		
+	elseif strcmp(PTBInputCollection, 'Char')
+
+		% Record the time and press
+		firstKey = KbName(ch);
+        PTBLastKeyPressTime = char_press_time;
+        PTBLastKeyPress = ch;
     end
 
 	% Get response time
@@ -127,8 +159,9 @@ else
 		PTBWriteLog(PTBDataFileID, 'TIMEOUT','', '', timeOutCheck, PTBKeyType, PTBKeyTag);
 
 		% Just stop listening for now
-        if ~PTBDisableKbQueue
+        if strcmp(PTBInputCollection, 'Queue')
         	KbQueueStop;
+            KbQueueRelease;
 		end
         		
 		% And clear
