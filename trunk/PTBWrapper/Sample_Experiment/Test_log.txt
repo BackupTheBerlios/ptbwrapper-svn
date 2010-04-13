@@ -8412,3 +8412,13 @@ STIM	Text	+	6.0704	practice	left	3	Pictures/pic_Joe_mask.png	Pictures/pic_Grad2_
 STIM	Matrix	faces	6.5557	practice	left	3	Pictures/pic_Joe_mask.png	Pictures/pic_Grad2_front.png	decision	-45	45
 STIM	Gabor	Decision	6.8067	practice	left	3	Pictures/pic_Joe_mask.png	Pictures/pic_Grad2_front.png	decision	-45	45
 STIM	Cleanup		6.8904
+
+----------------------------------------------------------------------------
+Started at: 12-Apr-2010 22:30:23
+
+START	80122.8589		0
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	0.17844
+STIM	Blank	Trigger warning	1.2164
+STIM	Blank		1.3003
+STIM	Paragraph	Press any key to begin.	2.2879
+STIM	Cleanup		3.2756
