@@ -6,6 +6,7 @@
 % Args:
 %	- positions: Where to put the lines
 %	- size: The width of the lines
+%	- color: The color of the lines
 %	- duration: How long to show the the text.
 %	- trigger: A trigger to send (optional)
 %
