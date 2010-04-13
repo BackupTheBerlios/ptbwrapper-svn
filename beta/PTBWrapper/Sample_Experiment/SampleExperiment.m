@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% File: Sample.m
+% File: SampleExperiment.m
 %
 % A sample face presentation script. This will present pairs of faces and masks, alternating
 % sides. Occasionally, two gabors will follow. It's setup to have the subject press '2' if 
@@ -16,13 +16,13 @@
 %
 % NOTE: This will recreate the stimulus lists every time.
 %
-% Usage: Sample('Subj_Label')
+% Usage: SampleExperiment('Subj_Label')
 %
 % Author: Doug Bemis
 % Date: 4/12/10
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function Sample(subject, is_outside)
+function SampleExperiment(subject, is_outside)
 
 % Parse the arguments
 if nargin < 2
@@ -139,7 +139,7 @@ PTBSetBackgroundColor([127 127 127]);
 
 % NOTE: Might need this, if you run from the
 % debugger (i.e. Fn+F5)
-Screen('Preference', 'SkipSyncTests', 1);
+%Screen('Preference', 'SkipSyncTests', 1);
 
 % These are for picture and gabor placements.
 global PTBScreenRes;

@@ -350,3 +350,10 @@ START	79279.826		0
 KEY	Return	1.0342	1.2113	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
 KEY	a	0.65216	2.9554	Paragraph	Press any key to begin.
 KEY	ESCAPE	0.052517	6.8593	Gabor	Decision	practice	left	3	Pictures/pic_Joe_mask.png	Pictures/pic_Grad2_front.png	decision	-45	45
+
+----------------------------------------------------------------------------
+Started at: 12-Apr-2010 22:30:23
+
+START	80122.8589		0
+KEY	Return	1.0117	1.1902	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+KEY	ESCAPE	0.95825	3.2462	Paragraph	Press any key to begin.
