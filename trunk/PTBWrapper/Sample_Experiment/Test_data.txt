@@ -1,0 +1,352 @@
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:19:53
+
+START	67916.0558		0
+KEY	a	1.4009	2.6643	Paragraph	Please lie still as we start the recording.
+KEY	a	1.3471	4.0314	Paragraph	Press any key to begin.
+KEY	a	0.83938	4.8946	Paragraph	Press any key to begin.
+TIMEOUT			6.2286	Matrix	faces	experiment	away	1	Pictures/pic_Marika_left.png	Pictures/pic_Zoe_right.png	no_decision	-1	-1
+TIMEOUT			7.5461	Matrix	faces	experiment	facing	1	Pictures/pic_Marika_right.png	Pictures/pic_Monica_left.png	no_decision	-1	-1
+TIMEOUT			9.0667	Matrix	faces	experiment	forward	1	Pictures/pic_Tina_front.png	Pictures/pic_Grad2_front.png	no_decision	-1	-1
+TIMEOUT			10.6222	Matrix	faces	experiment	one	1	Pictures/pic_Ed_front.png	Pictures/pic_Joe_mask.png	no_decision	-1	-1
+TIMEOUT			12.1934	Matrix	faces	experiment	one	2	Pictures/pic_Doug_mask.png	Pictures/pic_Marika_front.png	no_decision	-1	-1
+TIMEOUT			13.8496	Matrix	faces	experiment	facing	2	Pictures/pic_Tina_right.png	Pictures/pic_Joe_left.png	no_decision	-1	-1
+TIMEOUT			15.4365	Matrix	faces	experiment	forward	2	Pictures/pic_Doug_front.png	Pictures/pic_Monica_front.png	no_decision	-1	-1
+TIMEOUT			16.991	Matrix	faces	experiment	away	2	Pictures/pic_Shaul_left.png	Pictures/pic_Prof_right.png	no_decision	-1	-1
+TIMEOUT			18.5305	Matrix	faces	experiment	one	3	Pictures/pic_Joe_front.png	Pictures/pic_Ed_mask.png	no_decision	-1	-1
+TIMEOUT			20.034	Matrix	faces	experiment	forward	3	Pictures/pic_Tina_front.png	Pictures/pic_Marika_front.png	no_decision	-1	-1
+TIMEOUT			21.3898	Matrix	faces	experiment	away	3	Pictures/pic_Grad1_left.png	Pictures/pic_Zoe_right.png	no_decision	-1	-1
+TIMEOUT			22.9593	Matrix	faces	experiment	facing	3	Pictures/pic_Grad1_right.png	Pictures/pic_Shaul_left.png	no_decision	-1	-1
+TIMEOUT			24.3821	Matrix	faces	experiment	away	4	Pictures/pic_Doug_left.png	Pictures/pic_Zoe_right.png	no_decision	-1	-1
+TIMEOUT			25.8512	Matrix	faces	experiment	one	4	Pictures/pic_Zoe_mask.png	Pictures/pic_Grad2_front.png	no_decision	-1	-1
+TIMEOUT			27.2388	Matrix	faces	experiment	facing	4	Pictures/pic_Zoe_right.png	Pictures/pic_Grad1_left.png	no_decision	-1	-1
+TIMEOUT			28.6953	Matrix	faces	experiment	forward	4	Pictures/pic_Joe_front.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+TIMEOUT			30.0811	Matrix	faces	experiment	one	5	Pictures/pic_Prof_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+TIMEOUT			31.7363	Matrix	faces	experiment	facing	5	Pictures/pic_Monica_right.png	Pictures/pic_Shaul_left.png	no_decision	-1	-1
+TIMEOUT			33.225	Matrix	faces	experiment	away	5	Pictures/pic_Prof_left.png	Pictures/pic_Zoe_right.png	no_decision	-1	-1
+TIMEOUT			34.663	Matrix	faces	experiment	forward	5	Pictures/pic_Ed_front.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+TIMEOUT			35.9841	Matrix	faces	experiment	one	6	Pictures/pic_Grad1_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+TIMEOUT			37.5055	Matrix	faces	experiment	forward	6	Pictures/pic_Joe_front.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+TIMEOUT			38.8075	Matrix	faces	experiment	away	6	Pictures/pic_Shaul_left.png	Pictures/pic_Grad2_right.png	no_decision	-1	-1
+TIMEOUT			40.3454	Matrix	faces	experiment	facing	6	Pictures/pic_Zoe_right.png	Pictures/pic_Grad2_left.png	no_decision	-1	-1
+TIMEOUT			41.7664	Matrix	faces	experiment	one	7	Pictures/pic_Veronica_front.png	Pictures/pic_Zoe_mask.png	no_decision	-1	-1
+KEY	ESCAPE	0.091999	42.929	Matrix	faces	experiment	forward	7	Pictures/pic_Grad1_front.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+TIMEOUT			42.9566	Matrix	faces
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:20:54
+
+START	67977.3529		0
+KEY	a	32.5799	33.8328	Paragraph	Please lie still as we start the recording.
+KEY	a	0.72463	34.5769	Paragraph	Press any key to begin.
+KEY	a	0.53412	35.1219	Paragraph	Press any key to begin.
+TIMEOUT			36.2943	Matrix	faces	experiment	one	1	Pictures/pic_Grad1_mask.png	Pictures/pic_Monica_front.png	no_decision	-1	-1
+TIMEOUT			37.8474	Matrix	faces	experiment	forward	1	Pictures/pic_Shaul_front.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+TIMEOUT			39.4708	Matrix	faces	experiment	away	1	Pictures/pic_Monica_left.png	Pictures/pic_Prof_right.png	no_decision	-1	-1
+TIMEOUT			40.7729	Matrix	faces	experiment	facing	1	Pictures/pic_Doug_right.png	Pictures/pic_Prof_left.png	no_decision	-1	-1
+TIMEOUT			42.1115	Matrix	faces	experiment	forward	2	Pictures/pic_Joe_front.png	Pictures/pic_Ed_front.png	no_decision	-1	-1
+TIMEOUT			43.6317	Matrix	faces	experiment	facing	2	Pictures/pic_Marika_right.png	Pictures/pic_Joe_left.png	no_decision	-1	-1
+TIMEOUT			45.1204	Matrix	faces	experiment	away	2	Pictures/pic_Marika_left.png	Pictures/pic_Ed_right.png	no_decision	-1	-1
+TIMEOUT			46.6926	Matrix	faces	experiment	one	2	Pictures/pic_Joe_front.png	Pictures/pic_Monica_mask.png	no_decision	-1	-1
+KEY	ESCAPE	0.085129	48.0971	Matrix	faces	experiment	facing	3	Pictures/pic_Marika_right.png	Pictures/pic_Ed_left.png	no_decision	-1	-1
+TIMEOUT			48.1171	Matrix	faces
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:23:22
+
+START	68125.068		0
+KEY	a	0.38867	1.6431	Paragraph	Please lie still as we start the recording.
+KEY	a	0.46493	2.1206	Paragraph	Press any key to begin.
+KEY	a	0.46255	2.603	Paragraph	Press any key to begin.
+TIMEOUT			3.9141	Matrix	faces	experiment	one	1	Pictures/pic_Tina_front.png	Pictures/pic_Shaul_mask.png	no_decision	-1	-1
+TIMEOUT			5.2829	Matrix	faces	experiment	forward	1	Pictures/pic_Zoe_front.png	Pictures/pic_Monica_front.png	no_decision	-1	-1
+TIMEOUT			6.9227	Matrix	faces	experiment	facing	1	Pictures/pic_Doug_right.png	Pictures/pic_Monica_left.png	no_decision	-1	-1
+TIMEOUT			8.0585	Matrix	faces	experiment	away	1	Pictures/pic_Marika_left.png	Pictures/pic_Zoe_right.png	no_decision	-1	-1
+TIMEOUT			9.2951	Matrix	faces	experiment	facing	2	Pictures/pic_Joe_right.png	Pictures/pic_Ed_left.png	no_decision	-1	-1
+TIMEOUT			10.6514	Matrix	faces	experiment	forward	2	Pictures/pic_Tina_front.png	Pictures/pic_Marika_front.png	no_decision	-1	-1
+TIMEOUT			11.8868	Matrix	faces	experiment	away	2	Pictures/pic_Grad2_left.png	Pictures/pic_Ed_right.png	no_decision	-1	-1
+TIMEOUT			13.3575	Matrix	faces	experiment	one	2	Pictures/pic_Joe_mask.png	Pictures/pic_Ed_front.png	no_decision	-1	-1
+TIMEOUT			14.8967	Matrix	faces	experiment	forward	3	Pictures/pic_Tina_front.png	Pictures/pic_Grad2_front.png	no_decision	-1	-1
+TIMEOUT			16.2675	Matrix	faces	experiment	facing	3	Pictures/pic_Ed_right.png	Pictures/pic_Grad1_left.png	no_decision	-1	-1
+TIMEOUT			17.4205	Matrix	faces	experiment	one	3	Pictures/pic_Grad1_front.png	Pictures/pic_Doug_mask.png	no_decision	-1	-1
+TIMEOUT			18.9417	Matrix	faces	experiment	away	3	Pictures/pic_Monica_left.png	Pictures/pic_Veronica_right.png	no_decision	-1	-1
+KEY	ESCAPE	0.12745	20.3229	Matrix	faces	experiment	facing	4	Pictures/pic_Shaul_right.png	Pictures/pic_Grad1_left.png	no_decision	-1	-1
+TIMEOUT			20.3421	Matrix	faces
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:26:30
+
+START	68313.0597		0
+KEY	a	1.094	2.3594	Paragraph	Please lie still as we start the recording.
+KEY	a	0.43813	2.8403	Paragraph	Press any key to begin.
+KEY	a	0.40979	3.28	Paragraph	Press any key to begin.
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:27:08
+
+START	68350.5409		0
+KEY	ESCAPE	36.5749	66.9954	Paragraph	Please lie still as we start the recording.
+TIMEOUT			67.0254	Paragraph	Please lie still as we start the recording.
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:28:36
+
+START	68439.0423		0
+KEY	a	11.0759	12.3424	Paragraph	Please lie still as we start the recording.
+KEY	LeftGUI	2.0955	14.4624	Paragraph	Press any key to begin.
+KEY	space	1.8995	16.3895	Paragraph	Press any key to begin.
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:29:37
+
+START	68500.1069		0
+KEY	a	0.49302	1.7339	Paragraph	Please lie still as we start the recording.
+KEY	a	1.1363	2.8954	Paragraph	Press any key to begin.
+KEY	space	1.3115	4.2241	Paragraph	Press any key to begin.
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:31:24
+
+START	68607.0863		0
+KEY	a	1.3166	2.5841	Paragraph	Please lie still as we start the recording.
+KEY	a	0.67272	3.2944	Paragraph	Press any key to begin.
+KEY	a	0.57259	3.8963	Paragraph	Press any key to begin.
+TIMEOUT			5.1127	Matrix	faces	experiment	facing	1	Pictures/pic_Tina_right.png	Pictures/pic_Ed_left.png	no_decision	-1	-1
+KEY	ESCAPE	0.081232	6.8321	Matrix	faces	experiment	one	1	Pictures/pic_Prof_front.png	Pictures/pic_Grad1_mask.png	no_decision	-1	-1
+TIMEOUT			6.8521	Matrix	faces
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:31:45
+
+START	68627.5489		0
+KEY	a	0.36413	1.6179	Paragraph	Please lie still as we start the recording.
+KEY	a	0.48977	2.128	Paragraph	Press any key to begin.
+KEY	a	0.59758	2.7374	Paragraph	Press any key to begin.
+TIMEOUT			3.9122	Matrix	faces	experiment	forward	1	Pictures/pic_Doug_front.png	Pictures/pic_Joe_front.png	no_decision	-1	-1
+TIMEOUT			5.2164	Matrix	faces	experiment	facing	1	Pictures/pic_Zoe_right.png	Pictures/pic_Joe_left.png	no_decision	-1	-1
+TIMEOUT			6.7719	Matrix	faces	experiment	one	1	Pictures/pic_Zoe_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+TIMEOUT			8.2431	Matrix	faces	experiment	away	1	Pictures/pic_Doug_left.png	Pictures/pic_Shaul_right.png	no_decision	-1	-1
+TIMEOUT			9.8977	Matrix	faces	experiment	facing	2	Pictures/pic_Grad2_right.png	Pictures/pic_Veronica_left.png	no_decision	-1	-1
+TIMEOUT			11.3022	Matrix	faces	experiment	forward	2	Pictures/pic_Grad2_front.png	Pictures/pic_Veronica_front.png	no_decision	-1	-1
+TIMEOUT			12.8724	Matrix	faces	experiment	away	2	Pictures/pic_Tina_left.png	Pictures/pic_Zoe_right.png	no_decision	-1	-1
+TIMEOUT			14.2112	Matrix	faces	experiment	one	2	Pictures/pic_Prof_front.png	Pictures/pic_Joe_mask.png	no_decision	-1	-1
+TIMEOUT			15.8327	Matrix	faces	experiment	forward	3	Pictures/pic_Zoe_front.png	Pictures/pic_Veronica_front.png	no_decision	-1	-1
+TIMEOUT			17.0872	Matrix	faces	experiment	one	3	Pictures/pic_Doug_mask.png	Pictures/pic_Veronica_front.png	no_decision	-1	-1
+TIMEOUT			18.5064	Matrix	faces	experiment	away	3	Pictures/pic_Joe_left.png	Pictures/pic_Monica_right.png	no_decision	-1	-1
+TIMEOUT			19.8438	Matrix	faces	experiment	facing	3	Pictures/pic_Monica_right.png	Pictures/pic_Shaul_left.png	no_decision	-1	-1
+KEY	ESCAPE	0.080285	21.1778	Matrix	faces	experiment	forward	4	Pictures/pic_Shaul_front.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+TIMEOUT			21.1978	Matrix	faces
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:32:40
+
+START	68683.1689		0
+KEY	a	0.77915	2.0323	Paragraph	Please lie still as we start the recording.
+KEY	a	0.5194	2.5749	Paragraph	Press any key to begin.
+KEY	a	0.64978	3.2403	Paragraph	Press any key to begin.
+TIMEOUT			4.4135	Matrix	faces	experiment	away	1	Pictures/pic_Marika_left.png	Pictures/pic_Grad2_right.png	no_decision	-1	-1
+TIMEOUT			5.6348	Matrix	faces	experiment	one	1	Pictures/pic_Monica_front.png	Pictures/pic_Doug_mask.png	no_decision	-1	-1
+TIMEOUT			7.2546	Matrix	faces	experiment	facing	1	Pictures/pic_Shaul_right.png	Pictures/pic_Marika_left.png	no_decision	-1	-1
+TIMEOUT			8.5755	Matrix	faces	experiment	forward	1	Pictures/pic_Grad2_front.png	Pictures/pic_Grad1_front.png	no_decision	-1	-1
+TIMEOUT			10.1314	Matrix	faces	experiment	one	2	Pictures/pic_Ed_mask.png	Pictures/pic_Monica_front.png	no_decision	-1	-1
+TIMEOUT			11.436	Matrix	faces	experiment	facing	2	Pictures/pic_Grad2_right.png	Pictures/pic_Monica_left.png	no_decision	-1	-1
+TIMEOUT			12.7392	Matrix	faces	experiment	forward	2	Pictures/pic_Tina_front.png	Pictures/pic_Veronica_front.png	no_decision	-1	-1
+TIMEOUT			14.0768	Matrix	faces	experiment	away	2	Pictures/pic_Zoe_left.png	Pictures/pic_Joe_right.png	no_decision	-1	-1
+TIMEOUT			15.4302	Matrix	faces	experiment	one	3	Pictures/pic_Doug_mask.png	Pictures/pic_Joe_front.png	no_decision	-1	-1
+TIMEOUT			16.7008	Matrix	faces	experiment	away	3	Pictures/pic_Ed_left.png	Pictures/pic_Shaul_right.png	no_decision	-1	-1
+TIMEOUT			18.3896	Matrix	faces	experiment	facing	3	Pictures/pic_Monica_right.png	Pictures/pic_Doug_left.png	no_decision	-1	-1
+TIMEOUT			19.7605	Matrix	faces	experiment	forward	3	Pictures/pic_Grad2_front.png	Pictures/pic_Ed_front.png	no_decision	-1	-1
+TIMEOUT			21.0977	Matrix	faces	experiment	away	4	Pictures/pic_Ed_left.png	Pictures/pic_Zoe_right.png	no_decision	-1	-1
+TIMEOUT			22.4522	Matrix	faces	experiment	forward	4	Pictures/pic_Grad1_front.png	Pictures/pic_Shaul_front.png	no_decision	-1	-1
+TIMEOUT			23.8065	Matrix	faces	experiment	one	4	Pictures/pic_Grad2_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+TIMEOUT			25.3116	Matrix	faces	experiment	facing	4	Pictures/pic_Grad2_right.png	Pictures/pic_Zoe_left.png	no_decision	-1	-1
+TIMEOUT			26.5969	Matrix	faces	experiment	one	5	Pictures/pic_Zoe_mask.png	Pictures/pic_Grad1_front.png	no_decision	-1	-1
+TIMEOUT			28.0525	Matrix	faces	experiment	away	5	Pictures/pic_Veronica_left.png	Pictures/pic_Prof_right.png	no_decision	-1	-1
+TIMEOUT			29.5411	Matrix	faces	experiment	facing	5	Pictures/pic_Tina_right.png	Pictures/pic_Joe_left.png	no_decision	-1	-1
+TIMEOUT			30.8281	Matrix	faces	experiment	forward	5	Pictures/pic_Tina_front.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+TIMEOUT			32.498	Matrix	faces	experiment	forward	6	Pictures/pic_Grad2_front.png	Pictures/pic_Joe_front.png	no_decision	-1	-1
+KEY	ESCAPE	0.12952	34.032	Matrix	faces	experiment	one	6	Pictures/pic_Monica_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+TIMEOUT			34.0519	Matrix	faces
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:33:39
+
+START	68741.5632		0
+KEY	a	1.7688	3.0221	Paragraph	Please lie still as we start the recording.
+KEY	a	0.549	3.5911	Paragraph	Press any key to begin.
+KEY	a	0.65305	4.2635	Paragraph	Press any key to begin.
+KEY	1!	1.0945	6.6621	Blank	Decision	experiment	forward	1	Pictures/pic_Shaul_front.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+KEY	1!	1.0097	9.1518	Blank	Decision	experiment	away	1	Pictures/pic_Veronica_left.png	Pictures/pic_Grad1_right.png	decision	45	45
+KEY	2@	0.94331	11.5262	Blank	Decision	experiment	one	1	Pictures/pic_Marika_mask.png	Pictures/pic_Monica_front.png	decision	-45	45
+KEY	1!	1.1232	13.8794	Blank	Decision	experiment	facing	1	Pictures/pic_Veronica_right.png	Pictures/pic_Ed_left.png	decision	-45	45
+KEY	2@	1.4198	16.5666	Blank	Decision	experiment	facing	2	Pictures/pic_Grad2_right.png	Pictures/pic_Grad1_left.png	decision	-45	-45
+KEY	1!	0.8838	18.8225	Blank	Decision	experiment	forward	2	Pictures/pic_Joe_front.png	Pictures/pic_Tina_front.png	decision	45	-45
+KEY	1!	1.4142	21.5429	Blank	Decision	experiment	away	2	Pictures/pic_Doug_left.png	Pictures/pic_Tina_right.png	decision	45	45
+KEY	2@	1.2367	24.2073	Blank	Decision	experiment	one	2	Pictures/pic_Monica_mask.png	Pictures/pic_Prof_front.png	decision	-45	45
+KEY	ESCAPE	0.9555	26.718	Blank	Decision	experiment	one	3	Pictures/pic_Ed_mask.png	Pictures/pic_Prof_front.png	decision	45	-45
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:35:22
+
+START	68844.8108		0
+KEY	a	0.45292	1.7064	Paragraph	Please lie still as we start the recording.
+KEY	a	0.53551	2.2571	Paragraph	Press any key to begin.
+KEY	a	0.51248	2.7857	Paragraph	Press any key to begin.
+KEY	1!	0.87588	13.2973	Blank	Decision	experiment	forward	2	Pictures/pic_Marika_front.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+KEY	1!	1.1015	20.2434	Blank	Decision	experiment	facing	3	Pictures/pic_Grad2_right.png	Pictures/pic_Prof_left.png	decision	45	45
+KEY	2@	1.4099	28.4759	Blank	Decision	experiment	forward	4	Pictures/pic_Zoe_front.png	Pictures/pic_Grad1_front.png	decision	-45	45
+KEY	1!	0.74095	32.3541	Blank	Decision	experiment	facing	5	Pictures/pic_Joe_right.png	Pictures/pic_Doug_left.png	decision	45	45
+KEY	1!	1.1054	36.1791	Blank	Decision	experiment	forward	5	Pictures/pic_Zoe_front.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+KEY	2@	0.93442	42.7955	Blank	Decision	experiment	forward	6	Pictures/pic_Monica_front.png	Pictures/pic_Joe_front.png	decision	45	-45
+KEY	ESCAPE	1.6887	48.9161	Blank	Decision	experiment	away	7	Pictures/pic_Doug_left.png	Pictures/pic_Marika_right.png	decision	45	-45
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:36:29
+
+START	68911.665		0
+KEY	a	1.0823	2.3352	Paragraph	Please lie still as we start the recording.
+KEY	a	0.45676	2.813	Paragraph	Press any key to begin.
+KEY	a	0.47815	3.3025	Paragraph	Press any key to begin.
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:39:57
+
+START	69120.2588		0
+KEY	a	1.5508	2.8286	Paragraph	Please lie still as we start the recording.
+KEY	a	0.55362	3.4029	Paragraph	Press any key to begin.
+KEY	space	0.48878	3.9064	Paragraph	Press any key to begin.
+KEY	2@	1.0696	6.4438	Blank	Decision	experiment	away	1	Pictures/pic_Marika_left.png	Pictures/pic_Zoe_right.png	decision	-45	-45
+KEY	1!	1.3701	9.2352	Blank	Decision	experiment	facing	1	Pictures/pic_Marika_right.png	Pictures/pic_Monica_left.png	decision	-45	45
+KEY	ESCAPE	0.42015	15.3401	Blank	Decision	experiment	forward	2	Pictures/pic_Doug_front.png	Pictures/pic_Monica_front.png	decision	45	45
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:42:09
+
+START	69251.8643		0
+KEY	a	13.4047	14.778	Paragraph	Press any key to begin.
+KEY	ESCAPE	4.3841	20.5866	Blank	Decision	practice	forward	1	Pictures/pic_Grad1_front.png	Pictures/pic_Marika_front.png	decision	-45	-45
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:42:56
+
+START	69298.7281		0
+KEY	ESCAPE	21.5061	22.9085	Paragraph	Press any key to begin.
+TIMEOUT			22.9454	Paragraph	Press any key to begin.
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:43:32
+
+START	69335.0039		0
+KEY	k	0.44615	1.8332	Paragraph	Press any key to begin.
+KEY	ESCAPE	2.0581	5.3682	Blank	Decision	practice	facing	1	Pictures/pic_Joe_right.png	Pictures/pic_Shaul_left.png	decision	-45	45
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:46:11
+
+START	129.3549		0
+KEY	d	1.1062	2.6588	Paragraph	Press any key to begin.
+KEY	ESCAPE	0.14674	5.0428	Gabor	Decision	practice	away	1	Pictures/pic_Shaul_left.png	Pictures/pic_Marika_right.png	decision	45	-45
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:46:27
+
+START	145.2145		0
+KEY	1!	3.2726	4.6467	Paragraph	Press any key to begin.
+KEY	1!	1.081	7.2703	Blank	Decision	practice	facing	1	Pictures/pic_Joe_right.png	Pictures/pic_Shaul_left.png	decision	-45	45
+KEY	1!	0.91832	11.3205	Blank	Decision	practice	away	2	Pictures/pic_Shaul_left.png	Pictures/pic_Prof_right.png	decision	-45	45
+KEY	1!	1.1465	15.5442	Blank	Decision	practice	one	3	Pictures/pic_Ed_mask.png	Pictures/pic_Grad2_front.png	decision	45	-45
+KEY	1!	0.82028	19.1968	Blank	Decision	practice	one	4	Pictures/pic_Ed_front.png	Pictures/pic_Zoe_mask.png	decision	45	-45
+KEY	1!	0.82866	22.9666	Blank	Decision	practice	forward	5	Pictures/pic_Joe_front.png	Pictures/pic_Ed_front.png	decision	45	45
+KEY	2@	0.87724	27.1946	Blank	Decision	practice	away	6	Pictures/pic_Marika_left.png	Pictures/pic_Zoe_right.png	decision	-45	-45
+KEY	1!	0.79188	30.7871	Blank	Decision	practice	away	7	Pictures/pic_Joe_left.png	Pictures/pic_Doug_right.png	decision	45	-45
+KEY	1!	0.95204	34.5415	Blank	Decision	practice	one	8	Pictures/pic_Zoe_mask.png	Pictures/pic_Joe_front.png	decision	45	45
+KEY	2@	1.0337	38.6521	Blank	Decision	practice	one	9	Pictures/pic_Shaul_front.png	Pictures/pic_Joe_mask.png	decision	-45	-45
+KEY	2@	0.67479	42.4726	Blank	Decision	practice	away	10	Pictures/pic_Monica_left.png	Pictures/pic_Prof_right.png	decision	-45	-45
+KEY	1!	0.88671	46.8806	Blank	Decision	practice	forward	11	Pictures/pic_Joe_front.png	Pictures/pic_Shaul_front.png	decision	-45	45
+KEY	1!	1.3049	51.5786	Blank	Decision	practice	away	12	Pictures/pic_Grad2_left.png	Pictures/pic_Tina_right.png	decision	-45	45
+KEY	1!	4.9111	59.6651	Blank	Decision	practice	away	13	Pictures/pic_Veronica_left.png	Pictures/pic_Grad2_right.png	decision	45	-45
+KEY	2@	0.98358	63.7285	Blank	Decision	practice	forward	14	Pictures/pic_Grad1_front.png	Pictures/pic_Monica_front.png	decision	-45	-45
+KEY	1!	0.79781	67.6553	Blank	Decision	practice	forward	15	Pictures/pic_Veronica_front.png	Pictures/pic_Doug_front.png	decision	45	45
+KEY	2@	1.1203	73.1268	Blank	Decision	practice	facing	17	Pictures/pic_Prof_right.png	Pictures/pic_Grad1_left.png	decision	45	45
+KEY	2@	3.2039	82.9667	Paragraph	The practice is now over.	practice	one	20	Pictures/pic_Veronica_front.png	Pictures/pic_Monica_mask.png	no_decision	-1	-1
+KEY	a	8.9693	92.4267	Paragraph	Please lie still as we start the recording.	practice	one	20	Pictures/pic_Veronica_front.png	Pictures/pic_Monica_mask.png	no_decision	-1	-1
+KEY	2@	4.9769	97.4117	Paragraph	Press any key to begin.	practice	one	20	Pictures/pic_Veronica_front.png	Pictures/pic_Monica_mask.png	no_decision	-1	-1
+KEY	2@	3.1139	100.5305	Paragraph	Press any key to begin.	practice	one	20	Pictures/pic_Veronica_front.png	Pictures/pic_Monica_mask.png	no_decision	-1	-1
+KEY	2@	1.2614	103.092	Blank	Decision	experiment	one	1	Pictures/pic_Doug_mask.png	Pictures/pic_Marika_front.png	decision	45	-45
+KEY	1!	1.1435	107.4712	Blank	Decision	experiment	away	1	Pictures/pic_Ed_left.png	Pictures/pic_Prof_right.png	decision	-45	45
+KEY	1!	1.3635	110.2991	Blank	Decision	experiment	forward	1	Pictures/pic_Zoe_front.png	Pictures/pic_Grad1_front.png	decision	-45	-45
+KEY	1!	1.3697	113.3479	Blank	Decision	experiment	one	2	Pictures/pic_Shaul_mask.png	Pictures/pic_Joe_front.png	decision	45	-45
+KEY	1!	0.87571	115.8631	Blank	Decision	experiment	facing	2	Pictures/pic_Joe_right.png	Pictures/pic_Ed_left.png	decision	45	45
+KEY	1!	0.95282	118.4311	Blank	Decision	experiment	forward	2	Pictures/pic_Tina_front.png	Pictures/pic_Marika_front.png	decision	-45	45
+KEY	1!	0.83531	120.8379	Blank	Decision	experiment	away	2	Pictures/pic_Doug_left.png	Pictures/pic_Marika_right.png	decision	45	45
+KEY	2@	1.3476	123.908	Blank	Decision	experiment	away	3	Pictures/pic_Veronica_left.png	Pictures/pic_Marika_right.png	decision	-45	45
+KEY	1!	1.0741	126.6103	Blank	Decision	experiment	forward	3	Pictures/pic_Grad2_front.png	Pictures/pic_Ed_front.png	decision	45	-45
+KEY	1!	1.1167	129.2273	Blank	Decision	experiment	one	3	Pictures/pic_Joe_front.png	Pictures/pic_Monica_mask.png	decision	-45	45
+KEY	1!	0.97331	132.9457	Blank	Decision	experiment	one	4	Pictures/pic_Veronica_mask.png	Pictures/pic_Zoe_front.png	decision	45	45
+
+----------------------------------------------------------------------------
+Started at: 30-Mar-2010 10:51:29
+
+START	449.1775		0
+KEY	ESCAPE	0.42698	1.8138	Paragraph	Please lie still as we start the recording.
+TIMEOUT			1.8515	Paragraph	Please lie still as we start the recording.
+
+----------------------------------------------------------------------------
+Started at: 08-Apr-2010 00:32:54
+
+START	550.7797		0
+KEY	j	2.6743	3.4958	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+KEY	j	0.65952	5.3016	Paragraph	Press any key to begin.
+KEY	2	1.106	9.5189	Blank	Decision	practice	away	1	Pictures/pic_Doug_left.png	Pictures/pic_Tina_right.png	decision	-45	-45
+KEY	0	0.20558	13.0564	Blank	Decision	practice	one	2	Pictures/pic_Doug_front.png	Pictures/pic_Monica_mask.png	decision	-45	-45
+
+----------------------------------------------------------------------------
+Started at: 12-Apr-2010 21:06:02
+
+START	78783.8694		0
+KEY	Return	0.88384	1.2466	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+
+----------------------------------------------------------------------------
+Started at: 12-Apr-2010 21:06:48
+
+START	78828.9002		0
+KEY	Return	2.2011	2.3838	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+
+----------------------------------------------------------------------------
+Started at: 12-Apr-2010 21:07:47
+
+START	78888.3872		0
+KEY	Return	0.54195	0.72085	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+KEY	Return	0.67799	2.4808	Paragraph	Press any key to begin.
+KEY	2@	1.0539	5.3688	Blank	Decision	practice	right	1	Pictures/pic_Ed_mask.png	Pictures/pic_Grad2_front.png	decision	45	-45
+KEY	2@	1.0125	9.5128	Blank	Decision	practice	right	2	Pictures/pic_Doug_mask.png	Pictures/pic_Tina_front.png	decision	45	-45
+KEY	1!	0.89028	15.2168	Blank	Decision	practice	left	4	Pictures/pic_Zoe_mask.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+KEY	1!	0.83768	24.6568	Blank	Decision	practice	left	9	Pictures/pic_Grad1_front.png	Pictures/pic_Tina_mask.png	decision	45	-45
+KEY	2@	0.82791	34.4409	Blank	Decision	practice	left	14	Pictures/pic_Tina_front.png	Pictures/pic_Veronica_mask.png	decision	-45	-45
+KEY	0)	0.28977	45.8889	Paragraph	The practice is now over.	practice	left	20	Pictures/pic_Tina_front.png	Pictures/pic_Grad1_mask.png	no_decision	-1	-1
+KEY	ESCAPE	1.4949	47.8809	Paragraph	Please lie still as we start the recording.	practice	left	20	Pictures/pic_Tina_front.png	Pictures/pic_Grad1_mask.png	no_decision	-1	-1
+
+----------------------------------------------------------------------------
+Started at: 12-Apr-2010 21:11:58
+
+START	79139.2946		0
+KEY	Return	1.1437	1.3226	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+KEY	space	2.9969	5.4026	Paragraph	Press any key to begin.
+KEY	1!	4.8497	24.2657	Blank	Decision	practice	right	10	Pictures/pic_Veronica_mask.png	Pictures/pic_Joe_front.png	decision	45	45
+KEY	2@	7.1091	40.2867	Blank	Decision	practice	left	15	Pictures/pic_Grad1_mask.png	Pictures/pic_Ed_front.png	decision	45	-45
+KEY	1!	0.95055	48.3587	Blank	Decision	practice	right	19	Pictures/pic_Joe_mask.png	Pictures/pic_Ed_front.png	decision	-45	45
+KEY	1!	0.80525	52.5987	Paragraph	The practice is now over.	practice	right	20	Pictures/pic_Doug_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+KEY	a	1.5712	54.6707	Paragraph	Please lie still as we start the recording.	practice	right	20	Pictures/pic_Doug_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+KEY	space	0.66086	55.3507	Paragraph	Press any key to begin.	practice	right	20	Pictures/pic_Doug_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+KEY	space	0.58326	55.9427	Paragraph	Press any key to begin.	practice	right	20	Pictures/pic_Doug_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+KEY	1!	1.0512	62.6227	Blank	Decision	experiment	left	2	Pictures/pic_Shaul_front.png	Pictures/pic_Prof_mask.png	decision	-45	45
+KEY	ESCAPE	0.58856	68.9907	Blank	Decision	experiment	left	4	Pictures/pic_Veronica_front.png	Pictures/pic_Grad2_mask.png	decision	-45	-45
+
+----------------------------------------------------------------------------
+Started at: 12-Apr-2010 21:14:18
+
+START	79279.826		0
+KEY	Return	1.0342	1.2113	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+KEY	a	0.65216	2.9554	Paragraph	Press any key to begin.
+KEY	ESCAPE	0.052517	6.8593	Gabor	Decision	practice	left	3	Pictures/pic_Joe_mask.png	Pictures/pic_Grad2_front.png	decision	-45	45
