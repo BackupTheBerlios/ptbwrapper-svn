@@ -75,8 +75,8 @@ isWin=strcmp(computer,'PCWIN') | strcmp(computer,'PCWIN64') | strcmp(computer, '
 isOSX=strcmp(computer,'MAC') | strcmp(computer,'MACI') | ~isempty(findstr(computer, 'apple-darwin'));
 isLinux=strcmp(computer,'GLNX86') | ~isempty(findstr(computer, 'linux-gnu'));
 
-% Only mac for now
-if ~isOSX  %#ok<AND2>
+% Only mac and pc for now
+if ~(isOSX || isWin) %#ok<AND2>
     os=computer;
     if strcmp(os,'MAC2')
         os='Mac OS9';
