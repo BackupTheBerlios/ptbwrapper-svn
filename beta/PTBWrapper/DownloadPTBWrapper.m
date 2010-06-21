@@ -172,8 +172,16 @@ if nargin < 1
 end
 
 if isempty(targetdirectory)
-	% Set default path for OSX install:
-	targetdirectory=fullfile(filesep,'Applications');
+    if isOSX
+        % Set default path for OSX install:
+        targetdirectory=fullfile(filesep,'Applications');
+    else
+        % We do not have a default path on Windows, so the user must provide it:
+        fprintf('You did not provide the full path to the directory where Psychtoolbox should be\n');
+        fprintf('installed. This is required for Microsoft Windows and Linux installation. Please enter a full\n');
+        fprintf('path as the first argument to this script, e.g. DownloadPsychtoolbox(''C:\\Toolboxes\\'').\n');
+        error('For Windows and Linux, the call to %s must specify a full path for the location of installation.',mfilename);
+    end     
 end
 
 % Strip trailing fileseperator, if any:

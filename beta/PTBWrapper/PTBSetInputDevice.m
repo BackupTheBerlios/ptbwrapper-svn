@@ -14,6 +14,13 @@
 
 function PTBSetInputDevice(device_num)
 
+% Not it windows yet
+global PTBCurrComputerSpecs;
+if ~PTBCurrComputerSpecs.osx
+    disp('WARNING: No changing of input devices in Windows yet...');
+    return;
+end
+
 % Grab them
 kbs = GetKeyboardIndices;
 

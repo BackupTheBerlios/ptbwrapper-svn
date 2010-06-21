@@ -357,3 +357,68 @@ Started at: 12-Apr-2010 22:30:23
 START	80122.8589		0
 KEY	Return	1.0117	1.1902	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
 KEY	ESCAPE	0.95825	3.2462	Paragraph	Press any key to begin.
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:24:36
+
+START	200377.5087		0
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:27:47
+
+START	200447.0197		0
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:28:10
+
+START	200459.5799		0
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:29:28
+
+START	200491.6399		0
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:29:50
+
+START	200504.182		0
+KEY	1!	3.005	714528.138	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+KEY	2@	0.596	714529.865	Paragraph	Press any key to begin.
+KEY	ESCAPE	4.6723	714544.299	Blank	Decision	practice	left	4	Pictures/pic_Marika_mask.png	Pictures/pic_Zoe_front.png	decision	-45	-45
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:30:34
+
+START	200532.4554		0
+KEY	2@	0.89896	714542.0226	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+KEY	2@	0.99476	714544.1346	Paragraph	Press any key to begin.
+KEY	1!	0.035765	714549.3236	Gabor	Decision	practice	left	1	Pictures/pic_Marika_front.png	Pictures/pic_Grad2_mask.png	decision	45	-45
+KEY	2@	0.8831	714568.0156	Blank	Decision	practice	right	12	Pictures/pic_Prof_mask.png	Pictures/pic_Grad1_front.png	decision	-45	-45
+KEY	ESCAPE	0.12796	714582.0726	Paragraph	The practice is now over.	practice	right	20	Pictures/pic_Ed_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:31:40
+
+START	200565.8948		0
+KEY	a	0.68696	714574.0482	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+KEY	2@	0.42276	714575.5842	Paragraph	Press any key to begin.
+KEY	1!	0.7191	714581.3442	Blank	Decision	practice	right	1	Pictures/pic_Monica_mask.png	Pictures/pic_Zoe_front.png	decision	-45	45
+KEY	2@	0.63707	714585.1122	Blank	Decision	practice	right	2	Pictures/pic_Shaul_mask.png	Pictures/pic_Prof_front.png	decision	-45	-45
+KEY	1!	0.5391	714588.7122	Blank	Decision	practice	right	3	Pictures/pic_Zoe_mask.png	Pictures/pic_Veronica_front.png	decision	45	-45
+KEY	1!	0.69907	714596.5362	Blank	Decision	practice	left	7	Pictures/pic_Ed_front.png	Pictures/pic_Prof_mask.png	decision	45	-45
+KEY	ESCAPE	0.40507	714600.0412	Blank	Decision	practice	right	8	Pictures/pic_Monica_mask.png	Pictures/pic_Ed_front.png	decision	45	45
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:32:39
+
+START	200598.2779		0
+KEY	2@	0.74396	714600.7841	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!
+KEY	a	1.0778	714602.9841	Paragraph	Please lie still as we start the recording.
+KEY	2@	0.67476	714603.6641	Paragraph	Press any key to begin.
+KEY	2@	0.38376	714604.0551	Paragraph	Press any key to begin.
+KEY	1!	0.8721	714609.9761	Blank	Decision	experiment	left	1	Pictures/pic_Zoe_front.png	Pictures/pic_Doug_mask.png	decision	45	-45
+KEY	2@	0.5821	714615.2001	Blank	Decision	experiment	right	2	Pictures/pic_Joe_mask.png	Pictures/pic_Doug_front.png	decision	-45	-45
+KEY	2@	0.7221	714618.8561	Blank	Decision	experiment	right	3	Pictures/pic_Tina_mask.png	Pictures/pic_Shaul_front.png	decision	45	45
+KEY	1!	1.3661	714623.2491	Blank	Decision	experiment	right	4	Pictures/pic_Ed_mask.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+KEY	2@	0.12176	714626.3361	Gabor	Decision	experiment	left	5	Pictures/pic_Grad1_mask.png	Pictures/pic_Doug_front.png	decision	-45	45
+KEY	ESCAPE	0.1851	714628.1821	Blank	Decision	experiment	right	6	Pictures/pic_Monica_mask.png	Pictures/pic_Joe_front.png	decision	45	45

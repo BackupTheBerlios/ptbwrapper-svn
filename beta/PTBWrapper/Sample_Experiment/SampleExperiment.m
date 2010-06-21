@@ -69,7 +69,7 @@ num_blocks = 3;
 num_cond_reps = 132;
 
 % Percentage of trials with decisions
-decisions_percent = .3;
+decisions_percent = .5;
 
 % Tilt of the gabors, in degrees
 gabor_tilt = 45;
