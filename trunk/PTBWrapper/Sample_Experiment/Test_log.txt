@@ -8422,3 +8422,249 @@ STIM	Blank	Trigger warning	1.2164
 STIM	Blank		1.3003
 STIM	Paragraph	Press any key to begin.	2.2879
 STIM	Cleanup		3.2756
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:24:35
+
+START	200377.5087		0
+STIM	Cleanup		714337.3563
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:27:47
+
+START	200447.0197		0
+STIM	Cleanup		714459.1573
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:28:10
+
+START	200459.5799		0
+STIM	Cleanup		714491.5788
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:29:28
+
+START	200491.6399		0
+STIM	Cleanup		714515.732
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:29:50
+
+START	200504.182		0
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	714525.133
+STIM	Blank	Trigger warning	714528.168
+STIM	Blank		714528.268
+STIM	Paragraph	Press any key to begin.	714529.269
+STIM	Blank		714529.87
+STIM	Text	+	714530.37	practice	right	1	Pictures/pic_Veronica_mask.png	Pictures/pic_Monica_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714530.871	practice	right	1	Pictures/pic_Veronica_mask.png	Pictures/pic_Monica_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714531.07	practice	right	1	Pictures/pic_Veronica_mask.png	Pictures/pic_Monica_front.png	no_decision	-1	-1
+STIM	Text	+	714531.838	practice	left	2	Pictures/pic_Grad1_mask.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714532.338	practice	left	2	Pictures/pic_Grad1_mask.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714532.538	practice	left	2	Pictures/pic_Grad1_mask.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+STIM	Text	+	714533.372	practice	left	3	Pictures/pic_Marika_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714533.873	practice	left	3	Pictures/pic_Marika_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714534.073	practice	left	3	Pictures/pic_Marika_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Text	+	714534.623	practice	left	4	Pictures/pic_Marika_mask.png	Pictures/pic_Zoe_front.png	decision	-45	-45
+STIM	Matrix	faces	714535.124	practice	left	4	Pictures/pic_Marika_mask.png	Pictures/pic_Zoe_front.png	decision	-45	-45
+STIM	Gabor	Decision	714539.594	practice	left	4	Pictures/pic_Marika_mask.png	Pictures/pic_Zoe_front.png	decision	-45	-45
+STIM	Blank	Decision	714539.81	practice	left	4	Pictures/pic_Marika_mask.png	Pictures/pic_Zoe_front.png	decision	-45	-45
+STIM	Cleanup		714544.314
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:30:34
+
+START	200532.4554		0
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	714541.1236
+STIM	Blank	Trigger warning	714542.0398
+STIM	Blank		714542.1408
+STIM	Paragraph	Press any key to begin.	714543.1398
+STIM	Blank		714544.1398
+STIM	Text	+	714544.6398	practice	left	1	Pictures/pic_Marika_front.png	Pictures/pic_Grad2_mask.png	decision	45	-45
+STIM	Matrix	faces	714545.1398	practice	left	1	Pictures/pic_Marika_front.png	Pictures/pic_Grad2_mask.png	decision	45	-45
+STIM	Gabor	Decision	714549.2878	practice	left	1	Pictures/pic_Marika_front.png	Pictures/pic_Grad2_mask.png	decision	45	-45
+STIM	Blank	Decision_ISI	714549.3378	practice	left	1	Pictures/pic_Marika_front.png	Pictures/pic_Grad2_mask.png	decision	45	-45
+STIM	Blank	ITI	714549.4386	practice	left	1	Pictures/pic_Marika_front.png	Pictures/pic_Grad2_mask.png	decision	45	-45
+STIM	Text	Correct!	714550.2718	practice	left	1	Pictures/pic_Marika_front.png	Pictures/pic_Grad2_mask.png	decision	45	-45
+STIM	Blank		714551.2708	practice	left	1	Pictures/pic_Marika_front.png	Pictures/pic_Grad2_mask.png	decision	45	-45
+STIM	Text	+	714551.7708	practice	right	2	Pictures/pic_Prof_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714552.2708	practice	right	2	Pictures/pic_Prof_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714552.4708	practice	right	2	Pictures/pic_Prof_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Text	+	714553.1538	practice	left	3	Pictures/pic_Marika_front.png	Pictures/pic_Ed_mask.png	no_decision	-1	-1
+STIM	Matrix	faces	714553.6538	practice	left	3	Pictures/pic_Marika_front.png	Pictures/pic_Ed_mask.png	no_decision	-1	-1
+STIM	Blank	ITI	714553.8538	practice	left	3	Pictures/pic_Marika_front.png	Pictures/pic_Ed_mask.png	no_decision	-1	-1
+STIM	Text	+	714554.6038	practice	left	4	Pictures/pic_Ed_mask.png	Pictures/pic_Grad1_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714555.1028	practice	left	4	Pictures/pic_Ed_mask.png	Pictures/pic_Grad1_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714555.3028	practice	left	4	Pictures/pic_Ed_mask.png	Pictures/pic_Grad1_front.png	no_decision	-1	-1
+STIM	Text	+	714556.0528	practice	left	5	Pictures/pic_Ed_mask.png	Pictures/pic_Joe_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714556.5528	practice	left	5	Pictures/pic_Ed_mask.png	Pictures/pic_Joe_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714556.7518	practice	left	5	Pictures/pic_Ed_mask.png	Pictures/pic_Joe_front.png	no_decision	-1	-1
+STIM	Text	+	714557.4518	practice	left	6	Pictures/pic_Zoe_mask.png	Pictures/pic_Shaul_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714557.9518	practice	left	6	Pictures/pic_Zoe_mask.png	Pictures/pic_Shaul_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714558.1528	practice	left	6	Pictures/pic_Zoe_mask.png	Pictures/pic_Shaul_front.png	no_decision	-1	-1
+STIM	Text	+	714558.8018	practice	right	7	Pictures/pic_Marika_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714559.3018	practice	right	7	Pictures/pic_Marika_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714559.5018	practice	right	7	Pictures/pic_Marika_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Text	+	714560.4678	practice	left	8	Pictures/pic_Zoe_front.png	Pictures/pic_Shaul_mask.png	no_decision	-1	-1
+STIM	Matrix	faces	714560.9678	practice	left	8	Pictures/pic_Zoe_front.png	Pictures/pic_Shaul_mask.png	no_decision	-1	-1
+STIM	Blank	ITI	714561.1678	practice	left	8	Pictures/pic_Zoe_front.png	Pictures/pic_Shaul_mask.png	no_decision	-1	-1
+STIM	Text	+	714561.9008	practice	left	9	Pictures/pic_Ed_front.png	Pictures/pic_Monica_mask.png	no_decision	-1	-1
+STIM	Matrix	faces	714562.4006	practice	left	9	Pictures/pic_Ed_front.png	Pictures/pic_Monica_mask.png	no_decision	-1	-1
+STIM	Blank	ITI	714562.6008	practice	left	9	Pictures/pic_Ed_front.png	Pictures/pic_Monica_mask.png	no_decision	-1	-1
+STIM	Text	+	714563.4668	practice	left	10	Pictures/pic_Tina_front.png	Pictures/pic_Prof_mask.png	no_decision	-1	-1
+STIM	Matrix	faces	714563.9668	practice	left	10	Pictures/pic_Tina_front.png	Pictures/pic_Prof_mask.png	no_decision	-1	-1
+STIM	Blank	ITI	714564.1668	practice	left	10	Pictures/pic_Tina_front.png	Pictures/pic_Prof_mask.png	no_decision	-1	-1
+STIM	Text	+	714564.8002	practice	left	11	Pictures/pic_Tina_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714565.2998	practice	left	11	Pictures/pic_Tina_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714565.4998	practice	left	11	Pictures/pic_Tina_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+STIM	Text	+	714566.3828	practice	right	12	Pictures/pic_Prof_mask.png	Pictures/pic_Grad1_front.png	decision	-45	-45
+STIM	Matrix	faces	714566.8828	practice	right	12	Pictures/pic_Prof_mask.png	Pictures/pic_Grad1_front.png	decision	-45	-45
+STIM	Gabor	Decision	714567.0826	practice	right	12	Pictures/pic_Prof_mask.png	Pictures/pic_Grad1_front.png	decision	-45	-45
+STIM	Blank	Decision	714567.3158	practice	right	12	Pictures/pic_Prof_mask.png	Pictures/pic_Grad1_front.png	decision	-45	-45
+STIM	Blank	Decision_ISI	714568.0328	practice	right	12	Pictures/pic_Prof_mask.png	Pictures/pic_Grad1_front.png	decision	-45	-45
+STIM	Blank	ITI	714568.1318	practice	right	12	Pictures/pic_Prof_mask.png	Pictures/pic_Grad1_front.png	decision	-45	-45
+STIM	Text	Correct!	714568.8156	practice	right	12	Pictures/pic_Prof_mask.png	Pictures/pic_Grad1_front.png	decision	-45	-45
+STIM	Blank		714569.8148	practice	right	12	Pictures/pic_Prof_mask.png	Pictures/pic_Grad1_front.png	decision	-45	-45
+STIM	Text	+	714570.3148	practice	right	13	Pictures/pic_Zoe_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714570.8146	practice	right	13	Pictures/pic_Zoe_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714571.0145	practice	right	13	Pictures/pic_Zoe_mask.png	Pictures/pic_Tina_front.png	no_decision	-1	-1
+STIM	Text	+	714571.8478	practice	right	14	Pictures/pic_Prof_mask.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714572.3478	practice	right	14	Pictures/pic_Prof_mask.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714572.5468	practice	right	14	Pictures/pic_Prof_mask.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+STIM	Text	+	714573.1978	practice	left	15	Pictures/pic_Prof_mask.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714573.6978	practice	left	15	Pictures/pic_Prof_mask.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714573.8968	practice	left	15	Pictures/pic_Prof_mask.png	Pictures/pic_Doug_front.png	no_decision	-1	-1
+STIM	Text	+	714574.8468	practice	left	16	Pictures/pic_Zoe_mask.png	Pictures/pic_Ed_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714575.3468	practice	left	16	Pictures/pic_Zoe_mask.png	Pictures/pic_Ed_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714575.5458	practice	left	16	Pictures/pic_Zoe_mask.png	Pictures/pic_Ed_front.png	no_decision	-1	-1
+STIM	Text	+	714576.4128	practice	left	17	Pictures/pic_Ed_front.png	Pictures/pic_Veronica_mask.png	no_decision	-1	-1
+STIM	Matrix	faces	714576.9118	practice	left	17	Pictures/pic_Ed_front.png	Pictures/pic_Veronica_mask.png	no_decision	-1	-1
+STIM	Blank	ITI	714577.1128	practice	left	17	Pictures/pic_Ed_front.png	Pictures/pic_Veronica_mask.png	no_decision	-1	-1
+STIM	Text	+	714577.9458	practice	right	18	Pictures/pic_Veronica_mask.png	Pictures/pic_Marika_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714578.4456	practice	right	18	Pictures/pic_Veronica_mask.png	Pictures/pic_Marika_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714578.6456	practice	right	18	Pictures/pic_Veronica_mask.png	Pictures/pic_Marika_front.png	no_decision	-1	-1
+STIM	Text	+	714579.3778	practice	left	19	Pictures/pic_Grad1_front.png	Pictures/pic_Marika_mask.png	no_decision	-1	-1
+STIM	Matrix	faces	714579.8778	practice	left	19	Pictures/pic_Grad1_front.png	Pictures/pic_Marika_mask.png	no_decision	-1	-1
+STIM	Blank	ITI	714580.0778	practice	left	19	Pictures/pic_Grad1_front.png	Pictures/pic_Marika_mask.png	no_decision	-1	-1
+STIM	Text	+	714580.5118	practice	right	20	Pictures/pic_Ed_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714581.0108	practice	right	20	Pictures/pic_Ed_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714581.2106	practice	right	20	Pictures/pic_Ed_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+STIM	Paragraph	The practice is now over.	714581.9446	practice	right	20	Pictures/pic_Ed_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+STIM	Cleanup		714582.0938
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:31:40
+
+START	200565.8948		0
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	714573.3612
+STIM	Blank	Trigger warning	714574.0614
+STIM	Blank		714574.1614
+STIM	Paragraph	Press any key to begin.	714575.1614
+STIM	Blank		714575.5934
+STIM	Text	+	714576.0934	practice	right	1	Pictures/pic_Monica_mask.png	Pictures/pic_Zoe_front.png	decision	-45	45
+STIM	Matrix	faces	714576.5934	practice	right	1	Pictures/pic_Monica_mask.png	Pictures/pic_Zoe_front.png	decision	-45	45
+STIM	Gabor	Decision	714580.5764	practice	right	1	Pictures/pic_Monica_mask.png	Pictures/pic_Zoe_front.png	decision	-45	45
+STIM	Blank	Decision	714580.8084	practice	right	1	Pictures/pic_Monica_mask.png	Pictures/pic_Zoe_front.png	decision	-45	45
+STIM	Blank	Decision_ISI	714581.3584	practice	right	1	Pictures/pic_Monica_mask.png	Pictures/pic_Zoe_front.png	decision	-45	45
+STIM	Blank	ITI	714581.4594	practice	right	1	Pictures/pic_Monica_mask.png	Pictures/pic_Zoe_front.png	decision	-45	45
+STIM	Text	Correct!	714582.2424	practice	right	1	Pictures/pic_Monica_mask.png	Pictures/pic_Zoe_front.png	decision	-45	45
+STIM	Blank		714583.2415	practice	right	1	Pictures/pic_Monica_mask.png	Pictures/pic_Zoe_front.png	decision	-45	45
+STIM	Text	+	714583.7414	practice	right	2	Pictures/pic_Shaul_mask.png	Pictures/pic_Prof_front.png	decision	-45	-45
+STIM	Matrix	faces	714584.2414	practice	right	2	Pictures/pic_Shaul_mask.png	Pictures/pic_Prof_front.png	decision	-45	-45
+STIM	Gabor	Decision	714584.4412	practice	right	2	Pictures/pic_Shaul_mask.png	Pictures/pic_Prof_front.png	decision	-45	-45
+STIM	Blank	Decision	714584.6585	practice	right	2	Pictures/pic_Shaul_mask.png	Pictures/pic_Prof_front.png	decision	-45	-45
+STIM	Blank	Decision_ISI	714585.1245	practice	right	2	Pictures/pic_Shaul_mask.png	Pictures/pic_Prof_front.png	decision	-45	-45
+STIM	Blank	ITI	714585.2245	practice	right	2	Pictures/pic_Shaul_mask.png	Pictures/pic_Prof_front.png	decision	-45	-45
+STIM	Text	Correct!	714585.9404	practice	right	2	Pictures/pic_Shaul_mask.png	Pictures/pic_Prof_front.png	decision	-45	-45
+STIM	Blank		714586.9404	practice	right	2	Pictures/pic_Shaul_mask.png	Pictures/pic_Prof_front.png	decision	-45	-45
+STIM	Text	+	714587.4402	practice	right	3	Pictures/pic_Zoe_mask.png	Pictures/pic_Veronica_front.png	decision	45	-45
+STIM	Matrix	faces	714587.9404	practice	right	3	Pictures/pic_Zoe_mask.png	Pictures/pic_Veronica_front.png	decision	45	-45
+STIM	Gabor	Decision	714588.1394	practice	right	3	Pictures/pic_Zoe_mask.png	Pictures/pic_Veronica_front.png	decision	45	-45
+STIM	Blank	Decision	714588.3564	practice	right	3	Pictures/pic_Zoe_mask.png	Pictures/pic_Veronica_front.png	decision	45	-45
+STIM	Blank	Decision_ISI	714588.7224	practice	right	3	Pictures/pic_Zoe_mask.png	Pictures/pic_Veronica_front.png	decision	45	-45
+STIM	Blank	ITI	714588.8234	practice	right	3	Pictures/pic_Zoe_mask.png	Pictures/pic_Veronica_front.png	decision	45	-45
+STIM	Text	Correct!	714589.5394	practice	right	3	Pictures/pic_Zoe_mask.png	Pictures/pic_Veronica_front.png	decision	45	-45
+STIM	Blank		714590.5394	practice	right	3	Pictures/pic_Zoe_mask.png	Pictures/pic_Veronica_front.png	decision	45	-45
+STIM	Text	+	714591.0394	practice	right	4	Pictures/pic_Grad2_mask.png	Pictures/pic_Grad1_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714591.5392	practice	right	4	Pictures/pic_Grad2_mask.png	Pictures/pic_Grad1_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714591.7394	practice	right	4	Pictures/pic_Grad2_mask.png	Pictures/pic_Grad1_front.png	no_decision	-1	-1
+STIM	Text	+	714592.4714	practice	left	5	Pictures/pic_Monica_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714592.9714	practice	left	5	Pictures/pic_Monica_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714593.1724	practice	left	5	Pictures/pic_Monica_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+STIM	Text	+	714593.7554	practice	right	6	Pictures/pic_Ed_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714594.2554	practice	right	6	Pictures/pic_Ed_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714594.4545	practice	right	6	Pictures/pic_Ed_mask.png	Pictures/pic_Zoe_front.png	no_decision	-1	-1
+STIM	Text	+	714595.1044	practice	left	7	Pictures/pic_Ed_front.png	Pictures/pic_Prof_mask.png	decision	45	-45
+STIM	Matrix	faces	714595.6044	practice	left	7	Pictures/pic_Ed_front.png	Pictures/pic_Prof_mask.png	decision	45	-45
+STIM	Gabor	Decision	714595.8034	practice	left	7	Pictures/pic_Ed_front.png	Pictures/pic_Prof_mask.png	decision	45	-45
+STIM	Blank	Decision	714596.0205	practice	left	7	Pictures/pic_Ed_front.png	Pictures/pic_Prof_mask.png	decision	45	-45
+STIM	Blank	Decision_ISI	714596.5534	practice	left	7	Pictures/pic_Ed_front.png	Pictures/pic_Prof_mask.png	decision	45	-45
+STIM	Blank	ITI	714596.6545	practice	left	7	Pictures/pic_Ed_front.png	Pictures/pic_Prof_mask.png	decision	45	-45
+STIM	Text	Correct!	714597.4034	practice	left	7	Pictures/pic_Ed_front.png	Pictures/pic_Prof_mask.png	decision	45	-45
+STIM	Blank		714598.4034	practice	left	7	Pictures/pic_Ed_front.png	Pictures/pic_Prof_mask.png	decision	45	-45
+STIM	Text	+	714598.9034	practice	right	8	Pictures/pic_Monica_mask.png	Pictures/pic_Ed_front.png	decision	45	45
+STIM	Matrix	faces	714599.4032	practice	right	8	Pictures/pic_Monica_mask.png	Pictures/pic_Ed_front.png	decision	45	45
+STIM	Gabor	Decision	714599.6024	practice	right	8	Pictures/pic_Monica_mask.png	Pictures/pic_Ed_front.png	decision	45	45
+STIM	Blank	Decision	714599.8195	practice	right	8	Pictures/pic_Monica_mask.png	Pictures/pic_Ed_front.png	decision	45	45
+STIM	Cleanup		714600.0525
+
+----------------------------------------------------------------------------
+Started at: 21-Jun-2010 17:32:39
+
+START	200598.2779		0
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	714600.0401
+STIM	Blank	Trigger warning	714600.8063
+STIM	Blank		714600.9064
+STIM	Paragraph	Please lie still as we start the recording.	714601.9063
+STIM	Paragraph	Press any key to begin.	714602.9893
+STIM	Paragraph	Press any key to begin.	714603.6713
+STIM	Blank		714604.0723
+STIM	Text	+	714604.5713	experiment	left	1	Pictures/pic_Zoe_front.png	Pictures/pic_Doug_mask.png	decision	45	-45
+STIM	Matrix	faces	714605.0713	experiment	left	1	Pictures/pic_Zoe_front.png	Pictures/pic_Doug_mask.png	decision	45	-45
+STIM	Gabor	Decision	714609.0531	experiment	left	1	Pictures/pic_Zoe_front.png	Pictures/pic_Doug_mask.png	decision	45	-45
+STIM	Blank	Decision	714609.2873	experiment	left	1	Pictures/pic_Zoe_front.png	Pictures/pic_Doug_mask.png	decision	45	-45
+STIM	Blank	Decision_ISI	714609.9863	experiment	left	1	Pictures/pic_Zoe_front.png	Pictures/pic_Doug_mask.png	decision	45	-45
+STIM	Blank	ITI	714610.0864	experiment	left	1	Pictures/pic_Zoe_front.png	Pictures/pic_Doug_mask.png	decision	45	-45
+STIM	Text	+	714610.8193	experiment	right	1	Pictures/pic_Veronica_mask.png	Pictures/pic_Joe_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714611.3193	experiment	right	1	Pictures/pic_Veronica_mask.png	Pictures/pic_Joe_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714611.5193	experiment	right	1	Pictures/pic_Veronica_mask.png	Pictures/pic_Joe_front.png	no_decision	-1	-1
+STIM	Text	+	714612.4353	experiment	left	2	Pictures/pic_Joe_mask.png	Pictures/pic_Ed_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714612.9353	experiment	left	2	Pictures/pic_Joe_mask.png	Pictures/pic_Ed_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714613.1353	experiment	left	2	Pictures/pic_Joe_mask.png	Pictures/pic_Ed_front.png	no_decision	-1	-1
+STIM	Text	+	714613.8854	experiment	right	2	Pictures/pic_Joe_mask.png	Pictures/pic_Doug_front.png	decision	-45	-45
+STIM	Matrix	faces	714614.3844	experiment	right	2	Pictures/pic_Joe_mask.png	Pictures/pic_Doug_front.png	decision	-45	-45
+STIM	Gabor	Decision	714614.5853	experiment	right	2	Pictures/pic_Joe_mask.png	Pictures/pic_Doug_front.png	decision	-45	-45
+STIM	Blank	Decision	714614.8013	experiment	right	2	Pictures/pic_Joe_mask.png	Pictures/pic_Doug_front.png	decision	-45	-45
+STIM	Blank	Decision_ISI	714615.2183	experiment	right	2	Pictures/pic_Joe_mask.png	Pictures/pic_Doug_front.png	decision	-45	-45
+STIM	Blank	ITI	714615.3183	experiment	right	2	Pictures/pic_Joe_mask.png	Pictures/pic_Doug_front.png	decision	-45	-45
+STIM	Text	+	714615.9513	experiment	left	3	Pictures/pic_Shaul_front.png	Pictures/pic_Ed_mask.png	no_decision	-1	-1
+STIM	Matrix	faces	714616.4513	experiment	left	3	Pictures/pic_Shaul_front.png	Pictures/pic_Ed_mask.png	no_decision	-1	-1
+STIM	Blank	ITI	714616.6511	experiment	left	3	Pictures/pic_Shaul_front.png	Pictures/pic_Ed_mask.png	no_decision	-1	-1
+STIM	Text	+	714617.4013	experiment	right	3	Pictures/pic_Tina_mask.png	Pictures/pic_Shaul_front.png	decision	45	45
+STIM	Matrix	faces	714617.9003	experiment	right	3	Pictures/pic_Tina_mask.png	Pictures/pic_Shaul_front.png	decision	45	45
+STIM	Gabor	Decision	714618.1003	experiment	right	3	Pictures/pic_Tina_mask.png	Pictures/pic_Shaul_front.png	decision	45	45
+STIM	Blank	Decision	714618.3173	experiment	right	3	Pictures/pic_Tina_mask.png	Pictures/pic_Shaul_front.png	decision	45	45
+STIM	Blank	Decision_ISI	714618.8673	experiment	right	3	Pictures/pic_Tina_mask.png	Pictures/pic_Shaul_front.png	decision	45	45
+STIM	Blank	ITI	714618.9664	experiment	right	3	Pictures/pic_Tina_mask.png	Pictures/pic_Shaul_front.png	decision	45	45
+STIM	Text	+	714619.8333	experiment	left	4	Pictures/pic_Grad1_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714620.3331	experiment	left	4	Pictures/pic_Grad1_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714620.5333	experiment	left	4	Pictures/pic_Grad1_mask.png	Pictures/pic_Prof_front.png	no_decision	-1	-1
+STIM	Text	+	714621.1493	experiment	right	4	Pictures/pic_Ed_mask.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+STIM	Matrix	faces	714621.6493	experiment	right	4	Pictures/pic_Ed_mask.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+STIM	Gabor	Decision	714621.8493	experiment	right	4	Pictures/pic_Ed_mask.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+STIM	Blank	Decision	714622.0663	experiment	right	4	Pictures/pic_Ed_mask.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+STIM	Blank	Decision_ISI	714623.2653	experiment	right	4	Pictures/pic_Ed_mask.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+STIM	Blank	ITI	714623.3653	experiment	right	4	Pictures/pic_Ed_mask.png	Pictures/pic_Grad2_front.png	decision	-45	-45
+STIM	Text	+	714624.2493	experiment	right	5	Pictures/pic_Marika_mask.png	Pictures/pic_Shaul_front.png	no_decision	-1	-1
+STIM	Matrix	faces	714624.7483	experiment	right	5	Pictures/pic_Marika_mask.png	Pictures/pic_Shaul_front.png	no_decision	-1	-1
+STIM	Blank	ITI	714624.949	experiment	right	5	Pictures/pic_Marika_mask.png	Pictures/pic_Shaul_front.png	no_decision	-1	-1
+STIM	Text	+	714625.5141	experiment	left	5	Pictures/pic_Grad1_mask.png	Pictures/pic_Doug_front.png	decision	-45	45
+STIM	Matrix	faces	714626.0141	experiment	left	5	Pictures/pic_Grad1_mask.png	Pictures/pic_Doug_front.png	decision	-45	45
+STIM	Gabor	Decision	714626.2143	experiment	left	5	Pictures/pic_Grad1_mask.png	Pictures/pic_Doug_front.png	decision	-45	45
+STIM	Blank	Decision_ISI	714626.3473	experiment	left	5	Pictures/pic_Grad1_mask.png	Pictures/pic_Doug_front.png	decision	-45	45
+STIM	Blank	ITI	714626.4484	experiment	left	5	Pictures/pic_Grad1_mask.png	Pictures/pic_Doug_front.png	decision	-45	45
+STIM	Text	+	714627.2643	experiment	right	6	Pictures/pic_Monica_mask.png	Pictures/pic_Joe_front.png	decision	45	45
+STIM	Matrix	faces	714627.7644	experiment	right	6	Pictures/pic_Monica_mask.png	Pictures/pic_Joe_front.png	decision	45	45
+STIM	Gabor	Decision	714627.9633	experiment	right	6	Pictures/pic_Monica_mask.png	Pictures/pic_Joe_front.png	decision	45	45
+STIM	Blank	Decision	714628.1803	experiment	right	6	Pictures/pic_Monica_mask.png	Pictures/pic_Joe_front.png	decision	45	45
+STIM	Cleanup		714628.1973

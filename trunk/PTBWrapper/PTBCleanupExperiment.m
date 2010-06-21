@@ -31,12 +31,15 @@ global PTBAudioStimulus;
 global PTBEventQueue;
 global PTBKeyQueue;
 global PTBWaitingForKey;
+global PTBInputCollection;
 if ~isempty(Screen('Windows'))
 	
 	% And clear
 	PTBEventQueue = {};
 	PTBKeyQueue = {};
-    KbQueueRelease;
+    if strcmp(PTBInputCollection, 'Queue')
+        KbQueueRelease;
+    end
 	if PTBNextPresentationTime - GetSecs > 1000
 		PTBNextPresentationTime = 0;
 	end
