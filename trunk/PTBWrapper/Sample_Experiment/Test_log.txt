@@ -1,0 +1,2079 @@
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:03:53
+
+START	87075.1765		0
+STIM	Blank		0.12774
+STIM_PREPARE	Text	Red	-87076.1765
+STIM	Matrix	Stim	2.053
+STIM	Blank		2.3544
+STIM_PREPARE	Text	Blue	-87076.1765
+STIM	Matrix	Stim	2.6725
+STIM	Blank		2.9738
+STIM_PREPARE	Text	Pink	-87076.1765
+STIM	Matrix	Stim	3.2752
+STIM	Blank		3.5765
+STIM_PREPARE	Text	Black	-87076.1765
+STIM	Matrix	Stim	3.8779
+STIM	Blank		4.1792
+STIM_PREPARE	Text	Green	-87076.1765
+STIM	Matrix	Stim	4.4806
+STIM	Blank		4.7819
+STIM_PREPARE	Text	Brown	-87076.1765
+STIM	Matrix	Stim	5.0833
+STIM	Blank		5.3846
+STIM_PREPARE	Text	nw1	-87076.1765
+STIM	Matrix	Stim	5.686
+STIM	Blank		5.9873
+STIM_PREPARE	Text	nw2	-87076.1765
+STIM	Matrix	Stim	6.2887
+STIM	Blank		6.59
+STIM_PREPARE	Text	nw3	-87076.1765
+STIM	Matrix	Stim	6.8914
+STIM	Blank		7.1927
+STIM_PREPARE	Text	nw4	-87076.1765
+STIM	Matrix	Stim	7.4941
+STIM	Blank		7.7954
+STIM_PREPARE	Text	nw5	-87076.1765
+STIM	Matrix	Stim	8.0968
+STIM	Blank		8.3981
+STIM_PREPARE	Text	nw6	-87076.1765
+STIM	Matrix	Stim	8.6995
+STIM	Blank		9.0008
+STIM_PREPARE	Text	Cane	-87076.1765
+STIM	Matrix	Stim	9.3022
+STIM	Blank		9.6035
+STIM_PREPARE	Text	Disc	-87076.1765
+STIM	Matrix	Stim	9.9049
+STIM	Blank		10.2062
+STIM_PREPARE	Text	Fork	-87076.1765
+STIM	Matrix	Stim	10.5076
+STIM	Blank		10.8089
+STIM_PREPARE	Text	Lamp	-87076.1765
+STIM	Cleanup		13.5211
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:10:46
+
+START	87487.6088		0
+STIM	Blank		0.026047
+STIM	Paragraph	Press any key to begin.	1.0306
+STIM	Blank		1.7337
+STIM	Blank	ISI	2.2359	practice	V_Non	18	nw2.jpg	Car.jpg	PinkDisc_3.jpg	NoMatch
+STIM	Matrix	Initial	2.8219	practice	V_Non	18	nw2.jpg	Car.jpg	PinkDisc_3.jpg	NoMatch
+STIM	Blank	ISI_2	3.207	practice	V_Non	18	nw2.jpg	Car.jpg	PinkDisc_3.jpg	NoMatch
+STIM	Matrix	Critical	3.5083	practice	V_Non	18	nw2.jpg	Car.jpg	PinkDisc_3.jpg	NoMatch
+STIM	Blank	ISI_3	3.9101	practice	V_Non	18	nw2.jpg	Car.jpg	PinkDisc_3.jpg	NoMatch
+STIM	Matrix	Target	4.2114	practice	V_Non	18	nw2.jpg	Car.jpg	PinkDisc_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	4.9313	practice	V_Non	18	nw2.jpg	Car.jpg	PinkDisc_3.jpg	NoMatch
+STIM	Blank	ITI	5.0318	practice	V_Non	18	nw2.jpg	Car.jpg	PinkDisc_3.jpg	NoMatch
+STIM	Text	Correct!	5.6178	practice	V_Non	18	nw2.jpg	Car.jpg	PinkDisc_3.jpg	NoMatch
+STIM	Blank		6.6223	practice	V_Non	18	nw2.jpg	Car.jpg	PinkDisc_3.jpg	NoMatch
+STIM	Blank	ISI	7.1245	practice	V_Non	171	nw4.jpg	Leaf.jpg	BlackLeaf_1.jpg	NoMatch
+STIM	Matrix	Initial	7.7272	practice	V_Non	171	nw4.jpg	Leaf.jpg	BlackLeaf_1.jpg	NoMatch
+STIM	Blank	ISI_2	8.1123	practice	V_Non	171	nw4.jpg	Leaf.jpg	BlackLeaf_1.jpg	NoMatch
+STIM	Matrix	Critical	8.4136	practice	V_Non	171	nw4.jpg	Leaf.jpg	BlackLeaf_1.jpg	NoMatch
+STIM	Blank	ISI_3	8.8154	practice	V_Non	171	nw4.jpg	Leaf.jpg	BlackLeaf_1.jpg	NoMatch
+STIM	Matrix	Target	9.1168	practice	V_Non	171	nw4.jpg	Leaf.jpg	BlackLeaf_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	9.5353	practice	V_Non	171	nw4.jpg	Leaf.jpg	BlackLeaf_1.jpg	NoMatch
+STIM	Blank	ITI	9.6358	practice	V_Non	171	nw4.jpg	Leaf.jpg	BlackLeaf_1.jpg	NoMatch
+STIM	Text	Incorrect.	10.205	practice	V_Non	171	nw4.jpg	Leaf.jpg	BlackLeaf_1.jpg	NoMatch
+STIM	Blank		11.2095	practice	V_Non	171	nw4.jpg	Leaf.jpg	BlackLeaf_1.jpg	NoMatch
+STIM	Blank	ISI	11.7117	practice	V_Comp	193	Pink.jpg	Boat.jpg	PinkBoat_1.jpg	NoMatch
+STIM	Matrix	Initial	12.2977	practice	V_Comp	193	Pink.jpg	Boat.jpg	PinkBoat_1.jpg	NoMatch
+STIM	Blank	ISI_2	12.6995	practice	V_Comp	193	Pink.jpg	Boat.jpg	PinkBoat_1.jpg	NoMatch
+STIM	Matrix	Critical	13.0008	practice	V_Comp	193	Pink.jpg	Boat.jpg	PinkBoat_1.jpg	NoMatch
+STIM	Blank	ISI_3	13.4026	practice	V_Comp	193	Pink.jpg	Boat.jpg	PinkBoat_1.jpg	NoMatch
+STIM	Matrix	Target	13.704	practice	V_Comp	193	Pink.jpg	Boat.jpg	PinkBoat_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	14.1225	practice	V_Comp	193	Pink.jpg	Boat.jpg	PinkBoat_1.jpg	NoMatch
+STIM	Blank	ITI	14.223	practice	V_Comp	193	Pink.jpg	Boat.jpg	PinkBoat_1.jpg	NoMatch
+STIM	Text	Incorrect.	14.7754	practice	V_Comp	193	Pink.jpg	Boat.jpg	PinkBoat_1.jpg	NoMatch
+STIM	Blank		15.78	practice	V_Comp	193	Pink.jpg	Boat.jpg	PinkBoat_1.jpg	NoMatch
+STIM	Blank	ISI	16.2822	practice	V_Non	31	nw2.jpg	House.jpg	GreenCane_2.jpg	NoMatch
+STIM	Matrix	Initial	16.8682	practice	V_Non	31	nw2.jpg	House.jpg	GreenCane_2.jpg	NoMatch
+STIM	Blank	ISI_2	17.2699	practice	V_Non	31	nw2.jpg	House.jpg	GreenCane_2.jpg	NoMatch
+STIM	Matrix	Critical	17.5713	practice	V_Non	31	nw2.jpg	House.jpg	GreenCane_2.jpg	NoMatch
+STIM	Blank	ISI_3	17.9731	practice	V_Non	31	nw2.jpg	House.jpg	GreenCane_2.jpg	NoMatch
+STIM	Matrix	Target	18.2745	practice	V_Non	31	nw2.jpg	House.jpg	GreenCane_2.jpg	NoMatch
+STIM	Cleanup		20.4174
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:13:05
+
+START	87627.0858		0
+STIM	Blank		0.040622
+STIM	Paragraph	Press any key to begin.	1.0451
+STIM	Blank		2.0329
+STIM	Blank	ISI	2.5351	practice	V_Comp	179	Blue.jpg	Fork.jpg	BlueFork_2.jpg	Match
+STIM	Matrix	Initial	3.0876	practice	V_Comp	179	Blue.jpg	Fork.jpg	BlueFork_2.jpg	Match
+STIM	Blank	ISI_2	3.4894	practice	V_Comp	179	Blue.jpg	Fork.jpg	BlueFork_2.jpg	Match
+STIM	Matrix	Critical	3.7908	practice	V_Comp	179	Blue.jpg	Fork.jpg	BlueFork_2.jpg	Match
+STIM	Blank	ISI_3	4.1926	practice	V_Comp	179	Blue.jpg	Fork.jpg	BlueFork_2.jpg	Match
+STIM	Matrix	Target	4.4939	practice	V_Comp	179	Blue.jpg	Fork.jpg	BlueFork_2.jpg	Match
+STIM	Blank	Response_Catcher	4.879	practice	V_Comp	179	Blue.jpg	Fork.jpg	BlueFork_2.jpg	Match
+STIM	Blank	ITI	4.9794	practice	V_Comp	179	Blue.jpg	Fork.jpg	BlueFork_2.jpg	Match
+STIM	Text	Correct!	5.3812	practice	V_Comp	179	Blue.jpg	Fork.jpg	BlueFork_2.jpg	Match
+STIM	Blank		6.3857	practice	V_Comp	179	Blue.jpg	Fork.jpg	BlueFork_2.jpg	Match
+STIM	Blank	ISI	6.888	practice	V_Comp	169	Brown.jpg	Bow.jpg	BrownBow_1.jpg	Match
+STIM	Matrix	Initial	7.4907	practice	V_Comp	169	Brown.jpg	Bow.jpg	BrownBow_1.jpg	Match
+STIM	Blank	ISI_2	7.8757	practice	V_Comp	169	Brown.jpg	Bow.jpg	BrownBow_1.jpg	Match
+STIM	Matrix	Critical	8.1771	practice	V_Comp	169	Brown.jpg	Bow.jpg	BrownBow_1.jpg	Match
+STIM	Blank	ISI_3	8.5789	practice	V_Comp	169	Brown.jpg	Bow.jpg	BrownBow_1.jpg	Match
+STIM	Matrix	Target	8.8802	practice	V_Comp	169	Brown.jpg	Bow.jpg	BrownBow_1.jpg	Match
+STIM	Blank	Response_Catcher	9.2485	practice	V_Comp	169	Brown.jpg	Bow.jpg	BrownBow_1.jpg	Match
+STIM	Blank	ITI	9.349	practice	V_Comp	169	Brown.jpg	Bow.jpg	BrownBow_1.jpg	Match
+STIM	Text	Correct!	9.6838	practice	V_Comp	169	Brown.jpg	Bow.jpg	BrownBow_1.jpg	Match
+STIM	Blank		10.6883	practice	V_Comp	169	Brown.jpg	Bow.jpg	BrownBow_1.jpg	Match
+STIM	Blank	ISI	11.1906	practice	V_Comp	2	Green.jpg	Bag.jpg	GreenHouse_2.jpg	NoMatch
+STIM	Matrix	Initial	11.7765	practice	V_Comp	2	Green.jpg	Bag.jpg	GreenHouse_2.jpg	NoMatch
+STIM	Blank	ISI_2	12.1783	practice	V_Comp	2	Green.jpg	Bag.jpg	GreenHouse_2.jpg	NoMatch
+STIM	Matrix	Critical	12.4797	practice	V_Comp	2	Green.jpg	Bag.jpg	GreenHouse_2.jpg	NoMatch
+STIM	Blank	ISI_3	12.8815	practice	V_Comp	2	Green.jpg	Bag.jpg	GreenHouse_2.jpg	NoMatch
+STIM	Matrix	Target	13.1828	practice	V_Comp	2	Green.jpg	Bag.jpg	GreenHouse_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	13.8023	practice	V_Comp	2	Green.jpg	Bag.jpg	GreenHouse_2.jpg	NoMatch
+STIM	Blank	ITI	13.9027	practice	V_Comp	2	Green.jpg	Bag.jpg	GreenHouse_2.jpg	NoMatch
+STIM	Text	Correct!	14.2878	practice	V_Comp	2	Green.jpg	Bag.jpg	GreenHouse_2.jpg	NoMatch
+STIM	Blank		15.2923	practice	V_Comp	2	Green.jpg	Bag.jpg	GreenHouse_2.jpg	NoMatch
+STIM	Blank	ISI	15.7945	practice	V_Non	76	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Matrix	Initial	16.3972	practice	V_Non	76	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank	ISI_2	16.7823	practice	V_Non	76	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Matrix	Critical	17.0837	practice	V_Non	76	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank	ISI_3	17.4855	practice	V_Non	76	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Matrix	Target	17.7868	practice	V_Non	76	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank	Response_Catcher	18.1718	practice	V_Non	76	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank	ITI	18.2723	practice	V_Non	76	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Text	Correct!	18.9085	practice	V_Non	76	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank		19.913	practice	V_Non	76	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank	ISI	20.4152	practice	V_Non	161	nw1.jpg	Square.jpg	GreenKey_1.jpg	NoMatch
+STIM	Matrix	Initial	21.0179	practice	V_Non	161	nw1.jpg	Square.jpg	GreenKey_1.jpg	NoMatch
+STIM	Blank	ISI_2	21.4197	practice	V_Non	161	nw1.jpg	Square.jpg	GreenKey_1.jpg	NoMatch
+STIM	Matrix	Critical	21.7211	practice	V_Non	161	nw1.jpg	Square.jpg	GreenKey_1.jpg	NoMatch
+STIM	Blank	ISI_3	22.1229	practice	V_Non	161	nw1.jpg	Square.jpg	GreenKey_1.jpg	NoMatch
+STIM	Matrix	Target	22.4075	practice	V_Non	161	nw1.jpg	Square.jpg	GreenKey_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	22.8093	practice	V_Non	161	nw1.jpg	Square.jpg	GreenKey_1.jpg	NoMatch
+STIM	Blank	ITI	22.9097	practice	V_Non	161	nw1.jpg	Square.jpg	GreenKey_1.jpg	NoMatch
+STIM	Text	Correct!	23.2781	practice	V_Non	161	nw1.jpg	Square.jpg	GreenKey_1.jpg	NoMatch
+STIM	Blank		24.2826	practice	V_Non	161	nw1.jpg	Square.jpg	GreenKey_1.jpg	NoMatch
+STIM	Blank	ISI	24.7848	practice	V_Non	51	nw4.jpg	Bell.jpg	BlackBell_2.jpg	Match
+STIM	Matrix	Initial	25.3708	practice	V_Non	51	nw4.jpg	Bell.jpg	BlackBell_2.jpg	Match
+STIM	Blank	ISI_2	25.7726	practice	V_Non	51	nw4.jpg	Bell.jpg	BlackBell_2.jpg	Match
+STIM	Matrix	Critical	26.0739	practice	V_Non	51	nw4.jpg	Bell.jpg	BlackBell_2.jpg	Match
+STIM	Blank	ISI_3	26.4757	practice	V_Non	51	nw4.jpg	Bell.jpg	BlackBell_2.jpg	Match
+STIM	Matrix	Target	26.7771	practice	V_Non	51	nw4.jpg	Bell.jpg	BlackBell_2.jpg	Match
+STIM	Blank	Response_Catcher	27.2124	practice	V_Non	51	nw4.jpg	Bell.jpg	BlackBell_2.jpg	Match
+STIM	Blank	ITI	27.3128	practice	V_Non	51	nw4.jpg	Bell.jpg	BlackBell_2.jpg	Match
+STIM	Text	Correct!	27.815	practice	V_Non	51	nw4.jpg	Bell.jpg	BlackBell_2.jpg	Match
+STIM	Blank		28.8195	practice	V_Non	51	nw4.jpg	Bell.jpg	BlackBell_2.jpg	Match
+STIM	Blank	ISI	29.3218	practice	V_Non	164	nw6.jpg	Shoe.jpg	BrownShoe_2.jpg	Match
+STIM	Matrix	Initial	29.9078	practice	V_Non	164	nw6.jpg	Shoe.jpg	BrownShoe_2.jpg	Match
+STIM	Blank	ISI_2	30.3095	practice	V_Non	164	nw6.jpg	Shoe.jpg	BrownShoe_2.jpg	Match
+STIM	Matrix	Critical	30.6109	practice	V_Non	164	nw6.jpg	Shoe.jpg	BrownShoe_2.jpg	Match
+STIM	Blank	ISI_3	31.0127	practice	V_Non	164	nw6.jpg	Shoe.jpg	BrownShoe_2.jpg	Match
+STIM	Matrix	Target	31.314	practice	V_Non	164	nw6.jpg	Shoe.jpg	BrownShoe_2.jpg	Match
+STIM	Blank	Response_Catcher	31.8163	practice	V_Non	164	nw6.jpg	Shoe.jpg	BrownShoe_2.jpg	Match
+STIM	Blank	ITI	31.9168	practice	V_Non	164	nw6.jpg	Shoe.jpg	BrownShoe_2.jpg	Match
+STIM	Text	Correct!	32.5697	practice	V_Non	164	nw6.jpg	Shoe.jpg	BrownShoe_2.jpg	Match
+STIM	Blank		33.5742	practice	V_Non	164	nw6.jpg	Shoe.jpg	BrownShoe_2.jpg	Match
+STIM	Blank	ISI	34.0765	practice	V_Non	78	nw5.jpg	Flag.jpg	GreenNote_1.jpg	NoMatch
+STIM	Matrix	Initial	34.6624	practice	V_Non	78	nw5.jpg	Flag.jpg	GreenNote_1.jpg	NoMatch
+STIM	Blank	ISI_2	35.0642	practice	V_Non	78	nw5.jpg	Flag.jpg	GreenNote_1.jpg	NoMatch
+STIM	Matrix	Critical	35.3655	practice	V_Non	78	nw5.jpg	Flag.jpg	GreenNote_1.jpg	NoMatch
+STIM	Blank	ISI_3	35.7674	practice	V_Non	78	nw5.jpg	Flag.jpg	GreenNote_1.jpg	NoMatch
+STIM	Matrix	Target	36.0687	practice	V_Non	78	nw5.jpg	Flag.jpg	GreenNote_1.jpg	NoMatch
+STIM	Cleanup		36.7384
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:14:31
+
+START	87712.8339		0
+STIM	Blank		0.026679
+STIM	Paragraph	Press any key to begin.	1.0144
+STIM	Blank		5.8863
+STIM	Blank	ISI	6.3718	practice	V_Comp	24	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Matrix	Initial	6.9577	practice	V_Comp	24	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Blank	ISI_2	7.3595	practice	V_Comp	24	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Matrix	Critical	7.6609	practice	V_Comp	24	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Blank	ISI_3	8.0627	practice	V_Comp	24	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Matrix	Target	8.364	practice	V_Comp	24	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Blank	Response_Catcher	8.7323	practice	V_Comp	24	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Blank	ITI	8.8328	practice	V_Comp	24	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Text	Incorrect.	9.2346	practice	V_Comp	24	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Blank		10.2224	practice	V_Comp	24	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Blank	ISI	10.7079	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Matrix	Initial	11.344	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Blank	ISI_2	11.7291	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Matrix	Critical	12.0304	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Blank	ISI_3	12.4323	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Matrix	Target	12.7336	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	13.2191	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Blank	ITI	13.3196	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Text	Correct!	13.7213	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Blank		14.7091	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Blank		15.1946	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Paragraph	Press any key to begin.	15.6802	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Blank		16.2661	practice	V_Non	19	nw1.jpg	Bow.jpg	BlueStar_3.jpg	NoMatch
+STIM	Blank	ISI	16.7516	practice	V_Comp	193	Black.jpg	Bone.jpg	BlackBone_3.jpg	Match
+STIM	Matrix	Initial	17.3543	practice	V_Comp	193	Black.jpg	Bone.jpg	BlackBone_3.jpg	Match
+STIM	Blank	ISI_2	17.7561	practice	V_Comp	193	Black.jpg	Bone.jpg	BlackBone_3.jpg	Match
+STIM	Matrix	Critical	18.0575	practice	V_Comp	193	Black.jpg	Bone.jpg	BlackBone_3.jpg	Match
+STIM	Blank	ISI_3	18.4592	practice	V_Comp	193	Black.jpg	Bone.jpg	BlackBone_3.jpg	Match
+STIM	Matrix	Target	18.7606	practice	V_Comp	193	Black.jpg	Bone.jpg	BlackBone_3.jpg	Match
+STIM	Blank	Response_Catcher	19.2795	practice	V_Comp	193	Black.jpg	Bone.jpg	BlackBone_3.jpg	Match
+STIM	Blank	ITI	19.38	practice	V_Comp	193	Black.jpg	Bone.jpg	BlackBone_3.jpg	Match
+STIM	Blank	ISI	20.0832	practice	V_Comp	72	Blue.jpg	Cross.jpg	BlueCross_3.jpg	Match
+STIM	Matrix	Initial	20.6859	practice	V_Comp	72	Blue.jpg	Cross.jpg	BlueCross_3.jpg	Match
+STIM	Blank	ISI_2	21.0877	practice	V_Comp	72	Blue.jpg	Cross.jpg	BlueCross_3.jpg	Match
+STIM	Matrix	Critical	21.3723	practice	V_Comp	72	Blue.jpg	Cross.jpg	BlueCross_3.jpg	Match
+STIM	Blank	ISI_3	21.7741	practice	V_Comp	72	Blue.jpg	Cross.jpg	BlueCross_3.jpg	Match
+STIM	Matrix	Target	22.0755	practice	V_Comp	72	Blue.jpg	Cross.jpg	BlueCross_3.jpg	Match
+STIM	Blank	Response_Catcher	22.8623	practice	V_Comp	72	Blue.jpg	Cross.jpg	BlueCross_3.jpg	Match
+STIM	Blank	ITI	22.9628	practice	V_Comp	72	Blue.jpg	Cross.jpg	BlueCross_3.jpg	Match
+STIM	Paragraph	Press any key to continue	23.4148	practice	V_Comp	72	Blue.jpg	Cross.jpg	BlueCross_3.jpg	Match
+STIM	Cleanup		29.4083
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:15:07
+
+START	87748.827		0
+STIM	Blank		0.02811
+STIM	Paragraph	Press any key to begin.	1.0159
+STIM	Blank		2.3719
+STIM	Blank	ISI	2.8574	practice	V_Comp	150	Pink.jpg	House.jpg	BrownHouse_3.jpg	NoMatch
+STIM	Matrix	Initial	3.4602	practice	V_Comp	150	Pink.jpg	House.jpg	BrownHouse_3.jpg	NoMatch
+STIM	Blank	ISI_2	3.8452	practice	V_Comp	150	Pink.jpg	House.jpg	BrownHouse_3.jpg	NoMatch
+STIM	Matrix	Critical	4.1466	practice	V_Comp	150	Pink.jpg	House.jpg	BrownHouse_3.jpg	NoMatch
+STIM	Blank	ISI_3	4.5483	practice	V_Comp	150	Pink.jpg	House.jpg	BrownHouse_3.jpg	NoMatch
+STIM	Matrix	Target	4.8497	practice	V_Comp	150	Pink.jpg	House.jpg	BrownHouse_3.jpg	NoMatch
+STIM	Cleanup		9.7215
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:17:45
+
+START	87906.7048		0
+STIM	Blank		0.02428
+STIM	Paragraph	Press any key to begin.	1.012
+STIM	Blank		1.9495
+STIM	Blank	ISI	2.4351	practice	V_Non	39	nw1.jpg	Tree.jpg	RedTree_3.jpg	Match
+STIM	Matrix	Initial	3.021	practice	V_Non	39	nw1.jpg	Tree.jpg	RedTree_3.jpg	Match
+STIM	Blank	ISI_2	3.4228	practice	V_Non	39	nw1.jpg	Tree.jpg	RedTree_3.jpg	Match
+STIM	Matrix	Critical	3.7242	practice	V_Non	39	nw1.jpg	Tree.jpg	RedTree_3.jpg	Match
+STIM	Blank	ISI_3	4.126	practice	V_Non	39	nw1.jpg	Tree.jpg	RedTree_3.jpg	Match
+STIM	Matrix	Target	4.4273	practice	V_Non	39	nw1.jpg	Tree.jpg	RedTree_3.jpg	Match
+STIM	Cleanup		5.1472
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:18:11
+
+START	87933.0036		0
+STIM	Blank		0.026651
+STIM	Paragraph	Press any key to begin.	1.0144
+STIM	Blank		1.433
+STIM	Text	+	1.9185	practice	V_Non	199	nw2.jpg	Key.jpg	BlueKey_1.jpg	Match
+STIM	Blank	ISI	2.2031	practice	V_Non	199	nw2.jpg	Key.jpg	BlueKey_1.jpg	Match
+STIM	Matrix	Initial	2.5044	practice	V_Non	199	nw2.jpg	Key.jpg	BlueKey_1.jpg	Match
+STIM	Blank	ISI_2	2.9062	practice	V_Non	199	nw2.jpg	Key.jpg	BlueKey_1.jpg	Match
+STIM	Matrix	Critical	3.2076	practice	V_Non	199	nw2.jpg	Key.jpg	BlueKey_1.jpg	Match
+STIM	Blank	ISI_3	3.6093	practice	V_Non	199	nw2.jpg	Key.jpg	BlueKey_1.jpg	Match
+STIM	Matrix	Target	3.9107	practice	V_Non	199	nw2.jpg	Key.jpg	BlueKey_1.jpg	Match
+STIM	Cleanup		4.731
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:18:44
+
+START	87965.3653		0
+STIM	Blank		0.026605
+STIM	Paragraph	Press any key to begin.	1.0144
+STIM	Blank		1.6003
+STIM	Text	+	2.0858	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Blank	ISI	2.3703	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Matrix	Initial	2.6717	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Blank	ISI_2	3.0735	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Matrix	Critical	3.375	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Blank	ISI_3	3.7767	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Matrix	Target	4.0781	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	4.5301	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Blank	ITI	4.6306	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Text	Correct!	5.0156	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Blank		6.0034	practice	V_Comp	1	Red.jpg	Bag.jpg	BlueBag_3.jpg	NoMatch
+STIM	Text	+	6.4889	practice	V_Comp	160	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Blank	ISI	6.8237	practice	V_Comp	160	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Matrix	Initial	7.1083	practice	V_Comp	160	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Blank	ISI_2	7.5101	practice	V_Comp	160	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Matrix	Critical	7.8115	practice	V_Comp	160	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Blank	ISI_3	8.2132	practice	V_Comp	160	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Matrix	Target	8.5146	practice	V_Comp	160	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Cleanup		8.9666
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:19:57
+
+START	88038.4097		0
+STIM	Blank		0.026022
+STIM	Paragraph	Press any key to begin.	1.0305
+STIM	Blank		2.3364
+STIM	Text	+	2.8386	practice	V_Non	60	nw4.jpg	Bag.jpg	BlackBag_3.jpg	Match
+STIM	Blank	ISI	3.1232	practice	V_Non	60	nw4.jpg	Bag.jpg	BlackBag_3.jpg	Match
+STIM	Matrix	Initial	3.4246	practice	V_Non	60	nw4.jpg	Bag.jpg	BlackBag_3.jpg	Match
+STIM	Blank	ISI_2	3.8096	practice	V_Non	60	nw4.jpg	Bag.jpg	BlackBag_3.jpg	Match
+STIM	Matrix	Critical	4.111	practice	V_Non	60	nw4.jpg	Bag.jpg	BlackBag_3.jpg	Match
+STIM	Blank	ISI_3	4.5128	practice	V_Non	60	nw4.jpg	Bag.jpg	BlackBag_3.jpg	Match
+STIM	Matrix	Target	4.8141	practice	V_Non	60	nw4.jpg	Bag.jpg	BlackBag_3.jpg	Match
+STIM	Cleanup		6.0865
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:20:34
+
+START	88075.9585		0
+STIM	Blank		0.028769
+STIM	Paragraph	Press any key to begin.	1.0333
+STIM	Blank		2.1215
+STIM	Cleanup		69.1886
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:22:52
+
+START	88214.1466		0
+STIM	Blank		0.026424
+STIM	Paragraph	Press any key to begin.	1.0309
+STIM	Blank		1.5667
+STIM	Text	+	2.0689	practice	V_Comp	103	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Blank	ISI	2.3535	practice	V_Comp	103	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Matrix	Initial	2.6549	practice	V_Comp	103	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Blank	ISI_2	3.0567	practice	V_Comp	103	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Matrix	Critical	3.358	practice	V_Comp	103	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Blank	ISI_3	3.7431	practice	V_Comp	103	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Matrix	Target	4.0612	practice	V_Comp	103	Black.jpg	Bag.jpg	BlackBag_1.jpg	Match
+STIM	Cleanup		4.4127
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:23:20
+
+START	88242.2413		0
+STIM	Blank		0.041017
+STIM	Paragraph	Press any key to begin.	1.0455
+STIM	Blank		1.5143
+STIM	Cleanup		56.2093
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:24:28
+
+START	88309.5909		0
+STIM	Blank		0.026426
+STIM	Paragraph	Press any key to begin.	1.0309
+STIM	Blank		2.3368
+STIM	Cleanup		26.7461
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:25:51
+
+START	88392.5961		0
+STIM	Blank		0.026457
+STIM	Paragraph	Press any key to begin.	1.0309
+STIM	Blank		2.0689
+STIM	Cleanup		61.9037
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:29:10
+
+START	88592.2927		0
+STIM	Blank		0.041176
+STIM	Paragraph	Press any key to begin.	1.0457
+STIM	Blank		1.6651
+STIM	Text	+	2.1674	practice	V_Non	97	nw2.jpg	Plane.jpg	BluePlane_1.jpg	Match
+STIM	Blank	ISI	2.4352	practice	V_Non	97	nw2.jpg	Plane.jpg	BluePlane_1.jpg	Match
+STIM	Matrix	Initial	2.7366	practice	V_Non	97	nw2.jpg	Plane.jpg	BluePlane_1.jpg	Match
+STIM	Blank	ISI_2	3.1384	practice	V_Non	97	nw2.jpg	Plane.jpg	BluePlane_1.jpg	Match
+STIM	Matrix	Critical	3.4397	practice	V_Non	97	nw2.jpg	Plane.jpg	BluePlane_1.jpg	Match
+STIM	Blank	ISI_3	3.8416	practice	V_Non	97	nw2.jpg	Plane.jpg	BluePlane_1.jpg	Match
+STIM	Matrix	Target	4.1429	practice	V_Non	97	nw2.jpg	Plane.jpg	BluePlane_1.jpg	Match
+STIM	Cleanup		4.7121
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:29:40
+
+START	88622.2753		0
+STIM	Blank		0.042908
+STIM	Paragraph	Press any key to begin.	1.0474
+STIM	Blank		1.9347
+STIM	Text	+	2.4537	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Blank	ISI	2.7216	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Matrix	Initial	3.0229	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Blank	ISI_2	3.4247	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Matrix	Critical	3.7261	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Blank	ISI_3	4.1111	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Matrix	Target	4.4125	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	4.8143	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Blank	ITI	4.9147	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Text	Correct!	5.3835	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Blank		6.388	practice	V_Comp	141	Black.jpg	Car.jpg	BrownCar_3.jpg	NoMatch
+STIM	Text	+	6.8902	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Blank	ISI	7.1748	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Matrix	Initial	7.4762	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Blank	ISI_2	7.878	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Matrix	Critical	8.1794	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Blank	ISI_3	8.5811	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Matrix	Target	8.8825	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Blank	Response_Catcher	9.4015	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Blank	ITI	9.502	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Text	Correct!	9.9707	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Blank		10.9752	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Blank		11.4775	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Paragraph	Press any key to begin.	11.9797	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Blank		12.4652	practice	V_Comp	151	Brown.jpg	Cane.jpg	BrownCane_3.jpg	Match
+STIM	Text	+	12.9675	practice	V_Non	73	nw1.jpg	Boat.jpg	GreenCup_3.jpg	NoMatch
+STIM	Blank	ISI	13.2521	practice	V_Non	73	nw1.jpg	Boat.jpg	GreenCup_3.jpg	NoMatch
+STIM	Matrix	Initial	13.5367	practice	V_Non	73	nw1.jpg	Boat.jpg	GreenCup_3.jpg	NoMatch
+STIM	Blank	ISI_2	13.9385	practice	V_Non	73	nw1.jpg	Boat.jpg	GreenCup_3.jpg	NoMatch
+STIM	Matrix	Critical	14.2398	practice	V_Non	73	nw1.jpg	Boat.jpg	GreenCup_3.jpg	NoMatch
+STIM	Blank	ISI_3	14.6416	practice	V_Non	73	nw1.jpg	Boat.jpg	GreenCup_3.jpg	NoMatch
+STIM	Matrix	Target	14.943	practice	V_Non	73	nw1.jpg	Boat.jpg	GreenCup_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	15.4452	practice	V_Non	73	nw1.jpg	Boat.jpg	GreenCup_3.jpg	NoMatch
+STIM	Blank	ITI	15.5457	practice	V_Non	73	nw1.jpg	Boat.jpg	GreenCup_3.jpg	NoMatch
+STIM	Text	+	15.981	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank	ISI	16.2823	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Matrix	Initial	16.5837	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank	ISI_2	16.9855	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Matrix	Critical	17.2868	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank	ISI_3	17.6886	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Matrix	Target	17.99	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	18.5257	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank	ITI	18.6262	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Paragraph	Press any key to continue	19.3126	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank		19.8148	practice	V_Comp	133	Green.jpg	Bow.jpg	BlueBow_2.jpg	NoMatch
+STIM	Cleanup		20.3171
+
+----------------------------------------------------------------------------
+Started at: 08-Jul-2010 16:30:19
+
+START	88660.3647		0
+STIM	Blank		0.040816
+STIM	Paragraph	Press any key to begin.	1.0453
+STIM	Blank		1.7485
+STIM	Text	+	2.2507	practice	V_Non_2	92	nw5.jpg	Lock.jpg	PinkBoat_2.jpg	NoMatch
+STIM	Blank	ISI	2.5186	practice	V_Non_2	92	nw5.jpg	Lock.jpg	PinkBoat_2.jpg	NoMatch
+STIM	Matrix	Initial	2.8199	practice	V_Non_2	92	nw5.jpg	Lock.jpg	PinkBoat_2.jpg	NoMatch
+STIM	Blank	ISI_2	3.2217	practice	V_Non_2	92	nw5.jpg	Lock.jpg	PinkBoat_2.jpg	NoMatch
+STIM	Matrix	Critical	3.5231	practice	V_Non_2	92	nw5.jpg	Lock.jpg	PinkBoat_2.jpg	NoMatch
+STIM	Blank	ISI_3	3.9249	practice	V_Non_2	92	nw5.jpg	Lock.jpg	PinkBoat_2.jpg	NoMatch
+STIM	Matrix	Target	4.2262	practice	V_Non_2	92	nw5.jpg	Lock.jpg	PinkBoat_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	4.6783	practice	V_Non_2	92	nw5.jpg	Lock.jpg	PinkBoat_2.jpg	NoMatch
+STIM	Blank	ITI	4.7787	practice	V_Non_2	92	nw5.jpg	Lock.jpg	PinkBoat_2.jpg	NoMatch
+STIM	Text	+	5.3647	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Blank	ISI	5.666	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Matrix	Initial	5.9674	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Blank	ISI_2	6.3692	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Matrix	Critical	6.6538	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Blank	ISI_3	7.0556	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Matrix	Target	7.3569	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Blank	Response_Catcher	7.9094	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Blank	ITI	8.0099	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Paragraph	Press any key to continue	8.4284	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Blank		8.9139	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	9.4162	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Blank	Trigger warning	10.1696	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Paragraph	Please lie still as we start the recording.	10.27	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Paragraph	Press any key to begin.	11.4084	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Paragraph	Press any key to begin.	11.9776	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Blank		12.3627	practice	V_List	155	Disc.jpg	Cup.jpg	BlueDisc_2.jpg	Match
+STIM	Text	+	12.8649	experiment	V_List	1	Bone.jpg	Boat.jpg	BrownLeaf_1.jpg	NoMatch
+STIM	Blank	ISI	13.1496	experiment	V_List	1	Bone.jpg	Boat.jpg	BrownLeaf_1.jpg	NoMatch
+STIM	Matrix	Initial	13.4509	experiment	V_List	1	Bone.jpg	Boat.jpg	BrownLeaf_1.jpg	NoMatch
+STIM	Blank	ISI_2	13.836	experiment	V_List	1	Bone.jpg	Boat.jpg	BrownLeaf_1.jpg	NoMatch
+STIM	Matrix	Critical	14.1373	experiment	V_List	1	Bone.jpg	Boat.jpg	BrownLeaf_1.jpg	NoMatch
+STIM	Blank	ISI_3	14.5391	experiment	V_List	1	Bone.jpg	Boat.jpg	BrownLeaf_1.jpg	NoMatch
+STIM	Matrix	Target	14.8405	experiment	V_List	1	Bone.jpg	Boat.jpg	BrownLeaf_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	15.4432	experiment	V_List	1	Bone.jpg	Boat.jpg	BrownLeaf_1.jpg	NoMatch
+STIM	Blank	ITI	15.5436	experiment	V_List	1	Bone.jpg	Boat.jpg	BrownLeaf_1.jpg	NoMatch
+STIM	Text	+	15.9622	experiment	V_Non_2	2	nw3.jpg	Leaf.jpg	BlueShoe_2.jpg	NoMatch
+STIM	Blank	ISI	16.2635	experiment	V_Non_2	2	nw3.jpg	Leaf.jpg	BlueShoe_2.jpg	NoMatch
+STIM	Matrix	Initial	16.5648	experiment	V_Non_2	2	nw3.jpg	Leaf.jpg	BlueShoe_2.jpg	NoMatch
+STIM	Blank	ISI_2	16.9667	experiment	V_Non_2	2	nw3.jpg	Leaf.jpg	BlueShoe_2.jpg	NoMatch
+STIM	Matrix	Critical	17.268	experiment	V_Non_2	2	nw3.jpg	Leaf.jpg	BlueShoe_2.jpg	NoMatch
+STIM	Blank	ISI_3	17.6531	experiment	V_Non_2	2	nw3.jpg	Leaf.jpg	BlueShoe_2.jpg	NoMatch
+STIM	Matrix	Target	17.9544	experiment	V_Non_2	2	nw3.jpg	Leaf.jpg	BlueShoe_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	18.4232	experiment	V_Non_2	2	nw3.jpg	Leaf.jpg	BlueShoe_2.jpg	NoMatch
+STIM	Blank	ITI	18.5236	experiment	V_Non_2	2	nw3.jpg	Leaf.jpg	BlueShoe_2.jpg	NoMatch
+STIM	Text	+	18.9087	experiment	V_List	3	Cane.jpg	Bow.jpg	BlackFlag_1.jpg	NoMatch
+STIM	Blank	ISI	19.1933	experiment	V_List	3	Cane.jpg	Bow.jpg	BlackFlag_1.jpg	NoMatch
+STIM	Matrix	Initial	19.4946	experiment	V_List	3	Cane.jpg	Bow.jpg	BlackFlag_1.jpg	NoMatch
+STIM	Blank	ISI_2	19.8964	experiment	V_List	3	Cane.jpg	Bow.jpg	BlackFlag_1.jpg	NoMatch
+STIM	Matrix	Critical	20.1978	experiment	V_List	3	Cane.jpg	Bow.jpg	BlackFlag_1.jpg	NoMatch
+STIM	Blank	ISI_3	20.5996	experiment	V_List	3	Cane.jpg	Bow.jpg	BlackFlag_1.jpg	NoMatch
+STIM	Matrix	Target	20.9009	experiment	V_List	3	Cane.jpg	Bow.jpg	BlackFlag_1.jpg	NoMatch
+STIM	Cleanup		22.0226
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 10:34:09
+
+START	6482.7211		0
+STIM	Blank		0.080414
+STIM	Paragraph	Press any key to begin.	1.0849
+STIM	Blank		6.8608
+STIM	Text	+	7.363	practice	V_Comp	124	Black.jpg	Cross.jpg	BrownCross_2.jpg	NoMatch
+STIM	Blank	ISI	7.6476	practice	V_Comp	124	Black.jpg	Cross.jpg	BrownCross_2.jpg	NoMatch
+STIM	Matrix	Initial	7.949	practice	V_Comp	124	Black.jpg	Cross.jpg	BrownCross_2.jpg	NoMatch
+STIM	Blank	ISI_2	8.2503	practice	V_Comp	124	Black.jpg	Cross.jpg	BrownCross_2.jpg	NoMatch
+STIM	Matrix	Critical	8.5517	practice	V_Comp	124	Black.jpg	Cross.jpg	BrownCross_2.jpg	NoMatch
+STIM	Blank	ISI_3	8.8363	practice	V_Comp	124	Black.jpg	Cross.jpg	BrownCross_2.jpg	NoMatch
+STIM	Matrix	Target	9.1376	practice	V_Comp	124	Black.jpg	Cross.jpg	BrownCross_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	9.8241	practice	V_Comp	124	Black.jpg	Cross.jpg	BrownCross_2.jpg	NoMatch
+STIM	Blank	ITI	9.9245	practice	V_Comp	124	Black.jpg	Cross.jpg	BrownCross_2.jpg	NoMatch
+STIM	Text	+	10.3263	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Blank	ISI	10.6277	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Matrix	Initial	10.929	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Blank	ISI_2	11.2136	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Matrix	Critical	11.515	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Blank	ISI_3	11.8163	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Matrix	Target	12.1177	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	14.5117	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Blank	ITI	14.6122	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Paragraph	Press any key to continue	15.014	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Blank		15.6502	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	16.1524	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Blank	Trigger warning	16.6881	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Paragraph	Please lie still as we start the recording.	16.7886	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Paragraph	Press any key to begin.	17.8266	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Paragraph	Press any key to begin.	18.3456	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Blank		18.6804	practice	V_Comp	140	Black.jpg	Fork.jpg	BlackBell_3.jpg	NoMatch
+STIM	Text	+	19.1826	experiment	V_Comp	1	Green.jpg	Disc.jpg	GreenDisc_3.jpg	Match
+STIM	Blank	ISI	19.4673	experiment	V_Comp	1	Green.jpg	Disc.jpg	GreenDisc_3.jpg	Match
+STIM	Matrix	Initial	19.7686	experiment	V_Comp	1	Green.jpg	Disc.jpg	GreenDisc_3.jpg	Match
+STIM	Blank	ISI_2	20.0699	experiment	V_Comp	1	Green.jpg	Disc.jpg	GreenDisc_3.jpg	Match
+STIM	Matrix	Critical	20.3713	experiment	V_Comp	1	Green.jpg	Disc.jpg	GreenDisc_3.jpg	Match
+STIM	Blank	ISI_3	20.6727	experiment	V_Comp	1	Green.jpg	Disc.jpg	GreenDisc_3.jpg	Match
+STIM	Matrix	Target	20.974	experiment	V_Comp	1	Green.jpg	Disc.jpg	GreenDisc_3.jpg	Match
+STIM	Blank	Response_Catcher	21.426	experiment	V_Comp	1	Green.jpg	Disc.jpg	GreenDisc_3.jpg	Match
+STIM	Blank	ITI	21.5265	experiment	V_Comp	1	Green.jpg	Disc.jpg	GreenDisc_3.jpg	Match
+STIM	Text	+	22.0622	experiment	V_Non	2	nw4.jpg	Heart.jpg	RedCar_3.jpg	NoMatch
+STIM	Blank	ISI	22.3468	experiment	V_Non	2	nw4.jpg	Heart.jpg	RedCar_3.jpg	NoMatch
+STIM	Matrix	Initial	22.6482	experiment	V_Non	2	nw4.jpg	Heart.jpg	RedCar_3.jpg	NoMatch
+STIM	Blank	ISI_2	22.9495	experiment	V_Non	2	nw4.jpg	Heart.jpg	RedCar_3.jpg	NoMatch
+STIM	Matrix	Critical	23.2509	experiment	V_Non	2	nw4.jpg	Heart.jpg	RedCar_3.jpg	NoMatch
+STIM	Blank	ISI_3	23.5522	experiment	V_Non	2	nw4.jpg	Heart.jpg	RedCar_3.jpg	NoMatch
+STIM	Matrix	Target	23.8536	experiment	V_Non	2	nw4.jpg	Heart.jpg	RedCar_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	24.2721	experiment	V_Non	2	nw4.jpg	Heart.jpg	RedCar_3.jpg	NoMatch
+STIM	Blank	ITI	24.3726	experiment	V_Non	2	nw4.jpg	Heart.jpg	RedCar_3.jpg	NoMatch
+STIM	Text	+	24.8581	experiment	V_Comp	3	Blue.jpg	Lamp.jpg	BlueLamp_1.jpg	Match
+STIM	Blank	ISI	25.1594	experiment	V_Comp	3	Blue.jpg	Lamp.jpg	BlueLamp_1.jpg	Match
+STIM	Matrix	Initial	25.4608	experiment	V_Comp	3	Blue.jpg	Lamp.jpg	BlueLamp_1.jpg	Match
+STIM	Blank	ISI_2	25.7454	experiment	V_Comp	3	Blue.jpg	Lamp.jpg	BlueLamp_1.jpg	Match
+STIM	Matrix	Critical	26.0467	experiment	V_Comp	3	Blue.jpg	Lamp.jpg	BlueLamp_1.jpg	Match
+STIM	Blank	ISI_3	26.3481	experiment	V_Comp	3	Blue.jpg	Lamp.jpg	BlueLamp_1.jpg	Match
+STIM	Matrix	Target	26.6494	experiment	V_Comp	3	Blue.jpg	Lamp.jpg	BlueLamp_1.jpg	Match
+STIM	Blank	Response_Catcher	27.1015	experiment	V_Comp	3	Blue.jpg	Lamp.jpg	BlueLamp_1.jpg	Match
+STIM	Blank	ITI	27.2019	experiment	V_Comp	3	Blue.jpg	Lamp.jpg	BlueLamp_1.jpg	Match
+STIM	Text	+	27.6539	experiment	V_Non	4	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank	ISI	27.9553	experiment	V_Non	4	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Matrix	Initial	28.2566	experiment	V_Non	4	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank	ISI_2	28.558	experiment	V_Non	4	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Matrix	Critical	28.8426	experiment	V_Non	4	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank	ISI_3	29.144	experiment	V_Non	4	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Matrix	Target	29.4453	experiment	V_Non	4	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank	Response_Catcher	29.914	experiment	V_Non	4	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Blank	ITI	30.0145	experiment	V_Non	4	nw5.jpg	Hand.jpg	GreenHand_2.jpg	Match
+STIM	Text	+	30.6339	experiment	V_Non	5	nw6.jpg	Square.jpg	RedLock_2.jpg	NoMatch
+STIM	Blank	ISI	30.9353	experiment	V_Non	5	nw6.jpg	Square.jpg	RedLock_2.jpg	NoMatch
+STIM	Matrix	Initial	31.2367	experiment	V_Non	5	nw6.jpg	Square.jpg	RedLock_2.jpg	NoMatch
+STIM	Blank	ISI_2	31.538	experiment	V_Non	5	nw6.jpg	Square.jpg	RedLock_2.jpg	NoMatch
+STIM	Matrix	Critical	31.8226	experiment	V_Non	5	nw6.jpg	Square.jpg	RedLock_2.jpg	NoMatch
+STIM	Blank	ISI_3	32.124	experiment	V_Non	5	nw6.jpg	Square.jpg	RedLock_2.jpg	NoMatch
+STIM	Matrix	Target	32.4253	experiment	V_Non	5	nw6.jpg	Square.jpg	RedLock_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	33.1285	experiment	V_Non	5	nw6.jpg	Square.jpg	RedLock_2.jpg	NoMatch
+STIM	Blank	ITI	33.2289	experiment	V_Non	5	nw6.jpg	Square.jpg	RedLock_2.jpg	NoMatch
+STIM	Text	+	33.8818	experiment	V_Comp	6	Green.jpg	Plane.jpg	GreenLeaf_3.jpg	NoMatch
+STIM	Blank	ISI	34.1832	experiment	V_Comp	6	Green.jpg	Plane.jpg	GreenLeaf_3.jpg	NoMatch
+STIM	Matrix	Initial	34.4845	experiment	V_Comp	6	Green.jpg	Plane.jpg	GreenLeaf_3.jpg	NoMatch
+STIM	Blank	ISI_2	34.7859	experiment	V_Comp	6	Green.jpg	Plane.jpg	GreenLeaf_3.jpg	NoMatch
+STIM	Matrix	Critical	35.0872	experiment	V_Comp	6	Green.jpg	Plane.jpg	GreenLeaf_3.jpg	NoMatch
+STIM	Blank	ISI_3	35.3886	experiment	V_Comp	6	Green.jpg	Plane.jpg	GreenLeaf_3.jpg	NoMatch
+STIM	Matrix	Target	35.6899	experiment	V_Comp	6	Green.jpg	Plane.jpg	GreenLeaf_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	36.2926	experiment	V_Comp	6	Green.jpg	Plane.jpg	GreenLeaf_3.jpg	NoMatch
+STIM	Blank	ITI	36.3931	experiment	V_Comp	6	Green.jpg	Plane.jpg	GreenLeaf_3.jpg	NoMatch
+STIM	Text	+	36.8116	experiment	V_Non	7	nw2.jpg	Bell.jpg	BlueBell_3.jpg	Match
+STIM	Blank	ISI	37.113	experiment	V_Non	7	nw2.jpg	Bell.jpg	BlueBell_3.jpg	Match
+STIM	Matrix	Initial	37.4143	experiment	V_Non	7	nw2.jpg	Bell.jpg	BlueBell_3.jpg	Match
+STIM	Blank	ISI_2	37.7157	experiment	V_Non	7	nw2.jpg	Bell.jpg	BlueBell_3.jpg	Match
+STIM	Matrix	Critical	38.017	experiment	V_Non	7	nw2.jpg	Bell.jpg	BlueBell_3.jpg	Match
+STIM	Blank	ISI_3	38.3184	experiment	V_Non	7	nw2.jpg	Bell.jpg	BlueBell_3.jpg	Match
+STIM	Matrix	Target	38.6197	experiment	V_Non	7	nw2.jpg	Bell.jpg	BlueBell_3.jpg	Match
+STIM	Cleanup		39.9256
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 10:35:19
+
+START	6552.6022		0
+STIM	Blank		0.028846
+STIM	Paragraph	Press any key to begin.	1.0333
+STIM	Blank		1.5021
+STIM	Text	+	2.0044	practice	V_List	112	Heart.jpg	Shoe.jpg	BrownHeart_1.jpg	Match
+STIM	Blank	ISI	2.2722	practice	V_List	112	Heart.jpg	Shoe.jpg	BrownHeart_1.jpg	Match
+STIM	Matrix	Initial	2.5736	practice	V_List	112	Heart.jpg	Shoe.jpg	BrownHeart_1.jpg	Match
+STIM	Blank	ISI_2	2.8749	practice	V_List	112	Heart.jpg	Shoe.jpg	BrownHeart_1.jpg	Match
+STIM	Matrix	Critical	3.1763	practice	V_List	112	Heart.jpg	Shoe.jpg	BrownHeart_1.jpg	Match
+STIM	Blank	ISI_3	3.4776	practice	V_List	112	Heart.jpg	Shoe.jpg	BrownHeart_1.jpg	Match
+STIM	Matrix	Target	3.779	practice	V_List	112	Heart.jpg	Shoe.jpg	BrownHeart_1.jpg	Match
+STIM	Blank	Response_Catcher	4.4152	practice	V_List	112	Heart.jpg	Shoe.jpg	BrownHeart_1.jpg	Match
+STIM	Blank	ITI	4.5156	practice	V_List	112	Heart.jpg	Shoe.jpg	BrownHeart_1.jpg	Match
+STIM	Text	+	4.8504	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Blank	ISI	5.1518	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Matrix	Initial	5.4531	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Blank	ISI_2	5.7545	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Matrix	Critical	6.0558	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Blank	ISI_3	6.3572	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Matrix	Target	6.6585	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	7.2277	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Blank	ITI	7.3282	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Paragraph	Press any key to continue	7.9476	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Blank		8.4666	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	8.9689	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Blank	Trigger warning	9.4711	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Paragraph	Please lie still as we start the recording.	9.5716	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Paragraph	Press any key to begin.	10.9612	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Paragraph	Press any key to begin.	11.5304	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Blank		12.0661	practice	V_List	9	Heart.jpg	Shoe.jpg	RedCup_2.jpg	NoMatch
+STIM	Text	+	12.5684	experiment	V_Non_2	1	nw2.jpg	Square.jpg	BrownHand_1.jpg	NoMatch
+STIM	Blank	ISI	12.853	experiment	V_Non_2	1	nw2.jpg	Square.jpg	BrownHand_1.jpg	NoMatch
+STIM	Matrix	Initial	13.1543	experiment	V_Non_2	1	nw2.jpg	Square.jpg	BrownHand_1.jpg	NoMatch
+STIM	Blank	ISI_2	13.4557	experiment	V_Non_2	1	nw2.jpg	Square.jpg	BrownHand_1.jpg	NoMatch
+STIM	Matrix	Critical	13.757	experiment	V_Non_2	1	nw2.jpg	Square.jpg	BrownHand_1.jpg	NoMatch
+STIM	Blank	ISI_3	14.0416	experiment	V_Non_2	1	nw2.jpg	Square.jpg	BrownHand_1.jpg	NoMatch
+STIM	Matrix	Target	14.343	experiment	V_Non_2	1	nw2.jpg	Square.jpg	BrownHand_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	14.7615	experiment	V_Non_2	1	nw2.jpg	Square.jpg	BrownHand_1.jpg	NoMatch
+STIM	Blank	ITI	14.8619	experiment	V_Non_2	1	nw2.jpg	Square.jpg	BrownHand_1.jpg	NoMatch
+STIM	Text	+	15.2637	experiment	V_List	2	Heart.jpg	Plane.jpg	BrownPlane_3.jpg	Match
+STIM	Blank	ISI	15.5651	experiment	V_List	2	Heart.jpg	Plane.jpg	BrownPlane_3.jpg	Match
+STIM	Matrix	Initial	15.8664	experiment	V_List	2	Heart.jpg	Plane.jpg	BrownPlane_3.jpg	Match
+STIM	Blank	ISI_2	16.1678	experiment	V_List	2	Heart.jpg	Plane.jpg	BrownPlane_3.jpg	Match
+STIM	Matrix	Critical	16.4692	experiment	V_List	2	Heart.jpg	Plane.jpg	BrownPlane_3.jpg	Match
+STIM	Blank	ISI_3	16.7705	experiment	V_List	2	Heart.jpg	Plane.jpg	BrownPlane_3.jpg	Match
+STIM	Matrix	Target	17.0718	experiment	V_List	2	Heart.jpg	Plane.jpg	BrownPlane_3.jpg	Match
+STIM	Blank	Response_Catcher	17.5909	experiment	V_List	2	Heart.jpg	Plane.jpg	BrownPlane_3.jpg	Match
+STIM	Blank	ITI	17.6913	experiment	V_List	2	Heart.jpg	Plane.jpg	BrownPlane_3.jpg	Match
+STIM	Text	+	18.1601	experiment	V_Non_2	3	nw2.jpg	Leaf.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank	ISI	18.4614	experiment	V_Non_2	3	nw2.jpg	Leaf.jpg	BlueBow_2.jpg	NoMatch
+STIM	Matrix	Initial	18.7628	experiment	V_Non_2	3	nw2.jpg	Leaf.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank	ISI_2	19.0641	experiment	V_Non_2	3	nw2.jpg	Leaf.jpg	BlueBow_2.jpg	NoMatch
+STIM	Matrix	Critical	19.3655	experiment	V_Non_2	3	nw2.jpg	Leaf.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank	ISI_3	19.6668	experiment	V_Non_2	3	nw2.jpg	Leaf.jpg	BlueBow_2.jpg	NoMatch
+STIM	Matrix	Target	19.9682	experiment	V_Non_2	3	nw2.jpg	Leaf.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	20.5374	experiment	V_Non_2	3	nw2.jpg	Leaf.jpg	BlueBow_2.jpg	NoMatch
+STIM	Blank	ITI	20.6378	experiment	V_Non_2	3	nw2.jpg	Leaf.jpg	BlueBow_2.jpg	NoMatch
+STIM	Text	+	21.1903	experiment	V_List	4	Lamp.jpg	Flag.jpg	BlackLamp_3.jpg	Match
+STIM	Blank	ISI	21.4917	experiment	V_List	4	Lamp.jpg	Flag.jpg	BlackLamp_3.jpg	Match
+STIM	Matrix	Initial	21.7763	experiment	V_List	4	Lamp.jpg	Flag.jpg	BlackLamp_3.jpg	Match
+STIM	Blank	ISI_2	22.0776	experiment	V_List	4	Lamp.jpg	Flag.jpg	BlackLamp_3.jpg	Match
+STIM	Matrix	Critical	22.379	experiment	V_List	4	Lamp.jpg	Flag.jpg	BlackLamp_3.jpg	Match
+STIM	Blank	ISI_3	22.6803	experiment	V_List	4	Lamp.jpg	Flag.jpg	BlackLamp_3.jpg	Match
+STIM	Matrix	Target	22.9817	experiment	V_List	4	Lamp.jpg	Flag.jpg	BlackLamp_3.jpg	Match
+STIM	Blank	Response_Catcher	23.7853	experiment	V_List	4	Lamp.jpg	Flag.jpg	BlackLamp_3.jpg	Match
+STIM	Blank	ITI	23.8857	experiment	V_List	4	Lamp.jpg	Flag.jpg	BlackLamp_3.jpg	Match
+STIM	Text	+	24.3712	experiment	V_Non_2	5	nw3.jpg	Tree.jpg	PinkTree_2.jpg	Match
+STIM	Blank	ISI	24.6726	experiment	V_Non_2	5	nw3.jpg	Tree.jpg	PinkTree_2.jpg	Match
+STIM	Matrix	Initial	24.9739	experiment	V_Non_2	5	nw3.jpg	Tree.jpg	PinkTree_2.jpg	Match
+STIM	Blank	ISI_2	25.2753	experiment	V_Non_2	5	nw3.jpg	Tree.jpg	PinkTree_2.jpg	Match
+STIM	Matrix	Critical	25.5766	experiment	V_Non_2	5	nw3.jpg	Tree.jpg	PinkTree_2.jpg	Match
+STIM	Blank	ISI_3	25.878	experiment	V_Non_2	5	nw3.jpg	Tree.jpg	PinkTree_2.jpg	Match
+STIM	Matrix	Target	26.1793	experiment	V_Non_2	5	nw3.jpg	Tree.jpg	PinkTree_2.jpg	Match
+STIM	Blank	Response_Catcher	26.6983	experiment	V_Non_2	5	nw3.jpg	Tree.jpg	PinkTree_2.jpg	Match
+STIM	Blank	ITI	26.7988	experiment	V_Non_2	5	nw3.jpg	Tree.jpg	PinkTree_2.jpg	Match
+STIM	Text	+	27.5354	experiment	V_Non_2	6	nw4.jpg	Fork.jpg	GreenCane_1.jpg	NoMatch
+STIM	Blank	ISI	27.8368	experiment	V_Non_2	6	nw4.jpg	Fork.jpg	GreenCane_1.jpg	NoMatch
+STIM	Matrix	Initial	28.1381	experiment	V_Non_2	6	nw4.jpg	Fork.jpg	GreenCane_1.jpg	NoMatch
+STIM	Blank	ISI_2	28.4227	experiment	V_Non_2	6	nw4.jpg	Fork.jpg	GreenCane_1.jpg	NoMatch
+STIM	Matrix	Critical	28.7241	experiment	V_Non_2	6	nw4.jpg	Fork.jpg	GreenCane_1.jpg	NoMatch
+STIM	Blank	ISI_3	29.0254	experiment	V_Non_2	6	nw4.jpg	Fork.jpg	GreenCane_1.jpg	NoMatch
+STIM	Matrix	Target	29.3268	experiment	V_Non_2	6	nw4.jpg	Fork.jpg	GreenCane_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	29.8625	experiment	V_Non_2	6	nw4.jpg	Fork.jpg	GreenCane_1.jpg	NoMatch
+STIM	Blank	ITI	29.9629	experiment	V_Non_2	6	nw4.jpg	Fork.jpg	GreenCane_1.jpg	NoMatch
+STIM	Text	+	30.3145	experiment	V_List	7	Disc.jpg	Star.jpg	BlackLamp_3.jpg	NoMatch
+STIM	Blank	ISI	30.6159	experiment	V_List	7	Disc.jpg	Star.jpg	BlackLamp_3.jpg	NoMatch
+STIM	Matrix	Initial	30.9172	experiment	V_List	7	Disc.jpg	Star.jpg	BlackLamp_3.jpg	NoMatch
+STIM	Blank	ISI_2	31.2018	experiment	V_List	7	Disc.jpg	Star.jpg	BlackLamp_3.jpg	NoMatch
+STIM	Matrix	Critical	31.5032	experiment	V_List	7	Disc.jpg	Star.jpg	BlackLamp_3.jpg	NoMatch
+STIM	Blank	ISI_3	31.8045	experiment	V_List	7	Disc.jpg	Star.jpg	BlackLamp_3.jpg	NoMatch
+STIM	Matrix	Target	32.1059	experiment	V_List	7	Disc.jpg	Star.jpg	BlackLamp_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	32.7755	experiment	V_List	7	Disc.jpg	Star.jpg	BlackLamp_3.jpg	NoMatch
+STIM	Blank	ITI	32.876	experiment	V_List	7	Disc.jpg	Star.jpg	BlackLamp_3.jpg	NoMatch
+STIM	Text	+	33.462	experiment	V_List	8	Heart.jpg	Hand.jpg	BrownHand_1.jpg	Match
+STIM	Blank	ISI	33.7633	experiment	V_List	8	Heart.jpg	Hand.jpg	BrownHand_1.jpg	Match
+STIM	Matrix	Initial	34.0479	experiment	V_List	8	Heart.jpg	Hand.jpg	BrownHand_1.jpg	Match
+STIM	Blank	ISI_2	34.3493	experiment	V_List	8	Heart.jpg	Hand.jpg	BrownHand_1.jpg	Match
+STIM	Matrix	Critical	34.6506	experiment	V_List	8	Heart.jpg	Hand.jpg	BrownHand_1.jpg	Match
+STIM	Blank	ISI_3	34.952	experiment	V_List	8	Heart.jpg	Hand.jpg	BrownHand_1.jpg	Match
+STIM	Matrix	Target	35.2533	experiment	V_List	8	Heart.jpg	Hand.jpg	BrownHand_1.jpg	Match
+STIM	Cleanup		35.5714
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 10:36:08
+
+START	6601.6226		0
+STIM	Blank		0.028017
+STIM	Paragraph	Press any key to begin.	1.0325
+STIM	Blank		1.518
+STIM	Text	+	2.0203	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM	Text	+	2.2881	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6602.6226	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM	Soundfile	Pink.wav	2.8406	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM	Text	+	3.1922	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6602.6226	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM	Soundfile	Cup.wav	3.4935	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM	Text	+	4.1967	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM	Matrix	Target	4.498	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	5.1844	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM	Blank	ITI	5.2849	practice	A_Comp	31	Pink.wav	Cup.wav	PinkNote_3.jpg	NoMatch
+STIM	Text	+	5.8206	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Text	+	6.122	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Soundfile	Black.wav	6.4233	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Text	+	7.026	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Soundfile	Bell.wav	7.3274	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Text	+	8.0305	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Matrix	Target	8.3319	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Blank	Response_Catcher	8.8676	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Blank	ITI	8.9681	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Paragraph	Press any key to continue	9.487	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Blank		10.1902	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	10.6924	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Blank	Trigger warning	11.2282	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Paragraph	Please lie still as we start the recording.	11.3286	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Paragraph	Press any key to begin.	12.2159	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Paragraph	Press any key to begin.	12.668	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Blank		13.0698	practice	A_Comp	152	Black.wav	Bell.wav	BlackBell_2.jpg	Match
+STIM	Text	+	13.572	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM	Text	+	13.8566	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM	Soundfile	nw1.wav	14.158	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM	Text	+	14.7607	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM	Soundfile	Leaf.wav	15.0453	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM	Text	+	15.7484	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM	Matrix	Target	16.0498	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM	Blank	Response_Catcher	16.7027	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM	Blank	ITI	16.8032	experiment	A_Non	1	nw1.wav	Leaf.wav	RedLeaf_3.jpg	Match
+STIM	Text	+	17.2887	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	17.59	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM	Soundfile	Red.wav	17.8914	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	18.4941	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM	Soundfile	Tree.wav	18.7954	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	19.4986	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM	Matrix	Target	19.7832	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	20.3022	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM	Blank	ITI	20.4026	experiment	A_Comp	2	Red.wav	Tree.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	20.8714	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM	Text	+	21.1727	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM	Soundfile	nw3.wav	21.4741	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM	Text	+	22.0768	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM	Soundfile	Plane.wav	22.3781	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM	Text	+	23.0813	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM	Matrix	Target	23.3659	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	23.8347	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM	Blank	ITI	23.9351	experiment	A_Non	3	nw3.wav	Plane.wav	RedTree_3.jpg	NoMatch
+STIM	Text	+	24.5378	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM	Text	+	24.8392	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM	Soundfile	nw6.wav	25.1405	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM	Text	+	25.7265	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM	Soundfile	Cross.wav	26.0278	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM	Text	+	26.731	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM	Matrix	Target	27.0323	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM	Blank	Response_Catcher	27.4844	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM	Blank	ITI	27.5848	experiment	A_Non	4	nw6.wav	Cross.wav	BrownCross_2.jpg	Match
+STIM	Text	+	28.1875	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM	Text	+	28.4889	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM	Soundfile	nw6.wav	28.7902	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM	Text	+	29.3929	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM	Soundfile	Car.wav	29.6943	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM	Text	+	30.3974	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM	Matrix	Target	30.6987	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM	Blank	Response_Catcher	32.3562	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM	Blank	ITI	32.4566	experiment	A_Non	5	nw6.wav	Car.wav	BrownCar_3.jpg	Match
+STIM	Text	+	32.9421	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM	Text	+	33.2435	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM	Soundfile	Blue.wav	33.5448	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM	Text	+	34.1308	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM	Soundfile	Fork.wav	34.4321	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM	Text	+	35.1353	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM	Matrix	Target	35.4366	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM	Blank	Response_Catcher	52.0276	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM	Blank	ITI	52.1281	experiment	A_Comp	6	Blue.wav	Fork.wav	BlueFork_3.jpg	Match
+STIM	Text	+	52.5466	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM	Text	+	52.848	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM	Soundfile	Green.wav	53.1493	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM	Text	+	53.752	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM	Soundfile	Lamp.wav	54.0534	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM	Text	+	54.7398	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM	Matrix	Target	55.0411	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM	Blank	Response_Catcher	55.6104	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM	Blank	ITI	55.7108	experiment	A_Comp	7	Green.wav	Lamp.wav	GreenLamp_2.jpg	Match
+STIM	Text	+	56.1963	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM	Text	+	56.4977	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM	Soundfile	Pink.wav	56.799	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM	Text	+	57.4017	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM	Soundfile	Bag.wav	57.6863	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM	Text	+	58.3895	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM	Matrix	Target	58.6908	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM	Blank	Response_Catcher	59.327	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM	Blank	ITI	59.4274	experiment	A_Comp	8	Pink.wav	Bag.wav	PinkBag_2.jpg	Match
+STIM	Text	+	59.9297	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM	Text	+	60.231	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM	Soundfile	Pink.wav	60.5324	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM	Text	+	61.1184	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM	Soundfile	Disc.wav	61.4197	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM	Text	+	62.1229	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM	Matrix	Target	62.4242	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM	Blank	Response_Catcher	62.826	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM	Blank	ITI	62.9265	experiment	A_Comp	9	Pink.wav	Disc.wav	PinkDisc_1.jpg	Match
+STIM	Text	+	63.4789	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM	Text	+	63.7803	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM	Soundfile	Black.wav	64.0816	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM	Text	+	64.6843	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM	Soundfile	House.wav	64.9857	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM	Text	+	65.6721	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM	Matrix	Target	65.9734	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM	Blank	Response_Catcher	67.0617	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM	Blank	ITI	67.1621	experiment	A_Comp	10	Black.wav	House.wav	BlackHouse_1.jpg	Match
+STIM	Text	+	67.3128	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM	Text	+	67.6141	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM	Soundfile	Blue.wav	67.9155	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM	Text	+	68.5182	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM	Soundfile	Bag.wav	68.8195	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM	Text	+	69.5059	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM	Matrix	Target	69.8073	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM	Blank	Response_Catcher	70.4602	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM	Blank	ITI	70.5607	experiment	A_Comp	11	Blue.wav	Bag.wav	BlueBag_3.jpg	Match
+STIM	Text	+	71.1968	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM	Text	+	71.4982	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM	Soundfile	nw6.wav	71.7995	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM	Text	+	72.4023	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM	Soundfile	Plane.wav	72.7036	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM	Text	+	73.39	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM	Matrix	Target	73.6914	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	74.3945	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM	Blank	ITI	74.495	experiment	A_Non	12	nw6.wav	Plane.wav	BlackCane_1.jpg	NoMatch
+STIM	Text	+	74.813	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Text	+	75.1144	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Soundfile	nw5.wav	75.399	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Text	+	76.0017	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Soundfile	Square.wav	76.303	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Text	+	77.0062	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Matrix	Target	77.3075	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Blank	Response_Catcher	77.5922	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Blank	ITI	77.6926	experiment	A_Non	13	nw5.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Text	+	78.0944	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM	Text	+	78.3958	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM	Soundfile	nw4.wav	78.6804	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM	Text	+	79.2831	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM	Soundfile	Lock.wav	79.5844	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM	Text	+	80.2876	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM	Matrix	Target	80.5889	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM	Blank	Response_Catcher	81.0242	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM	Blank	ITI	81.1246	experiment	A_Non	14	nw4.wav	Lock.wav	BlackLock_1.jpg	Match
+STIM	Text	+	81.4427	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM	Text	+	81.7441	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM	Soundfile	nw1.wav	82.0455	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM	Text	+	82.6481	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM	Soundfile	Shoe.wav	82.9495	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM	Text	+	83.6527	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM	Matrix	Target	83.954	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM	Blank	Response_Catcher	84.925	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM	Blank	ITI	85.0255	experiment	A_Non	15	nw1.wav	Shoe.wav	RedShoe_1.jpg	Match
+STIM	Text	+	85.4273	experiment	A_Comp	16	Red.wav	Shoe.wav	RedBell_2.jpg	NoMatch
+STIM	Text	+	85.7286	experiment	A_Comp	16	Red.wav	Shoe.wav	RedBell_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	16	Red.wav	Shoe.wav	RedBell_2.jpg	NoMatch
+STIM	Soundfile	Red.wav	86.03	experiment	A_Comp	16	Red.wav	Shoe.wav	RedBell_2.jpg	NoMatch
+STIM	Text	+	86.6327	experiment	A_Comp	16	Red.wav	Shoe.wav	RedBell_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6602.6226	experiment	A_Comp	16	Red.wav	Shoe.wav	RedBell_2.jpg	NoMatch
+STIM	Soundfile	Shoe.wav	86.934	experiment	A_Comp	16	Red.wav	Shoe.wav	RedBell_2.jpg	NoMatch
+STIM	Text	+	87.6372	experiment	A_Comp	16	Red.wav	Shoe.wav	RedBell_2.jpg	NoMatch
+STIM	Matrix	Target	87.9385	experiment	A_Comp	16	Red.wav	Shoe.wav	RedBell_2.jpg	NoMatch
+STIM	Cleanup		88.2566
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 10:37:47
+
+START	6700.5829		0
+STIM	Blank		0.027733
+STIM	Paragraph	Press any key to begin.	1.0322
+STIM	Blank		1.6684
+STIM	Text	+	2.1707	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM	Text	+	2.4385	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM	Soundfile	Disc.wav	2.7399	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM	Text	+	3.3426	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM	Soundfile	Bone.wav	3.6439	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM	Text	+	4.3471	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM	Matrix	Target	4.6484	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	5.8706	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM	Blank	ITI	5.971	practice	A_List	60	Disc.wav	Bone.wav	BlackStar_2.jpg	NoMatch
+STIM	Text	+	6.3728	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Text	+	6.6742	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Soundfile	nw1.wav	6.9755	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Text	+	7.5782	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Soundfile	House.wav	7.8796	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Text	+	8.5827	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Matrix	Target	8.8841	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	9.3863	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Blank	ITI	9.4868	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Paragraph	Press any key to continue	10.0058	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Blank		10.7926	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	11.2949	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Blank	Trigger warning	11.8474	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Paragraph	Please lie still as we start the recording.	11.9478	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Paragraph	Press any key to begin.	12.6007	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Paragraph	Press any key to begin.	13.0862	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Blank		13.488	practice	A_Non_2	48	nw1.wav	House.wav	GreenDisc_1.jpg	NoMatch
+STIM	Text	+	13.9903	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Text	+	14.2749	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Soundfile	Cane.wav	14.5762	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Text	+	15.1789	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Soundfile	Square.wav	15.4636	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Text	+	16.1667	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Matrix	Target	16.4681	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	17.0038	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Blank	ITI	17.1042	experiment	A_List	1	Cane.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Text	+	17.7739	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM	Text	+	18.0753	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM	Soundfile	nw5.wav	18.3766	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM	Text	+	18.9625	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM	Soundfile	Flag.wav	19.2639	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM	Text	+	19.967	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM	Matrix	Target	20.2684	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM	Blank	Response_Catcher	20.6869	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM	Blank	ITI	20.7874	experiment	A_Non_2	2	nw5.wav	Flag.wav	GreenFlag_2.jpg	Match
+STIM	Text	+	21.2729	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	21.5743	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM	Soundfile	Disc.wav	21.8756	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	22.4616	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM	Soundfile	Heart.wav	22.7629	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	23.466	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM	Matrix	Target	23.7674	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	24.3032	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM	Blank	ITI	24.4036	experiment	A_List	3	Disc.wav	Heart.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	24.7719	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM	Text	+	25.0733	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM	Soundfile	nw6.wav	25.3746	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM	Text	+	25.9606	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM	Soundfile	Hand.wav	26.2619	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM	Text	+	26.9651	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM	Matrix	Target	27.2664	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM	Blank	Response_Catcher	27.6682	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM	Blank	ITI	27.7687	experiment	A_Non_2	4	nw6.wav	Hand.wav	BrownHand_3.jpg	Match
+STIM	Text	+	28.2374	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM	Text	+	28.5388	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM	Soundfile	Cane.wav	28.8234	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM	Text	+	29.4261	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM	Soundfile	Boat.wav	29.7275	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM	Text	+	30.4306	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM	Matrix	Target	30.7319	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	31.2509	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM	Blank	ITI	31.3514	experiment	A_List	5	Cane.wav	Boat.wav	GreenHand_1.jpg	NoMatch
+STIM	Text	+	31.7532	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM	Text	+	32.0545	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM	Soundfile	nw5.wav	32.3559	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM	Text	+	32.9419	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM	Soundfile	Car.wav	33.2432	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM	Text	+	33.9464	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM	Matrix	Target	34.2477	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	34.8337	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM	Blank	ITI	34.9341	experiment	A_Non_2	6	nw5.wav	Car.wav	BlueCup_3.jpg	NoMatch
+STIM	Text	+	35.4531	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM	Text	+	35.7544	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM	Soundfile	Lamp.wav	36.0558	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM	Text	+	36.6418	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM	Soundfile	Square.wav	36.9431	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM	Text	+	37.6463	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM	Matrix	Target	37.9476	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	38.5503	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM	Blank	ITI	38.6507	experiment	A_List	7	Lamp.wav	Square.wav	RedBone_2.jpg	NoMatch
+STIM	Text	+	39.1865	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM	Text	+	39.4878	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM	Soundfile	nw5.wav	39.7892	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM	Text	+	40.3919	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM	Soundfile	Tree.wav	40.6932	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM	Text	+	41.3797	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM	Matrix	Target	41.681	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM	Blank	Response_Catcher	42.1832	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM	Blank	ITI	42.2837	experiment	A_Non_2	8	nw5.wav	Tree.wav	GreenTree_2.jpg	Match
+STIM	Text	+	42.8697	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM	Text	+	43.171	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM	Soundfile	Lamp.wav	43.4724	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM	Text	+	44.0583	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM	Soundfile	Car.wav	44.3597	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM	Text	+	45.0628	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM	Matrix	Target	45.3642	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM	Blank	Response_Catcher	45.8329	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM	Blank	ITI	45.9334	experiment	A_List	9	Lamp.wav	Car.wav	BlackCar_3.jpg	Match
+STIM	Text	+	46.3519	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM	Text	+	46.6533	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM	Soundfile	nw3.wav	46.9546	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM	Text	+	47.5573	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM	Soundfile	Bow.wav	47.8587	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM	Text	+	48.5618	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM	Matrix	Target	48.8464	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM	Blank	Response_Catcher	49.4157	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM	Blank	ITI	49.5161	experiment	A_Non_2	10	nw3.wav	Bow.wav	PinkBow_1.jpg	Match
+STIM	Text	+	50.1021	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM	Text	+	50.4034	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM	Soundfile	Fork.wav	50.7048	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM	Text	+	51.2907	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM	Soundfile	Bow.wav	51.5921	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM	Text	+	52.2952	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM	Matrix	Target	52.5966	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM	Blank	Response_Catcher	53.0821	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM	Blank	ITI	53.1825	experiment	A_List	11	Fork.wav	Bow.wav	PinkFork_1.jpg	Match
+STIM	Text	+	53.6848	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM	Text	+	53.9861	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM	Soundfile	nw4.wav	54.2875	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM	Text	+	54.8902	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM	Soundfile	Cup.wav	55.1915	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM	Text	+	55.8947	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM	Matrix	Target	56.196	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM	Blank	Response_Catcher	56.6648	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM	Blank	ITI	56.7652	experiment	A_Non_2	12	nw4.wav	Cup.wav	BlackCup_1.jpg	Match
+STIM	Text	+	57.3512	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM	Text	+	57.6525	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM	Soundfile	nw6.wav	57.9539	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM	Text	+	58.5566	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM	Soundfile	Lamp.wav	58.8579	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM	Text	+	59.5443	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM	Matrix	Target	59.8457	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	60.4652	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM	Blank	ITI	60.5656	experiment	A_Non_2	13	nw6.wav	Lamp.wav	RedBag_2.jpg	NoMatch
+STIM	Text	+	61.185	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM	Text	+	61.4864	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM	Soundfile	Heart.wav	61.7878	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM	Text	+	62.3904	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM	Soundfile	House.wav	62.6751	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM	Text	+	63.3782	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM	Matrix	Target	63.6796	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	64.232	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM	Blank	ITI	64.3325	experiment	A_List	14	Heart.wav	House.wav	BlueDisc_1.jpg	NoMatch
+STIM	Text	+	64.7845	experiment	A_List	15	Bone.wav	Leaf.wav	BlackCar_3.jpg	NoMatch
+STIM	Text	+	65.0859	experiment	A_List	15	Bone.wav	Leaf.wav	BlackCar_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	15	Bone.wav	Leaf.wav	BlackCar_3.jpg	NoMatch
+STIM	Soundfile	Bone.wav	65.3872	experiment	A_List	15	Bone.wav	Leaf.wav	BlackCar_3.jpg	NoMatch
+STIM	Text	+	65.9899	experiment	A_List	15	Bone.wav	Leaf.wav	BlackCar_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6701.5829	experiment	A_List	15	Bone.wav	Leaf.wav	BlackCar_3.jpg	NoMatch
+STIM	Soundfile	Leaf.wav	66.2913	experiment	A_List	15	Bone.wav	Leaf.wav	BlackCar_3.jpg	NoMatch
+STIM	Text	+	66.9944	experiment	A_List	15	Bone.wav	Leaf.wav	BlackCar_3.jpg	NoMatch
+STIM	Matrix	Target	67.279	experiment	A_List	15	Bone.wav	Leaf.wav	BlackCar_3.jpg	NoMatch
+STIM	Cleanup		67.6641
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 10:41:56
+
+START	6949.6989		0
+STIM	Blank		0.027772
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	1.0323
+STIM	Blank	Trigger warning	2.02
+STIM	Paragraph	Please lie still as we start the recording.	2.1205
+STIM	Paragraph	Press any key to begin.	2.539
+STIM	Paragraph	Press any key to begin.	2.9408
+STIM	Blank		3.3426
+STIM	Text	+	3.8449	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM	Text	+	4.1295	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM	Soundfile	Lamp.wav	5.1675	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM	Text	+	5.1842	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM	Soundfile	Hand.wav	5.3181	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM	Text	+	6.0213	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM	Matrix	Target	6.3227	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM	Blank	Response_Catcher	6.7412	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM	Blank	ITI	6.8416	experiment	A_List	1	Lamp.wav	Hand.wav	BlackLamp_3.jpg	Match
+STIM	Text	+	7.2769	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM	Text	+	7.5783	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM	Soundfile	nw_brown.wav	7.8796	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM	Text	+	8.4823	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM	Soundfile	Note.wav	8.7837	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM	Text	+	9.4701	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM	Matrix	Target	9.7714	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	10.3071	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM	Blank	ITI	10.4076	experiment	A_Non_2	2	nw_brown.wav	Note.wav	BrownLock_2.jpg	NoMatch
+STIM	Text	+	10.9768	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM	Text	+	11.2782	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM	Soundfile	Cane.wav	11.5795	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM	Text	+	12.1822	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM	Soundfile	Bag.wav	12.4836	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM	Text	+	13.17	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM	Matrix	Target	13.4713	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	14.3084	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM	Blank	ITI	14.4089	experiment	A_List	3	Cane.wav	Bag.wav	BlueDisc_2.jpg	NoMatch
+STIM	Text	+	14.7102	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM	Text	+	15.0116	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM	Soundfile	Lamp.wav	15.3129	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM	Text	+	15.9156	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM	Soundfile	Lock.wav	16.217	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM	Text	+	16.9201	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM	Matrix	Target	17.2215	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	17.6735	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM	Blank	ITI	17.7739	experiment	A_List	4	Lamp.wav	Lock.wav	BlueDisc_2.jpg	NoMatch
+STIM	Text	+	18.3264	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM	Text	+	18.6278	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM	Soundfile	Bone.wav	18.9291	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM	Text	+	19.5318	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM	Soundfile	Flag.wav	19.8332	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM	Text	+	20.5363	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM	Matrix	Target	20.8377	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	21.5241	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM	Blank	ITI	21.6245	experiment	A_List	5	Bone.wav	Flag.wav	RedDisc_1.jpg	NoMatch
+STIM	Text	+	22.11	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM	Text	+	22.4114	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM	Soundfile	nw_brown.wav	22.7127	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM	Text	+	23.3154	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM	Soundfile	Bone.wav	23.6168	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM	Text	+	24.3199	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM	Matrix	Target	24.6213	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM	Blank	Response_Catcher	25.1235	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM	Blank	ITI	25.224	experiment	A_Non_2	6	nw_brown.wav	Bone.wav	BlueBone_2.jpg	Match
+STIM	Text	+	25.6593	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM	Text	+	25.9606	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM	Soundfile	nw_brown.wav	26.262	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM	Text	+	26.8647	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM	Soundfile	Car.wav	27.166	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM	Text	+	27.8524	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM	Matrix	Target	28.1538	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	28.5388	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM	Blank	ITI	28.6393	experiment	A_Non_2	7	nw_brown.wav	Car.wav	RedHeart_3.jpg	NoMatch
+STIM	Text	+	29.1918	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM	Text	+	29.4764	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM	Soundfile	nw_brown.wav	29.7777	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM	Text	+	30.3804	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM	Soundfile	Bone.wav	30.6818	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM	Text	+	31.3849	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM	Matrix	Target	31.6863	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	32.222	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM	Blank	ITI	32.3224	experiment	A_Non_2	8	nw_brown.wav	Bone.wav	PinkShoe_3.jpg	NoMatch
+STIM	Text	+	32.7242	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM	Text	+	33.0256	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM	Soundfile	Cane.wav	33.327	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM	Text	+	33.9297	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM	Soundfile	Heart.wav	34.231	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM	Text	+	34.9174	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM	Matrix	Target	35.2187	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	36.0558	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM	Blank	ITI	36.1563	experiment	A_List	9	Cane.wav	Heart.wav	GreenBone_1.jpg	NoMatch
+STIM	Text	+	36.5581	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM	Text	+	36.8594	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM	Soundfile	Heart.wav	37.1608	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM	Text	+	37.7467	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM	Soundfile	Star.wav	38.0481	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM	Text	+	38.7512	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM	Matrix	Target	39.0526	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM	Blank	Response_Catcher	39.6218	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM	Blank	ITI	39.7223	experiment	A_List	10	Heart.wav	Star.wav	BrownStar_3.jpg	Match
+STIM	Text	+	40.191	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM	Text	+	40.4756	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM	Soundfile	Disc.wav	40.777	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM	Text	+	41.3797	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM	Soundfile	Lamp.wav	41.6811	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM	Text	+	42.3842	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM	Matrix	Target	42.6855	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM	Blank	Response_Catcher	43.2882	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM	Blank	ITI	43.3887	experiment	A_List	11	Disc.wav	Lamp.wav	BlueDisc_2.jpg	Match
+STIM	Text	+	43.9244	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM	Text	+	44.2258	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM	Soundfile	nw_brown.wav	44.5271	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM	Text	+	45.1298	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM	Soundfile	House.wav	45.4312	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM	Text	+	46.1176	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM	Matrix	Target	46.4189	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	46.9379	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM	Blank	ITI	47.0384	experiment	A_Non_2	12	nw_brown.wav	House.wav	BlueHeart_3.jpg	NoMatch
+STIM	Text	+	47.5406	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM	Text	+	47.842	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM	Soundfile	nw_brown.wav	48.1433	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM	Text	+	48.7293	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM	Soundfile	Square.wav	49.0306	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM	Text	+	49.7338	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM	Matrix	Target	50.0351	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	50.5039	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM	Blank	ITI	50.6043	experiment	A_Non_2	13	nw_brown.wav	Square.wav	BrownDisc_3.jpg	NoMatch
+STIM	Text	+	51.1233	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM	Text	+	51.4247	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM	Soundfile	nw_brown.wav	51.7093	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM	Text	+	52.312	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM	Soundfile	Flag.wav	52.6134	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM	Text	+	53.3165	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM	Matrix	Target	53.6179	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	54.0699	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM	Blank	ITI	54.1703	experiment	A_Non_2	14	nw_brown.wav	Flag.wav	PinkTree_3.jpg	NoMatch
+STIM	Text	+	54.8232	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM	Text	+	55.1246	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM	Soundfile	nw_brown.wav	55.426	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM	Text	+	56.0119	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM	Soundfile	Bell.wav	56.3133	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM	Text	+	57.0164	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM	Matrix	Target	57.3177	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM	Blank	Response_Catcher	57.8033	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM	Blank	ITI	57.9037	experiment	A_Non_2	15	nw_brown.wav	Bell.wav	BlackBell_1.jpg	Match
+STIM	Text	+	58.5064	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM	Text	+	58.8077	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM	Soundfile	Bone.wav	59.1091	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM	Text	+	59.7118	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM	Soundfile	Cross.wav	60.0132	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM	Text	+	60.6996	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM	Matrix	Target	61.0009	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	61.5869	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM	Blank	ITI	61.6874	experiment	A_List	16	Bone.wav	Cross.wav	RedNote_3.jpg	NoMatch
+STIM	Text	+	62.357	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM	Text	+	62.6584	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM	Soundfile	Fork.wav	62.9597	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM	Text	+	63.5624	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM	Soundfile	Star.wav	63.8637	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM	Text	+	64.5502	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM	Matrix	Target	64.8515	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM	Blank	Response_Catcher	65.471	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM	Blank	ITI	65.5714	experiment	A_List	17	Fork.wav	Star.wav	PinkFork_2.jpg	Match
+STIM	Text	+	66.3081	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM	Text	+	66.6094	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM	Soundfile	Disc.wav	66.9107	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM	Text	+	67.5135	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM	Soundfile	Cross.wav	67.8148	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM	Text	+	68.5179	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM	Matrix	Target	68.8193	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	69.4889	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM	Blank	ITI	69.5894	experiment	A_List	18	Disc.wav	Cross.wav	BlackLamp_2.jpg	NoMatch
+STIM	Text	+	69.9075	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM	Text	+	70.2088	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM	Soundfile	nw_brown.wav	70.5102	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM	Text	+	71.1129	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM	Soundfile	Cane.wav	71.4142	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM	Text	+	72.1174	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM	Matrix	Target	72.4188	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	73.1052	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM	Blank	ITI	73.2056	experiment	A_Non_2	19	nw_brown.wav	Cane.wav	BlueFlag_2.jpg	NoMatch
+STIM	Text	+	73.6241	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM	Text	+	73.9255	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM	Soundfile	Disc.wav	74.2268	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM	Text	+	74.8295	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM	Soundfile	Cane.wav	75.1309	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM	Text	+	75.8173	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM	Matrix	Target	76.1187	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	76.8553	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM	Blank	ITI	76.9558	experiment	A_List	20	Disc.wav	Cane.wav	PinkFork_3.jpg	NoMatch
+STIM	Text	+	77.4412	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM	Text	+	77.7426	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM	Soundfile	nw_brown.wav	78.0272	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM	Text	+	78.6299	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM	Soundfile	Square.wav	78.9312	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM	Text	+	79.6344	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM	Matrix	Target	79.9357	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM	Blank	Response_Catcher	80.4715	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM	Blank	ITI	80.572	experiment	A_Non_2	21	nw_brown.wav	Square.wav	GreenSquare_1.jpg	Match
+STIM	Text	+	81.2081	experiment	A_Non_2	22	nw_brown.wav	Disc.wav	BrownDisc_3.jpg	Match
+STIM	Text	+	81.5095	experiment	A_Non_2	22	nw_brown.wav	Disc.wav	BrownDisc_3.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	22	nw_brown.wav	Disc.wav	BrownDisc_3.jpg	Match
+STIM	Soundfile	nw_brown.wav	81.8108	experiment	A_Non_2	22	nw_brown.wav	Disc.wav	BrownDisc_3.jpg	Match
+STIM	Text	+	82.4135	experiment	A_Non_2	22	nw_brown.wav	Disc.wav	BrownDisc_3.jpg	Match
+STIM_PREPARE	Text	+	-6950.6989	experiment	A_Non_2	22	nw_brown.wav	Disc.wav	BrownDisc_3.jpg	Match
+STIM	Soundfile	Disc.wav	82.7149	experiment	A_Non_2	22	nw_brown.wav	Disc.wav	BrownDisc_3.jpg	Match
+STIM	Text	+	83.418	experiment	A_Non_2	22	nw_brown.wav	Disc.wav	BrownDisc_3.jpg	Match
+STIM	Matrix	Target	83.7026	experiment	A_Non_2	22	nw_brown.wav	Disc.wav	BrownDisc_3.jpg	Match
+STIM	Cleanup		84.1881
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 10:43:46
+
+START	7060.1276		0
+STIM	Blank		0.027172
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	1.0317
+STIM	Blank	Trigger warning	1.5172
+STIM	Paragraph	Please lie still as we start the recording.	1.6176
+STIM	Paragraph	Press any key to begin.	1.7014
+STIM	Paragraph	Press any key to begin.	1.8688
+STIM	Blank		2.0194
+STIM	Text	+	2.5217	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM	Text	+	2.8063	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM_PREPARE	Text	+	-7061.1276	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM	Soundfile	Heart.wav	3.1077	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM	Text	+	3.6936	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM_PREPARE	Text	+	-7061.1276	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM	Soundfile	Bone.wav	3.9949	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM	Text	+	4.6981	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM	Matrix	Target	4.9995	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM	Blank	Response_Catcher	5.4682	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM	Blank	ITI	5.5687	experiment	A_List	1	Heart.wav	Bone.wav	BrownBone_2.jpg	Match
+STIM	Text	+	6.1212	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM	Text	+	6.4225	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM_PREPARE	Text	+	-7061.1276	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM	Soundfile	Fork.wav	6.7239	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM	Text	+	7.3265	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM_PREPARE	Text	+	-7061.1276	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM	Soundfile	Note.wav	7.6112	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM	Text	+	8.3143	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM	Matrix	Target	8.6157	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM	Blank	Response_Catcher	9.1012	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM	Blank	ITI	9.2016	experiment	A_List	2	Fork.wav	Note.wav	PinkNote_1.jpg	Match
+STIM	Text	+	9.7206	experiment	A_Non_2	3	nw_white.wav	Shoe.wav	BrownHand_3.jpg	NoMatch
+STIM	Text	+	10.022	experiment	A_Non_2	3	nw_white.wav	Shoe.wav	BrownHand_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7061.1276	experiment	A_Non_2	3	nw_white.wav	Shoe.wav	BrownHand_3.jpg	NoMatch
+STIM	Soundfile	nw_white.wav	10.3066	experiment	A_Non_2	3	nw_white.wav	Shoe.wav	BrownHand_3.jpg	NoMatch
+STIM	Text	+	10.9093	experiment	A_Non_2	3	nw_white.wav	Shoe.wav	BrownHand_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7061.1276	experiment	A_Non_2	3	nw_white.wav	Shoe.wav	BrownHand_3.jpg	NoMatch
+STIM	Soundfile	Shoe.wav	11.2106	experiment	A_Non_2	3	nw_white.wav	Shoe.wav	BrownHand_3.jpg	NoMatch
+STIM	Text	+	11.9138	experiment	A_Non_2	3	nw_white.wav	Shoe.wav	BrownHand_3.jpg	NoMatch
+STIM	Matrix	Target	12.2151	experiment	A_Non_2	3	nw_white.wav	Shoe.wav	BrownHand_3.jpg	NoMatch
+STIM	Cleanup		13.7386
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 10:44:23
+
+START	7096.859		0
+STIM	Blank		0.027005
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	1.0315
+STIM	Blank	Trigger warning	1.6342
+STIM	Paragraph	Please lie still as we start the recording.	1.7347
+STIM	Paragraph	Press any key to begin.	2.488
+STIM	Paragraph	Press any key to begin.	2.7057
+STIM	Blank		2.8564
+STIM	Text	+	3.3586	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM	Text	+	3.6432	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM	Soundfile	Lamp.wav	3.9445	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM	Text	+	4.5305	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM	Soundfile	Lock.wav	4.8319	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM	Text	+	5.535	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM	Matrix	Target	5.8364	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	6.3051	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM	Blank	ITI	6.4056	experiment	A_List	1	Lamp.wav	Lock.wav	BrownHeart_2.jpg	NoMatch
+STIM	Text	+	6.8743	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM	Text	+	7.1757	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM	Soundfile	nw_pink.wav	7.477	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM	Text	+	8.0797	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM	Soundfile	Key.wav	8.3811	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM	Text	+	9.0843	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM	Matrix	Target	9.3856	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM	Blank	Response_Catcher	9.7372	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM	Blank	ITI	9.8376	experiment	A_Non_2	2	nw_pink.wav	Key.wav	RedKey_3.jpg	Match
+STIM	Text	+	10.1557	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM	Text	+	10.4571	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM	Soundfile	nw_brown.wav	10.7417	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM	Text	+	11.3444	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM	Soundfile	Leaf.wav	11.6457	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM	Text	+	12.3489	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM	Matrix	Target	12.6502	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM	Blank	Response_Catcher	13.0688	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM	Blank	ITI	13.1692	experiment	A_Non_2	3	nw_brown.wav	Leaf.wav	GreenLeaf_1.jpg	Match
+STIM	Text	+	13.5208	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM	Text	+	13.8221	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM	Soundfile	nw_brown.wav	14.1235	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM	Text	+	14.7262	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM	Soundfile	Fork.wav	15.0275	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM	Text	+	15.714	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM	Matrix	Target	16.0153	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	16.5008	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM	Blank	ITI	16.6013	experiment	A_Non_2	4	nw_brown.wav	Fork.wav	PinkBoat_1.jpg	NoMatch
+STIM	Text	+	17.0031	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM	Text	+	17.3044	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM	Soundfile	Fork.wav	17.589	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM	Text	+	18.1917	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM	Soundfile	Shoe.wav	18.4931	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM	Text	+	19.1962	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM	Matrix	Target	19.4976	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	20.117	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM	Blank	ITI	20.2175	experiment	A_List	5	Fork.wav	Shoe.wav	BlackLamp_1.jpg	NoMatch
+STIM	Text	+	20.7365	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM	Text	+	21.0378	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM	Soundfile	Fork.wav	21.3391	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM	Text	+	21.9419	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM	Soundfile	Bone.wav	22.2432	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM	Text	+	22.9296	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM	Matrix	Target	23.231	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM	Blank	Response_Catcher	23.6328	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM	Blank	ITI	23.7332	experiment	A_List	6	Fork.wav	Bone.wav	PinkBone_2.jpg	Match
+STIM	Text	+	24.3024	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM	Text	+	24.6038	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM	Soundfile	Fork.wav	24.9051	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM	Text	+	25.5078	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM	Soundfile	Bone.wav	25.7925	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM	Text	+	26.4956	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM	Matrix	Target	26.7969	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	27.3661	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM	Blank	ITI	27.4666	experiment	A_List	7	Fork.wav	Bone.wav	RedCane_3.jpg	NoMatch
+STIM	Text	+	27.9689	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Text	+	28.2702	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Soundfile	nw_brown.wav	28.5715	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Text	+	29.1743	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Soundfile	Square.wav	29.4756	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Text	+	30.162	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Matrix	Target	30.4634	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Blank	Response_Catcher	30.8484	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Blank	ITI	30.9489	experiment	A_Non_2	8	nw_brown.wav	Square.wav	GreenSquare_2.jpg	Match
+STIM	Text	+	31.4176	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM	Text	+	31.719	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM	Soundfile	Fork.wav	32.0203	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM	Text	+	32.6063	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM	Soundfile	Lamp.wav	32.9077	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM	Text	+	33.6108	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM	Matrix	Target	33.9121	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM	Blank	Response_Catcher	34.3642	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM	Blank	ITI	34.4646	experiment	A_List	9	Fork.wav	Lamp.wav	PinkLamp_1.jpg	Match
+STIM	Text	+	34.8832	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM	Text	+	35.1845	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM	Soundfile	nw_brown.wav	35.4859	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM	Text	+	36.0886	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM	Soundfile	House.wav	36.3899	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM	Text	+	37.0931	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM	Matrix	Target	37.3944	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	37.9301	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM	Blank	ITI	38.0306	experiment	A_Non_2	10	nw_brown.wav	House.wav	BrownNote_2.jpg	NoMatch
+STIM	Text	+	38.6835	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Text	+	38.9849	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Soundfile	nw_brown.wav	39.2862	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Text	+	39.8889	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Soundfile	Flag.wav	40.1903	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Text	+	40.8934	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Matrix	Target	41.1948	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Blank	Response_Catcher	41.4961	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Blank	ITI	41.5966	experiment	A_Non_2	11	nw_brown.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Text	+	41.9984	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM	Text	+	42.2997	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM	Soundfile	nw_pink.wav	42.6011	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM	Text	+	43.2038	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM	Soundfile	Plane.wav	43.5051	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM	Text	+	44.1915	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM	Matrix	Target	44.4929	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM	Blank	Response_Catcher	44.9449	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM	Blank	ITI	45.0454	experiment	A_Non_2	12	nw_pink.wav	Plane.wav	BluePlane_1.jpg	Match
+STIM	Text	+	45.5309	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM	Text	+	45.8322	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM	Soundfile	Fork.wav	46.1336	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM	Text	+	46.7363	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM	Soundfile	Shoe.wav	47.0376	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM	Text	+	47.7408	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM	Matrix	Target	48.0421	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM	Blank	Response_Catcher	48.7955	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM	Blank	ITI	48.8959	experiment	A_List	13	Fork.wav	Shoe.wav	PinkFork_2.jpg	Match
+STIM	Text	+	49.3647	experiment	A_List	14	Cane.wav	Boat.wav	PinkFork_2.jpg	NoMatch
+STIM	Text	+	49.6661	experiment	A_List	14	Cane.wav	Boat.wav	PinkFork_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	14	Cane.wav	Boat.wav	PinkFork_2.jpg	NoMatch
+STIM	Soundfile	Cane.wav	49.9674	experiment	A_List	14	Cane.wav	Boat.wav	PinkFork_2.jpg	NoMatch
+STIM	Text	+	50.5534	experiment	A_List	14	Cane.wav	Boat.wav	PinkFork_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7097.859	experiment	A_List	14	Cane.wav	Boat.wav	PinkFork_2.jpg	NoMatch
+STIM	Soundfile	Boat.wav	50.8547	experiment	A_List	14	Cane.wav	Boat.wav	PinkFork_2.jpg	NoMatch
+STIM	Text	+	51.5579	experiment	A_List	14	Cane.wav	Boat.wav	PinkFork_2.jpg	NoMatch
+STIM	Matrix	Target	51.8592	experiment	A_List	14	Cane.wav	Boat.wav	PinkFork_2.jpg	NoMatch
+STIM	Cleanup		52.4619
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 10:47:04
+
+START	7257.8128		0
+STIM	Blank		0.027385
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	1.0151
+STIM	Blank	Trigger warning	1.8857
+STIM	Paragraph	Please lie still as we start the recording.	1.9862
+STIM	Paragraph	Press any key to begin.	2.0363
+STIM	Paragraph	Press any key to begin.	2.2205
+STIM	Blank		2.4047
+STIM	Text	+	2.907	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM	Text	+	3.1748	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM	Soundfile	Brown.wav	3.4761	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM	Text	+	4.0789	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM	Soundfile	Fork.wav	4.3803	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM	Text	+	5.0833	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM	Matrix	Target	5.3847	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM	Blank	Response_Catcher	5.8367	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM	Blank	ITI	5.9373	experiment	A_Comp	1	Brown.wav	Fork.wav	BrownFork_1.jpg	Match
+STIM	Text	+	6.3892	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM	Text	+	6.6906	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM	Soundfile	Black.wav	6.9919	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM	Text	+	7.5946	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM	Soundfile	Car.wav	7.896	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM	Text	+	8.5992	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM	Matrix	Target	8.9005	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	9.3358	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM	Blank	ITI	9.4362	experiment	A_Comp	2	Black.wav	Car.wav	PinkCar_1.jpg	NoMatch
+STIM	Text	+	10.0222	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM	Text	+	10.3235	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM	Soundfile	nw_pink.wav	10.6249	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM	Text	+	11.2275	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM	Soundfile	Cup.wav	11.5288	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM	Text	+	12.2153	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM	Matrix	Target	12.5167	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	12.9688	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM	Blank	ITI	13.0692	experiment	A_Non	3	nw_pink.wav	Cup.wav	GreenKey_1.jpg	NoMatch
+STIM	Text	+	13.3705	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Text	+	13.6718	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Soundfile	Black.wav	13.9732	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Text	+	14.5759	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Soundfile	Flag.wav	14.8773	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Text	+	15.5804	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Matrix	Target	15.865	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Blank	Response_Catcher	16.3002	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Blank	ITI	16.4007	experiment	A_Comp	4	Black.wav	Flag.wav	BlackFlag_2.jpg	Match
+STIM	Text	+	16.7021	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM	Text	+	17.0034	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM	Soundfile	nw_pink.wav	17.3049	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM	Text	+	17.9075	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM	Soundfile	Lock.wav	18.2088	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM	Text	+	18.912	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM	Matrix	Target	19.2134	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM	Blank	Response_Catcher	19.7658	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM	Blank	ITI	19.8663	experiment	A_Non	5	nw_pink.wav	Lock.wav	BrownLock_3.jpg	Match
+STIM	Text	+	20.3518	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM	Text	+	20.6364	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM	Soundfile	nw_pink.wav	20.9377	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM	Text	+	21.5404	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM	Soundfile	Key.wav	21.8417	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM	Text	+	22.5449	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM	Matrix	Target	22.8463	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	23.3988	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM	Blank	ITI	23.4992	experiment	A_Non	6	nw_pink.wav	Key.wav	BrownTree_2.jpg	NoMatch
+STIM	Text	+	23.7671	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM	Text	+	24.0684	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM	Soundfile	Blue.wav	24.3698	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM	Text	+	24.9724	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM	Soundfile	Square.wav	25.2738	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM	Text	+	25.977	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM	Matrix	Target	26.2784	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM	Blank	Response_Catcher	26.6969	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM	Blank	ITI	26.7973	experiment	A_Comp	7	Blue.wav	Square.wav	BlueSquare_2.jpg	Match
+STIM	Text	+	27.3665	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM	Text	+	27.6678	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM	Soundfile	nw_pink.wav	27.9692	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM	Text	+	28.5719	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM	Soundfile	Leaf.wav	28.8733	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM	Text	+	29.5764	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM	Matrix	Target	29.8778	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	30.4302	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM	Blank	ITI	30.5307	experiment	A_Non	8	nw_pink.wav	Leaf.wav	RedLamp_1.jpg	NoMatch
+STIM	Text	+	31.033	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM	Text	+	31.3343	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM	Soundfile	nw_pink.wav	31.6357	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM	Text	+	32.2216	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM	Soundfile	House.wav	32.523	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM	Text	+	33.2261	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM	Matrix	Target	33.5275	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	33.9795	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM	Blank	ITI	34.0799	experiment	A_Non	9	nw_pink.wav	House.wav	GreenCross_1.jpg	NoMatch
+STIM	Text	+	34.6324	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM	Text	+	34.9338	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM	Soundfile	nw_pink.wav	35.2351	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM	Text	+	35.8211	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM	Soundfile	Hand.wav	36.1224	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM	Text	+	36.8256	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM	Matrix	Target	37.127	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM	Blank	Response_Catcher	37.6292	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM	Blank	ITI	37.7296	experiment	A_Non	10	nw_pink.wav	Hand.wav	BlackHand_3.jpg	Match
+STIM	Text	+	38.2654	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM	Text	+	38.5667	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM	Soundfile	Red.wav	38.8681	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM	Text	+	39.4708	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM	Soundfile	Plane.wav	39.7554	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM	Text	+	40.4585	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM	Matrix	Target	40.7599	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	41.3291	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM	Blank	ITI	41.4295	experiment	A_Comp	11	Red.wav	Plane.wav	RedDisc_2.jpg	NoMatch
+STIM	Text	+	41.7811	experiment	A_Non	12	nw_pink.wav	Bag.wav	GreenBag_3.jpg	Match
+STIM	Text	+	42.0824	experiment	A_Non	12	nw_pink.wav	Bag.wav	GreenBag_3.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	12	nw_pink.wav	Bag.wav	GreenBag_3.jpg	Match
+STIM	Soundfile	nw_pink.wav	42.3838	experiment	A_Non	12	nw_pink.wav	Bag.wav	GreenBag_3.jpg	Match
+STIM	Text	+	42.9698	experiment	A_Non	12	nw_pink.wav	Bag.wav	GreenBag_3.jpg	Match
+STIM_PREPARE	Text	+	-7258.8128	experiment	A_Non	12	nw_pink.wav	Bag.wav	GreenBag_3.jpg	Match
+STIM	Soundfile	Bag.wav	43.2711	experiment	A_Non	12	nw_pink.wav	Bag.wav	GreenBag_3.jpg	Match
+STIM	Text	+	43.9742	experiment	A_Non	12	nw_pink.wav	Bag.wav	GreenBag_3.jpg	Match
+STIM	Matrix	Target	44.2757	experiment	A_Non	12	nw_pink.wav	Bag.wav	GreenBag_3.jpg	Match
+STIM	Cleanup		44.8448
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 10:53:43
+
+START	7656.9512		0
+STIM	Blank		0.027307
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	1.0318
+STIM	Blank	Trigger warning	1.5676
+STIM	Paragraph	Please lie still as we start the recording.	1.668
+STIM	Paragraph	Press any key to begin.	1.7517
+STIM	Paragraph	Press any key to begin.	1.9526
+STIM	Blank		2.3711
+STIM	Text	+	2.8734	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM	Text	+	3.1413	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM	Soundfile	nw1.wav	4.1792	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM	Text	+	4.196	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM	Soundfile	Flag.wav	4.3466	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM	Text	+	5.0498	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM	Matrix	Target	5.3512	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	5.8534	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM	Blank	ITI	5.9539	experiment	A_Non	1	nw1.wav	Flag.wav	BlackTree_2.jpg	NoMatch
+STIM	Text	+	6.3222	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM	Text	+	6.6235	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM	Soundfile	nw2.wav	6.9249	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM	Text	+	7.5108	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM	Soundfile	Lamp.wav	7.8122	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM	Text	+	8.5153	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM	Matrix	Target	8.8167	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	9.3524	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM	Blank	ITI	9.4529	experiment	A_Non	2	nw2.wav	Lamp.wav	PinkCar_2.jpg	NoMatch
+STIM	Text	+	9.9719	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM	Text	+	10.2565	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM	Soundfile	Black.wav	10.5578	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM	Text	+	11.1605	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM	Soundfile	Star.wav	11.4619	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM	Text	+	12.165	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM	Matrix	Target	12.4664	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM	Blank	Response_Catcher	12.818	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM	Blank	ITI	12.9184	experiment	A_Comp	3	Black.wav	Star.wav	BlackStar_2.jpg	Match
+STIM	Text	+	13.3202	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM	Text	+	13.6216	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM	Soundfile	nw2.wav	13.9229	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM	Text	+	14.5089	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM	Soundfile	Lamp.wav	14.8102	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM	Text	+	15.5134	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM	Matrix	Target	15.8147	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM	Blank	Response_Catcher	16.1998	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM	Blank	ITI	16.3002	experiment	A_Non	4	nw2.wav	Lamp.wav	BlueLamp_1.jpg	Match
+STIM	Text	+	16.8192	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM	Text	+	17.1206	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM	Soundfile	Green.wav	17.4219	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM	Text	+	18.0246	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM	Soundfile	Key.wav	18.326	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM	Text	+	19.0291	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM	Matrix	Target	19.3305	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	19.8327	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM	Blank	ITI	19.9332	experiment	A_Comp	5	Green.wav	Key.wav	RedKey_3.jpg	NoMatch
+STIM	Text	+	20.3852	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM	Text	+	20.6865	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM	Soundfile	Green.wav	20.9879	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM	Text	+	21.5906	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM	Soundfile	Car.wav	21.8919	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM	Text	+	22.5783	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM	Matrix	Target	22.8797	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	23.6498	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM	Blank	ITI	23.7502	experiment	A_Comp	6	Green.wav	Car.wav	GreenBone_3.jpg	NoMatch
+STIM	Text	+	24.3362	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM	Text	+	24.6376	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM	Soundfile	nw3.wav	24.9389	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM	Text	+	25.5249	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM	Soundfile	Cup.wav	25.8262	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM	Text	+	26.5294	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM	Matrix	Target	26.8307	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	27.3162	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM	Blank	ITI	27.4167	experiment	A_Non	7	nw3.wav	Cup.wav	BlueHeart_3.jpg	NoMatch
+STIM	Text	+	27.9022	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM	Text	+	28.2036	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM	Soundfile	Black.wav	28.5049	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM	Text	+	29.0909	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM	Soundfile	Shoe.wav	29.3922	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM	Text	+	30.0954	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM	Matrix	Target	30.3967	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM	Blank	Response_Catcher	30.9157	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM	Blank	ITI	31.0161	experiment	A_Comp	8	Black.wav	Shoe.wav	BlackShoe_3.jpg	Match
+STIM	Text	+	31.5519	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM	Text	+	31.8532	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM	Soundfile	nw1.wav	32.1378	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM	Text	+	32.7405	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM	Soundfile	Bell.wav	33.0419	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM	Text	+	33.745	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM	Matrix	Target	34.0464	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	34.6491	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM	Blank	ITI	34.7496	experiment	A_Non	9	nw1.wav	Bell.wav	RedCross_1.jpg	NoMatch
+STIM	Text	+	35.1011	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	35.4025	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM	Soundfile	Black.wav	35.6871	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	36.2898	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM	Soundfile	Cane.wav	36.5911	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	37.2943	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM	Matrix	Target	37.5956	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	38.0477	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM	Blank	ITI	38.1481	experiment	A_Comp	10	Black.wav	Cane.wav	RedCane_1.jpg	NoMatch
+STIM	Text	+	38.7508	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM	Text	+	39.0522	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM	Soundfile	Red.wav	39.3368	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM	Text	+	39.9394	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM	Soundfile	Cross.wav	40.2408	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM	Text	+	40.944	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM	Matrix	Target	41.2453	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM	Blank	Response_Catcher	41.8145	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM	Blank	ITI	41.915	experiment	A_Comp	11	Red.wav	Cross.wav	RedCross_1.jpg	Match
+STIM	Text	+	42.4507	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM	Text	+	42.752	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM	Soundfile	nw3.wav	43.0367	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM	Text	+	43.6394	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM	Soundfile	Plane.wav	43.9407	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM	Text	+	44.6439	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM	Matrix	Target	44.9452	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	45.4809	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM	Blank	ITI	45.5814	experiment	A_Non	12	nw3.wav	Plane.wav	GreenNote_2.jpg	NoMatch
+STIM	Text	+	45.9999	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Text	+	46.3013	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Soundfile	nw6.wav	46.6027	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Text	+	47.2053	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Soundfile	Square.wav	47.5067	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Text	+	48.1931	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Matrix	Target	48.4944	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Blank	Response_Catcher	49.3148	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Blank	ITI	49.4152	experiment	A_Non	13	nw6.wav	Square.wav	BrownLock_3.jpg	NoMatch
+STIM	Text	+	49.9845	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM	Text	+	50.2691	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM	Soundfile	Brown.wav	50.5704	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM	Text	+	51.1731	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM	Soundfile	Cane.wav	51.4745	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM	Text	+	52.1776	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM	Matrix	Target	52.479	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	53.0147	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM	Blank	ITI	53.1151	experiment	A_Comp	14	Brown.wav	Cane.wav	BrownLock_2.jpg	NoMatch
+STIM	Text	+	53.517	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM	Text	+	53.8016	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM	Soundfile	Green.wav	54.1029	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM	Text	+	54.7056	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM	Soundfile	Flag.wav	55.0069	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM	Text	+	55.7101	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM	Matrix	Target	56.0115	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM	Blank	Response_Catcher	56.4635	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM	Blank	ITI	56.5639	experiment	A_Comp	15	Green.wav	Flag.wav	GreenFlag_3.jpg	Match
+STIM	Text	+	57.0829	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM	Text	+	57.3843	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM	Soundfile	nw5.wav	57.6856	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM	Text	+	58.2883	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM	Soundfile	Hand.wav	58.5897	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM	Text	+	59.2928	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM	Matrix	Target	59.5942	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM	Blank	Response_Catcher	60.1132	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM	Blank	ITI	60.2136	experiment	A_Non	16	nw5.wav	Hand.wav	RedBow_1.jpg	NoMatch
+STIM	Text	+	60.6322	experiment	A_Comp	17	Blue.wav	Tree.wav	BlueNote_2.jpg	NoMatch
+STIM	Text	+	60.9335	experiment	A_Comp	17	Blue.wav	Tree.wav	BlueNote_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	17	Blue.wav	Tree.wav	BlueNote_2.jpg	NoMatch
+STIM	Soundfile	Blue.wav	61.2349	experiment	A_Comp	17	Blue.wav	Tree.wav	BlueNote_2.jpg	NoMatch
+STIM	Text	+	61.8376	experiment	A_Comp	17	Blue.wav	Tree.wav	BlueNote_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-7657.9512	experiment	A_Comp	17	Blue.wav	Tree.wav	BlueNote_2.jpg	NoMatch
+STIM	Soundfile	Tree.wav	62.1389	experiment	A_Comp	17	Blue.wav	Tree.wav	BlueNote_2.jpg	NoMatch
+STIM	Text	+	62.8421	experiment	A_Comp	17	Blue.wav	Tree.wav	BlueNote_2.jpg	NoMatch
+STIM	Matrix	Target	63.1434	experiment	A_Comp	17	Blue.wav	Tree.wav	BlueNote_2.jpg	NoMatch
+STIM	Cleanup		63.4615
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 11:35:34
+
+START	10168.1883		0
+STIM	Blank		0.040565
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	1.0451
+STIM	Blank	Trigger warning	1.8654
+STIM	Paragraph	Please lie still as we start the recording.	1.9659
+STIM	Paragraph	Press any key to begin.	2.0161
+STIM	Paragraph	Press any key to begin.	2.15
+STIM	Blank		2.3175
+STIM	Text	+	2.8197	experiment	A_Comp	1	Blue.wav	Star.wav	PinkStar_2.jpg	NoMatch
+STIM	Text	+	3.0876	experiment	A_Comp	1	Blue.wav	Star.wav	PinkStar_2.jpg	NoMatch
+STIM_PREPARE	Text	+	-10169.1883	experiment	A_Comp	1	Blue.wav	Star.wav	PinkStar_2.jpg	NoMatch
+STIM	Cleanup		3.3889
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 16:59:20
+
+START	10946.2336		0
+STIM	Blank		0.032982
+STIM	Paragraph	Press any key to begin.	1.0208
+STIM	Blank		2.3769
+STIM	Text	+	2.8624	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Blank	ISI	3.147	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Matrix	Initial	3.4484	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Blank	ISI_2	3.7496	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Matrix	Critical	4.0511	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Blank	ISI_3	4.3523	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Matrix	Target	4.6538	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Blank	Response_Catcher	10.4799	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Blank	ITI	10.5803	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Text	Correct!	10.9653	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Blank		11.9531	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Text	+	12.4387	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Blank	ISI	12.7567	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Matrix	Initial	13.0581	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Blank	ISI_2	13.3594	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Matrix	Critical	13.6608	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Blank	ISI_3	13.9621	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Matrix	Target	14.2635	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Blank	Response_Catcher	15.2177	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Blank	ITI	15.3182	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Text	Correct!	15.787	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Blank		16.7747	practice	V_Non	140	nw1.jpg	Heart.jpg	RedHeart_1.jpg	Match
+STIM	Text	+	17.2603	practice	V_Non	88	nw5.jpg	Bag.jpg	BlackLock_2.jpg	NoMatch
+STIM	Blank	ISI	17.5783	practice	V_Non	88	nw5.jpg	Bag.jpg	BlackLock_2.jpg	NoMatch
+STIM	Matrix	Initial	17.8797	practice	V_Non	88	nw5.jpg	Bag.jpg	BlackLock_2.jpg	NoMatch
+STIM	Blank	ISI_2	18.181	practice	V_Non	88	nw5.jpg	Bag.jpg	BlackLock_2.jpg	NoMatch
+STIM	Matrix	Critical	18.4824	practice	V_Non	88	nw5.jpg	Bag.jpg	BlackLock_2.jpg	NoMatch
+STIM	Blank	ISI_3	18.7837	practice	V_Non	88	nw5.jpg	Bag.jpg	BlackLock_2.jpg	NoMatch
+STIM	Matrix	Target	19.0851	practice	V_Non	88	nw5.jpg	Bag.jpg	BlackLock_2.jpg	NoMatch
+STIM	Cleanup		20.9601
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 17:00:56
+
+START	11042.3036		0
+STIM	Blank		0.026796
+STIM	Paragraph	Press any key to begin.	1.0145
+STIM	Blank		1.8851
+STIM	Text	+	2.3706	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Blank	ISI	2.6552	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Matrix	Initial	2.9566	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Blank	ISI_2	3.2579	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Matrix	Critical	3.5593	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Blank	ISI_3	3.8606	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Matrix	Target	4.162	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Blank	Response_Catcher	4.7478	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Blank	ITI	4.8316	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Text	Incorrect.	5.2502	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Blank		6.238	practice	V_Non	178	nw5.jpg	Plane.jpg	GreenPlane_1.jpg	Match
+STIM	Text	+	6.7235	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Blank	ISI	7.0416	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Matrix	Initial	7.3429	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Blank	ISI_2	7.6442	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Matrix	Critical	7.9455	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Blank	ISI_3	8.2469	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Matrix	Target	8.5483	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Blank	Response_Catcher	8.9501	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Blank	ITI	9.0505	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Text	Correct!	9.5696	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Blank		10.5573	practice	V_Non	109	nw1.jpg	Cross.jpg	RedCross_2.jpg	Match
+STIM	Text	+	11.0428	practice	V_Comp	180	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Blank	ISI	11.3776	practice	V_Comp	180	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Matrix	Initial	11.6623	practice	V_Comp	180	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Blank	ISI_2	11.9635	practice	V_Comp	180	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Matrix	Critical	12.2649	practice	V_Comp	180	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Blank	ISI_3	12.5663	practice	V_Comp	180	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Matrix	Target	12.8676	practice	V_Comp	180	Black.jpg	Plane.jpg	BlackPlane_1.jpg	Match
+STIM	Cleanup		15.6132
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 19:57:03
+
+START	1511.1815		0
+STIM	Blank		0.071566
+STIM	Paragraph	Press any key to begin.	1.0593
+STIM	Blank		2.5326
+STIM	Text	+	3.0181	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Blank	ISI	3.2692	practice	V_Non	142	nw3.jpg	Bell.jpg	PinkBell_1.jpg	Match
+STIM	Cleanup		3.5706
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 19:57:47
+
+START	1554.8029		0
+STIM	Blank		0.028672
+STIM	Paragraph	Press any key to begin.	1.0164
+STIM	Blank		1.753
+STIM	Text	+	2.2385	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Blank	ISI	2.5232	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Matrix	Initial	2.8245	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Blank	ISI_2	3.1259	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Matrix	Critical	3.4272	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Blank	ISI_3	3.7286	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Matrix	Target	4.0299	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Blank	Response_Catcher	4.6159	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Blank	ITI	4.7164	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Text	Correct!	5.118	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Blank		6.1059	practice	V_Non	178	Stimuli/nw5.jpg	Stimuli/Plane.jpg	Stimuli/GreenPlane_1.jpg	Match
+STIM	Text	+	6.5914	practice	V_Non	109	Stimuli/nw1.jpg	Stimuli/Cross.jpg	Stimuli/RedCross_2.jpg	Match
+STIM	Blank	ISI	6.9262	practice	V_Non	109	Stimuli/nw1.jpg	Stimuli/Cross.jpg	Stimuli/RedCross_2.jpg	Match
+STIM	Matrix	Initial	7.2276	practice	V_Non	109	Stimuli/nw1.jpg	Stimuli/Cross.jpg	Stimuli/RedCross_2.jpg	Match
+STIM	Blank	ISI_2	7.5289	practice	V_Non	109	Stimuli/nw1.jpg	Stimuli/Cross.jpg	Stimuli/RedCross_2.jpg	Match
+STIM	Matrix	Critical	7.8303	practice	V_Non	109	Stimuli/nw1.jpg	Stimuli/Cross.jpg	Stimuli/RedCross_2.jpg	Match
+STIM	Blank	ISI_3	8.1149	practice	V_Non	109	Stimuli/nw1.jpg	Stimuli/Cross.jpg	Stimuli/RedCross_2.jpg	Match
+STIM	Matrix	Target	8.4162	practice	V_Non	109	Stimuli/nw1.jpg	Stimuli/Cross.jpg	Stimuli/RedCross_2.jpg	Match
+STIM	Cleanup		8.8348
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 19:58:13
+
+START	1581.1198		0
+STIM	Blank		0.02969
+STIM	Cleanup		1.0174
+
+----------------------------------------------------------------------------
+Started at: 09-Jul-2010 19:58:22
+
+START	1590.2286		0
+STIM	Blank		0.028339
+STIM	Paragraph	WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!	1.0161
+STIM	Blank	Trigger warning	2.2048
+STIM	Paragraph	Please lie still as we start the recording.	2.3052
+STIM	Paragraph	Press any key to begin.	2.6735
+STIM	Paragraph	Press any key to begin.	3.0921
+STIM	Blank		3.678
+STIM	Text	+	4.1634	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	Stimuli/BlackLock_1.jpg	Match
+STIM	Blank	ISI	4.4649	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	Stimuli/BlackLock_1.jpg	Match
+STIM	Matrix	Initial	4.7663	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	Stimuli/BlackLock_1.jpg	Match
+STIM	Blank	ISI_2	5.0676	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	Stimuli/BlackLock_1.jpg	Match
+STIM	Matrix	Critical	5.3689	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	Stimuli/BlackLock_1.jpg	Match
+STIM	Blank	ISI_3	5.6703	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	Stimuli/BlackLock_1.jpg	Match
+STIM	Matrix	Target	5.9717	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	Stimuli/BlackLock_1.jpg	Match
+STIM	Cleanup		7.5788
