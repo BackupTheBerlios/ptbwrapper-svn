@@ -27,6 +27,7 @@ global PTBInputDevice;
 global PTBKeyTag;
 global PTBKeyType;
 global PTBInputCollection;
+global PTBEndTriggers;
 
 % Make sure we can parse
 if ~iscell(duration)
@@ -50,6 +51,24 @@ PTBNextPresentationTime = PTBLastPresentationTime + 3600;
 
 % Setup all the conditions
 for i = 1:length(duration)
+	
+	% If a cell, assuming that the next argument
+	% is an associated trigger, followed possibly by a 
+	% trigger delay.
+	if iscell(duration{i})
+		
+		% Add the trigger values
+		if length(duration{i}) == 2
+			PTBEndTriggers{end+1} = {duration{i}{1} duration{i}{2} 0};
+		elseif length(duration{i}) == 3
+			PTBEndTriggers{end+1} = duration{i};
+		else
+			error('Bad duration. Exiting...');
+		end
+		
+		% Add the first argument as a standalone duration
+		duration{i} = duration{i}{1};
+	end
 	
 	% If numeric, just set and go
 	if isnumeric(duration{i})

@@ -408,3 +408,51 @@ KEY	a	0.35998	2.6652	Paragraph	Please lie still as we start the recording.
 KEY	a	0.40766	3.0812	Paragraph	Press any key to begin.
 KEY	a	0.5811	3.6732	Paragraph	Press any key to begin.
 KEY	ESCAPE	1.5895	7.5612	Matrix	Target	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	Stimuli/BlackLock_1.jpg	Match
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:14:11
+
+START	33528.5114		0
+KEY	2@	0.46972	1.6071	Paragraph	Press any key to begin.
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:15:43
+
+START	33620.0129		0
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:16:26
+
+START	33662.982		0
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:17:34
+
+START	33731.7359		0
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:18:11
+
+START	33767.9677		0
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:20:26
+
+START	33903.6209		0
+KEY	2@	1.5595	2.6007	Paragraph	Press any key to begin.
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:21:36
+
+START	33973.8193		0
+KEY	2@	0.37771	1.4184	Paragraph	Press any key to begin.
+KEY	2@	1.275	4.9944	Matrix	Target	practice	V_Non	184	Stimuli/nw3.jpg	Stimuli/Lamp.jpg	Stimuli/PinkLamp_2.jpg	Match
+KEY	ESCAPE	5.5604	13.1304	Matrix	Target	practice	V_Non	54	Stimuli/nw5.jpg	Stimuli/Bow.jpg	Stimuli/GreenBow_1.jpg	Match
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:23:11
+
+START	34068.3148		0
+KEY	2@	0.49573	1.5309	Paragraph	Press any key to begin.
+KEY	2@	0.37986	4.2109	Matrix	Target	practice	V_Comp	22	Stimuli/Pink.jpg	Stimuli/Leaf.jpg	Stimuli/PinkHeart_2.jpg	NoMatch
+KEY	ESCAPE	0.44471	15.9949	Matrix	Target	practice	V_Non	143	Stimuli/nw5.jpg	Stimuli/Bag.jpg	Stimuli/GreenBag_1.jpg	Match

@@ -151,6 +151,12 @@ if isempty(PTBUSBBoxInitialized)
     PTBUSBBoxInitialized = 0;
 end
 
+% For triggers at the end of a stimulus
+global PTBEndTriggers;
+if isempty(PTBEndTriggers)
+	PTBEndTriggers = {};
+end
+
 % This is how long the start screen is on for.
 startScreenTime = 1;
 

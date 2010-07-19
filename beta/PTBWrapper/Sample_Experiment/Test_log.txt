@@ -2077,3 +2077,110 @@ STIM	Matrix	Critical	5.3689	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	
 STIM	Blank	ISI_3	5.6703	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	Stimuli/BlackLock_1.jpg	Match
 STIM	Matrix	Target	5.9717	experiment	V_Non	1	Stimuli/nw4.jpg	Stimuli/Lock.jpg	Stimuli/BlackLock_1.jpg	Match
 STIM	Cleanup		7.5788
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:14:11
+
+START	33528.5114		0
+STIM	Blank		0.13292
+STIM	Paragraph	Press any key to begin.	1.1374
+STIM	Blank		1.6732
+STIM	Text	+	2.1754	practice	V_Non	198	Stimuli/nw6.jpg	Stimuli/Tree.jpg	Stimuli/BrownTree_3.jpg	Match
+STIM	Blank	ISI	2.4098	practice	V_Non	198	Stimuli/nw6.jpg	Stimuli/Tree.jpg	Stimuli/BrownTree_3.jpg	Match
+STIM	Matrix	Initial	2.7111	practice	V_Non	198	Stimuli/nw6.jpg	Stimuli/Tree.jpg	Stimuli/BrownTree_3.jpg	Match
+STIM	Blank	ISI_2	3.0125	practice	V_Non	198	Stimuli/nw6.jpg	Stimuli/Tree.jpg	Stimuli/BrownTree_3.jpg	Match
+STIM	Matrix	Critical	3.3139	practice	V_Non	198	Stimuli/nw6.jpg	Stimuli/Tree.jpg	Stimuli/BrownTree_3.jpg	Match
+STIM	Blank	ISI_3	3.6152	practice	V_Non	198	Stimuli/nw6.jpg	Stimuli/Tree.jpg	Stimuli/BrownTree_3.jpg	Match
+STIM	Cleanup		3.8998
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:15:42
+
+START	33620.0129		0
+STIM	Blank		0.07437
+STIM	Cleanup		1.0789
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:16:25
+
+START	33662.982		0
+STIM	Cleanup		54.8096
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:17:34
+
+START	33731.7359		0
+STIM	Blank		0.035005
+STIM	Cleanup		1.0395
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:18:10
+
+START	33767.9677		0
+STIM	Blank		40.9154
+STIM	Cleanup		113.139
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:20:26
+
+START	33903.6209		0
+STIM	Blank		0.036742
+STIM	Paragraph	Press any key to begin.	1.0412
+STIM	Blank		2.6484
+STIM	Text	+	3.1507	practice	V_Non	75	Stimuli/nw6.jpg	Stimuli/Cane.jpg	Stimuli/BrownCane_1.jpg	Match
+STIM	Blank	ISI	3.4018	practice	V_Non	75	Stimuli/nw6.jpg	Stimuli/Cane.jpg	Stimuli/BrownCane_1.jpg	Match
+STIM	Matrix	Initial	3.7031	practice	V_Non	75	Stimuli/nw6.jpg	Stimuli/Cane.jpg	Stimuli/BrownCane_1.jpg	Match
+STIM	Blank	ISI_2	4.0045	practice	V_Non	75	Stimuli/nw6.jpg	Stimuli/Cane.jpg	Stimuli/BrownCane_1.jpg	Match
+STIM	Matrix	Critical	4.3059	practice	V_Non	75	Stimuli/nw6.jpg	Stimuli/Cane.jpg	Stimuli/BrownCane_1.jpg	Match
+STIM	Blank	ISI_3	4.6072	practice	V_Non	75	Stimuli/nw6.jpg	Stimuli/Cane.jpg	Stimuli/BrownCane_1.jpg	Match
+STIM	Cleanup		4.9086
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:21:36
+
+START	33973.8193		0
+STIM	Blank		0.036169
+STIM	Paragraph	Press any key to begin.	1.0407
+STIM	Blank		1.4759
+STIM	Text	+	1.9782	practice	V_Non	184	Stimuli/nw3.jpg	Stimuli/Lamp.jpg	Stimuli/PinkLamp_2.jpg	Match
+STIM	Blank	ISI	2.2126	practice	V_Non	184	Stimuli/nw3.jpg	Stimuli/Lamp.jpg	Stimuli/PinkLamp_2.jpg	Match
+STIM	Matrix	Initial	2.5139	practice	V_Non	184	Stimuli/nw3.jpg	Stimuli/Lamp.jpg	Stimuli/PinkLamp_2.jpg	Match
+STIM	Blank	ISI_2	2.8153	practice	V_Non	184	Stimuli/nw3.jpg	Stimuli/Lamp.jpg	Stimuli/PinkLamp_2.jpg	Match
+STIM	Matrix	Critical	3.1166	practice	V_Non	184	Stimuli/nw3.jpg	Stimuli/Lamp.jpg	Stimuli/PinkLamp_2.jpg	Match
+STIM	Blank	ISI_3	3.418	practice	V_Non	184	Stimuli/nw3.jpg	Stimuli/Lamp.jpg	Stimuli/PinkLamp_2.jpg	Match
+STIM	Matrix	Target	3.7193	practice	V_Non	184	Stimuli/nw3.jpg	Stimuli/Lamp.jpg	Stimuli/PinkLamp_2.jpg	Match
+STIM	Blank	Response_Catcher	5.0252	practice	V_Non	184	Stimuli/nw3.jpg	Stimuli/Lamp.jpg	Stimuli/PinkLamp_2.jpg	Match
+STIM	Blank	ITI	5.1256	practice	V_Non	184	Stimuli/nw3.jpg	Stimuli/Lamp.jpg	Stimuli/PinkLamp_2.jpg	Match
+STIM	Text	+	5.7786	practice	V_Non	54	Stimuli/nw5.jpg	Stimuli/Bow.jpg	Stimuli/GreenBow_1.jpg	Match
+STIM	Blank	ISI	6.0799	practice	V_Non	54	Stimuli/nw5.jpg	Stimuli/Bow.jpg	Stimuli/GreenBow_1.jpg	Match
+STIM	Matrix	Initial	6.3813	practice	V_Non	54	Stimuli/nw5.jpg	Stimuli/Bow.jpg	Stimuli/GreenBow_1.jpg	Match
+STIM	Blank	ISI_2	6.6659	practice	V_Non	54	Stimuli/nw5.jpg	Stimuli/Bow.jpg	Stimuli/GreenBow_1.jpg	Match
+STIM	Matrix	Critical	6.9672	practice	V_Non	54	Stimuli/nw5.jpg	Stimuli/Bow.jpg	Stimuli/GreenBow_1.jpg	Match
+STIM	Blank	ISI_3	7.2686	practice	V_Non	54	Stimuli/nw5.jpg	Stimuli/Bow.jpg	Stimuli/GreenBow_1.jpg	Match
+STIM	Matrix	Target	7.5699	practice	V_Non	54	Stimuli/nw5.jpg	Stimuli/Bow.jpg	Stimuli/GreenBow_1.jpg	Match
+STIM	Cleanup		13.2621
+
+----------------------------------------------------------------------------
+Started at: 19-Jul-2010 17:23:11
+
+START	34068.3148		0
+STIM	Blank		0.030711
+STIM	Paragraph	Press any key to begin.	1.0352
+STIM	Blank		1.5877
+STIM	Text	+	2.0899	practice	V_Comp	22	Stimuli/Pink.jpg	Stimuli/Leaf.jpg	Stimuli/PinkHeart_2.jpg	NoMatch
+STIM	Blank	ISI	2.3243	practice	V_Comp	22	Stimuli/Pink.jpg	Stimuli/Leaf.jpg	Stimuli/PinkHeart_2.jpg	NoMatch
+STIM	Matrix	Initial	2.6257	practice	V_Comp	22	Stimuli/Pink.jpg	Stimuli/Leaf.jpg	Stimuli/PinkHeart_2.jpg	NoMatch
+STIM	Blank	ISI_2	2.927	practice	V_Comp	22	Stimuli/Pink.jpg	Stimuli/Leaf.jpg	Stimuli/PinkHeart_2.jpg	NoMatch
+STIM	Matrix	Critical	3.2284	practice	V_Comp	22	Stimuli/Pink.jpg	Stimuli/Leaf.jpg	Stimuli/PinkHeart_2.jpg	NoMatch
+STIM	Blank	ISI_3	3.5297	practice	V_Comp	22	Stimuli/Pink.jpg	Stimuli/Leaf.jpg	Stimuli/PinkHeart_2.jpg	NoMatch
+STIM	Matrix	Target	3.8311	practice	V_Comp	22	Stimuli/Pink.jpg	Stimuli/Leaf.jpg	Stimuli/PinkHeart_2.jpg	NoMatch
+STIM	Blank	Response_Catcher	15.1987	practice	V_Comp	22	Stimuli/Pink.jpg	Stimuli/Leaf.jpg	Stimuli/PinkHeart_2.jpg	NoMatch
+STIM	Blank	ITI	15.2991	practice	V_Comp	22	Stimuli/Pink.jpg	Stimuli/Leaf.jpg	Stimuli/PinkHeart_2.jpg	NoMatch
+STIM	Text	+	15.3326	practice	V_Non	143	Stimuli/nw5.jpg	Stimuli/Bag.jpg	Stimuli/GreenBag_1.jpg	Match
+STIM	Blank	ISI	15.3493	practice	V_Non	143	Stimuli/nw5.jpg	Stimuli/Bag.jpg	Stimuli/GreenBag_1.jpg	Match
+STIM	Matrix	Initial	15.3828	practice	V_Non	143	Stimuli/nw5.jpg	Stimuli/Bag.jpg	Stimuli/GreenBag_1.jpg	Match
+STIM	Blank	ISI_2	15.3996	practice	V_Non	143	Stimuli/nw5.jpg	Stimuli/Bag.jpg	Stimuli/GreenBag_1.jpg	Match
+STIM	Matrix	Critical	15.5	practice	V_Non	143	Stimuli/nw5.jpg	Stimuli/Bag.jpg	Stimuli/GreenBag_1.jpg	Match
+STIM	Blank	ISI_3	15.5167	practice	V_Non	143	Stimuli/nw5.jpg	Stimuli/Bag.jpg	Stimuli/GreenBag_1.jpg	Match
+STIM	Matrix	Target	15.5502	practice	V_Non	143	Stimuli/nw5.jpg	Stimuli/Bag.jpg	Stimuli/GreenBag_1.jpg	Match
+STIM	Cleanup		16.086
