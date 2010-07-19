@@ -60,7 +60,7 @@ else
 end
 
 % Might want to keep using the pointer next time
-if duration{1} == -1
+if isnumeric(duration{1}) && (duration{1} == -1)
 	PTBLastWindowPtr = wPtr;
 else
 	PTBLastWindowPtr = [];

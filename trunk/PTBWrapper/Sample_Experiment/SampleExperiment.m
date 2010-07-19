@@ -9,6 +9,31 @@
 %
 % There are many comments below that should be useful in using PTBWrapper.
 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% A note on triggering for MEG: The easiest way to trigger at the presentation
+% of a stimulus is to simply append a trigger value to the end of the Display call:
+% 
+% E.g.: PTBDisplayText('+', {'center'},{.5}, 1, .006);
+%
+% This call will display a '+' at the center of the screen for .5 seconds. At it's presentation
+% the value 1 will be sent to the MEG. The delay for the trigger is set to 0.006 seconds
+% to compensate for the delay in delivering the image to the projector. Both the trigger
+% and the delay are optional (though the trigger value needs to be given before the
+% delay). To trigger at the end of an event, add the trigger, and possible delay, to 
+% the duration by encasing it in a cell:
+%
+% PTBDisplayText('+', {'center'},{{'a',2,.006},{'s',3},.5}, 1, 0.006);
+%
+% This call will send a 2 valued trigger to the MEG if an 'a' is pressed, with a .006 second
+% delay; a 3 if a 's' is pressed, with no delay, and no trigger if neither response key
+% is pressed by .5 seconds.
+%
+% NOTE: For now, triggering is only implemented on the MAC using the USBButtonBox.
+% So, call PTBInitUSBBox before sending any triggers.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
 % Args:
 %	- subject: The subject id, can be any string.
 %		* This will be prepended to the log and data files.
@@ -52,7 +77,7 @@ button_box_id = 1;
 % be rerun properly, even if PTBWrapper is updated
 % to a future version. Set this to whatever version
 % works with the final script.
-PTBVersionCheck(1,1,5,'exactly');
+PTBVersionCheck(1,1,6,'exactly');
 
 % Set to debug, if we want to.
 % If this is set to 1, the display will not take up the whole
@@ -63,7 +88,7 @@ PTBVersionCheck(1,1,5,'exactly');
 % PTBCleanupExperiment, to close the screen. 
 % If this doesn't work, type Screen('CloseAll'), and this
 % should close the display.
-PTBSetIsDebugging(0);
+PTBSetIsDebugging(1);
 
 % NOTE: Might need this, if you run from the
 % debugger (i.e. Fn+F5). Sometimes the display
@@ -71,10 +96,10 @@ PTBSetIsDebugging(0);
 % uncomment this line, this will no longer cause 
 % an error. However, it should be commented
 % back in when debugging is done.
-% Screen('Preference', 'SkipSyncTests', 1);
+Screen('Preference', 'SkipSyncTests', 1);
 
 % See PTBSetInputCollection for details.
-% For now, only Char (the worst option) seems to work for
+% PLEASE NOTE: For now, only Char (the worst option) seems to work for
 % the MEG right now and Mac combination.
 % We're looking into this...
 collection_type = 'Queue';
@@ -240,6 +265,8 @@ feedback_time = 1;
 % Response keys
 global GL_same_key;
 global GL_different_key;
+global GL_same_key_trigger;
+global GL_different_key_trigger;
 if strcmp(collection_type, 'Char')
 	GL_same_key = '2';
 	GL_different_key = '1';
@@ -247,12 +274,16 @@ else
 	GL_same_key = '2@';
 	GL_different_key = '1!';	
 end
+GL_same_key_trigger = 100;
+GL_different_key_trigger = 101;
 
 % To account for a delay in the projector.
 global GL_V_trigger_delay;
 GL_V_trigger_delay = 0.006;
 global GL_A_trigger_delay;
 GL_A_trigger_delay = 0.006;
+global GL_R_trigger_delay;
+GL_R_trigger_delay = 0;
 
 % Set the appropriate parameters
 if is_outside
@@ -518,6 +549,9 @@ function [response end_time] = performTrial(start_time, modality, initial_stim, 
 global GL_picture_position;
 global GL_same_key;
 global GL_different_key;
+global GL_same_key_trigger;
+global GL_different_key_trigger;
+global GL_R_trigger_delay;
 global GL_vertical_offset;
 
 % The visual parameters
@@ -600,9 +634,12 @@ else
 	PTBDisplayText('+', {'center',[0 GL_vertical_offset]},{end_time});
 end
 
-% And the target
+% And the target. This call will send a trigger both at the
+% beginning and end of the target stimulus. 
 PTBDisplayPictures({target_stim},{GL_picture_position},...
-    {1},{GL_same_key, GL_different_key},'Target', t_trig, GL_V_trigger_delay);
+    {1},{{GL_same_key, GL_same_key_trigger, GL_R_trigger_delay},...
+	{GL_different_key, GL_different_key_trigger, GL_R_trigger_delay}},...
+	'Target', t_trig, GL_V_trigger_delay);
 
 % Quick screen to get the response time.
 % IMPORTANT: Due to the way displays are batched,

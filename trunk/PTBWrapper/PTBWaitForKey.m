@@ -89,6 +89,7 @@ end
 
 % Either got a press...
 global PTBDataFileID;
+global PTBEndTriggers;
 if pressed > 0
 
     % Handle queue responses
@@ -127,7 +128,18 @@ if pressed > 0
 		firstKey = KbName(ch);
         PTBLastKeyPressTime = char_press_time;
         PTBLastKeyPress = ch;
-    end
+	end
+	
+	% Send a trigger, if necessary
+	if ~isempty(PTBEndTriggers)
+		
+		% Check for matching
+		for i = 1:length(PTBEndTriggers)
+			if strcmp(PTBEndTriggers{i}{1},'any') || strcmp(PTBEndTriggers{i}{1}, PTBLastKeyPress)
+				PTBSendTrigger(PTBEndTriggers{i}{2}, PTBEndTriggers{i}{3});
+			end
+		end
+	end
 
 	% Get response time
 	RT = PTBAddedResponseTime + PTBLastKeyPressTime - PTBLastPresentationTime;

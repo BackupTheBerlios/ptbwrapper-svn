@@ -38,7 +38,7 @@ global PTBLogFileID;
 if ~iscell(duration) 
 	error('Bad duration');
 end
-if duration{1} == -1
+if isnumeric(duration{1}) && duration{1} == -1
 	
 	% Record and return
 	PTBWriteLog(PTBLogFileID, 'STIM_PREPARE', type, tag, -1);	
@@ -135,6 +135,22 @@ if PTBWaitingForKey
 	PTBKeyQueue = {};
 end
 
+% Send the ending trigger here, if necessary
+global PTBEndTriggers;
+if ~isempty(PTBEndTriggers)
+	
+	% Check for a numeric end trigger
+	for i = 1:length(PTBEndTriggers)
+		if isnumeric(PTBEndTriggers{i}{1})
+			PTBSendTrigger(PTBEndTriggers{i}{2}, PTBEndTriggers{i}{3});
+		end
+	end
+	
+	% And, reset
+	PTBEndTriggers = {};
+end
+
+
 % And present the stimulus
 if PTBAudioStimulus && PTBVisualStimulus
 	
@@ -152,7 +168,7 @@ else
 	error('Unknown stimulus type.');
 end
 
-% Send the trigger here, if necessary
+% Send the starting trigger here, if necessary
 if ~isempty(trigger)
     PTBSendTrigger(trigger, trigger_delay);
 end
@@ -202,7 +218,7 @@ if ~isempty(PTBEventQueue)
 		end
 	end
 
-	% Recursively call (Shouldn't cause too much problems...)
+	% Recursively call (Shouldn't cause too many problems...)
 	PTBPresentStimulus(duration, type, tag, trigger, trigger_delay, '')
 end
 
