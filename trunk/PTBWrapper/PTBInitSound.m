@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBInitSound.m
 %
+% NOTE: Internal function. DO NOT CALL.
+%
 % Initializes the sound driver. Good luck...
 %
 % Args:

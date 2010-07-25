@@ -1,7 +1,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBSendTrigger.m
 %
-% Initializes the IOLab USB ButtonBox
+% NOTE: Internal function. DO NOT CALL.
+%
+% Sends a trigger to the USBBox.
 %
 % Args:
 %	- value: 0-255 trigger value to send

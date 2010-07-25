@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBWrapperPostInstallRoutine(isUpdate [, flavor])
 %
+% NOTE: Internal function. DO NOT CALL.
+%
 % PTBWrapper post installation routine. You should not call this
 % function directly! This routine is called by DownloadPTBWrapper,
 % or UpdatePTBWrapper after a successfull download/update of

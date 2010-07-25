@@ -5,11 +5,13 @@
 %
 % Args:
 %	- positions: Where to put the circles
-%	- size: The size of the circles
+%	- sizes: The size of the circles (diameter). This can
+%		be a single constant.
+%	- colors: The color of the circles. This can be a
+%		single constant.
 %	- duration: How long to show the the text.
-%	- trigger: A trigger to send (optional)
 %
-% Usage: PTBDisplayCircles([100 100; 200 200]', 20, {.3})
+% Usage: PTBDisplayCircles([100 100; 200 200]', 20, [255 255 255], {.3})
 %
 % Author: Doug Bemis
 % Date: 2/3/10
@@ -17,7 +19,7 @@
 
 % TODO: Take variable args and parse.
 % TODO: Error checking.
-function PTBDisplayCircles(positions, size, duration, varargin)
+function PTBDisplayCircles(positions, size, colors, duration, varargin)
 
 % Parse any optional arguments and get the correct window
 [trigger  trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
@@ -33,8 +35,7 @@ function PTBDisplayCircles(positions, size, duration, varargin)
 % TODO: Handle positions more generally across different display functions.
 quality = 2;
 center = [0 0];
-color = 255;
-Screen('DrawDots', wPtr, positions, size, color, center, quality);
+Screen('DrawDots', wPtr, positions, size, colors, center, quality);
 
 % Set the type...
 global PTBVisualStimulus;

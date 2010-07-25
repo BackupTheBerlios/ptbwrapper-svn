@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBInitLogFiles.m
 %
+% NOTE: Internal function. DO NOT CALL.
+%
 % Initialize the log files.
 %
 % Args:

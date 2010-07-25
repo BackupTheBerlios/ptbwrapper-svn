@@ -6,8 +6,10 @@
 % Args:
 %	- sizes: [width height] pairs
 %	- positions: The positions to put the pictures.
+%	- tilts: The angle of the lines.
+%	- contrasts: The contrast of the gabor.
 %	- duration: The length to display for.
-%   - tag: A label to print out with the picture.
+%   - tag: A label to print out with the gabor.
 %	- trigger: A trigger to send (optional)
 %
 % Usage: PTBDisplayGabors({[50 50]}, {'center'}, [45 -45], [200 200], {.3}, 'Gabor')
@@ -34,7 +36,6 @@ th = res(2);
 nonsymmetric = 0;
 
 % Draw each
-global PTBScreenRes;
 for i = 1:length(sizes)
 
 	% Build a procedural gabor texture for a gabor with a support of tw x th
@@ -42,12 +43,9 @@ for i = 1:length(sizes)
 	gabortex = CreateProceduralGabor(wPtr, tw, th, nonsymmetric, [0.5 0.5 0.5 0.0]);
 	
 	% Set the position from the size
-	if strcmpi(positions{i}, 'center')
-		positions{i} = [PTBScreenRes.width/2 PTBScreenRes.height/2];
-	end
-	pos = [positions{i}(1) - sizes{i}(1)/2 positions{i}(2) - sizes{i}(2)/2 ...
-		positions{i}(1) + sizes{i}(1)/2 positions{i}(2) + sizes{i}(2)/2];		
-
+	pos = [positions(1,i) - sizes(i)/2 positions(2,i) - sizes(i)/2 ...
+		positions(1,i) + sizes(i)/2 positions(2,i) + sizes(i)/2];		
+		
 	% Draw the gabor once, just to make sure the gfx-hardware is ready for the
 	% benchmark run below and doesn't do one time setup work inside the
 	% benchmark loop: See below for explanation of parameters...

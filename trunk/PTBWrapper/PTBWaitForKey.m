@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBWaitForKey.m
 %
+% NOTE: Internal function. DO NOT CALL.
+%
 % This waits for a key to be pressed and records it.
 %
 % Usage: PTBWaitForKey

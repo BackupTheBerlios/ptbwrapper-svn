@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBCloseSoundPort.m
 %
+% NOTE: Internal function. DO NOT CALL.
+%
 % Stops and closes a sound port, if open.
 % NOTE: This is only called when another one is needed.
 % TODO: Figure out if this is bad...
