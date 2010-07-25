@@ -1,7 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBParseDisplayArguments.m
 %
-% NOTE: For internal use.
+% NOTE: Internal function. DO NOT CALL.
+%
 % TODO: Move to separate folder.
 %
 % Parses the arguments for the Display calls

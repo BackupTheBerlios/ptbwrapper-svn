@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBSetDuration.m
 %
+% NOTE: Internal function. DO NOT CALL.
+%
 % This is setup to do all the preparation to
 % display while the previous screen is being viewed.
 % Therefore, we simply use the duration to set

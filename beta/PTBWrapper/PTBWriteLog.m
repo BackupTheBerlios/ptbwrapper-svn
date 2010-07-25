@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBWriteLog.m
 %
+% NOTE: Internal function. DO NOT CALL.
+%
 % Write out a line to a log file. This is mainly used
 % automatically and internally.
 %

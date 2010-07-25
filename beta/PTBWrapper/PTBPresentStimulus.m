@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBPresentStimulus.m
 %
+% NOTE: Internal function. DO NOT CALL.
+%
 % This is mainly used internally.
 %
 % Displays the backbuffer to the screen.

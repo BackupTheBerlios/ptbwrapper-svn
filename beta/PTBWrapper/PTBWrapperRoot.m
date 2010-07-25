@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBWrapperRoot.m
 %
+% NOTE: Internal function. DO NOT CALL.
+%
 % Returns the path to the Psychtoolbox folder, even if it's been renamed.
 % Also see matlaboot, DiskRoot, [and maybe DesktopFolder].
 %

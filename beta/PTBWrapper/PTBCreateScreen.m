@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % File: PTBCreateScreen.m
 %
+% NOTE: Internal function. DO NOT CALL.
+%
 % Creates a screen (i.e. buffer) to write to.
 %
 % Args:

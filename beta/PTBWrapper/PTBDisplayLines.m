@@ -4,9 +4,13 @@
 % Displays lines to the screen.
 %
 % Args:
-%	- positions: Where to put the lines
-%	- size: The width of the lines
-%	- color: The color of the lines
+%	- positions: Where to put the lines. This needs
+%		two endpoints (x,y) for each line, so four
+%		numbers per line.
+%	- sizes: The width of the lines. This can be
+%		a single constant.
+%	- colors: The color of the lines. This can be
+%		a single constant.
 %	- duration: How long to show the the text.
 %	- trigger: A trigger to send (optional)
 %
@@ -18,7 +22,7 @@
 
 % TODO: Take variable args and parse.
 % TODO: Error checking.
-function PTBDisplayLines(positions, size, color, duration, varargin)
+function PTBDisplayLines(positions, sizes, colors, duration, varargin)
 
 % Parse any optional arguments and get the correct window
 [trigger  trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, varargin);
@@ -34,7 +38,7 @@ function PTBDisplayLines(positions, size, color, duration, varargin)
 % TODO: Handle positions more generally across different display functions.
 quality = 0;
 center = [0 0];
-Screen('DrawLines', wPtr, positions, size, color, center, quality);
+Screen('DrawLines', wPtr, positions, sizes, colors, center, quality);
 
 % Set the type...
 global PTBVisualStimulus;
