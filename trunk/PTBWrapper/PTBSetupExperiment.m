@@ -327,6 +327,8 @@ PTBStartTime = PTBNextPresentationTime;
 global PTBLogFileID;
 global PTBDataFileID;
 PTBWriteLog(PTBLogFileID, 'START', num2str(PTBStartTime), '', PTBStartTime);
+fprintf(PTBLogFileID, 'Display\tStimulus\tTag\tTime\n');
 if ~strcmp(PTBLogFileName, PTBDataFileName)
 	PTBWriteLog(PTBDataFileID, 'START', num2str(PTBStartTime), '', PTBStartTime);
+	fprintf(PTBDataFileID, 'Response\tKey\tRT\tAbs_RT\tStimulus\tTag\n');
 end
