@@ -29,7 +29,7 @@ function SampleExperiment
 % compatibility is not always assured. This function will 
 % let you know what command to run if your script is
 % broken by an update.
-PTBVersionCheck(1,1,6,'at least');
+PTBVersionCheck(1,1,7,'at least');
 
 % If this is set to 1, the display will not take up the whole
 % screen. This is useful if you crash something or get
@@ -39,7 +39,7 @@ PTBVersionCheck(1,1,6,'at least');
 % PTBCleanupExperiment, to close the screen. 
 % If this doesn't work, type Screen('CloseAll'), and this
 % should close the display.
-PTBSetIsDebugging(0);
+PTBSetIsDebugging(1);
 
 % NOTE: For now, only one input option (the worst one) 
 % seems to work for the MEG right now and Mac combination.
@@ -212,7 +212,13 @@ try
 	% with PTBSetTriggerLength.
 	PTBDisplayText('This sends the trigger 1.',{'center'},{1},1);
 	PTBDisplayBlank({.5},'Trigger blank');
-	PTBDisplayText('This sends the trigger 2, with a 100ms delay.',{'center'},{1},1,100);
+	PTBDisplayText('This sends the trigger 2, with a 100ms delay.',{'center'},{1},2,100);
+	PTBDisplayBlank({.5},'Trigger blank');
+    
+    % You can send multiple triggers with a delay for each event too.
+    %   Just continue to add trigger value / delay pairs. The delay is 
+    %   from the end of the previous trigger.
+	PTBDisplayText('This sends the trigger 1 and trigger 2 100ms later',{'center'},{1},1,0,2,100);
 	PTBDisplayBlank({.5},'Trigger blank');
 	
 	% Triggers can also be sent at the completion of a duration, either a 

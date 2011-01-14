@@ -28,14 +28,14 @@ for i = 1:length(args)
 
 		% Take all numbers to be triggers
 		if isnumeric(args{i})
-			trigger = args{i};
+			trigger(end+1) = args{i};
 
 			% Second argument could be a delay
-			trigger_delay = 0;
+			trigger_delay(end+1) = 0;
 			if length(args) > i
 				if isnumeric(args{i+1})
-					trigger_delay = args{i+1};
-					args{1+1} = '';
+					trigger_delay(end) = args{i+1};
+					args{i+1} = '';
 				end				
 			end
 		% Take all strings to be key conditions
