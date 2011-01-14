@@ -6,7 +6,8 @@
 % Sends a trigger to the USBBox.
 %
 % Args:
-%	- value: 0-255 trigger value to send
+%	- value: 0-255 trigger values to send
+%   - trigger_delay: The delays to use for each trigger.
 %
 % Usage: PTBSendTrigger(30)
 %
@@ -23,19 +24,27 @@ if ~PTBUSBBoxInitialized
 	return;
 end
 
-% Send the trigger
+% Send the triggers
 global PTBUSBBoxDeviceID;
 global PTBTriggerLength;
 
-% Sometimes need to delay, because it gets there before the screen
-pause(trigger_delay);
+    
+% Account for the trigger length for any triggers after the first
+trigger_delay = trigger_delay - PTBTriggerLength;
+trigger_delay(1) = trigger_delay(1) + PTBTriggerLength;
 
-% Send the trigger
-trig_time = GetSecs;
-PsychHID('SetReport', PTBUSBBoxDeviceID, 2, hex2dec('32'), uint8(zeros(1,2)+value));
-pause(PTBTriggerLength);
-PsychHID('SetReport', PTBUSBBoxDeviceID, 2, hex2dec('32'), uint8(zeros(1,2)));
+% NOTE: value can have more than 1 trigger
+for i = 1:length(value)
 
+    % Sometimes need to delay, because it gets there before the screen
+    pause(trigger_delay(i));
+
+    % Send the trigger
+    trig_time = GetSecs;
+    PsychHID('SetReport', PTBUSBBoxDeviceID, 2, hex2dec('32'), uint8(zeros(1,2)+value(i)));
+    pause(PTBTriggerLength);
+    PsychHID('SetReport', PTBUSBBoxDeviceID, 2, hex2dec('32'), uint8(zeros(1,2)));
+end
 
 % Want to record
 global PTBLogFileID;
