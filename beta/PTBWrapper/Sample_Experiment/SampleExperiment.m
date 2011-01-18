@@ -218,7 +218,7 @@ try
     % You can send multiple triggers with a delay for each event too.
     %   Just continue to add trigger value / delay pairs. The delay is 
     %   from the end of the previous trigger.
-	PTBDisplayText('This sends the trigger 1 and trigger 2 100ms later',{'center'},{1},1,0,2,100);
+	PTBDisplayText('This sends the trigger 1 and trigger 2 100ms later',{'center'},{1},[1,0,2,100]);
 	PTBDisplayBlank({.5},'Trigger blank');
 	
 	% Triggers can also be sent at the completion of a duration, either a 
