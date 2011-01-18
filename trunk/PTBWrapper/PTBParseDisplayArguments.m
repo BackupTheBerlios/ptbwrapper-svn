@@ -15,11 +15,11 @@
 % Date: 3/2/10
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function [trigger trigger_delay key_condition wPtr] = PTBParseDisplayArguments(duration, args)
+function [triggers triggers_delay key_condition wPtr] = PTBParseDisplayArguments(duration, args)
 
 % Default if none
-trigger = [];
-trigger_delay = [];
+triggers = [];
+triggers_delay = [];
 key_condition = '';
 
 % Parse any we have
@@ -28,16 +28,33 @@ for i = 1:length(args)
 
 		% Take all numbers to be triggers
 		if isnumeric(args{i})
-			trigger(end+1) = args{i};
+            
+            % See if it's only a single number or number delay pair
+            if length(args{i}) == 1
+                triggers(end+1) = args{i};
 
-			% Second argument could be a delay
-			trigger_delay(end+1) = 0;
-			if length(args) > i
-				if isnumeric(args{i+1})
-					trigger_delay(end) = args{i+1};
-					args{i+1} = '';
-				end				
-			end
+                % Second argument could be a delay
+                triggers_delay(end+1) = 0;
+                if length(args) > i
+                    if isnumeric(args{i+1})
+                        triggers_delay(end) = args{i+1};
+                        args{i+1} = '';
+                    end				
+                end
+            else
+                
+                % Need these to be pairs
+                if mod(length(args{i}),2) == 1
+                    error('Need trigger, delay pairs. Exiting.');
+                end
+                
+                % Put them all in
+                for t = 1:2:length(args{i})
+                    triggers(end+1) = args{i}(t);
+                    triggers_delay(end+1) = args{i}(t+1);
+                end
+            end
+                
 		% Take all strings to be key conditions
 		elseif ischar(args{i})
 			key_condition = args{i};
