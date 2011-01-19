@@ -111,7 +111,7 @@ try
 	% Mac, this is necessary to call first. It will give a warning if something
 	% goes wrong, but allow the script to continue.
 	% NOTE: You must call this before trying to send any triggers.
-	% PTBInitUSBBox;
+	%PTBInitUSBBox;
 	
 	% Show a simple stimulus.
 	% * The first argument is the string to display.
@@ -212,13 +212,13 @@ try
 	% with PTBSetTriggerLength.
 	PTBDisplayText('This sends the trigger 1.',{'center'},{1},1);
 	PTBDisplayBlank({.5},'Trigger blank');
-	PTBDisplayText('This sends the trigger 2, with a 100ms delay.',{'center'},{1},2,100);
+	PTBDisplayText('This sends the trigger 2, with a 100ms delay.',{'center'},{1},2,.100);
 	PTBDisplayBlank({.5},'Trigger blank');
     
     % You can send multiple triggers with a delay for each event too.
     %   Just continue to add trigger value / delay pairs. The delay is 
     %   from the end of the previous trigger.
-	PTBDisplayText('This sends the trigger 1 and trigger 2 100ms later',{'center'},{1},[1,0,2,100]);
+	PTBDisplayText('This sends the trigger 1 and trigger 2 100ms later',{'center'},{1},[1,0,2,.100]);
 	PTBDisplayBlank({.5},'Trigger blank');
 	
 	% Triggers can also be sent at the completion of a duration, either a 
