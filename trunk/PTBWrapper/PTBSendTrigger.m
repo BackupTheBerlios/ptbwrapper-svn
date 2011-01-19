@@ -28,14 +28,21 @@ end
 global PTBUSBBoxDeviceID;
 global PTBTriggerLength;
 
-    
+
+% Schedule the triggers
+curr_time = GetSecs;
+for i = length(triggers_delay):-1:1
+    triggers_delay(i) = triggers_delay(i) + sum(triggers_delay(1:i-1)) + curr_time;
+end
+
 % Account for the trigger length for any triggers after the first
-triggers_delay = triggers_delay - PTBTriggerLength;
-triggers_delay(1) = triggers_delay(1) + PTBTriggerLength;
+% triggers_delay = triggers_delay - PTBTriggerLength;
+% triggers_delay(1) = triggers_delay(1) + PTBTriggerLength;
 for i = 1:length(triggers)
 
     % Sometimes need to delay, because it gets there before the screen
-    pause(triggers_delay(i));
+    while GetSecs < triggers_delay(i)
+    end
 
     % Send the trigger
     trig_time = GetSecs;
