@@ -1,7 +1,8 @@
 % PTBWrapper.
-% Version 1.1.7       13 Jan 2011
+% Version 1.1.8       16 April 2011
 % 
 % Past versions:
+%	1.1.7	87
 %	1.1.6	83
 %	1.1.5	73
 %	1.1.4	58
