@@ -34,12 +34,6 @@ global PTBTextColor;
 Screen('TextFont', wPtr, PTBTextFont);
 Screen('TextSize', wPtr, PTBTextSize);
 
-% Need to check
-% TODO: Possibly turn these check off if not debugging?
-if ~ischar(text)
-	error('Bad text input.');
-end
-
 % Check for special positions
 if iscell(position)
 	if strcmpi(position{1},'center')
