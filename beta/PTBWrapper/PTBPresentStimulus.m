@@ -175,6 +175,22 @@ if ~isempty(triggers)
     PTBSendTrigger(triggers, triggers_delay);
 end
 
+% Stop the recording, if it was going
+global PTBRecordAudio;
+global PTBSoundKeyData;
+
+% Want to wait two screens to get the full trigger
+PTBRecordAudio = PTBRecordAudio-1;
+if PTBRecordAudio == 0
+
+	% Grab the data
+	audiodata = PsychPortAudio('GetAudioData', PTBTheSoundPort);
+	PTBSoundKeyData = [PTBSoundKeyData audiodata];
+	
+	% Stop capture:
+	PsychPortAudio('Stop', PTBTheSoundPort);
+end
+
 % Reset here
 % TODO: Have to  
 PTBAudioStimulus = 0;

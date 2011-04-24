@@ -16,6 +16,7 @@
 function PTBWaitForKey
 
 global PTBWaitingForKey;
+global PTBWaitingForSoundKey;
 global PTBLastPresentationTime;
 global PTBNextPresentationTime;
 global PTBExitKey;
@@ -28,12 +29,39 @@ global PTBKeyTag;
 global PTBKeyType;
 global PTBInputCollection;
 global PTBInputDevice;
+global PTBTheSoundPort;
+global PTBSoundKeyLevel;
+global PTBSoundKeyData;
 
 % For now, just waiting for any key.
 % TODO: Error check and extend.
 pressed = 0;
+gotSoundKey = 0;
 while pressed == 0
 
+	% Might be looking for a sound
+	if PTBWaitingForSoundKey
+		
+        % Fetch current audiodata:
+        [audiodata offset overflow tCaptureStart] = PsychPortAudio('GetAudioData', PTBTheSoundPort);
+
+		% For now, record everything...
+		PTBSoundKeyData = [PTBSoundKeyData audiodata];
+
+        % Compute maximum signal amplitude in this chunk of data:
+        if ~isempty(audiodata)
+            level = max(abs(audiodata(1,:)));
+        else
+            level = 0;
+        end
+        
+        % Below trigger-threshold?
+        if level > PTBSoundKeyLevel %#ok<ALIGN>
+			pressed = 1;
+			gotSoundKey = 1;
+		end
+	end
+	
     % Use the good stuff for mac...
     if strcmp(PTBInputCollection, 'Queue')
 
@@ -47,7 +75,7 @@ while pressed == 0
     	[keyIsDown, timeSecs, keyCode] = KbCheck(PTBInputDevice);
         
         % See if we got one we wanted
-        if keyIsDown && (sum(PTBKeysOfInterest & keyCode) > 0)
+        if keyIsDown && (sum(PTBKeysOfInterest & keyCode) > 0) %#ok<ALIGN>
             pressed = 1;
 		end
 		
@@ -58,7 +86,7 @@ while pressed == 0
 		while CharAvail
 			
 			% See if we wanted it
-			[ch when] = GetChar;
+			[ch when] = GetChar; %#ok<NASGU>
 			
 			% TODO: Fix errors from control keys
 			try
@@ -92,16 +120,31 @@ end
 % Either got a press...
 global PTBDataFileID;
 global PTBEndTriggers;
+global PTBRecordAudio;
 if pressed > 0
 
     % Handle queue responses
 	% Need to set PTBLastKeyPressTime and PTBLastKeyPress
-    if strcmp(PTBInputCollection, 'Queue')
+	if gotSoundKey
+
+		% Record the info
+		freq = 44100;
+	    idx = min(find(abs(audiodata(1,:)) >= PTBSoundKeyLevel)); %#ok<MXFND>
+		PTBLastKeyPressTime = tCaptureStart + ((offset + idx - 1) / freq);
+		PTBLastKeyPress = 'sound';
+
+		% Record through the next display
+		PTBRecordAudio = 2;
+		
+		% For now, make sure we get as much as possible, so doing this above...
+		% PTBSoundKeyData = [PTBSoundKeyData audiodata(:, idx:end)];
+
+	elseif strcmp(PTBInputCollection, 'Queue')
 
         % Find the first key press
         % TODO: There's probably a better way to do this.
         % If only one key press, can do away with most of this.
-        firstKey = find(firstPress == min(firstPress(find(firstPress > 0))));
+        firstKey = find(firstPress == min(firstPress(find(firstPress > 0)))); %#ok<FNDSB>
 
         % Record the time and press
         PTBLastKeyPressTime = firstPress(firstKey);
@@ -118,7 +161,7 @@ if pressed > 0
         % TODO: This will wrongly record if two
         % of the response keys are pressed at the same
         % time...
-        firstKey = min(find(PTBKeysOfInterest & keyCode > 0));
+        firstKey = min(find(PTBKeysOfInterest & keyCode > 0)); %#ok<MXFND>
         
         % Record the time and press
         PTBLastKeyPressTime = timeSecs;
@@ -153,12 +196,13 @@ if pressed > 0
 	PTBNextPresentationTime = 0;
 	
 	% Check the exit key
-	if KbName(PTBExitKey) == firstKey
+	if ~gotSoundKey && KbName(PTBExitKey) == firstKey
 		error('Exit key pressed.');
 	end
 
 	% Reset the flag.
 	PTBWaitingForKey = 0;
+	PTBWaitingForSoundKey = 0;
 	
 	% No more added time
 	PTBAddedResponseTime = 0;
@@ -172,8 +216,15 @@ else
 		PTBLastKeyPressTime = -1;
 		PTBWriteLog(PTBDataFileID, 'TIMEOUT','', '', timeOutCheck, PTBKeyType, PTBKeyTag);
 
+		% Might need to reset the sound
+		if PTBWaitingForSoundKey
+			
+			% Stop capture
+			PsychPortAudio('Stop', PTBTheSoundPort);
+		end
+		
 		% Just stop listening for now
-        if strcmp(PTBInputCollection, 'Queue')
+        if strcmp(PTBInputCollection, 'Queue') %#ok<ALIGN>
         	KbQueueStop;
             KbQueueRelease;
 		end
@@ -183,6 +234,7 @@ else
 
 		% Reset the flag.
 		PTBWaitingForKey = 0;
+		PTBWaitingForSoundKey = 0;
 		
 		% No more added time
 		PTBAddedResponseTime = 0;

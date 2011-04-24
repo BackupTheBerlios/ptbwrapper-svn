@@ -299,6 +299,16 @@ PTBLastKeyPressTime = -1;
 global PTBLastKeyPress;
 PTBLastKeyPress = '';
 
+% For a sound key
+global PTBWaitingForSoundKey;
+PTBWaitingForSoundKey = 0;
+global PTBSoundKeyLevel;
+PTBSoundKeyLevel = 0.01;
+global PTBSoundKeyData;
+PTBSoundKeyData = [];
+global PTBRecordAudio;
+PTBRecordAudio = 0;
+
 % Default the append to nothing
 global PTBLogAppend;
 if isempty(PTBLogAppend)
@@ -308,8 +318,12 @@ end
 % Setup the logfiles. Default to logfile.txt
 global PTBLogFileName;
 global PTBDataFileName;
+global PTBSoundFileName;
 if isempty(PTBLogFileName)
 	PTBSetLogFiles('logfile.txt');
+end
+if isempty(PTBSoundFileName)
+	PTBSoundFileName = 'soundfile.wav';
 end
 
 % Now, initialize them.

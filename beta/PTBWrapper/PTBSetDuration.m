@@ -24,12 +24,16 @@ global PTBLastPresentationTime;
 global PTBNextPresentationTime;
 global PTBTheWindowPtr;
 global PTBWaitingForKey;
+global PTBWaitingForSoundKey;
 global PTBExitKey;
 global PTBInputDevice;
 global PTBKeyTag;
 global PTBKeyType;
 global PTBInputCollection;
 global PTBEndTriggers;
+global PTBTheSoundPort;
+global PTBSoundState;
+global PTBSoundOpen;
 
 % Make sure we can parse
 if ~iscell(duration)
@@ -88,6 +92,39 @@ for i = 1:length(duration)
 		else
 			PTBNextPresentationTime = PTBLastPresentationTime + duration{i} - slack;
 		end
+
+	% Might be a sound trigger
+	elseif strcmpi(duration{i}, 'sound')
+		
+		% For now, we'll treat this as a special key
+		PTBWaitingForSoundKey = 1;
+		PTBWaitingForKey = 1;
+
+		% Perform basic initialization of the sound driver, to be sure
+		PTBInitSound(1);
+
+		% Close down any open ports
+		PTBCloseSoundPort;
+
+		% Open the default audio device [], with mode 2 (== Only audio capture),
+		% and a required latencyclass of zero 0 == no low-latency mode, as well as
+		% a frequency of 44100 Hz and 2 sound channels for stereo capture.
+		% This returns a handle to the audio device:
+		freq = 44100;
+		PTBTheSoundPort = PsychPortAudio('Open', [], 2, 1, freq, 2);
+		PTBSoundState = PTBSoundOpen;
+
+		% Preallocate an internal audio recording  buffer with a capacity of 10 seconds:
+		PsychPortAudio('GetAudioData', PTBTheSoundPort, 10);
+
+		% Start audio capture immediately and wait for the capture to start.
+		% We set the number of 'repetitions' to zero,
+		% i.e. record until recording is manually stopped.
+		PsychPortAudio('Start', PTBTheSoundPort, 0, 0, 1);
+	
+		% And record what we're waiting at
+		PTBKeyTag = tag;
+		PTBKeyType = type;
 		
 	% Special 'anykey'
 	elseif strcmpi(duration{i}, 'any')

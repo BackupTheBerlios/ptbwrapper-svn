@@ -22,7 +22,7 @@
 % TODO: Possibly allow changing during the experiment.
 function PTBSetLogFiles(varargin)
 
-if nargin < 1 || nargin > 3
+if nargin < 1 || nargin > 4
 	error('Wrong number of arguments.');
 end
 
@@ -38,10 +38,18 @@ else
 	PTBDataFileName = PTBLogFileName;
 end
 
+% Might want a sound file for voice triggers
+global PTBSoundFileName;
+if nargin > 2
+	PTBSoundFileName = varargin{3};
+else
+	PTBSoundFileName = -1;
+end
+
 % See if logging all keystrokes
 global PTBKeyFileName;
-if nargin > 2
-	PTBKeyFileName = varargin{3};
+if nargin > 3
+	PTBKeyFileName = varargin{4};
 else
 	PTBKeyFileName = -1;
 end
