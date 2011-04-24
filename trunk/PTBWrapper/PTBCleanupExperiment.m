@@ -23,6 +23,9 @@ end
 % Shutdown the sound
 PTBCloseSoundPort;
 
+% Save any sound
+PTBSaveSoundKeyData;
+
 % Make sure the last screen stays up for the desired time,
 % if there is one.
 global PTBNextPresentationTime;
