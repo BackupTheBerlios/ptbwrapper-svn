@@ -27,7 +27,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-function FontFinder(characters, fonts_to_try)
+function FontFinder(characters, fonts_to_try, font_size)
 
 % Convert to decimal if necessary.
 unicode = zeros(1,length(characters));
@@ -40,8 +40,13 @@ else
 end
 
 % Set the fonts to try
-if nargin < 2
+if nargin < 2 || fonts_to_try
 	fonts_to_try = 1:FontInfo('NumFonts');
+end
+
+% And the size
+if nargin < 3
+	font_size = 20;
 end
 
 % Get all the info
@@ -51,7 +56,7 @@ f_info = FontInfo('Fonts');
 is_debugging = 0;
 
 % Make sure we're compatible
-PTBVersionCheck(1,1,8,'at least');
+PTBVersionCheck(1,1,10,'at least');
 
 % Set to debug, if we want to.
 PTBSetIsDebugging(is_debugging);
@@ -74,6 +79,7 @@ try
 
     % First, prepare everything to go
     PTBSetupExperiment('Font_Finder');
+	PTBSetTextSize(font_size);
 	
     % This gives time to get the program up and going
 	init_blank_time = 1;
@@ -81,31 +87,44 @@ try
 	
 	% Some directions
 	PTBSetTextFont('Courier');
-	PTBDisplayParagraph({'Press n to advance the fonts.',...
+	PTBDisplayParagraph({'Press n to advance the fonts.','Press p to go back',...
 		'Press s to save a font name to file.','Press q to quit.','Press any key to begin'}, {'center', 30}, {'any'});
 	
 	% Try out all the fonts
 	fid = fopen('FontResults.txt','w');
-	for i = fonts_to_try
+	i = 0;
+	while i < length(fonts_to_try)
+		i = i + 1;
 		PTBSetTextFont('Courier');
-		if isnumeric(i)
-			PTBDisplayText([f_info(i).name ' (' num2str(i) ')'], {'center',[0 100]},{-1});
-			PTBSetTextFont(i);
+		if isnumeric(fonts_to_try)
+			PTBDisplayText([f_info(fonts_to_try(i)).name ' (' num2str(fonts_to_try(i)) ')'], {'center',[0 100]},{-1});
+			PTBSetTextFont(fonts_to_try(i));
 		else
-			PTBDisplayText(i{1}, {'center',[0 100]},{-1});
-			PTBSetTextFont(i{1});			
+			PTBDisplayText(fonts_to_try{i}, {'center',[0 100]},{-1});
+			PTBSetTextFont(fonts_to_try{i});			
 		end
-		PTBDisplayText(unicode, {'center'},{'s','q','n'});
+		PTBDisplayText(unicode, {'center'},{'s','q','n','p'});
 
 		% Quick screen to get the response time
 		PTBDisplayBlank({.1},'Response_Catcher');
 		
 		% See if we need to do something
 		if strcmp(PTBLastKeyPress, 's')
-				fprintf(fid,[f_info(i).name ' (' num2str(i) ')\n']);
+			if isnumeric(fonts_to_try)
+				fprintf(fid,[f_info(fonts_to_try(i)).name ' (' num2str(fonts_to_try(i)) ')\n']);
+			else
+				fprintf(fid,[fonts_to_try{i} '\n']);
+			end
 		end
 		if strcmp(PTBLastKeyPress, 'q')
 			break;
+		end
+		if strcmp(PTBLastKeyPress, 'p')
+			if i == 1
+				i = i-1;
+			else
+				i = i-2;
+			end
 		end
 	end
 	fclose(fid);

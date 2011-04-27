@@ -308,6 +308,8 @@ global PTBSoundKeyData;
 PTBSoundKeyData = [];
 global PTBRecordAudio;
 PTBRecordAudio = 0;
+global PTBSoundInputDevice;
+PTBSoundInputDevice = [];
 
 % Default the append to nothing
 global PTBLogAppend;
