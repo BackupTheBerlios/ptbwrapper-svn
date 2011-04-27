@@ -40,7 +40,7 @@ else
 end
 
 % Set the fonts to try
-if nargin < 2 || fonts_to_try
+if nargin < 2 || isempty(fonts_to_try)
 	fonts_to_try = 1:FontInfo('NumFonts');
 end
 
