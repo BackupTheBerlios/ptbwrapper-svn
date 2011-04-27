@@ -34,6 +34,7 @@ global PTBEndTriggers;
 global PTBTheSoundPort;
 global PTBSoundState;
 global PTBSoundOpen;
+global PTBSoundInputDevice;
 
 % Make sure we can parse
 if ~iscell(duration)
@@ -111,7 +112,7 @@ for i = 1:length(duration)
 		% a frequency of 44100 Hz and 2 sound channels for stereo capture.
 		% This returns a handle to the audio device:
 		freq = 44100;
-		PTBTheSoundPort = PsychPortAudio('Open', [], 2, 1, freq, 2);
+		PTBTheSoundPort = PsychPortAudio('Open', PTBSoundInputDevice, 2, 1, freq, 2);
 		PTBSoundState = PTBSoundOpen;
 
 		% Preallocate an internal audio recording  buffer with a capacity of 10 seconds:
