@@ -46,7 +46,7 @@ end
 
 % And the size
 if nargin < 3
-	font_size = 20;
+	font_size = 40;
 end
 
 % Get all the info
