@@ -325,7 +325,7 @@ if isempty(PTBLogFileName)
 	PTBSetLogFiles('logfile.txt');
 end
 if isempty(PTBSoundFileName)
-	PTBSoundFileName = 'soundfile.wav';
+	PTBSoundFileName = 'Sound_Data';
 end
 
 % Now, initialize them.

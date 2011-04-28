@@ -26,5 +26,16 @@ if isempty(PTBSoundKeyData)
 	return;
 end
 
-% Otherwise, write it to the file
-wavwrite(transpose(PTBSoundKeyData), 44100, 16, PTBSoundFileName);
+% Otherwise, write it to the file.
+% Name it by date to avoid overwriting
+t = fix(clock);
+file_name = PTBSoundFileName; 
+for i = 1:6
+    file_name = [file_name '_' num2str(t(i))]; %#ok<AGROW>
+end
+file_name = [file_name '.wav'];
+wavwrite(transpose(PTBSoundKeyData), 44100, 16, file_name);
+
+% Clear the buffer
+PTBSoundKeyData = [];
+
