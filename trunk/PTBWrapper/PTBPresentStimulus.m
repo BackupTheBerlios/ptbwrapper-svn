@@ -189,6 +189,9 @@ if PTBRecordAudio == 0
 	
 	% Stop capture:
 	PsychPortAudio('Stop', PTBTheSoundPort);
+    
+    % And save to prevent buffer overflow
+    PTBSaveSoundKeyData;
 end
 
 % Reset here

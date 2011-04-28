@@ -43,7 +43,7 @@ global PTBSoundFileName;
 if nargin > 2
 	PTBSoundFileName = varargin{3};
 else
-	PTBSoundFileName = -1;
+	PTBSoundFileName = 'Sound_Data';
 end
 
 % See if logging all keystrokes
