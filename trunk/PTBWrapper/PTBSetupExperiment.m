@@ -48,6 +48,11 @@
 %	- PTBAudioStimulus: 1 if there is a visual stimulus to display.
 %   - PTBTriggerLength: The length of triggers sent to the MEG DAQs.
 %	- PTBUSBBoxInitialized: 1 if USBBox has been initialized.
+%   - PTBEyeTrackerHandle: The handle to the eyetracker info.
+%	- PTBEyeTrackerInitialized: 1 if eyetracker has been initialized.
+%	- PTBEyeTrackerCalibrated: 1 if eyetracker has been calibrated.
+%	- PTBEyeTrackerFileName: The file name we're saving the eye tracking data to.
+%	- PTBEyeTrackerRecording: 1 if recording eye tracking data.
 %	- PTBDisableTimeOut: 1 if want to collect a key press over multiple displays
 %		* REMEMBER to set this back to 0 afterwards.
 %	- PTBAddedResponseTime: Used internally when time out is disabled.
@@ -150,6 +155,29 @@ global PTBUSBBoxInitialized;
 if isempty(PTBUSBBoxInitialized)
     PTBUSBBoxInitialized = 0;
 end
+
+% Make sure we don't error
+global PTBEyeTrackerInitialized;
+if isempty(PTBEyeTrackerInitialized)
+    PTBEyeTrackerInitialized = 0;
+end
+global PTBEyeTrackerCalibrated;
+if isempty(PTBEyeTrackerCalibrated)
+    PTBEyeTrackerCalibrated = 0;
+end
+global PTBEyeTrackerRecording;
+if isempty(PTBEyeTrackerRecording)
+    PTBEyeTrackerRecording = 0;
+end
+global PTBEyeTrackerFileName;
+if isempty(PTBEyeTrackerFileName)
+    PTBEyeTrackerFileName = '';
+end
+global PTBEyeTrackerHandle;
+if isempty(PTBEyeTrackerHandle)
+    PTBEyeTrackerHandle = 0; 
+end
+
 
 % For triggers at the end of a stimulus
 global PTBEndTriggers;

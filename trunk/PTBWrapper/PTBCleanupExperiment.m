@@ -26,6 +26,9 @@ PTBCloseSoundPort;
 % Save any sound
 PTBSaveSoundKeyData;
 
+% Shutdown the eyetracker
+PTBCloseEyeTracker;
+
 % Make sure the last screen stays up for the desired time,
 % if there is one.
 global PTBNextPresentationTime;
