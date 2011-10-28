@@ -39,7 +39,13 @@ PTBVersionCheck(1,1,7,'at least');
 % PTBCleanupExperiment, to close the screen. 
 % If this doesn't work, type Screen('CloseAll'), and this
 % should close the display.
-PTBSetIsDebugging(1);
+is_debugging = 1;
+PTBSetIsDebugging(is_debugging);
+
+% This prevents erroring from a slow startup during debugging.
+if is_debugging
+    Screen('Preference', 'SkipSyncTests', 1);
+end
 
 % NOTE: For now, only one input option (the worst one) 
 % seems to work for the MEG right now and Mac combination.
