@@ -19,26 +19,39 @@ global PTBEyeTrackerInitialized;
 global PTBTheWindowPtr;
 global PTBEyeTrackerHandle;
 
-% See if we're connected
-if ~Eyelink('IsConnected')
-	
+% See if it's installed at all
+try
+    Eyelink;
+
+catch
 	% Show to the console
     disp('WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!');
-	disp('Eyelink not connected. No data will be collected!');
+	disp('Eyelink not installed. No data will be collected!');
     disp('WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!');
 
 	% And to the screen
 	PTBDisplayParagraph({'WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!',...
-		'Eyelink not connected. No data will be collected.','WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!'},{'center',30},{'any'})	
+		'Eyelink not installed. No data will be collected.','WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!'},{'center',30},{'any'})	
 	PTBDisplayBlank({.1},'Trigger warning');
 	PTBEyeTrackerInitialized = 0;
 	return;	
 end
 
-% Initialization of the connection with the Eyelink Gazetracker.
+% See if we're connected
 if EyelinkInit()~= 1; 
-    error('Eyetracker not initialized properly');
-end;
+	
+	% Show to the console
+    disp('WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!');
+	disp('Eyelink not detected. No data will be collected!');
+    disp('WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!');
+
+	% And to the screen
+	PTBDisplayParagraph({'WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!',...
+		'Eyelink not detected. No data will be collected.','WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!'},{'center',30},{'any'})	
+	PTBDisplayBlank({.1},'Trigger warning');
+	PTBEyeTrackerInitialized = 0;
+	return;	
+end
 
 % Provide Eyelink with details about the graphics environment
 % and perform some initializations. The information is returned

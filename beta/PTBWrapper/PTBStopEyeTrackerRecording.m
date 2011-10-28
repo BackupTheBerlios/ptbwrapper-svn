@@ -20,8 +20,17 @@ if ~PTBEyeTrackerInitialized
 	return;
 end
 
-% Stop
-% TODO: Do we need to check that we've started?
+% Check to see if we're overwriting
+if ~PTBEyeTrackerRecording
+	disp('WARNINGWARNINGWARNINGWARNINGWARNING');
+	disp('WARNING: Recording did not start before stop.');
+	disp('WARNINGWARNINGWARNINGWARNINGWARNING');
+
+	% And to the screen
+	PTBDisplayParagraph({'WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!',...
+		'WARNING: Recording did not start before stop.','WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!'},{'center',30},{'any'})	
+	PTBDisplayBlank({.1},'EDF warning');
+end
 Eyelink('Stoprecording');
 PTBEyeTrackerRecording = 0;
 
