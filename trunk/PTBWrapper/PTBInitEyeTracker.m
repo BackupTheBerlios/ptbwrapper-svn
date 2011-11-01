@@ -23,7 +23,7 @@ global PTBEyeTrackerHandle;
 try
     Eyelink;
 
-catch
+catch %#ok<CTCH>
 	% Show to the console
     disp('WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!');
 	disp('Eyelink not installed. No data will be collected!');
@@ -37,9 +37,9 @@ catch
 	return;	
 end
 
-% See if we're connected
-if EyelinkInit()~= 1; 
-	
+% See if we can initialize
+if Eyelink('Initialize','PsychEyelinkDispatchCallback')~= 0; 
+    
 	% Show to the console
     disp('WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!');
 	disp('Eyelink not detected. No data will be collected!');
