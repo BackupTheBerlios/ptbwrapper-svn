@@ -68,7 +68,7 @@
 % I.e.: Resolution, etc.
 function PTBSetupExperiment(title)
 
-error('The code has moved. Please go to http://code.google.com/p/ptbwrapper/ and download the installation file and reinstall.');
+error('The code has moved. Please go to http://code.google.com/p/ptbwrapper/, download the installation file, delete the current install, and reinstall.');
 
 % Versioning!
 global PTBWrapper
