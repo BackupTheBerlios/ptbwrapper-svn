@@ -26,6 +26,8 @@
 
 function PTBWrapperPostInstallRoutine(isUpdate, flavor)
 
+error('The code has moved. Please go to http://code.google.com/p/ptbwrapper/ and download the installation file and reinstal.');
+
 fprintf('\n\nRunning post-install routine...\n\n');
 
 if nargin < 1
